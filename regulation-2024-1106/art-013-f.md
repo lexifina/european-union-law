@@ -1,0 +1,4 @@
+# Article 13f
+Investigating officer
+1. In order to fulfil its obligations under Article 13(5) to (8), the Agency may, where it considers to be appropriate to ensure the effectiveness and efficiency of the investigation and taking into account its available internal resources, appoint a dedicated investigating officer within the Agency to lead the investigation.
+2. In order to carry out his or her tasks, the investigating officer may exercise the powers available to the Agency, including the powers set out in Articles 13a, 13b and 13c, while respecting the procedural safeguards set out in Article 13d. When carrying out his or her tasks, the investigating officer shall have access to all documents and information collected by the Agency in its supervisory activities that are relevant for carrying out the investigation.
