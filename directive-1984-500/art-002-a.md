@@ -1,0 +1,4 @@
+# Article 2a
+1. At the marketing stages up to and including the retail stage, ceramic articles which are not yet in contact with foodstuffs shall be accompanied by a written declaration in accordance with Article 16 of Regulation (EC) No 1935/2004 of the European Parliament and of the Council.
+That declaration shall be issued by the manufacturer or by a seller established within the Community and shall contain the information laid down in Annex III to this Directive.
+2. Appropriate documentation to demonstrate that the ceramic articles comply with the migration limits for lead and cadmium set out in Article 2 shall be made available by the manufacturer or the importer into the Community to the national competent authorities on request. That documentation shall contain the results of the analysis carried out, the test conditions and the name and the address of the laboratory that performed the testing.
