@@ -1,0 +1,2 @@
+# Article 9b
+The Commission shall facilitate dialogue and the exchange of technical know-how between Member States in relation to the implementation of this Directive and in particular Annex III. The Commission shall update and clarify Annexes 0, III and IV in the light of technical progress and Annexes I and II in the light of inflation, in accordance with the procedure referred to in Article 9c(3).
