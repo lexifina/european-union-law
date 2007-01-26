@@ -1,0 +1,3 @@
+# Article 126b
+In order to guarantee independence and transparency, the Member States shall ensure that members of staff of the competent authority responsible for granting authorisations, rapporteurs and experts concerned with the authorisation and surveillance of medicinal products have no financial or other interests in the pharmaceutical industry which could affect their impartiality. These persons shall make an annual declaration of their financial interests.
+In addition, the Member States shall ensure that the competent authority makes publicly accessible its rules of procedure and those of its committees, agendas for its meetings and records of its meetings, accompanied by decisions taken, details of votes and explanations of votes, including minority opinions.

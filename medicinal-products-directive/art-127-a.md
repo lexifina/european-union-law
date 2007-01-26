@@ -1,0 +1,2 @@
+# Article 127a
+When a medicinal product is to be authorised in accordance with Regulation (EC) No 726/2004 and the Scientific Committee in its opinion refers to recommended conditions or restrictions with regard to the safe and effective use of the medicinal product as provided for in Article 9(4)(c) of that Regulation, a decision addressed to the Member States shall be adopted in accordance with the procedure provided for in Articles 33 and 34 of this Directive, for the implementation of those conditions or restrictions.

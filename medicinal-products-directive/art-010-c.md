@@ -1,0 +1,2 @@
+# Article 10c
+Following the granting of a marketing authorisation, the authorisation holder may allow use to be made of the pharmaceutical, pre-clinical and clinical documentation contained in the file on the medicinal product, with a view to examining subsequent applications relating to other medicinal products possessing the same qualitative and quantitative composition in terms of active substances and the same pharmaceutical form.

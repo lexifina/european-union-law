@@ -1,0 +1,8 @@
+# Article 126a
+1. In the absence of a marketing authorisation or of a pending application for a medicinal product authorised in another Member State in accordance with this Directive, a Member State may for justified public health reasons authorise the placing on the market of the said medicinal product.
+2. When a Member State avails itself of this possibility, it shall adopt the necessary measures in order to ensure that the requirements of this Directive are complied with, in particular those referred to in Titles V, VI, VIII, IX and XI.
+3. Before granting such an authorisation a Member State shall:
+(a) notify the marketing authorisation holder, in the Member State in which the medicinal product concerned is authorised, of the proposal to grant an authorisation under this Article in respect of the product concerned; and
+(b) request the competent authority in that State to furnish a copy of the assessment report referred to in Article 21(4) and of the marketing authorisation in force in respect of the said medicinal product.
+4. The Commission shall set up a publicly accessible register of medicinal products authorised under paragraph 1. Member States shall notify the Commission if any medicinal product is authorised, or ceases to be authorised, under paragraph 1, including the name or corporate name and permanent address of the authorisation holder. The Commission shall amend the register of medicinal products accordingly and make this register available on their website.
+5. No later than 30 April 2008, the Commission shall present a report to the European Parliament and the Council concerning the application of this provision with a view to proposing any necessary amendments.

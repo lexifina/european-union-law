@@ -1,0 +1,3 @@
+# Article 88a
+Within three years of the entry into force of Directive 2004/726/EC, the Commission shall, following consultations with patients' and consumers' organisations, doctors' and pharmacists' organisations, Member States and other interested parties, present to the European Parliament and the Council a report on current practice with regard to information provision - particularly on the Internet - and its risks and benefits for patients.
+Following analysis of the above data, the Commission shall, if appropriate, put forward proposals setting out an information strategy to ensure good-quality, objective, reliable and non-promotional information on medicinal products and other treatments and shall address the question of the information source's liability.

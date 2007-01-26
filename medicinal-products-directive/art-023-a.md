@@ -1,0 +1,4 @@
+# Article 23a
+After a marketing authorisation has been granted, the holder of the authorisation shall inform the competent authority of the authorising Member State of the date of actual marketing of the medicinal product for human use in that Member State, taking into account the various presentations authorised.
+The holder shall also notify the competent authority if the product ceases to be placed on the market of the Member State, either temporarily or permanently. Such notification shall, otherwise than in exceptional circumstances, be made no less than 2 months before the interruption in the placing on the market of the product.
+Upon request by the competent authority, particularly in the context of pharmacovigilance, the marketing authorisation holder shall provide the competent authority with all data relating to the volume of sales of the medicinal product, and any data in his possession relating to the volume of prescriptions.

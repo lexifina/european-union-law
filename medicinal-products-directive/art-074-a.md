@@ -1,0 +1,2 @@
+# Article 74a
+Where a change of classification of a medicinal product has been authorised on the basis of significant pre-clinical tests or clinical trials, the competent authority shall not refer to the results of those tests or trials when examining an application by another applicant for or holder of marketing authorisation for a change of classification of the same substance for one year after the initial change was authorised.
