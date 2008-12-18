@@ -1,0 +1,2 @@
+# Article 14a
+Notwithstanding Articles 3 and 5a, and without prejudice to Article 2, farm animals for which it can be certified that they have been administered oestradiol 17β or its ester-like derivatives for therapeutic or zootechnical purposes prior to 14 October 2004 shall be subject to the same provisions as those laid down for the substances authorised in accordance with Article 4(1) as regards therapeutic use and Article 5 as regards zootechnical use.
