@@ -1,0 +1,4 @@
+# Article 20c
+Financial security and compensation
+1. The absence of an insurance certificate within the meaning of Article 6 of Directive 2009/20/EC of the European Parliament and of the Council of 23 April 2009 on the insurance of shipowners for maritime claims shall not exonerate a Member State from the preliminary assessment and decision referred to in Article 20b, and shall not in itself be considered sufficient reason for a Member State to refuse to accommodate a ship in a place of refuge.
+2. Without prejudice to paragraph 1, when accommodating a ship in a place of refuge, a Member State may request the ship's operator, agent or master to present a insurance certificate within the meaning of Article 6 of Directive 2009/20/EC. The act of requesting the certificate shall not lead to a delay in accommodating the ship.
