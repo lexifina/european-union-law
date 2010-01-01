@@ -1,0 +1,3 @@
+# Article 171a
+Member States may, instead of granting a refund of VAT pursuant to Directives 86/560/EEC or 2008/9/EC on those supplies of goods or services to a taxable person in respect of which the taxable person is liable to pay the tax in accordance with Articles 194 to 197 or Article 199, allow deduction of this tax pursuant to the procedure laid down in Article 168. The existing restrictions pursuant to Article 2(2) and Article 4(2) of Directive 86/560/EEC may be retained.
+To that end, Member States may exclude the taxable person who is liable to pay the tax from the refund procedure pursuant to Directives 86/560/EEC or 2008/9/EC.
