@@ -1,0 +1,4 @@
+# Article 168a
+1. In the case of immovable property forming part of the business assets of a taxable person and used both for purposes of the taxable person's business and for his private use or that of his staff, or, more generally, for purposes other than those of his business, VAT on expenditure related to this property shall be deductible in accordance with the principles set out in Articles 167, 168, 169 and 173 only up to the proportion of the property's use for purposes of the taxable person's business.
+By way of derogation from Article 26, changes in the proportion of use of immovable property referred to in the first subparagraph shall be taken into account in accordance with the principles provided for in Articles 184 to 192 as applied in the respective Member State.
+2. Member States may also apply paragraph 1 in relation to VAT on expenditure related to other goods forming part of the business assets as they specify.
