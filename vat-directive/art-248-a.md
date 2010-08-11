@@ -1,0 +1,2 @@
+# Article 248a
+For control purposes, and as regards invoices in respect of supplies of goods or services supplied in their territory and invoices received by taxable persons established in their territory, Member States may, for certain taxable persons or certain cases, require translation into their official languages. Member States may, however, not impose a general requirement that invoices be translated.
