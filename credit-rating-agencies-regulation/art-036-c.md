@@ -1,0 +1,4 @@
+# Article 36c
+Hearing of the persons subject to the proceedings
+1. Before taking any decision imposing a fine and/or periodic penalty payment under Article 36a or points (a) to (d) of Article 36b(1), ESMA's Board of Supervisors shall give the persons subject to the proceedings the opportunity to be heard on ESMA's findings. ESMA's Board of Supervisors shall base its decisions only on findings on which the persons subject to the proceedings have had the opportunity to comment.
+2. The rights of defence of the persons subject to the proceedings shall be fully respected during the proceedings. They shall be entitled to have access to ESMA's file, subject to the legitimate interest of other persons in the protection of their business secrets. The right of access to the file shall not extend to confidential information or internal preparatory documents of ESMA.
