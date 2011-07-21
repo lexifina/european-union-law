@@ -1,0 +1,2 @@
+# Article 85a
+In the case of wholesale distribution of medicinal products to third countries, Article 76 and point (c) of Article 80 shall not apply. Moreover, points (b) and (ca) of Article 80 shall not apply where a product is directly received from a third country but not imported. The requirements set out in Article 82 shall apply to the supply of medicinal products to persons in third countries authorised or entitled to supply medicinal products to the public.

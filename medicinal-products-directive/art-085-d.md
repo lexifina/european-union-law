@@ -1,0 +1,2 @@
+# Article 85d
+Without prejudice to the competences of the Member States, the Commission shall, in cooperation with the Agency and Member State authorities, conduct or promote information campaigns aimed at the general public on the dangers of falsified medicinal products. Those campaigns shall raise consumer awareness of the risks related to medicinal products supplied illegally at a distance to the public by means of information society services and of the functioning of the common logo, the Member States' websites and the Agency's website.

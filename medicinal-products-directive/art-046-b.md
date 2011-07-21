@@ -1,0 +1,11 @@
+# Article 46b
+1. Member States shall take appropriate measures to ensure that the manufacture, import and distribution on their territory of active substances, including active substances that are intended for export, comply with good manufacturing practice and good distribution practices for active substances.
+2. Active substances shall only be imported if the following conditions are fulfilled:
+(a) the active substances have been manufactured in accordance with standards of good manufacturing practice at least equivalent to those laid down by the Union pursuant to the third paragraph of Article 47; and
+(b) the active substances are accompanied by a written confirmation from the competent authority of the exporting third country of the following:
+(i) the standards of good manufacturing practice applicable to the plant manufacturing the exported active substance are at least equivalent to those laid down by the Union pursuant to the third paragraph of Article 47;
+(ii) the manufacturing plant concerned is subject to regular, strict and transparent controls and to the effective enforcement of good manufacturing practice, including repeated and unannounced inspections, so as to ensure a protection of public health at least equivalent to that in the Union; and
+(iii) in the event of findings relating to non-compliance, information on such findings is supplied by the exporting third country to the Union without any delay.
+This written confirmation shall be without prejudice to the obligations set out in Article 8 and in point (f) of Article 46.
+3. The requirement set out in point (b) of paragraph 2 of this Article shall not apply if the exporting country is included in the list referred to in Article 111b.
+4. Exceptionally and where necessary to ensure the availability of medicinal products, when a plant manufacturing an active substance for export has been inspected by a Member State and was found to comply with the principles and guidelines of good manufacturing practice laid down pursuant to the third paragraph of Article 47, the requirement set out in point (b) of paragraph 2 of this Article may be waived by any Member State for a period not exceeding the validity of the certificate of Good Manufacturing Practice. Member States that make use of the possibility of such waiver, shall communicate this to the Commission.
