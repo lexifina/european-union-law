@@ -1,0 +1,6 @@
+# Article 7c
+1. The external-cost charge may be related to the cost of traffic-based air pollution. On road sections crossing areas with a population exposed to road traffic-based noise pollution, the external-cost charge may include the cost of traffic-based noise pollution.
+The external-cost charge shall vary and be set in accordance with the minimum requirements and the methods as specified in Annex IIIa and shall respect the maximum values set out in Annex IIIb.
+2. The costs taken into account shall relate to the network or the part of the network on which external-cost charges are levied and to the vehicles that are subject thereto. Member States may choose to recover only a percentage of those costs.
+3. The external-cost charge related to traffic-based air pollution shall not apply to vehicles which comply with the most stringent EURO emission standards until four years after the dates of application laid down in the rules which introduced those standards.
+4. The amount of the external-cost charge shall be set by the Member State concerned. If a Member State designates an authority for this purpose, the authority shall be legally and financially independent from the organisation in charge of managing or collecting part or all of the charge.

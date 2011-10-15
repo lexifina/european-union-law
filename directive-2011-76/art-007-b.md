@@ -1,0 +1,3 @@
+# Article 7b
+1. The infrastructure charge shall be based on the principle of the recovery of infrastructure costs. The weighted average infrastructure charge shall be related to the construction costs and the costs of operating, maintaining and developing the infrastructure network concerned. The weighted average infrastructure charge may also include a return on capital and/or a profit margin based on market conditions.
+2. The costs taken into account shall relate to the network or the part of the network on which infrastructure charges are levied and to the vehicles that are subject thereto. Member States may choose to recover only a percentage of those costs.

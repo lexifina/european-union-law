@@ -1,0 +1,7 @@
+# Article 7i
+1. Member States shall not provide for discounts or reductions for any users in relation to the external-cost charge element of a toll.
+2. Member States may provide for discounts or reductions to the infrastructure charge on condition that:
+(a) the resulting charging structure is proportionate, made public and available to users on equal terms and does not lead to additional costs being passed on to other users in the form of higher tolls;
+(b) such discounts or reductions lead to actual savings in administrative costs; and
+(c) do not exceed 13 % of the infrastructure charge paid by equivalent vehicles not eligible for the discount or reduction.
+3. Subject to the conditions provided for in Article 7g(3)(b) and in Article 7g(4), toll rates may, in exceptional cases, namely for specific projects of high European interest identified in Annex III to Decision No 661/2010/EU, be subject to other forms of variation in order to secure the commercial viability of such projects where they are exposed to direct competition with other modes of vehicle transport. The resulting charging structure shall be linear, proportionate, made public, and available to all users on equal terms and shall not lead to additional costs being passed on to other users in the form of higher tolls. The Commission shall verify compliance with those conditions prior to the implementation of the charging structure in question.
