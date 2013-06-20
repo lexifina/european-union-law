@@ -1,0 +1,4 @@
+# Article 5a
+Over-reliance on credit ratings by financial institutions
+1. The entitites referred to in the first subparagraph of Article 4(1) shall make their own credit risk assessment and shall not solely or mechanistically rely on credit ratings for assessing the creditworthiness of an entity or financial instrument.
+2. Sectoral competent authorities in charge of supervising the entities referred to in the first subparagraph of Article 4(1) shall, taking into account the nature, scale and complexity of their activities, monitor the adequacy of their credit risk assessment processes, assess the use of contractual references to credit ratings and, where appropriate, encourage them to mitigate the impact of such references, with a view to reducing sole and mechanistic reliance on credit ratings, in line with specific sectoral legislation.

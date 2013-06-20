@@ -1,0 +1,3 @@
+# Article 5c
+Over-reliance on credit ratings in Union law
+Without prejudice to its right of initiative, the Commission shall continue to review whether references to credit ratings in Union law trigger or have the potential to trigger sole or mechanistic reliance on credit ratings by the competent authorities, the sectoral competent authorities, the entities referred to in the first subparagraph of Article 4(1) or other financial market participants with a view to deleting all references to credit ratings in Union law for regulatory purposes by 1 January 2020, provided that appropriate alternatives to credit risk assessment have been identified and implemented.

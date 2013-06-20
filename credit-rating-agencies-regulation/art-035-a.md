@@ -1,0 +1,14 @@
+# Article 35a
+Civil liability
+1. Where a credit rating agency has committed, intentionally or with gross negligence, any of the infringements listed in Annex III having an impact on a credit rating, an investor or issuer may claim damages from that credit rating agency for damage caused to it due to that infringement.
+An investor may claim damages under this Article where it establishes that it has reasonably relied, in accordance with Article 5a(1) or otherwise with due care, on a credit rating for a decision to invest into, hold onto or divest from a financial instrument covered by that credit rating.
+An issuer may claim damages under this Article where it establishes that it or its financial instruments are covered by that credit rating and the infringement was not caused by misleading and inaccurate information provided by the issuer to the credit rating agency, directly or through information publicly available.
+2. It shall be the responsibility of the investor or issuer to present accurate and detailed information indicating that the credit rating agency has committed an infringement of this Regulation, and that that infringement had an impact on the credit rating issued.
+What constitutes accurate and detailed information shall be assessed by the competent national court, taking into consideration that the investor or issuer may not have access to information which is purely within the sphere of the credit rating agency.
+3. The civil liability of credit rating agencies, as referred to in paragraph 1, shall only be limited in advance where that limitation is:
+(a) reasonable and proportionate; and
+(b) allowed by the applicable national law in accordance with paragraph 4.
+Any limitation that does not comply with the first subparagraph, or any exclusion of civil liability shall be deprived of any legal effect.
+4. Terms such as 'damage', 'intention', 'gross negligence', 'reasonably relied', 'due care', 'impact', 'reasonable' and 'proportionate' which are referred to in this Article but are not defined, shall be interpreted and applied in accordance with the applicable national law as determined by the relevant rules of private international law. Matters concerning the civil liability of a credit rating agency which are not covered by this Regulation shall be governed by the applicable national law as determined by the relevant rules of private international law. The court that is competent to decide on a claim for civil liability brought by an investor or issuer shall be determined by the relevant rules of private international law.
+5. This Article does not exclude further civil liability claims in accordance with national law.
+6. The right of redress set out in this Article shall not prevent ESMA from fully performing its powers as laid down in Article 36a.

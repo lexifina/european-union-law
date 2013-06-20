@@ -1,3 +1,3 @@
 # Article 39a
-Report by ESMA
-By 31 December 2011, ESMA shall assess the staffing and resources needs arising from the assumption of its powers and duties in accordance with this Regulation and submit a report to the European Parliament, the Council and the Commission.
+ESMA's staffing and resources
+By 21 June 2014, ESMA shall assess its staffing and resources needs arising from the assumption of its powers and duties under this Regulation and shall submit a report to the European Parliament, the Council and the Commission.
