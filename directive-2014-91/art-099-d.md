@@ -1,0 +1,10 @@
+# Article 99d
+1. Member States shall establish effective and reliable mechanisms to encourage the reporting of potential or actual infringements of national provisions transposing this Directive to competent authorities, including secure communication channels for reporting such infringements.
+2. The mechanisms referred to in paragraph 1 shall include at least:
+(a) specific procedures for the receipt of reports on infringements and their follow-up;
+(b) appropriate protection for employees of investment companies, management companies and depositaries, who report infringements committed within those entities, at least against retaliation, discrimination and other types of unfair treatment;
+(c) protection of personal data concerning both the person who reports the infringements and the natural person who is allegedly responsible for an infringement, in accordance with Directive 95/46/EC of the European Parliament and of the Council;
+(d) clear rules that ensure that confidentiality is guaranteed in all cases in relation to the person who reports an infringement, unless disclosure is required by national law in the context of further investigations or subsequent judicial proceedings.
+3. ESMA shall provide one or more secure communication channels for reporting infringements of the national provisions transposing this Directive. ESMA shall ensure that those communication channels comply with points (a) to (d) of paragraph 2.
+4. Member States shall ensure that the reporting by employees of investment companies, management companies and depositaries referred to in paragraphs 1 and 3 shall not be considered to be an infringement of any restriction on disclosure of information imposed by contract or by any law, regulation or administrative provision, and shall not subject the person reporting to liability of any kind relating to such reporting.
+5. Member States shall require management companies, investment companies and depositaries to have in place appropriate procedures for their employees to report infringements internally through a specific, independent and autonomous channel.
