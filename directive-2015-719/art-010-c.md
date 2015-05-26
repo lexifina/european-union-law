@@ -1,0 +1,2 @@
+# Article 10c
+The maximum lengths laid down in point 1.1 of Annex I, subject where applicable to Article 9a(1), and the maximum distance laid down in point 1.6 of Annex I, may be exceeded by 15 cm for vehicles or vehicle combinations engaged in the transport of 45-foot containers or 45-foot swap bodies, empty or loaded, provided that the road transport of the container or swap body in question is part of an intermodal transport operation.
