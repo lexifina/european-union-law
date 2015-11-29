@@ -1,0 +1,15 @@
+# Article 6d
+Implementation of fair use policy and of sustainability of the abolition of retail roaming surcharges
+1. By 15 December 2016, in order to ensure consistent application of Articles 6b and 6c, the Commission shall, after having consulted BEREC, adopt implementing acts laying down detailed rules on the application of fair use policy and on the methodology for assessing the sustainability of the abolition of retail roaming surcharges and on the application to be submitted by a roaming provider for the purposes of that assessment. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 6(2).
+2. As regards Article 6b, when adopting implementing acts laying down detailed rules on the application of fair use policy, the Commission shall take into account the following:
+(a) the evolution of pricing and consumption patterns in the Member States;
+(b) the degree of convergence of domestic price levels across the Union;
+(c) the travelling patterns in the Union;
+(d) any observable risks of distortion of competition and investment incentives in domestic and visited markets.
+3. As regards Article 6c, when adopting implementing acts laying down detailed rules on the methodology for assessing the sustainability of the abolition of retail roaming surcharges for a roaming provider, the Commission shall base them on the following:
+(a) the determination of the overall actual and projected costs of providing regulated retail roaming services by reference to the effective wholesale roaming charges for unbalanced traffic and a reasonable share of the joint and common costs necessary to provide regulated retail roaming services;
+(b) the determination of overall actual and projected revenues from the provision of regulated retail roaming services;
+(c) the consumption of regulated retail roaming services and the domestic consumption by the roaming provider's customers;
+(d) the level of competition, prices and revenues in the domestic market, and any observable risk that roaming at domestic retail prices would appreciably affect the evolution of such prices.
+4. The Commission shall periodically review the implementing acts adopted pursuant to paragraph 1 in the light of market developments.
+5. The national regulatory authority shall strictly monitor and supervise the application of the fair use policy and the measures on the sustainability of the abolition of retail roaming surcharges, taking utmost account of relevant objective factors specific to the Member State concerned and of relevant objective variations between roaming providers. Without prejudice to the procedure set out in Article 6c(3), the national regulatory authority shall in a timely manner enforce the requirements of Articles 6b and 6c and the implementing acts adopted pursuant to paragraph 1 of this Article. The national regulatory authority may at any time require the roaming provider to amend or discontinue the surcharge if it does not comply with Article 6b or 6c. The national regulatory authority shall inform the Commission annually concerning the application of Articles 6b and 6c, and of this Article.
