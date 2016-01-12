@@ -1,0 +1,6 @@
+# Article 2a
+Equivalence decisions for the purposes of the definition of OTC derivatives
+1. For the purposes of Article 2(7) of this Regulation, a third-country market shall be considered to be equivalent to a regulated market within the meaning of Article 4(1)(14) of Directive 2004/39/EC where it complies with legally binding requirements which are equivalent to the requirements laid down in Title III of that Directive and it is subject to effective supervision and enforcement in that third country on an ongoing basis, as determined by the Commission in accordance with the procedure referred to in paragraph 2 of this Article.
+2. The Commission may adopt implementing acts determining that a third-country market complies with legally binding requirements which are equivalent to the requirements laid down in Title III of Directive 2004/39/EC and it is subject to effective supervision and enforcement in that third country on an ongoing basis for the purposes of paragraph 1.
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 86(2) of this Regulation.
+3. The Commission and ESMA shall publish on their websites a list of those markets that are to be considered to be equivalent in accordance with the implementing act referred to in paragraph 2. That list shall be updated periodically.
