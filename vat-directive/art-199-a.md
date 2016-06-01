@@ -17,7 +17,7 @@
 (b) actions taken to inform the relevant taxable persons of the introduction of the application of the mechanism;
 (c) evaluation criteria to enable comparison between fraudulent activities in relation to the goods and services listed in paragraph 1 before and after the application of the mechanism, fraudulent activities in relation to other goods and services before and after the application of the mechanism, and any increase in other types of fraudulent activities before and after the application of the mechanism;
 (d) the date of commencement and the period to be covered by the measure applying the mechanism.
-3. Member States applying the mechanism provided for in paragraph 1 shall, on the basis of the evaluation criteria provided for under point (c) of paragraph 2, submit a report to the Commission no later than 30 June 2017.
+3. Member States applying the mechanism provided for in paragraph 1 shall, on the basis of the evaluation criteria provided for under point (c) of paragraph 2, submit a report to the Commission no later than 30 June 2017. The report shall clearly indicate the information to be treated as confidential and the information which may be published.
 The report shall provide a detailed assessment of the measure's overall effectiveness and efficiency, in particular as regards:
 (a) the impact on fraudulent activities in relation to supplies of goods or services covered by the measure;
 (b) the possible shift of fraudulent activities to goods or other services;
