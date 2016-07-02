@@ -1,0 +1,2 @@
+# Article 410b
+By 31 December 2022 at the latest, the Commission shall, on the basis of information obtained from the Member States, present to the European Parliament and to the Council an assessment report on the application of the provisions of this Directive as regards the VAT treatment of vouchers, with particular regard to the definition of vouchers, the VAT rules relating to taxation of vouchers in the distribution chain and to non-redeemed vouchers, accompanied where necessary by an appropriate proposal to amend the relevant rules.'.
