@@ -1,0 +1,8 @@
+# Article 270c
+Requirements to be met by the credit assessments of ECAIs
+For the purposes of calculating risk-weighted exposure amounts in accordance with Section 3, institutions shall only use a credit assessment of an ECAI where all of the following conditions are met:
+(a) there is no mismatch between the types of payments reflected in the credit assessment and the types of payments to which the institution is entitled under the contract giving rise to the securitisation position in question;
+(b) the ECAI publishes the credit assessments and information on loss and cash-flow analysis, sensitivity of ratings to changes in the underlying ratings assumptions, including the performance of underlying exposures, and on the procedures, methodologies, assumptions, and key elements underpinning the credit assessments in accordance with Regulation (EC) No 1060/2009. For the purposes of this point, information shall be considered as publicly available where it is published in accessible format. Information that is made available only to a limited number of entities shall not be considered as publicly available;
+(c) the credit assessments are included in the ECAI's transition matrix;
+(d) the credit assessments are not based or partly based on unfunded support provided by the institution itself. Where a position is based or partly based on unfunded support, the institution shall consider that position as if it were unrated for the purposes of calculating risk-weighted exposure amounts for this position in accordance with Section 3;
+(e) the ECAI has committed to publishing explanations on how the performance of underlying exposures affects the credit assessment.
