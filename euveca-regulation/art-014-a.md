@@ -1,0 +1,20 @@
+# Article 14a
+1. Managers of collective investment undertakings authorised under Article 6 of Directive 2011/61/EU shall apply for registration of the qualifying venture capital funds for which they intend to use the designation 'EuVECA'.
+2. The application for registration referred to in paragraph 1 shall be made to the competent authority of the qualifying venture capital fund and shall include the following:
+(a) the rules or instruments of incorporation of the qualifying venture capital fund;
+(b) information on the identity of the depositary;
+(c) the information referred to in Article 14(1);
+(d) a list of Member States in which the managers referred to in paragraph 1 have established, or intend to establish, qualifying venture capital funds.
+For the purposes of point (c) of the first subparagraph, the information on the arrangements made for complying with the requirements of Chapter II shall refer to the arrangements made for complying with Articles 5 and 6 and points (c) and (i) of Article 13(1).
+3. Where the competent authority of a qualifying venture capital fund and the competent authority of the home Member State are different, the competent authority of the qualifying venture capital fund shall ask the competent authority of the home Member State whether the qualifying venture capital fund falls within the scope of the manager's authorisation to manage AIFs and whether the conditions laid down in point (a) of Article 14(2) are fulfilled.
+The competent authority of the qualifying venture capital fund may also ask the competent authority of the home Member State for clarification and information as regards the documentation referred to in paragraph 2.
+The competent authority of the home Member State shall provide an answer within one month of the date of receipt of the request submitted by the competent authority of the qualifying venture capital fund.
+4. Managers as referred to in paragraph 1 shall not be required to provide information or documents which they have already provided under Directive 2011/61/EU.
+5. Having assessed the documentation received in accordance with paragraph 2 and having received any clarification and information referred to in paragraph 3, the competent authority of the qualifying venture capital fund shall register a fund as a qualifying venture capital fund if the manager of that fund meets the conditions laid down in Article 14(2).
+6. The competent authority of a qualifying venture capital fund shall inform the manager as referred to in paragraph 1 whether that fund has been registered as a qualifying venture capital fund no later than two months after that manager has provided all the documentation referred to in paragraph 2.
+7. Registration under this Article shall be valid in the entire territory of the Union and shall allow the marketing of those funds throughout the Union under the designation 'EuVECA'.
+8. In order to ensure the uniform application of this Article, ESMA may develop draft regulatory technical standards to further specify the information to be provided to the competent authorities in accordance with paragraph 2.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+9. In order to ensure the uniform application of this Article, ESMA may develop draft implementing technical standards on standard forms, templates and procedures for the provision of information to the competent authorities in accordance with paragraph 2.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+10. ESMA shall organise and conduct peer reviews in accordance with Article 30 of Regulation (EU) No 1095/2010 in order to strengthen the consistency of the registration processes carried out by competent authorities pursuant to this Regulation.
