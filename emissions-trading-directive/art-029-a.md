@@ -6,4 +6,4 @@ Measures in the event of excessive price fluctuations
 (b) a measure which allows Member States to auction up to 25 % of the remaining allowances in the new entrants reserve.
 Those measures shall be adopted in accordance with the management procedure referred to in Article 23(4).
 3. Any measure shall take utmost account of the reports submitted by the Commission to the European Parliament and to the Council pursuant to Article 29, as well as any other relevant information provided by Member States.
-4. The arrangements for the application of these provisions shall be laid down in the regulation referred to in Article 10(4).
+4. The arrangements for the application of these provisions shall be laid down in the acts referred to in Article 10(4).

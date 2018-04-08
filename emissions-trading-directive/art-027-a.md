@@ -1,0 +1,9 @@
+# Article 27a
+Optional exclusion of installations emitting less than 2 500 tonnes
+1. Member States may exclude from the EU ETS installations that have reported to the competent authority of the Member State concerned emissions of less than 2 500 tonnes of carbon dioxide equivalent, disregarding emissions from biomass, in each of the three years preceding the notification under point (a), provided that the Member State concerned:
+(a) notifies the Commission of each such installation before the list of installations pursuant to Article 11(1) is to be submitted or at the latest when that list is submitted to the Commission;
+(b) confirms that simplified monitoring arrangements are in place to assess whether any installation emits 2 500 tonnes or more of carbon dioxide equivalent, disregarding emissions from biomass, in any one calendar year;
+(c) confirms that if any installation emits 2 500 tonnes or more of carbon dioxide equivalent, disregarding emissions from biomass, in any one calendar year, the installation will be reintroduced into the EU ETS; and
+(d) makes the information referred to in points (a), (b) and (c) available to the public.
+2. When an installation is reintroduced into the EU ETS pursuant to point (c) of paragraph 1 of this Article, any allowances allocated pursuant to Article 10a shall be granted starting from the year of the reintroduction. Allowances allocated to such an installation shall be deducted from the quantity to be auctioned pursuant to Article 10(2) by the Member State in which the installation is situated.
+3. Member States may also exclude from the EU ETS reserve or backup units which did not operate more than 300 hours per year in each of the three years preceding the notification under point (a) of paragraph 1, under the same conditions as set out in paragraphs 1 and 2.

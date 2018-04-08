@@ -7,5 +7,5 @@ Administering Member State
 3. Based on the best available information, the Commission shall:
 (a) before 1 February 2009, publish a list of aircraft operators which performed an aviation activity listed in Annex I on or after 1 January 2006 specifying the administering Member State for each aircraft operator in accordance with paragraph 1; and
 (b) before 1 February of each subsequent year, update the list to include aircraft operators which have subsequently performed an aviation activity listed in Annex I.
-4. The Commission may, in accordance with the regulatory procedure referred to in Article 23(2), develop guidelines relating to the administration of aircraft operators under this Directive by administering Member States.
-5. For the purposes of paragraph 1, 'base year' means, in relation to an aircraft operator which started operating in the Community after 1 January 2006, the first calendar year of operation, and in all other cases, the calendar year starting on 1 January 2006.
+4. The Commission may, in accordance with the examination procedure referred to in Article 22a(2), develop guidelines relating to the administration of aircraft operators under this Directive by administering Member States.
+5. For the purposes of paragraph 1, 'base year' means, in relation to an aircraft operator which started operating in the Union after 1 January 2006, the first calendar year of operation, and in all other cases, the calendar year starting on 1 January 2006.

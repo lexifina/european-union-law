@@ -1,7 +1,7 @@
 # Article 3c
 Total quantity of allowances for aviation
 1. For the period from 1 January 2012 to 31 December 2012, the total quantity of allowances to be allocated to aircraft operators shall be equivalent to 97 % of the historical aviation emissions.
-2. For the period referred to in Article 13(1) beginning on 1 January 2013, and, in the absence of any amendments following the review referred to in Article 30(4), for each subsequent period, the total quantity of allowances to be allocated to aircraft operators shall be equivalent to 95 % of the historical aviation emissions multiplied by the number of years in the period.
+2. For the period referred to in Article 13 beginning on 1 January 2013, and, in the absence of any amendments following the review referred to in Article 30(4), for each subsequent period, the total quantity of allowances to be allocated to aircraft operators shall be equivalent to 95 % of the historical aviation emissions multiplied by the number of years in the period.
 This percentage may be reviewed as part of the general review of this Directive.
 3. The Commission shall review the total quantity of allowances to be allocated to aircraft operators in accordance with Article 30(4).
 3a. Any allocation of allowances for aviation activities to and from aerodromes located in countries outside the European Economic Area ('EEA') after 31 December 2023 shall be subject to the review referred to in Article 28b.
