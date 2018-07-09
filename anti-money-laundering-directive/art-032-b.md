@@ -1,0 +1,3 @@
+# Article 32b
+1. Member States shall provide FIUs and competent authorities with access to information which allows the identification in a timely manner of any natural or legal persons owning real estate, including through registers or electronic data retrieval systems where such registers or systems are available.
+2. By 31 December 2020, the Commission shall submit a report to the European Parliament and to the Council assessing the necessity and proportionality of harmonising the information included in the registers and assessing the need for the interconnection of those registers. Where appropriate, that report shall be accompanied by a legislative proposal.
