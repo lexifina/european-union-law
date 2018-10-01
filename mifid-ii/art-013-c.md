@@ -1,7 +1,0 @@
-# Article 13c
-Conflicts of interests
-1. Member States shall require insurance intermediaries and insurance undertakings to take all appropriate steps to identify conflicts of interest between themselves, including their managers, employees and tied insurance intermediaries, or any person directly or indirectly linked to them by control and their customers or between one customer and another that arise in the course of carrying out any insurance distribution activities.
-2. Where organisational or administrative arrangements made by the insurance intermediary or insurance undertaking in accordance with Article 13b to manage conflicts of interest are not sufficient to ensure, with reasonable confidence, that risks of damage to customer interests will be prevented, the insurance intermediary or insurance undertaking shall clearly disclose to the customer the general nature and/or sources of conflicts of interest before undertaking business on its behalf.
-3. The Commission shall be empowered to adopt delegated acts in accordance with Article 13e to:
-(a) define the steps that insurance intermediaries or insurance undertakings might reasonably be expected to take to identify, prevent, manage and disclose conflicts of interest when carrying out insurance distribution activities;
-(b) establish appropriate criteria for determining the types of conflict of interest whose existence may damage the interests of the customers or potential customers of the insurance intermediary or insurance undertaking.
