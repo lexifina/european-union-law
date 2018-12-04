@@ -1,5 +1,5 @@
 # Article 199a
-1. Member States may, until 31 December 2018 and for a minimum period of two years, provide that the person liable for payment of VAT is the taxable person to whom any of the following supplies are made:
+1. Until 30 June 2022, Member States may provide that the person liable for the payment of VAT is the taxable person to whom any of the following supplies are made:
 (a) the transfer of allowances to emit greenhouse gases as defined in Article 3 of Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community, transferable in accordance with Article 12 of that Directive;
 (b) the transfer of other units that may be used by operators for compliance with the same Directive;
 (c) supplies of mobile telephones, being devices made or adapted for use in connection with a licensed network and operated on specified frequencies, whether or not they have any other use;
