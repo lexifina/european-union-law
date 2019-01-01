@@ -1,0 +1,2 @@
+# Article 73a
+Without prejudice to Article 73, the taxable amount of the supply of goods or services provided in respect of a multi-purpose voucher shall be equal to the consideration paid for the voucher or, in the absence of information on that consideration, the monetary value indicated on the multi-purpose voucher itself or in the related documentation, less the amount of VAT relating to the goods or services supplied.
