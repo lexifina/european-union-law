@@ -1,0 +1,15 @@
+# Article 4a
+Financial counterparties that are subject to the clearing obligation
+1. Every 12 months, a financial counterparty taking positions in OTC derivative contracts may calculate its aggregate month-end average position for the previous 12 months in accordance with paragraph 3.
+Where a financial counterparty does not calculate its positions, or where the result of that calculation exceeds any of the clearing thresholds specified pursuant to point (b) of Article 10(4), the financial counterparty shall:
+(a) immediately notify ESMA and the relevant competent authority thereof, and, where relevant, indicate the period used for the calculation;
+(b) establish clearing arrangements within four months after the notification referred to in point (a) of this subparagraph; and
+(c) become subject to the clearing obligation referred to in Article 4 for all OTC derivative contracts pertaining to any class of OTC derivatives which is subject to the clearing obligation entered into or novated more than four months following the notification referred to in point (a) of this subparagraph.
+2. A financial counterparty that is subject to the clearing obligation referred to in Article 4 on 17 June 2019 or that becomes subject to the clearing obligation in accordance with the second subparagraph of paragraph 1, shall remain subject to that obligation and shall continue clearing until that financial counterparty demonstrates to the relevant competent authority that its aggregate month-end average position for the previous 12 months does not exceed the clearing threshold specified pursuant to point (b) of Article 10(4).
+The financial counterparty shall be able to demonstrate to the relevant competent authority that the calculation of the aggregate month-end average position for the previous 12 months does not lead to a systematic underestimation of that position.
+3. In calculating the positions referred to in paragraph 1, the financial counterparty shall include all OTC derivative contracts entered into by that financial counterparty or entered into by other entities within the group to which that financial counterparty belongs.
+Notwithstanding the first subparagraph, for UCITS and AIFs, the positions referred to in paragraph 1 shall be calculated at the level of the fund.
+UCITS management companies which manage more than one UCITSs and AIFMs which manage more than one AIF shall be able to demonstrate to the relevant competent authority that the calculation of positions at the fund level does not lead to:
+(a) a systematic underestimation of the positions of any of the funds they manage or the positions of the manager; and
+(b) a circumvention of the clearing obligation.
+The relevant competent authorities of the financial counterparty and of the other entities within the group shall establish cooperation procedures to ensure the effective calculation of the positions at the group level.
