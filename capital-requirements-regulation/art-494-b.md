@@ -1,0 +1,5 @@
+# Article 494b
+Grandfathering of own funds instruments and eligible liabilities instruments
+1. By way of derogation from Articles 51 and 52, instruments issued prior to 27 June 2019 shall qualify as Additional Tier 1 instruments at the latest until 28 June 2025, where they meet the conditions set out in Articles 51 and 52, except for the conditions referred to in points (p), (q) and (r) of Article 52(1).
+2. By way of derogation from Articles 62 and 63, instruments issued prior to 27 June 2019 shall qualify as Tier 2 instruments at the latest until 28 June 2025, where they meet the conditions set out in Articles 62 and 63, except for the conditions referred to in points (n), (o) and (p) of Article 63.
+3. By way of derogation from point (a) of Article 72a(1), liabilities issued prior to 27 June 2019 shall qualify as eligible liabilities items where they meet the conditions set out in Article 72b, except for the conditions referred to in point (b)(ii) and points (f) to (m) of Article 72b(2).

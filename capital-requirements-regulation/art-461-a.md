@@ -1,0 +1,4 @@
+# Article 461a
+Alternative standardised approach for market risk
+For the purposes of the reporting requirements set out in Article 430b(1), the Commission is empowered to adopt delegated acts in accordance with Article 462, to amend this Regulation by making technical adjustments to Articles 325e, 325g to 325j, 325p, 325q, 325ae, 325ak, 325am, 325ap to 325at, 325av, 325ax, and specify the risk weight of bucket 11 of Table 4 in Article 325ah and the risk weights of covered bonds issued by credit institutions in third countries in accordance with Article 325ah, and the correlation of covered bonds issued by credit institutions in third countries in accordance with Article 325aj of the alternative standardised approach set out in Chapter 1a of Title IV of Part Three, taking into account developments in international regulatory standards.
+The Commission shall adopt the delegated act referred to in paragraph 1 by 31 December 2019.

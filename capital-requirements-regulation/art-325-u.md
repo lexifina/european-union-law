@@ -1,0 +1,19 @@
+# Article 325u
+Own funds requirements for residual risks
+1. In addition to the own funds requirements for market risk set out in Section 2, institutions shall apply additional own funds requirements to instruments exposed to residual risks in accordance with this Article.
+2. Instruments are considered to be exposed to residual risks where they meet any of the following conditions:
+(a) the instrument references an exotic underlying, which, for the purposes of this Chapter, means a trading book instrument referencing an underlying exposure that is not in the scope of the delta, vega or curvature risk treatments under the sensitivities-based method laid down in Section 2 or the own funds requirements for the default risk set out in Section 5;
+(b) the instrument is an instrument bearing other residual risks, which, for the purposes of this Chapter, means any of the following instruments:
+(i) instruments that are subject to the own funds requirements for vega and curvature risk under the sensitivities-based method set out in Section 2 and that generate pay-offs that cannot be replicated as a finite linear combination of plain-vanilla options with a single underlying equity price, commodity price, exchange rate, bond price, credit default swap price or interest rate swap;
+(ii) instruments that are positions that are included in the ACTP referred to in Article 325(6); hedges that are included in that ACTP, as referred to in Article 325(8), shall not be considered.
+3. Institutions shall calculate the additional own funds requirements referred to in paragraph 1 as the sum of gross notional amounts of the instruments referred to in paragraph 2, multiplied by the following risk weights:
+(a) 1,0 % in the case of instruments referred to in point (a) of paragraph 2;
+(b) 0,1 % in the case of instruments referred to in point (b) of paragraph 2.
+4. By way of derogation from paragraph 1, institution shall not apply the own funds requirement for residual risks to an instrument that meets any of the following conditions:
+(a) the instrument is listed on a recognised exchange;
+(b) the instrument is eligible for central clearing in accordance with Regulation (EU) No 648/2012;
+(c) the instrument perfectly offsets the market risk of another position in the trading book, in which case the two perfectly matching trading book positions shall be exempted from the own funds requirement for residual risks.
+5. EBA shall develop draft regulatory technical standards to specify what an exotic underlying is and which instruments are instruments bearing residual risks for the purposes of paragraph 2.
+When developing those draft regulatory technical standards, EBA shall examine whether longevity risk, weather, natural disasters and future realised volatility should be considered as exotic underlyings.
+EBA shall submit those draft regulatory technical standards to the Commission by 28 June 2021.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

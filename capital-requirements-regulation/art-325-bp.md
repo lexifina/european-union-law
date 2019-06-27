@@ -1,0 +1,29 @@
+# Article 325bp
+Particular requirements for an internal default risk model
+1. The internal default risk model referred to in Article 325bm(1) shall be capable of modelling the default of individual issuers as well as the simultaneous default of multiple issuers, and shall take into account the impact of those defaults in the market values of the positions that are included in the scope of that model. For that purpose, the default of each individual issuer shall be modelled using two types of systematic risk factors.
+2. The internal default risk model shall reflect the economic cycle, including the dependency between recovery rates and the systematic risk factors referred to in paragraph 1.
+3. The internal default risk model shall reflect the nonlinear impact of options and other positions with material nonlinear behaviour with respect to price changes. Institutions shall also have due regard to the amount of model risk inherent in the valuation and estimation of price risks associated with those products.
+4. The internal default risk model shall be based on data that are objective and up-to-date.
+5. To simulate the default of issuers in the internal default risk model, the institution's estimates of default probabilities shall meet the following requirements:
+(a) the default probabilities shall be floored at 0,03 %;
+(b) the default probabilities shall be based on a one-year time horizon, unless stated otherwise in this Section;
+(c) the default probabilities shall be measured using, solely or in combination with current market prices, data observed during a historical period of at least five years of actual past defaults and extreme declines in market prices equivalent to default events; default probabilities shall not be inferred solely from current market prices;
+(d) an institution that has been granted permission to estimate default probabilities in accordance with Section 1 of Chapter 3 of Title II shall use the methodology set out therein to calculate default probabilities;
+(e) an institution that has not been granted permission to estimate default probabilities in accordance with Section 1 of Chapter 3 of Title II shall develop an internal methodology or use external sources to estimate default probabilities; in both situations, the estimates of default probabilities shall be consistent with the requirements set out in this Article.
+6. To simulate the default of issuers in the internal default risk model, the institution's estimates of loss given default shall meet the following requirements:
+(a) the loss given default estimates are floored at 0 %;
+(b) the loss given default estimates shall reflect the seniority of each position;
+(c) an institution that has been granted permission to estimate loss given default in accordance with Section 1 of Chapter 3 of Title II shall use the methodology set out therein to calculate loss given default estimates;
+(d) an institution that has not been granted permission to estimate loss given default in accordance with Section 1 of Chapter 3 of Title II shall develop an internal methodology or use external sources to estimate loss given default; in both situations, the estimates of loss given default shall be consistent with the requirements set out in this Article.
+7. As part of the independent review and validation of the internal models that they use for the purposes of this Chapter, including for the risk-measurement system, institutions shall:
+(a) verify that their approach for the modelling of correlations and price changes is appropriate for their portfolio, including the choice and weights of the systematic risk factors in the model;
+(b) perform a variety of stress tests, including sensitivity analyses and scenario analyses, to assess the qualitative and quantitative reasonableness of the internal default risk model, in particular with regard to the treatment of concentrations; and
+(c) apply appropriate quantitative validation including relevant internal modelling benchmarks.
+The tests referred to in point (b) shall not be limited to the range of past events experienced.
+8. The internal default risk model shall appropriately reflect issuer concentrations and concentrations that can arise within and across product classes under stressed conditions.
+9. The internal default risk model shall be consistent with the institution's internal risk management methodologies for identifying, measuring, and managing trading risks.
+10. Institutions shall have clearly defined policies and procedures for determining the default assumptions for correlations between different issuers in accordance with point (c) of Article 325bn(1) and the preferred choice of method for estimating the default probabilities in point (e) of paragraph 5 of this Article and the loss given default in point (d) of paragraph 6 of this Article.
+11. Institutions shall document their internal models so that their correlation assumptions and other modelling assumptions are transparent to the competent authorities.
+12. EBA shall develop draft regulatory technical standards to specify the requirements that an institution's internal methodology or external sources are to fulfil for estimating default probabilities and losses given default in accordance with point (e) of paragraph 5 and point (d) of paragraph 6.
+EBA shall submit those draft regulatory technical standards to the Commission by 28 September 2020.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

@@ -1,0 +1,4 @@
+# Article 325bl
+Scope of the internal default risk model
+1. All the positions of an institution that have been assigned to the trading desks for which the institution has been granted permission as referred to in Article 325az(2) shall be subject to an own funds requirement for default risk where those positions contain at least one risk factor that has been mapped to the broad categories of 'equity' or 'credit spread' risk factors in accordance with Article 325bd(1). That own funds requirement, which is incremental to the risks captured by the own funds requirements referred to in Article 325ba(1), shall be calculated using the institution's internal default risk model. That model which shall comply with the requirements laid down in this Section.
+2. For each of the positions referred to in paragraph 1, an institution shall identify one issuer of traded debt or equity instruments related to at least one risk factor.

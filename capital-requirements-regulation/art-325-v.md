@@ -1,0 +1,10 @@
+# Article 325v
+Definitions and general provisions
+1. For the purposes of this Section, the following definitions apply:
+(a) 'short exposure' means that the default of an issuer or group of issuers leads to a gain for the institution, regardless of the type of instrument or transaction creating the exposure;
+(b) 'long exposure' means that the default of an issuer or group of issuers leads to a loss for the institution, regardless of the type of instrument or transaction creating the exposure;
+(c) 'gross jump-to-default (gross JTD) amount' means the estimated size of the loss or gain that the default of the obligor would produce for a specific exposure;
+(d) 'net jump-to-default (net JTD) amount' means the estimated size of the loss or gain that an institution would incur due to the default of an obligor, after offsetting between gross JTD amounts has taken place,
+(e) 'loss given default' or 'LGD' means the loss given default of the obligor on an instrument issued by that obligor expressed as a share of the notional amount of the instrument;
+(f) 'default risk weight' means the percentage representing the estimated probability of the default of each obligor, according to the creditworthiness of that obligor.
+2. Own funds requirements for the default risk shall apply to debt and equity instruments, to derivative instruments having those instruments as underlyings and to derivatives, the pay-offs or fair values of which are affected by the default of an obligor other than the counterparty to the derivative instrument itself. Institutions shall calculate default risk requirements separately for each of the following types of instruments: non-securitisations, securitisations that are not included in the ACTP, and securitisations that are included in the ACTP. The final own funds requirements for the default risk to be applied by institutions shall be the sum of those three components.

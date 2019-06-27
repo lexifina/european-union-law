@@ -1,0 +1,12 @@
+# Article 104b
+Requirements for trading desk
+1. For the purposes of the reporting requirements set out in Article 430b(3), institutions shall establish trading desks and shall assign each of their trading book positions to one of those trading desks. Trading book positions shall be attributed to the same trading desk only where they satisfy the agreed business strategy for the trading desk and are consistently managed and monitored in accordance with paragraph 2 of this Article.
+2. Institutions' trading desks shall at all times meet all the following requirements:
+(a) each trading desk shall have a clear and distinctive business strategy and a risk management structure that is adequate for its business strategy;
+(b) each trading desk shall have a clear organisational structure; positions in a given trading desk shall be managed by designated dealers within the institution; each dealer shall have dedicated functions in the trading desk; each dealer shall be assigned to one trading desk only;
+(c) position limits shall be set within each trading desk according to the business strategy of that trading desk;
+(d) reports on the activities, profitability, risk management and regulatory requirements at the trading desk level shall be produced at least on a weekly basis and communicated to the management body on a regular basis;
+(e) each trading desk shall have a clear annual business plan including a well-defined remuneration policy on the basis of sound criteria used for performance measurement;
+(f) reports on maturing positions, intra-day trading limit breaches, daily trading limit breaches and actions taken by the institution to address those breaches, as well as assessments of market liquidity, shall be prepared for each trading desk on a monthly basis and made available to the competent authorities.
+3. By way of derogation from point (b) of paragraph 2, an institution may assign a dealer to more than one trading desk, provided that the institution demonstrates to the satisfaction of its competent authority that the assignment has been made due to business or resource considerations and the assignment preserves the other qualitative requirements set out in this Article applicable to dealers and trading desks.
+4. Institutions shall notify the competent authorities of the manner in which they comply with paragraph 2. Competent authorities may require an institution to change the structure or organisation of its trading desks to comply with this Article.

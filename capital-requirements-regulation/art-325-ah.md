@@ -1,0 +1,61 @@
+# Article 325ah
+Risk weights for credit spread risk for non-securitisations
+1. Risk weights for the sensitivities to credit spread risk factors for non-securitisations shall be the same for all maturities (0,5 years, 1 year, 3 years, 5 years, 10 years) within each bucket in Table 4:
+Table 4
+Bucket number
+Credit quality
+Sector
+1
+All
+Central government, including central banks, of a Member State
+0,50 %
+2
+Credit quality step 1 to 3
+Central government, including central banks, of a third country, multilateral development banks and international organisations referred to in Article 117(2) or Article 118
+0,5 %
+3
+Regional or local authority and public sector entities
+1,0 %
+4
+Financial sector entities including credit institutions incorporated or established by a central government, a regional government or a local authority and promotional lenders
+5,0 %
+5
+Basic materials, energy, industrials, agriculture, manufacturing, mining and quarrying
+3,0 %
+6
+Consumer goods and services, transportation and storage, administrative and support service activities
+3,0 %
+7
+Technology, telecommunications
+2,0 %
+8
+Health care, utilities, professional and technical activities
+1,5 %
+9
+Covered bonds issued by credit institutions in Member States
+1,0 %
+11
+Credit quality step 4 to 6
+Central government, including central banks, of a third country, multilateral development banks and international organisations referred to in Article 117(2) or Article 118
+12
+Regional or local authority and public sector entities
+4,0 %
+13
+Financial sector entities including credit institutions incorporated or established by a central government, a regional government or a local authority and promotional lenders
+12,0 %
+14
+Basic materials, energy, industrials, agriculture, manufacturing, mining and quarrying
+7,0 %
+15
+Consumer goods and services, transportation and storage, administrative and support service activities
+8,5 %
+16
+Technology, telecommunications
+5,5 %
+17
+Health care, utilities, professional and technical activities
+5,0 %
+18
+Other sector
+12,0 %
+2. To assign a risk exposure to a sector, institutions shall rely on a classification that is commonly used in the market for grouping issuers by sector. Institutions shall assign each issuer to only one of the sector buckets in Table 4. Risk exposures from any issuer that an institution cannot assign to a sector in such a manner shall be assigned to bucket 18 in Table 4.

@@ -1,0 +1,8 @@
+# Article 325o
+Equity risk factors
+1. The buckets for all equity risk factors shall be the sector buckets referred to in Section 6.
+2. The equity delta risk factors to be applied by institutions shall be all the equity spot prices and all equity repo rates.
+For the purposes of equity risk, a specific equity repo curve shall constitute a single risk factor, which is expressed as a vector of repo rates for different maturities. For each instrument, the vector shall contain as many components as there are different maturities of repo rates that are used as variables by the institution's pricing model for that instrument.
+Institutions shall calculate the sensitivity of an instrument to an equity risk factor as the change in the value of the instrument, according to its pricing model, as a result of a 1 basis point shift in each of the components of the vector. Institutions shall offset sensitivities to the repo rate risk factor of the same equity security, regardless of the number of components of each vector.
+3. The equity vega risk factors to be applied by institutions to options with underlyings that are sensitive to equity shall be the implied volatilities of equity spot prices which shall be mapped to the following maturities in accordance with the maturities of the corresponding options subject to own funds requirements: 0,5 years, 1 year, 3 years, 5 years, 10 years. There shall be no own funds requirements for vega risk for equity repo rates.
+4. The equity curvature risk factors to be applied by institutions to options with underlyings that are sensitive to equity are all the equity spot prices, regardless of the maturity of the corresponding options. There shall be no curvature risk own funds requirements for equity repo rates.

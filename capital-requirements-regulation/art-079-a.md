@@ -1,0 +1,3 @@
+# Article 79a
+Assessment of compliance with the conditions for own funds and eligible liabilities instruments
+Institutions shall have regard to the substantial features of instruments and not only their legal form when assessing compliance with the requirements laid down in Part Two. The assessment of the substantial features of an instrument shall take into account all arrangements related to the instruments, even where those are not explicitly set out in the terms and conditions of the instruments themselves, for the purpose of determining that the combined economic effects of such arrangements are compliant with the objective of the relevant provisions.

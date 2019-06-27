@@ -1,0 +1,10 @@
+# Article 92a
+Requirements for own funds and eligible liabilities for G-SIIs
+1. Subject to Articles 93 and 94 and to the exceptions set out in paragraph 2 of this Article, institutions identified as resolution entities and that are a G-SII or part of a G-SII shall at all times satisfy the following requirements for own funds and eligible liabilities:
+(a) a risk-based ratio of 18 %, representing the own funds and eligible liabilities of the institution expressed as a percentage of the total risk exposure amount calculated in accordance with Article 92(3) and (4);
+(b) a non-risk-based ratio of 6,75 %, representing the own funds and eligible liabilities of the institution expressed as a percentage of the total exposure measure referred to in Article 429(4).
+2. The requirements laid down in paragraph 1 shall not apply in the following cases:
+(a) within the three years following the date on which the institution or the group of which the institution is part has been identified as a G-SII;
+(b) within the two years following the date on which the resolution authority has applied the bail-in tool in accordance with Directive 2014/59/EU;
+(c) within the two years following the date on which the resolution entity has put in place an alternative private sector measure referred to in point (b) of Article 32(1) of Directive 2014/59/EU by which capital instruments and other liabilities have been written down or converted into Common Equity Tier 1 items in order to recapitalise the resolution entity without the application of resolution tools.
+3. Where the aggregate resulting from the application of the requirement laid down in point (a) of paragraph 1 of this Article to each resolution entity of the same G SII exceeds the requirement for own funds and eligible liabilities calculated in accordance with Article 12a of this Regulation, the resolution authority of the EU parent institution may, after having consulted the other relevant resolution authorities, act in accordance with Article 45d(4) or 45h(1) of Directive 2014/59/EU.

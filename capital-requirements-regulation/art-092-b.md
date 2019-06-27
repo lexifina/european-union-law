@@ -1,0 +1,7 @@
+# Article 92b
+Requirement for own funds and eligible liabilities for non-EU G-SIIs
+1. Institutions that are material subsidiaries of non-EU G-SIIs and that are not resolution entities shall at all times satisfy requirements for own funds and eligible liabilities equal to 90 % of the requirements for own funds and eligible liabilities laid down in Article 92a.
+2. For the purpose of complying with paragraph 1, Additional Tier 1, Tier 2 and eligible liabilities instruments shall only be taken into account where those instruments are owned by the ultimate parent undertaking of the non-EU G-SII and have been issued directly or indirectly through other entities within the same group, provided that all such entities are established in the same third country as that ultimate parent undertaking or in a Member State.
+3. An eligible liabilities instrument shall only be taken into account for the purpose of complying with paragraph 1 where it fulfils all the following additional conditions:
+(a) in the event of normal insolvency proceedings as defined in point (47) of Article 2(1) of Directive 2014/59/EU, the claim resulting from the liability ranks below claims resulting from liabilities that do not fulfil the conditions set out in paragraph 2 of this Article and that do not qualify as own funds;
+(b) it is subject to the write-down or conversion powers in accordance with Articles 59 to 62 of Directive 2014/59/EU.

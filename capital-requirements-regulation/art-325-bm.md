@@ -1,0 +1,4 @@
+# Article 325bm
+Permission to use an internal default risk model
+1. Competent authorities shall grant an institution permission to use an internal default risk model to calculate the own funds requirements referred to in Article 325ba(2) for all the trading book positions referred to in Article 325bl that are assigned to a trading desk for which the internal default risk model complies with the requirements set out in Articles 325bi, 325bj, 325bn, 325bo and 325bp.
+2. Where the trading desk of an institution, to which at least one of the trading book positions referred to in Article 325bl has been assigned, does not meet the requirements set out in paragraph 1 of this Article, the own funds requirements for market risk of all positions in that trading desk shall be calculated in accordance with the approach set out in Chapter 1a.
