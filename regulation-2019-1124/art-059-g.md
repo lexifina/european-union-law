@@ -1,0 +1,5 @@
+# Article 59g
+Application of Article 9(1)(a) and (b) of Regulation (EU) 2018/842
+1. Where the compliance status figure determined pursuant to Article 59f of this Regulation is negative, the central administrator shall ensure that the Union Registry transfers the exceeding quantity of reviewed greenhouse gas emissions expressed in tonnes of carbon dioxide equivalent multiplied by the factor of 1,08 specified in Article 9(1)(a) of Regulation (EU) 2018/842 from a Member State's ESR Compliance Account for the given year to its ESR Compliance Account for the next year.
+2. At the same time, the central administrator shall block the ESR Compliance Accounts corresponding to the remaining years of the compliance period, of the Member State concerned.
+3. The central administrator shall change the ESR Compliance Account status from blocked to open for all the remaining years of the compliance period as of the year for which the compliance status figure determined pursuant to Article 59f is zero or positive.
