@@ -1,3 +1,3 @@
 # Article 46a
 1. For the purposes of this Directive, manufacture of active substances used as starting materials shall include both total and partial manufacture or import of an active substance used as a starting material as defined in Part I, point 3.2.1.1 (b) Annex I, and the various processes of dividing up, packaging or presentation prior to its incorporation into a medicinal product, including repackaging or re-labelling, such as are carried out by a distributor of starting materials.
-2. The Commission shall be empowered to adapt paragraph 1 to take account of scientific and technical progress. That measure, designed to amend non-essential elements of this Directive, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 121(2a).
+2. The Commission is empowered to adopt delegated acts in accordance with Article 121a to amend paragraph 1 to take account of scientific and technical progress.
