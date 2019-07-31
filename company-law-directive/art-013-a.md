@@ -1,0 +1,9 @@
+# Article 13a
+Definitions
+For the purposes of this Chapter:
+(1) 'electronic identification means' means an electronic identification means as defined in point (2) of Article 3 of Regulation (EU) No 910/2014 of the European Parliament and of the Council
+(2) 'electronic identification scheme' means an electronic identification scheme as defined in point (4) of Article 3 of Regulation (EU) No 910/2014;
+(3) 'electronic means' means electronic equipment used for the processing, including digital compression, and the storage of data, and through which information is initially sent and received at its destination; that information being entirely transmitted, conveyed and received in a manner to be determined by Member States;
+(4) 'formation' means the whole process of establishing a company in accordance with national law, including the drawing up of the company's instrument of constitution and all the necessary steps for the entry of the company in the register;
+(5) 'registration of a branch' means a process leading to disclosure of documents and information relating to a branch newly opened in a Member State;
+(6) 'template' means a model for the instrument of constitution of a company which is drawn up by Member States in compliance with national law and is used for the online formation of a company in accordance with Article 13g.

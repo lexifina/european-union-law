@@ -1,0 +1,7 @@
+# Article 13f
+Information requirements
+Member States shall ensure that concise and user-friendly information, provided free of charge and at least in a language broadly understood by the largest possible number of cross-border users, is made available on registration portals or websites that are accessible by means of the Single Digital Gateway to assist in the formation of companies and the registration of branches. The information shall cover at least the following:
+(a) rules on the formation of companies, including online procedures referred to in Articles 13g and 13j, and requirements relating to the use of templates and to other formation documents, identification of persons, the use of languages and to applicable fees;
+(b) rules on the registration of branches, including online procedures referred to in Articles 28a and 28b, and requirements relating to registration documents, identification of persons and the use of languages;
+(c) an outline of the applicable rules on becoming a member of the administrative body, the management body or the supervisory body of a company, including of the rules on disqualification of directors, and on the authorities or bodies responsible for keeping information about disqualified directors;
+(d) an outline of the powers and responsibilities of the administrative body, the management body and the supervisory body of a company, including the authority to represent a company in dealings with third parties.
