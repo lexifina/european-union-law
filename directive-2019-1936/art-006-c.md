@@ -1,0 +1,10 @@
+# Article 6c
+Road markings and road signs
+1. Member States shall pay specific attention, in their existing and future procedures for road markings and road signs, to readability and detectability for human drivers and automated driver assistance systems. Such procedures shall take into account common specifications where such common specifications have been established in accordance with paragraph 3.
+2. A group of experts established by the Commission shall, at the latest by June 2021, assess the opportunity to establish common specifications including different elements aiming at ensuring the operational use of road markings and road signs in order to foster the effective readability and detectability of road markings and road signs for human drivers and automated driver assistance systems. That group shall be formed by experts designated by the Member States. The assessment shall include a consultation of the United Nations Economic Commission for Europe.
+The assessment shall take into consideration in particular the following elements:
+(a) the interaction between various driver assistance technologies and infrastructure;
+(b) the effect of the weather and atmospheric phenomena as well as traffic on road markings and road signs present on the Union territory;
+(c) the type and frequency of maintenance efforts necessary for various technologies, including an estimate of costs.
+3. Taking into account the assessment referred to in paragraph 2, the Commission may adopt implementing acts to establish common specifications, relating to Member States' procedures referred to in paragraph 1 aiming at ensuring the operational use of their road markings and road signs, with regard to the effective readability and detectability of road markings and road signs for human drivers and automated driver assistance systems. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 13(2).
+The implementing acts referred to in the first subparagraph shall be without prejudice to the competence of the European Committee for Standardization regarding standards for road markings and road signs.
