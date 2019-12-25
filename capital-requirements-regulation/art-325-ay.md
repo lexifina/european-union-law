@@ -3,8 +3,10 @@ Vega and curvature risk correlations
 1. Between vega risk sensitivities within the same bucket of the general interest rate risk (GIRR) class, the correlation parameter rkl shall be set as follows:
 image
 where:
-image shall be equal to
-image where α shall be set at 1 %, Tk and Tl shall be equal to the maturities of the options for which the vega sensitivities are derived, expressed as a number of years; and
+image
+shall be equal to
+image
+where α shall be set at 1 %, Tk and Tl shall be equal to the maturities of the options for which the vega sensitivities are derived, expressed as a number of years; and
 image
 is equal to
 image

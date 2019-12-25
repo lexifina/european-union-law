@@ -19,5 +19,6 @@ where the numerator of NGR is calculated in accordance with Article 274(1) of th
 (i) stop calculating KCCP;
 (ii) notify those of its clearing members which are institutions and their competent authorities that it has stopped calculating KCCP;
 (k) for the purpose of calculating the potential future exposure for options and swaptions in accordance with the Mark-to-Market Method specified in Article 274 of Regulation (EU) No 575/2013, a CCP shall multiply the notional amount of the contract by the absolute value of the option's delta
-image as set out in point (a) of Article 280(1) of that Regulation;
+image
+as set out in point (a) of Article 280(1) of that Regulation;
 (l) where a CCP has more than one default fund, it shall carry out the calculation laid down in Article 50a(2) for each default fund separately.

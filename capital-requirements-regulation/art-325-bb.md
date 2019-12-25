@@ -50,9 +50,14 @@ and
 image
 for all broad risk factor categories i from daily to weekly, provided that both of the following conditions are met:
 (a) the institution is able to demonstrate to its competent authority that calculating the unconstrained expected shortfall measure
-image does not underestimate the market risk of the relevant trading book positions;
+image
+does not underestimate the market risk of the relevant trading book positions;
 (b) the institution is able to increase the frequency of calculation of
-image,
-image,
-image and
-image from weekly to daily where required by its competent authority.
+image
+,
+image
+,
+image
+and
+image
+from weekly to daily where required by its competent authority.
