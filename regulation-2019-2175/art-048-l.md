@@ -1,0 +1,5 @@
+# Article 48l
+Supervisory fees
+1. ESMA shall charge fees to the administrators referred to in Article 40(1), in accordance with the delegated acts adopted pursuant to paragraph 3 of this Article. Those fees shall fully cover ESMA's necessary expenditure relating to the supervision of administrators and the reimbursement of any costs that the competent authorities may incur carrying out work pursuant to this Regulation in particular as a result of any delegation of tasks in accordance with Article 48m.
+2. The amount of an individual fee charged to an administrator shall cover all administrative costs incurred by ESMA for its activities in relation to the supervision and it shall be proportionate to the turnover of the administrator.
+3. By 1 October 2021, the Commission shall adopt delegated acts in accordance with Article 49 in order to supplement this Regulation by specifying the type of fees, the matters for which fees are due, the amount of the fees and the manner in which they are to be paid.

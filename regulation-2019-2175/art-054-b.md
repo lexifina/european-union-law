@@ -1,0 +1,8 @@
+# Article 54b
+Relations with auditors
+1. Any person authorised within the meaning of Directive 2006/43/EC of the European Parliament and of the Council, performing in a data reporting services provider the task described in Article 34 of Directive 2013/34/EU of the European Parliament and of the Council or Article 73 of Directive 2009/65/EC or any other task prescribed by law, shall have a duty to report promptly to ESMA any fact or decision concerning that data reporting services provider of which that person has become aware while carrying out that task and which is liable to:
+(a) constitute a material infringement of the laws, regulations or administrative provisions which lay down the conditions governing authorisation or which specifically govern pursuit of the activities of data reporting services provider;
+(b) affect the continuous functioning of the data reporting services provider;
+(c) lead to refusal to certify the accounts or to the expression of reservations.
+That person shall also have a duty to report any facts and decisions of which the person becomes aware in the course of carrying out one of the tasks referred to in the first subparagraph in an undertaking having close links with the data reporting services provider within which he or she is carrying out that task.
+2. The disclosure in good faith to the competent authorities, by persons authorised within the meaning of Directive 2006/43/EC, of any fact or decision referred to in paragraph 1 shall not constitute a breach of any contractual or legal restriction on disclosure of information and shall not involve such persons in liability of any kind.

@@ -1,0 +1,5 @@
+# Article 38n
+Authorisation and supervisory fees
+1. ESMA shall charge fees to the data reporting services providers in accordance with this Regulation and in accordance with the delegated acts adopted pursuant to paragraph 3 of this Article. Those fees shall fully cover ESMA's necessary expenditure relating to the authorisation and supervision of data reporting services providers and the reimbursement of any costs that the competent authorities may incur carrying out work pursuant to this Regulation, in particular as a result of any delegation of tasks in accordance with Article 38o.
+2. The amount of an individual fee charged to a particular data reporting services provider shall cover all administrative costs incurred by ESMA for the authorisation and supervisory activities relating to that provider. It shall be proportionate to the turnover of the data reporting services provider.
+3. The Commission shall adopt a delegated act in accordance with Article 50 supplementing this Regulation by 1 October 2021 to specify the type of fees, the matters for which fees are due, the amount of the fees and the manner in which they are to be paid.
