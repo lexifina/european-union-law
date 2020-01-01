@@ -1,0 +1,3 @@
+# Article 43a
+Transparency of decisions adopted by the Board of Supervisors
+Notwithstanding Article 70, within six weeks of each meeting of the Board of Supervisors, the Authority shall, at least, provide the European Parliament with a comprehensive and meaningful record of the proceedings of that meeting that enables a full understanding of the discussions, including an annotated list of decisions. Such record shall not reflect discussions within the Board of Supervisors relating to individual financial institutions, unless otherwise provided for in Article 75(3) or in the legislative acts referred to in Article 1(2).
