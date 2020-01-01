@@ -1,0 +1,4 @@
+# Article 24d
+Decision making within the Board of Supervisors
+Where the CCP Supervisory Committee submits draft decisions to the Board of Supervisors pursuant to Articles 25(2), 25(2a), 25(2b), 25(2c), 25(5), 25p, 85(6), 89(3b) of this Regulation and additionally only for Tier 2 CCPs in accordance with Articles 41, 44, 46, 50 and 54 of this Regulation, the Board of Supervisors shall decide on those draft decisions in accordance with Article 44 of Regulation (EU) No 1095/2010 within 10 working days.
+Where the CCP Supervisory Committee submits draft decisions to the Board of Supervisors pursuant to Articles other than those referred to in the first subparagraph, the Board of Supervisors shall decide on those draft decisions in accordance with Article 44 of Regulation (EU) No 1095/2010 within three working days.

@@ -1,0 +1,14 @@
+# Article 25p
+Withdrawal of recognition
+1. Without prejudice to Article 25q and subject to the following paragraphs, ESMA, after consulting the authorities and entities referred to in Article 25(3), shall withdraw a recognition decision adopted in accordance with Article 25 where:
+(a) the CCP concerned has not made use of the recognition within six months, expressly renounces the recognition or has ceased to engage in business for more than six months;
+(b) the CCP concerned has obtained the recognition through false statements or by any other irregular means;
+(c) the CCP concerned has seriously and systematically infringed any of the conditions for recognition laid down in Article 25 or no longer complies with any of those conditions and in any of those situations has not taken the remedial action requested by ESMA within an appropriately set timeframe of up to a maximum of six months;
+(d) ESMA is unable to exercise effectively its responsibilities under this Regulation over the CCP concerned, due to the failure of the third-country authority of the CCP to provide ESMA with all relevant information or cooperate with ESMA in accordance with Article 25(7);
+(e) the implementing act referred to in Article 25(6) has been withdrawn or suspended, or any of the conditions attached to it is no longer satisfied.
+ESMA may limit the withdrawal of the recognition to a particular service, activity or class of financial instruments.
+When determining the date of entry into effect of the decision to withdraw the recognition, ESMA shall endeavour to minimise potential market disruption and provide for an appropriate adaptation period which shall not exceed two years.
+2. Before withdrawing the recognition in accordance with point (c) of paragraph 1 of this Article, ESMA shall take into account the possibility of applying measures under points (a), (b) and (c) of Article 25q(1).
+If ESMA determines that remedial action within the set timeframe of up to a maximum of six months under point (c) of the first subparagraph of paragraph 1 of this Article has not been taken or that the action taken is not appropriate, and after consulting the authorities referred to in Article 25(3), ESMA shall withdraw the recognition decision.
+3. ESMA shall, without undue delay, notify the relevant third-country competent authority of a decision to withdraw the recognition of a recognised CCP.
+4. Any of the authorities referred to in Article 25(3), which consider that one of the conditions referred to in paragraph 1 has been met, may request ESMA to examine whether the conditions for the withdrawal of the recognition of a recognised CCP or of its recognition for a particular service, activity or class of financial instruments are met. Where ESMA decides not to withdraw the recognition of the CCP concerned, it shall provide full reasons to the requesting authority.
