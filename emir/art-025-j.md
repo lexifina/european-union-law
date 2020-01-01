@@ -1,0 +1,10 @@
+# Article 25j
+Fines
+1. Where, in accordance with Article 25i(5), ESMA finds that a CCP has, intentionally or negligently, committed one of the infringements listed in Annex III, it shall adopt a decision imposing a fine in accordance with paragraph 2 of this Article.
+An infringement by a CCP shall be considered to have been committed intentionally if ESMA finds objective factors which demonstrate that the CCP or its senior management acted deliberately to commit the infringement.
+2. The basic amounts of the fines referred to in paragraph 1 shall be up to twice the amount of the profits gained or losses avoided because of the breach where those can be determined, or up to 10 % of the total annual turnover, as defined in relevant Union law, of a legal person in the preceding business year.
+3. The basic amounts set out in paragraph 2 shall be adjusted, if need be, by taking into account aggravating or mitigating factors in accordance with the relevant coefficients set out in Annex IV.
+The relevant aggravating coefficients shall be applied one by one to the basic amount. If more than one aggravating coefficient is applicable, the difference between the basic amount and the amount resulting from the application of each individual aggravating coefficient shall be added to the basic amount.
+The relevant mitigating coefficients shall be applied one by one to the basic amount. If more than one mitigating coefficient is applicable, the difference between the basic amount and the amount resulting from the application of each individual mitigating coefficient shall be subtracted from the basic amount.
+4. Notwithstanding paragraphs 2 and 3, the amount of the fine shall not exceed 20 % of the annual turnover of the CCP concerned in the preceding business year but, where the CCP has directly or indirectly benefited financially from the infringement, the amount of the fine shall be at least equal to that benefit.
+Where an act or omission of a CCP constitutes more than one infringement listed in Annex III, only the higher fine calculated in accordance with paragraphs 2 and 3 and relating to one of those infringements shall apply.
