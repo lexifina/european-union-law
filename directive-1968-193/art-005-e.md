@@ -1,0 +1,3 @@
+# Article 5e
+1. The varieties accepted shall be officially checked at regular intervals. If any of the conditions for acceptance for certification or checking is no longer satisfied, acceptance shall be revoked and the variety deleted from the catalogue.
+2. All applications or withdrawals of applications for acceptance of a variety, entries in a catalogue of varieties and amendments made to it shall immediately be communicated to the other Member States and to the Commission. On the basis of the notifications from the Member States, the Commission shall publish a common catalogue of varieties.

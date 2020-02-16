@@ -1,0 +1,2 @@
+# Article 12a
+Member States shall ensure that propagating material of vine varieties and, where applicable, clones, which have been officially accepted in one of the Member States for certification and for checking as standard propagating material in accordance with this Directive, are not subjected to any marketing restrictions in their territory based on variety, and, where applicable, clone, without prejudice to Regulation (EC) No 1493/1999.
