@@ -23,7 +23,7 @@ For the purposes of point (a), where an institution has on-balance-sheet exposur
 (a) the exposures have ceased to be in a situation that would lead to their classification as non-performing under paragraph 3;
 (b) at least one year has passed since the date on which the forbearance measures were granted and the date on which the exposures were classified as non-performing, whichever is later;
 (c) there is no past-due amount following the forbearance measures and the institution, on the basis of the analysis of the obligor's financial situation, is satisfied about the likelihood of the full and timely repayment of the exposure.
-Full and timely repayment shall not be considered likely unless the obligor has executed regular and timely payments of amounts equal to either of the following:
+Full and timely repayment may be considered likely where the obligor has executed regular and timely payments of amounts equal to either of the following:
 (a) the amount that was past due before the forbearance measure was granted, where there were amounts past due;
 (b) the amount that has been written-off under the forbearance measures granted, where there were no amounts past due.
 7. Where a non-performing exposure has ceased to be classified as non-performing pursuant to paragraph 6, such exposure shall be under probation until all the following conditions are met:
