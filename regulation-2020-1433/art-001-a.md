@@ -1,0 +1,2 @@
+# Article 1a
+The protection provided under Article 1 is subject to the transitional period granted by France under Article 15(4) of Regulation (EU) No 1151/2012 to operators meeting the conditions laid down in that Article, pursuant to the Order of 22 November 2018 on amendments to the specification for the protected designation of origin 'Pouligny-St-Pierre' published on 8 December 2018 in the Official Journal of the French Republic.
