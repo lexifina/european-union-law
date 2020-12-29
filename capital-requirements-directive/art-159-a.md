@@ -1,0 +1,4 @@
+# Article 159a
+Transitional provisions on approval of financial holding companies and mixed financial holding companies
+Parent financial holding companies and parent mixed financial holding companies already existing on 27 June 2019 shall apply for approval in accordance with Article 21a by 28 June 2021. If a financial holding company or mixed financial holding company fails to apply for approval by 28 June 2021, appropriate measures shall be taken pursuant to Article 21a(6).
+During the transitional period referred to in the first paragraph of this Article, competent authorities shall have all the necessary supervisory powers conferred on them by this Directive with regard to financial holding companies or mixed financial holding companies subject to approval in accordance with Article 21a for the purposes of consolidated supervision.
