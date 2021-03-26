@@ -1,0 +1,3 @@
+# Article 14a
+Transitional arrangements for the financial year 2021
+In 2021, the Board shall calculate the individual annual contributions due for the financial year 2021 on the basis of the data provided by the ECB to the Board in 2019 and any subsequent updates thereto in accordance with Article 6. In 2022, the Board shall recalculate the individual annual contributions due for the financial year 2021 on the basis of the data provided by the ECB to the Board in 2021 in accordance with Article 6. Any difference between the amount originally calculated for the financial year 2021 and the recalculated amount shall be settled when calculating the individual annual contributions due for the financial year 2022.
