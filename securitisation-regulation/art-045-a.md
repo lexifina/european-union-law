@@ -1,0 +1,9 @@
+# Article 45a
+Development of a sustainable securitisation framework
+1. By 1 November 2021, EBA, in close cooperation with ESMA and EIOPA, shall publish a report on developing a specific sustainable securitisation framework for the purpose of integrating sustainability-related transparency requirements into this Regulation. That report shall duly assess in particular:
+(a) the implementation of proportionate disclosure and due diligence requirements relating to potential positive and adverse impacts of the assets financed by the underlying exposures on sustainability factors;
+(b) the content, methodologies and presentation of information in respect of sustainability factors in relation to positive and adverse impacts on environmental, social and governance-related matters;
+(c) how to establish a specific sustainable securitisation framework that mirrors or draws upon financial products covered under Articles 8 and 9 of Regulation (EU) 2019/2088 and takes into account, where appropriate, Regulation (EU) 2020/852 of the European Parliament and of the Council;
+(d) possible effects of a sustainable securitisation framework on financial stability, the scaling up of the Union securitisation market and of bank lending capacity.
+2. In drafting the report referred to in paragraph 1 of this Article, EBA shall where relevant, mirror or draw upon the transparency requirements set out in Articles 3, 4, 7, 8 and 9 of Regulation (EU) 2019/2088 and seek input from the European Environment Agency and the Joint Research Centre of the European Commission.
+3. In conjunction with the review report under Article 46, the Commission shall, based on the EBA report referred to in paragraph 1 of this Article, submit a report to the European Parliament and to the Council on the creation of a specific sustainable securitisation framework. The Commission's report shall, where appropriate, be accompanied by a legislative proposal.
