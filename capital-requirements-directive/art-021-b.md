@@ -7,9 +7,11 @@ Intermediate EU parent undertaking
 3. An intermediate EU parent undertaking shall be a credit institution authorised in accordance with Article 8, or a financial holding company or mixed financial holding company that has been granted approval in accordance with Article 21a.
 By way of derogation from the first subparagraph of this paragraph, where none of the institutions referred to in paragraph 1 of this Article is a credit institution or where a second intermediate EU parent undertaking must be set up in connection with investment activities to comply with a mandatory requirement as referred to in paragraph 2 of this Article, the intermediate EU parent undertaking or the second intermediate EU parent undertaking, may be an investment firm authorised in accordance with Article 5(1) of Directive 2014/65/EU that is subject to Directive 2014/59/EU.
 4. Paragraphs 1, 2 and 3 shall not apply where the total value of assets in the Union of the third-country group is less than EUR 40 billion.
-5. For the purposes of this Article, the total value of assets in the Union of the third-country group shall be the sum of the following:
-(a) the total value of assets of each institution in the Union of the third country-group, as resulting from its consolidated balance sheet or as resulting from their individual balance sheet, where an institution's balance sheet is not consolidated; and
-(b) the total value of assets of each branch of the third-country group authorised in the Union in accordance with this Directive, Directive 2014/65/EU or Regulation (EU) No 600/2014 of the European Parliament and of the Council.
+5. For the purposes of this Article:
+(a) the total value of assets in the Union of the third-country group shall be the sum of the following:
+(i) the total value of assets of each institution in the Union of the third-country group, as resulting from its consolidated balance sheet or as resulting from their individual balance sheets, where an institution's balance sheet is not consolidated; and
+(ii) the total value of assets of each branch of the third-country group authorised in the Union in accordance with this Directive, Regulation (EU) No 600/2014 of the European Parliament and of the Council or Directive 2014/65/EU;
+(b) the term 'institution' shall also include investment firms.
 6. Competent authorities shall notify the following information in respect of each third-country group operating in their jurisdiction to EBA:
 (a) the names and the total value of assets of supervised institutions belonging to a third-country group;
 (b) the names and the total value of assets corresponding to branches authorised in that Member State in accordance with this Directive, Directive 2014/65/EU or Regulation (EU) No 600/2014, and the types of activities that they are authorised to carry out;
