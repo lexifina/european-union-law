@@ -7,15 +7,3 @@ image
 to the total amount of pre-funded contributions (DF) as follows:
 image
 .
-(c) a CCP shall calculate the concentration factor (β) in accordance with the following formula:
-image
-where:
-PCEred,i
-=
-the reduced figure for potential future credit exposure for all contracts and transaction of a CCP with clearing member i;
-PCEred,1
-=
-the reduced figure for potential future credit exposure for all contracts and transaction of a CCP with the clearing member that has the largest PCEred value;
-PCEred,2
-=
-the reduced figure for potential future credit exposure for all contracts and transaction of a CCP with the clearing member that has the second largest PCEred value.
