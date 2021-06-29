@@ -1,0 +1,3 @@
+# Article 506a
+CIUs with an underlying portfolio of euro area sovereign bonds
+In close cooperation with the ESRB and EBA, the Commission shall publish a report by 31 December 2021 in which it shall assess whether changes to the regulatory framework are needed to promote the market for, and bank purchases of, exposures in the form of units or shares in CIUs with an underlying portfolio consisting exclusively of sovereign bonds of Member States whose currency is the euro, where the relative weight of each Member States' sovereign bonds in the total portfolio of the CIU is equal to the relative weight of each Member States' capital contribution to the ECB.
