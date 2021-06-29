@@ -1,0 +1,5 @@
+# Article 428g
+Deposits in institutional protection schemes and cooperative networks
+Where an institution belongs to an institutional protection scheme of the type referred to in Article 113(7), to a network that is eligible for the waiver provided for in Article 10, or to a cooperative network in a Member State, the sight deposits that the institution maintains with the central institution and that the depositing institution considers to be liquid assets pursuant to the delegated act referred to in Article 460(1) shall be subject to the following:
+(a) the depositing institution shall apply the required stable funding factor under Section 2 of Chapter 4, depending on the treatment of those sight deposits as level 1, level 2A or level 2B assets pursuant to the delegated act referred to in Article 460(1) and depending on the relevant haircut applied to those sight deposits for the calculation of the liquidity coverage ratio;
+(b) the central institution receiving the deposit shall apply the corresponding symmetric available stable funding factor.

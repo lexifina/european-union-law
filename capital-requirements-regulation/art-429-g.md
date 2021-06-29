@@ -1,0 +1,8 @@
+# Article 429g
+Calculation of the exposure value of regular-way purchases and sales awaiting settlement
+1. Institutions shall treat cash related to regular-way sales and securities related to regular-way purchases which remain on the balance sheet until the settlement date as assets in accordance with point (a) of Article 429(4).
+2. Institutions that, in accordance with the applicable accounting framework, apply trade date accounting to regular-way purchases and sales which are awaiting settlement shall reverse out any offsetting between cash receivables for regular-way sales awaiting settlement and cash payables for regular-way purchase awaiting settlement allowed under that framework. After institutions have reversed out the accounting offsetting, they may offset between those cash receivables and cash payables where both the related regular-way sales and purchases are settled on a delivery-versus-payment basis.
+3. Institutions that, in accordance with the applicable accounting framework, apply settlement date accounting to regular-way purchases and sales which are awaiting settlement shall include in the total exposure measure the full nominal value of commitments to pay related to regular-way purchases.
+Institutions may offset the full nominal value of the commitments to pay related to regular-way purchases by the full nominal value of cash receivables related to regular-way sales awaiting settlement only where both of the following conditions are met:
+(a) both the regular-way purchases and sales are settled on a delivery-versus-payment basis;
+(b) the financial assets bought and sold that are associated with cash payables and receivables are fair valued through profit and loss and included in the institution's trading book.

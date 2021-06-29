@@ -1,0 +1,4 @@
+# Article 428i
+Calculation of the amount of available stable funding
+Unless otherwise specified in this Chapter, the amount of available stable funding shall be calculated by multiplying the accounting value of various categories or types of liabilities and own funds by the available stable funding factors to be applied under Section 2. The total amount of available stable funding shall be the sum of the weighted amounts of liabilities and own funds.
+Bonds and other debt securities that are issued by the institution, sold exclusively in the retail market, and held in a retail account, may be treated as belonging to the appropriate retail deposit category. Limitations shall be in place, such that those instruments cannot be bought and held by parties other than retail customers.

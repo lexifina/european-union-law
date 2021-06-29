@@ -1,19 +1,24 @@
 # Article 429b
-Counterparty credit risk add-on for repurchase transactions, securities or commodities lending or borrowing transactions, long settlement transactions and margin lending transactions
-1. In addition to the exposure value of repurchase transactions, securities or commodities lending or borrowing transactions, long settlement transactions and margin lending transactions including those that are off-balance sheet in accordance with Article 429(5), institutions shall include in the exposure measure an add-on for counterparty credit risk determined in accordance to paragraph 2 or 3 of this Article, as applicable.
-2. For the purposes of paragraph 1, for transactions with a counterparty which are not subject to a master netting agreement that meets the conditions laid down in Article 206 the add-on (Ei*)shall be determined on a transaction-by-transaction basis in accordance with the following formula:
-image
-where:
-Ei is the fair value of securities or cash lent to the counterparty under transaction i;
-Ci is the fair value of cash or securities received from the counterparty under transaction i.
-3. For the purposes of paragraph 1, for transactions with a counterparty that are subject to a master netting agreement that meets the conditions laid down in Article 206, the add-on for those transactions (Ei*) shall be determined on an agreement-by-agreement basis in accordance with the following formula:
-image
-where:
-Ei is the fair value of securities or cash lent to the counterparty for the transactions subject to master netting agreement i;
-Ci is the fair value of cash or securities received from the counterparty subject to master netting agreement i.
-4. By way of derogation from paragraph 1 of this Article, institutions may use the method set out in Article 222, subject to a 20 % floor for the applicable risk weight, to determine the add on for repurchase transactions, securities or commodities lending or borrowing transactions, long settlement transactions and margin lending transactions including those that are off-balance sheet. Institutions may use this method only where they also use it for determining the exposure value of those transactions for the purpose of meeting the own funds requirements as set out in Article 92.
-5. Where sale accounting is achieved for a repurchase transaction under its applicable accounting framework, the institution shall reverse all sales-related accounting entries.
-6. Where an institution acts as an agent between two parties in repurchase transactions, securities or commodities lending or borrowing transactions, long settlement transactions and margin lending transactions including those that are off-balance sheet, the following apply:
-(a) where the institution provides an indemnity or guarantee to a customer or counterparty limited to any difference between the value of the security or cash the customer has lent and the value of collateral the borrower has provided it shall only include in the exposure measure the add-on determined in accordance with paragraph 2 or 3, as applicable;
-(b) where the institution does not provide an indemnity or guarantee to any of the involved parties, the transaction shall not be included in the exposure measure;
-(c) where the institution is economically exposed to the underlying security or cash in the transaction beyond the exposure covered by the add-on, it shall include also in the exposure measure an exposure equal to the full amount of the security or cash.
+Calculation of the exposure value of assets
+1. Institutions shall calculate the exposure value of assets, excluding derivative contracts listed in Annex II, credit derivatives and the positions referred to in Article 429e in accordance with the following principles:
+(a) the exposure values of assets means an exposure value as referred to in the first sentence of Article 111(1);
+(b) securities financing transactions shall not be netted.
+2. A cash pooling arrangement offered by an institution does not violate the condition set out in point (b) of Article 429(7) only where the arrangement meets both of the following conditions:
+(a) the institution offering the cash pooling arrangement transfers the credit and debit balances of several individual accounts of entities of a group included in the arrangement ('original accounts') into a separate, single account and thereby sets the balances of the original accounts to zero;
+(b) the institution carries out the actions referred to in point (a) of this subparagraph on a daily basis.
+For the purposes of this paragraph and paragraph 3, cash pooling arrangement means an arrangement whereby the credit or debit balances of several individual accounts are combined for the purposes of cash or liquidity management.
+3. By way of derogation from paragraph 2 of this Article, a cash pooling arrangement that does not meet the condition set out in point (b) of that paragraph, but meets the condition set out in point (a) of that paragraph, does not violate the condition set out in point (b) of Article 429(7), provided that the arrangement meets all the following conditions:
+(a) the institution has a legally enforceable right to set off the balances of the original accounts through the transfer into a single account at any point in time;
+(b) there are no maturity mismatches between the balances of the original accounts;
+(c) the institution charges or pays interest based on the combined balance of the original accounts;
+(d) the competent authority of the institution considers that the frequency by which the balances of all original accounts are transferred is adequate for the purpose of including only the combined balance of the cash pooling arrangement in the total exposure measure.
+4. By way of derogation from point (b) of paragraph 1, institutions may calculate the exposure value of cash receivable and cash payable under securities financing transactions with the same counterparty on a net basis only where all the following conditions are met:
+(a) the transactions have the same explicit final settlement date;
+(b) the right to set off the amount owed to the counterparty with the amount owed by the counterparty is legally enforceable in the normal course of business and in the event of default, insolvency and bankruptcy;
+(c) the counterparties intend to settle on a net basis or to settle simultaneously, or the transactions are subject to a settlement mechanism that results in the functional equivalent of net settlement.
+5. For the purposes of point (c) of paragraph 4, institutions may consider that a settlement mechanism results in the functional equivalent of net settlement only where, on the settlement date, the net result of the cash flows of the transactions under that mechanism is equal to the single net amount under net settlement and all the following conditions are met:
+(a) the transactions are settled through the same settlement system or settlement systems using a common settlement infrastructure;
+(b) the settlement arrangements are supported by cash or intraday credit facilities intended to ensure that the settlement of the transactions will occur by the end of the business day;
+(c) any issues arising from the securities legs of the securities financing transactions do not interfere with the completion of the net settlement of the cash receivables and payables.
+The condition set out in point (c) of the first subparagraph is met only where the failure of any securities financing transaction in the settlement mechanism may delay settlement of only the matching cash leg or may create an obligation to the settlement mechanism, supported by an associated credit facility.
+Where there is a failure of the securities leg of a securities financing transaction in the settlement mechanism at the end of the window for settlement in the settlement mechanism, institutions shall split out this transaction and its matching cash leg from the netting set and treat them on a gross basis.

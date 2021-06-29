@@ -1,0 +1,12 @@
+# Article 428d
+Derivative contracts
+1. Institutions shall apply this Article to calculate the amount of required stable funding for derivative contracts as referred to in Chapters 3 and 4.
+2. Without prejudice to Article 428ah(2), institutions shall take into account the fair value of derivative positions on a net basis where those positions are included in the same netting set that fulfils the requirements set out in Article 429c(1). Where that is not the case, institutions shall take into account the fair value of derivative positions on a gross basis and shall treat those derivative positions as belonging to their own netting set for the purposes of Chapter 4.
+3. For the purposes of this Title, the 'fair value of a netting set' means the sum of the fair values of all the transactions included in a netting set.
+4. Without prejudice to Article 428ah(2), all derivative contracts listed in points 2(a) to (e) of Annex II that involve a full exchange of principal amounts on the same date shall be calculated on a net basis across currencies, including for the purpose of reporting in a currency that is subject to separate reporting in accordance with Article 415(2), even where those transactions are not included in the same netting set that fulfils the requirements set out in Article 429c(1).
+5. Cash received as collateral to mitigate the exposure of a derivative position shall be treated as such and shall not be treated as deposits to which Chapter 3 applies.
+6. Competent authorities may decide, with the approval of the relevant central bank, to waive the impact of derivative contracts on the calculation of the net stable funding ratio, including through the determination of the required stable funding factors and of provisions and losses, provided that all the following conditions are met:
+(a) those contracts have a residual maturity of less than six months;
+(b) the counterparty is the ECB or the central bank of a Member State;
+(c) the derivative contracts serve the monetary policy of the ECB or the central bank of a Member State.
+Where a subsidiary having its head office in a third country benefits from the waiver referred to in the first subparagraph under the national law of that third country which sets out the net stable funding requirement, that waiver as specified in the national law of the third country shall be taken into account for consolidation purposes.
