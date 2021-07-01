@@ -1,0 +1,3 @@
+# Article 14a
+1. Where a taxable person facilitates, through the use of an electronic interface such as a marketplace, platform, portal or similar means, distance sales of goods imported from third territories or third countries in consignments of an intrinsic value not exceeding EUR 150, that taxable person shall be deemed to have received and supplied those goods himself.
+2. Where a taxable person facilitates, through the use of an electronic interface such as a marketplace, platform, portal or similar means, the supply of goods within the Community by a taxable person not established within the Community to a non-taxable person, the taxable person who facilitates the supply shall be deemed to have received and supplied those goods himself.

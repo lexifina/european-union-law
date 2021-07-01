@@ -1,0 +1,4 @@
+# Article 369zb
+1. Member States shall allow that the VAT collected under this special arrangement be reported electronically in a monthly declaration. The declaration shall show the total VAT collected during the relevant calendar month.
+2. Member States shall require that the VAT referred to in paragraph 1 be payable monthly by the deadline for payment applicable to the payment of import duty.
+3. The persons making use of this special arrangement shall keep records of the transactions covered by this special arrangement for a period of time to be determined by the Member State of importation. Those records must be sufficiently detailed to enable the tax or customs authorities of the Member State of importation to verify that the VAT declared is correct and be made available electronically on request to the Member State of importation.

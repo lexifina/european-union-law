@@ -1,0 +1,4 @@
+# Article 242a
+1. Where a taxable person facilitates, through the use of an electronic interface such as a market place, platform, portal or similar means, the supply of goods or services to a non-taxable person within the Community in accordance with the provisions of Title V, the taxable person who facilitates the supply shall be obliged to keep records of those supplies. Those records shall be sufficiently detailed to enable the tax authorities of the Member States where those supplies are taxable to verify that VAT has been accounted for correctly.
+2. The records referred to in paragraph 1 must be made available electronically on request to the Member States concerned.
+Those records must be kept for a period of 10 years from the end of the year during which the transaction was carried out.

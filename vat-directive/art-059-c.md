@@ -1,0 +1,9 @@
+# Article 59c
+1. Point (a) of Article 33 and Article 58 shall not apply, where the following conditions are met:
+(a) the supplier is established or, in the absence of an establishment, has his permanent address or usually resides only in one Member State;
+(b) services are supplied to non-taxable persons who are established, have their permanent address or usually reside in any Member State other than the Member State referred to in point (a) or goods are dispatched or transported to a Member State other than the Member State referred to in point (a); and
+(c) the total value, exclusive of VAT, of the supplies referred to in point (b) does not in the current calendar year exceed EUR 10 000, or the equivalent in national currency, nor did it do so in the course of the preceding calendar year.
+2. Where, during a calendar year, the threshold referred to in point (c) of paragraph 1 is exceeded, point (a) of Article 33 and Article 58 shall apply as of that time.
+3. The Member State within the territory of which the goods are located at the time when their dispatch or transport begins or where the taxable persons supplying telecommunications, radio and television broadcasting services and electronically supplied services are established shall grant taxable persons carrying out supplies eligible under paragraph 1 the right to opt for the place of supply to be determined in accordance with point (a) of Article 33 and Article 58, which shall in any event cover two calendar years.
+4. Member States shall take appropriate measures to monitor the fulfilment by the taxable person of the conditions referred to in paragraphs 1, 2 and 3.
+5. The corresponding value in national currency of the amount mentioned in point (c) of paragraph 1 shall be calculated by applying the exchange rate published by the European Central Bank on the date of adoption of Directive (EU) 2017/2455.

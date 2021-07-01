@@ -1,0 +1,2 @@
+# Article 369y
+Where, for the importation of goods, except products subject to excise duties, in consignments of an intrinsic value not exceeding EUR 150, the special scheme in Section 4 of Chapter 6 is not used, the Member State of importation shall permit the person presenting the goods to customs on behalf of the person for whom the goods are destined within the territory of the Community to make use of special arrangements for declaration and payment of import VAT in respect of goods for which the dispatch or transport ends in that Member State.
