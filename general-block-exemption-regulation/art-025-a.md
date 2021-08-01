@@ -1,0 +1,7 @@
+# Article 25a
+Aid for projects awarded a Seal of Excellence quality label
+1. Aid for SMEs for research and development projects as well as feasibility studies awarded a Seal of Excellence quality label under the Horizon 2020 or the Horizon Europe programme, shall be compatible with the internal market within the meaning of Article 107(3) of the Treaty and shall be exempted from the notification requirement of Article 108(3) of the Treaty, provided that the conditions laid down in this Article and in Chapter I are fulfilled.
+2. The eligible activities of the aided research and development project or feasibility study shall be those defined as eligible under the Horizon 2020 or the Horizon Europe programme rules, excluding activities going beyond experimental development activities.
+3. The categories, maximum amounts and methods of calculation of eligible costs of the aided research and development project or feasibility study shall be those defined as eligible under the Horizon 2020 or Horizon Europe programme rules.
+4. The maximum aid amount shall not exceed EUR 2,5 million per SME per research and development project or feasibility study.
+5. The total public funding provided for each research and development project or feasibility study shall not exceed the funding rate set out for that research and development project or feasibility study under the Horizon 2020 or under the Horizon Europe programme rules.
