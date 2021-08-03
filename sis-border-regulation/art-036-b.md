@@ -1,0 +1,4 @@
+# Article 36b
+Access to SIS data by the ETIAS Central Unit
+1. For the purpose of performing the tasks conferred on it by Regulation (EU) 2018/1240, the ETIAS Central Unit, established within the European Border and Coast Guard Agency in accordance with Article 7 of that Regulation, shall have the right to access and search relevant data entered in SIS in accordance with Article 11(8) of that Regulation. Article 36(4) to (8) of this Regulation shall apply to that access and search.
+2. Without prejudice to Article 24 of Regulation (EU) 2018/1240, where a verification by the ETIAS Central Unit in accordance with Article 22 of that Regulation confirms a correspondence between data recorded in the ETIAS application file and an alert in SIS or where after such verification doubts remain, the procedure set out in Article 26 of that Regulation shall apply.
