@@ -1,0 +1,4 @@
+# Article 275a
+Integration of sustainability risks in the prudent person principle
+1. When identifying, measuring, monitoring, managing, controlling, reporting and assessing risks arising from investments, as referred to in the first subparagraph of Article 132(2) of Directive 2009/138/EC, insurance and reinsurance undertakings shall take into account sustainability risks.
+2. For the purpose of paragraph 1, insurance and reinsurance undertakings shall take into account the potential long-term impact of their investment strategy and decisions on sustainability factors and, where relevant, that strategy and those decisions of an insurance undertaking shall reflect the sustainability preferences of its customers taken into account in the product approval process referred to in Article 4 of Commission Delegated Regulation (EU) 2017/2358.
