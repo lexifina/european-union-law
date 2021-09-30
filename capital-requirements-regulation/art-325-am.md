@@ -5,57 +5,83 @@ Table 7
 Bucket number
 Credit quality
 Sector
+Risk weight
 1
 Senior and Credit quality step 1 to 3
 RMBS - Prime
+0,9 %
 2
 RMBS - Mid-Prime
+1,5 %
 3
 RMBS - Sub-Prime
+2,0 %
 4
 CMBS
+2,0 %
 5
 Asset backed securities (ABS) - Student loans
+0,8 %
 6
 ABS - Credit cards
+1,2 %
 7
 ABS - Auto
+1,2 %
 8
 Collateralised loan obligations (CLO) non-ACTP
+1,4 %
 9
 Non-senior and credit quality step 1 to 3
 RMBS - Prime
+1,125 %
 10
 RMBS - Mid-Prime
+1,875 %
 11
 RMBS - Sub-Prime
+2,5 %
 12
 CMBS
+2,5 %
 13
 ABS - Student loans
+1 %
 14
 ABS - Credit cards
+1,5 %
 15
 ABS - Auto
+1,5 %
 16
 CLO non-ACTP
+1,75 %
 17
-Credit quality step 4 to 6
+Credit quality step 4 to 6 and unrated
 RMBS - Prime
+1,575 %
 18
 RMBS - Mid-Prime
+2,625 %
 19
 RMBS - Sub-Prime
+3,5 %
 20
 CMBS
+3,5 %
 21
 ABS - Student loans
+1,4 %
 22
 ABS - Credit cards
+2,1 %
 23
 ABS - Auto
+2,1 %
 24
 CLO non-ACTP
+2,45 %
 25
 Other sector
+3,5 %
 2. To assign a risk exposure to a sector, institutions shall rely on a classification that is commonly used in the market for grouping issuers by sector. Institutions shall assign each tranche to one of the sector buckets in Table 7. Risk exposures from any tranche that an institution cannot assign to a sector in such a manner shall be assigned to bucket 25.

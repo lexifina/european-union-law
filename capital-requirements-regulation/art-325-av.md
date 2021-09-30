@@ -1,6 +1,6 @@
 # Article 325av
 Risk weights for foreign exchange risk
-1. Risk weight for all sensitivities to foreign exchange risk factors shall be specified in the delegated act referred to in Article 461a.
+1. A risk weight of 15 % shall be applied to all sensitivities of foreign exchange risk factors.
 2. The risk weight of the foreign exchange risk factors concerning currency pairs which are composed of the euro and the currency of a Member State participating in the second stage of the economic and monetary union (ERM II) shall be one of the following:
 (a) the risk weight referred to in paragraph 1, divided by 3;
 (b) the maximum fluctuation within the fluctuation band formally agreed by the Member State and the European Central Bank, if that fluctuation band is narrower than the fluctuation band defined under ERM II.

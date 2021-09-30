@@ -11,22 +11,31 @@ LHrisk class is the regulatory liquidity horizon to be prescribed in the determi
 Table 11
 Risk class
 LHrisk class
+Risk weights
 GIRR
 60
+100 %
 CSR non-securitisations
 120
+100 %
 CSR securitisations (ACTP)
 120
+100 %
 CSR securitisations (non-ACTP)
 120
-Equity (large cap)
+100 %
+Equity (large cap and indices)
 20
-Equity (small cap)
+77,78 %
+Equity (small cap and other sector)
 60
+100 %
 Commodity
 120
+100 %
 Foreign exchange
 40
+100 %
 4. Buckets used in the context of delta risk in Subsection 1 shall be used in the curvature risk context unless specified otherwise in this Chapter.
 5. For foreign exchange and equity curvature risk factors, the curvature risk weights shall be relative shifts equal to the delta risk weights referred to in Subsection 1.
 6. For general interest rate, credit spread and commodity curvature risk factors, the curvature risk weight shall be the parallel shift of all the vertices for each curve on the basis of the highest prescribed delta risk weight referred to in Subsection 1 for the relevant risk class.

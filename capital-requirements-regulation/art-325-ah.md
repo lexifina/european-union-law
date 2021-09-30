@@ -5,10 +5,11 @@ Table 4
 Bucket number
 Credit quality
 Sector
+Risk weight
 1
 All
-Central government, including central banks, of a Member State
-0,50 %
+Central government, including central banks, of Member States
+0,5 %
 2
 Credit quality step 1 to 3
 Central government, including central banks, of a third country, multilateral development banks and international organisations referred to in Article 117(2) or Article 118
@@ -32,11 +33,18 @@ Technology, telecommunications
 Health care, utilities, professional and technical activities
 1,5 %
 9
-Covered bonds issued by credit institutions in Member States
+Covered bonds issued by credit institutions established in Member States
 1,0 %
+10
+Credit quality step 1
+Covered bonds issued by credit institutions in third countries
+1,5 %
+Credit quality steps 2 to 3
+2,5 %
 11
-Credit quality step 4 to 6
+Credit quality step 4 to 6 and unrated
 Central government, including central banks, of a third country, multilateral development banks and international organisations referred to in Article 117(2) or Article 118
+2 %
 12
 Regional or local authority and public sector entities
 4,0 %
@@ -58,4 +66,10 @@ Health care, utilities, professional and technical activities
 18
 Other sector
 12,0 %
+19
+Listed credit indices with a majority of its individual constituents being investment grade
+1,5 %
+20
+Listed credit indices with a majority of its individual constituents being non-investment grade or unrated
+5 %
 2. To assign a risk exposure to a sector, institutions shall rely on a classification that is commonly used in the market for grouping issuers by sector. Institutions shall assign each issuer to only one of the sector buckets in Table 4. Risk exposures from any issuer that an institution cannot assign to a sector in such a manner shall be assigned to bucket 18 in Table 4.

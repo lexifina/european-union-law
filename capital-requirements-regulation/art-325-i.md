@@ -1,3 +1,20 @@
 # Article 325i
-Treatment of index instruments and multi-underlying options
-Institutions shall treat the index instruments and multi-underlying options in accordance with the delegated act referred to in Article 461a.
+Treatment of index instruments and other multi-underlying instruments
+1. Institutions shall use a look-through approach for index and other multi-underlying instruments in accordance with the following:
+(a) for the purposes of calculating the own funds requirements for delta and curvature risk, institutions shall consider that they hold individual positions directly in the underlying constituents of the index or other multi-underlying instruments, except for a position in an index included in the ACTP for which they shall calculate a single sensitivity to the index;
+(b) institutions are allowed to net the sensitivities to a risk factor of a given constituent of an index instrument or other multi-underlying instrument with the sensitivities to the same risk factor of the same constituent of single name instruments, except for positions included in the ACTP;
+(c) for the purposes of calculating the own funds requirements for vega risk, institutions may either consider that they directly hold individual positions in the underlying constituents of the index or other multi-underlying instrument, or calculate a single sensitivity to the underlying of that instrument. In the latter case, institutions shall assign the single sensitivity to the relevant bucket as set out in Subsection 1 of Section 6 as follows:
+(i) where, taking into account the weightings of that index, more than 75 % of constituents in that index would be mapped to the same bucket, institutions shall assign the sensitivity to that bucket and treat it as a single-name sensitivity in that bucket;
+(ii) in all other cases, institutions shall assign the sensitivity to the relevant index bucket.
+2. By way of derogation from point (a) of paragraph 1, institutions may calculate a single sensitivity to a position in a listed equity or credit index for the purposes of calculating the own funds requirements for delta and curvature risks provided the listed equity or credit index meets the conditions set out in paragraph 3. In that case, institutions shall assign the single sensitivity to the relevant bucket as set out in Subsection 1 of Section 6 as follows:
+(a) where, taking into account the weightings of that listed index, more than 75 % of constituents in that listed index would be mapped to the same bucket, that sensitivity shall be assigned to that bucket and treated as a single-name sensitivity in that bucket;
+(b) in all other cases, institutions shall assign the sensitivity to the relevant listed index bucket.
+3. Institutions may use the approach set out in paragraph 2 for instruments referencing a listed equity or credit index where all of the following conditions are met:
+(a) the constituents of the listed index and their respective weightings in that index are known;
+(b) the listed index contains at least 20 constituents;
+(c) no single constituent contained within the listed index represents more than 25 % of the total market capitalisation of that index;
+(d) no set comprising one tenth of the total number of constituents of the listed index, rounded up to the next integer, represents more than 60 % of the total market capitalisation of that index;
+(e) the total market capitalisation of all the constituents of the listed index is no less than EUR 40 billion.
+4. An institution shall use, consistently over time, only the approach set out in paragraph 1 or the approach set out in paragraph 2 for all the instruments that reference a listed equity or credit index that meets the conditions set out in paragraph 3. An institution shall require prior permission from the competent authority before switching from one approach to another.
+5. For an index or other multi-underlying instrument, the sensitivity inputs for the calculation of delta and curvature risks shall be consistent, irrespective of the approaches used for that instrument.
+6. Index or multi-underlying instruments which bear other residual risks as referred to in Article 325u(5) shall be subject to the residual risk add-on referred to in Section 4.
