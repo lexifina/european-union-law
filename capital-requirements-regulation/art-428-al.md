@@ -6,7 +6,7 @@
 2. Deferred tax liabilities and minority interests as referred to in paragraph 1 shall be subject to one of the following factors:
 (a) 0 %, where the effective residual maturity of the deferred tax liability or minority interest is less than one year;
 (b) 100 %, where the effective residual maturity of the deferred tax liability or minority interest is one year or more.
-3. The following liabilities shall be subject to a 0 % available stable funding factor:
+3. The following liabilities, and capital items or instruments shall be subject to a 0 % available stable funding factor:
 (a) trade date payables arising from purchases of financial instruments, of foreign currencies and of commodities, that are expected to settle within the standard settlement cycle or period that is customary for the relevant exchange or type of transaction, or that have failed to settle but are nonetheless expected to settle;
 (b) liabilities that are categorised as being interdependent with assets in accordance with Article 428f;
 (c) liabilities with a residual maturity of less than one year provided by:

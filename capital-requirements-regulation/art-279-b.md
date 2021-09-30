@@ -9,10 +9,10 @@ R
 the supervisory discount rate; R = 5 %;
 S
 =
-the period between the start date of a transaction and the reporting date, which shall be expressed in years using the relevant business day convention; and
+the period between the start date of a transaction and the reporting date, which shall be expressed in years using the relevant business day convention;
 E
 =
-the period between the end date of a transaction and the reporting date, which shall be expressed in years using the relevant business day convention.
+the period between the end date of a transaction and the reporting date, which shall be expressed in years using the relevant business day convention; and OneBusinessYear = one year expressed in business days using the relevant business day convention.
 The start date of a transaction is the earliest date at which at least a contractual payment under the transaction, to or from the institution, is either fixed or exchanged, other than payments related to the exchange of collateral in a margin agreement. Where the transaction has already been fixing or making payments at the reporting date, the start date of a transaction shall be equal to 0.
 Where a transaction involves one or more contractual future dates on which the institution or the counterparty may decide to terminate the transaction prior to its contractual maturity, the start date of a transaction shall be equal to the earliest of the following:
 (i) the date or the earliest of the multiple future dates at which the institution or the counterparty may decide to terminate the transaction earlier than its contractual maturity;

@@ -1,6 +1,6 @@
 # Article 325ay
 Vega and curvature risk correlations
-1. Between vega risk sensitivities within the same bucket of the general interest rate risk (GIRR) class, the correlation parameter rkl shall be set as follows:
+1. Between vega risk sensitivities within the same bucket of the general interest rate risk (GIRR) class, the correlation parameter ρkl shall be set as follows:.
 image
 where:
 image

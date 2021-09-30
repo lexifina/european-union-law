@@ -31,8 +31,7 @@ image
 where:
 Sb
 =
-Σk WSk for all risk factors in bucket b and Sc = Σk WSk in bucket c; where those values for Sb and Sc produce a negative number for the overall sum of
-image, the institution shall calculate the risk-class specific own funds requirements for delta or vega risk using an alternative specification whereby
+Σk WSk for all risk factors in bucket b and Sc = Σk WSk in bucket c; where those values for Sb and Sc produce a negative number for the overall sum of image, the institution shall calculate the risk-class specific own funds requirements for delta or vega risk using an alternative specification whereby
 Sb
 =
 max [min (Σk WSk, Kb), - Kb] for all risk factors in bucket b and

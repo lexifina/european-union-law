@@ -40,11 +40,8 @@ image
 the add-on for the commodity reference type k;
 image
 =
-the supervisory factor applicable to the commodity reference type k; where the commodity reference type k corresponds to transactions allocated to the hedging set referred to in point (e)(i) of Article 277a(1), excluding transactions concerning electricity,
-image
-; for transactions concerning electricity,
-image
-; and
+the supervisory factor applicable to the commodity reference type k;
+where the commodity reference type k corresponds to transactions allocated to the hedging set referred to in point (e) of Article 277a(1), excluding transactions concerning electricity,image; for transactions concerning electricity,image; and
 image
 =
 the effective notional amount of the commodity reference type k calculated as follows:

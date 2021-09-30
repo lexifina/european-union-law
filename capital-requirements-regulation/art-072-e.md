@@ -35,10 +35,11 @@ OPi
 the amount of own funds instruments issued by subsidiary i and held by the parent institution;
 LPi
 =
-the amount of eligible liabilities items issued by subsidiary i and held by the parent institution;
+the amount of eligible liabilities instruments issued by subsidiary i and held by the parent institution;
 β
 =
-percentage of own funds instruments and eligible liabilities items issued by subsidiary i and held by the parent undertaking;
+percentage of own funds instruments and eligible liabilities instruments issued by subsidiary i and held by the parent undertaking, calculated as:
+image;
 Oi
 =
 the amount of own funds of subsidiary i, not taking into account the deduction calculated in accordance with this paragraph;
@@ -47,7 +48,7 @@ Li
 the amount of eligible liabilities of subsidiary i, not taking into account the deduction calculated in accordance with this paragraph;
 ri
 =
-the ratio applicable to subsidiary i at the level of its resolution group in accordance with point (a) of Article 92a(1) of this Regulation and Article 45d of Directive 2014/59/EU; and
+the ratio applicable to subsidiary i at the level of its resolution group in accordance with point (a) of Article 92a(1) of this Regulation and point (a) of the first subparagraph of Article 45c(3) of Directive 2014/59/EU; and
 aRWAi
 =
 the total risk exposure amount of the G-SII entity i calculated in accordance with Article 92(3) and (4), taking into account the adjustments set out in Article 12a.

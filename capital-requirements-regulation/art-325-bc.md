@@ -3,7 +3,7 @@ Partial expected shortfall calculations
 1. Institutions shall calculate all the partial expected shortfall measures referred to in Article 325bb(1) as follows:
 (a) daily calculations of the partial expected shortfall measures;
 (b) at 97,5th percentile, one tailed confidence interval;
-(c) for a given portfolio of trading book positions, institution shall calculate the partial expected shortfall measure at time 't' accordance with the following formula:
+(c) for a given portfolio of trading book positions and non-trading book positions that are subject to foreign exchange or commodity risk, institutions shall calculate the partial expected shortfall measure at time 't' in accordance with the following formula:
 image
 where:
 PESt

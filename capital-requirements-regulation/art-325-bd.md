@@ -4,7 +4,7 @@ Liquidity horizons
 2. The liquidity horizon of a risk factor of the positions referred to in paragraph 1 shall be the liquidity horizon of the corresponding broad sub-category of risk factors to which it has been mapped.
 3. By way of derogation from paragraph 1 of this Article, for a given trading desk, an institution may decide to replace the liquidity horizon of a broad sub-category of risk factors listed in Table 2 of this Article with one of the longer liquidity horizons listed in Table 1 of Article 325bc. Where an institution takes such a decision, the longer liquidity horizon shall apply to all the modellable risk factors of the positions assigned to that trading desk that have been mapped to that broad sub-category of risk factors for the purpose of calculating the partial expected shortfall measures in accordance with point (c) of Article 325bc(1).
 An institution shall notify the competent authorities of the trading desks and the broad sub-categories of risk factors to which it decides to apply the treatment referred to in the first subparagraph.
-4. For the purpose of calculating the partial expected shortfall measures in accordance with point (c) of Article 325bc(1), the effective liquidity horizon of a given modellable risk factor of a given trading book position shall be calculated as follows:
+4. For the purpose of calculating the partial expected shortfall measures in accordance with point (c) of Article 325bc(1), the effective liquidity horizon of a given modellable risk factor of a given trading book position or a non-trading book position that is subject to foreign exchange or commodity risk shall be calculated as follows:
 EffectiveLH =
 left accolade
 SubCatLH if Mat > LH5

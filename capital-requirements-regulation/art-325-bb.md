@@ -1,6 +1,6 @@
 # Article 325bb
 Expected shortfall risk measure
-1. Institutions shall calculate the expected shortfall risk measure referred to in point (a) of Article 325ba(1) for any given date 't' and for any given portfolio of trading book positions as follows:
+1. Institutions shall calculate the expected shortfall risk measure referred to in point (a) of Article 325ba(1) for any given date 't' and for any given portfolio of trading book positions and non-trading book positions that are subject to foreign exchange or commodity risk as follows:
 image
 where:
 ESt

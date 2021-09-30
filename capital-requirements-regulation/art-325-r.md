@@ -104,7 +104,7 @@ CTYk
 the value of risk factor k;
 Vi (.)
 =
-the market value of instrument i as a function of risk factor k; and
+the pricing function of instrument i; and
 y, z
 =
 risk factors other than CTYk in the pricing model of instrument i.
@@ -122,7 +122,7 @@ FXk
 the value of the risk factor;
 Vi (.)
 =
-the market value of instrument i as a function of the risk factor k; and
+the pricing function of instrument i; and
 y, z
 =
 risk factors other than FXk in the pricing model of instrument i.

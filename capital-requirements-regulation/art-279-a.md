@@ -30,7 +30,7 @@ K
 the strike price of the option;
 T
 =
-the expiry date of the option; for options which can be exercised at one future date only, the expiry date is equal to that date; for options which can be exercised at multiple future dates, the expiry date is equal to the latest of those dates; the expiry date shall be expressed in years using the relevant business day convention; and
+the period between the expiry date of the option (Texp) and the reporting date; for options which can be exercised at one future date only, Texp is equal to that date; for options which can be exercised at multiple future dates, Texp is equal to the latest of those dates; T shall be expressed in years using the relevant business day convention; and
 σ
 =
 the supervisory volatility of the option determined in accordance with Table 1 on the basis of the risk category of the transaction and the nature of the underlying instrument of the option.

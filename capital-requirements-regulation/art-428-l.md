@@ -1,6 +1,6 @@
 # Article 428l
 50 % available stable funding factor
-The following liabilities shall be subject to a 50 % available stable funding factor:
+The following liabilities and capital items or instruments shall be subject to a 50 % available stable funding factor:
 (a) deposits received that fulfil the criteria for operational deposits set out in the delegated act referred to in Article 460(1);
 (b) liabilities with a residual maturity of less than one year provided by:
 (i) the central government of a Member State or of a third country;
@@ -13,4 +13,4 @@ The following liabilities shall be subject to a 50 % available stable funding fa
 (i) the ECB or the central bank of a Member State;
 (ii) the central bank of a third country;
 (iii) financial customers;
-(d) any other liabilities with a residual maturity of a minimum of six months but less than one year not referred to in Articles 428m, 428n and 428o.
+(d) any other liabilities and capital items or instruments with a residual maturity of a minimum of six months but less than one year not referred to in Articles 428m, 428n and 428o.
