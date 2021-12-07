@@ -1,18 +1,17 @@
 # Article 23a
 Financing provisions
-1. Without prejudice to paragraph 4 of this Article, the aid under the school scheme allocated for the distribution of products, the accompanying educational measures and the related costs referred to in Article 23(1) shall not exceed EUR 250 million per school year.
-Within that overall limit, the aid shall not exceed:
-(a) for school fruit and vegetables: EUR 150 million per school year;
-(b) for school milk: EUR 100 million per school year.
+1. Without prejudice to paragraph 4 of this Article, the aid under the school scheme allocated for the distribution of products, the accompanying educational measures and the related costs referred to in Article 23(1) shall not exceed EUR 220 804 135 per school year. Within that overall limit, the aid shall not exceed:
+(a) for school fruit and vegetables: EUR 130 608 466 per school year;
+(b) for school milk: EUR 90 195 669 per school year.
 2. The aid referred to in paragraph 1 shall be allocated to each Member State taking into account the following:
 (a) the number of six- to ten-year-old children in the Member State concerned;
 (b) the degree of development of the regions within the Member State concerned so as to ensure that higher aid is allocated to less developed regions and to the smaller Aegean Islands within the meaning of Article 1(2) of Regulation (EU) No 229/2013; and
 (c) for school milk, in addition to the criteria referred to in points (a) and (b), the historical use of the Union aid for the supply of milk and milk products to children.
 The allocations for the Member States concerned shall ensure that higher aid is allocated to the outermost regions listed in Article 349 TFEU in order to take into account the specific situation of those regions in the sourcing of products and to promote such sourcing between outermost regions that are in geographical proximity to each other.
-The allocations for school milk resulting from the application of the criteria laid down in this paragraph shall ensure that all Member States are entitled to receive at least a minimum amount of Union aid per child in the age group referred to in point (a) of the first subparagraph. That amount shall not be lower than the average use of Union aid per child across all Member States under the school milk scheme which applied prior to 1 August 2017.
+The allocations for school milk resulting from the application of the criteria laid down in this paragraph shall ensure that all Member States are entitled to receive at least a minimum amount of Union aid per child in the age group referred to in point (a) of the first subparagraph. -----
 Measures on the fixing of indicative and definitive allocations and on reallocation of Union aid for school fruit and vegetables and for school milk shall be taken by the Council in accordance with Article 43(3) TFEU.
 3. Member States wishing to participate in the school scheme shall submit every year their request for Union aid, specifying the amount requested for the school fruit and vegetables and the amount requested for the school milk that they wish to distribute.
-4. Without exceeding the overall limit of EUR 250 million laid down in paragraph 1, any Member State may transfer once per school year up to 20 % of either one or the other of its indicative allocations.
+4. Without exceeding the overall limit of EUR 220 804 135 laid down in paragraph 1, any Member State may transfer once per school year up to 20 % of either one or the other of its indicative allocations.
 That percentage may be increased up to 25 % for the Member States with outermost regions listed in Article 349 TFEU and in other duly justified cases, such as where a Member State needs to address a specific market situation in the sector covered by the school scheme, its particular concerns regarding low consumption of either one of the groups of products, or other societal changes.
 Transfers may be made either:
 (a) prior to the fixing of definitive allocations for the following school year, between the Member State's indicative allocations; or

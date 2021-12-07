@@ -1,0 +1,5 @@
+# Article 147a
+Payment delays for sales of wine in bulk
+By way of derogation from Article 3(1) of Directive (EU) 2019/633, Member States may, upon request of an interbranch organisation recognised under Article 157 of this Regulation operating in the wine sector, provide that the prohibition referred to in Article 3(1), first subparagraph, point (a), of Directive (EU) 2019/633 does not apply to payments made under supply agreements between producers or resellers of wine and their direct buyers for sales transactions concerning wine in bulk, provided that:
+(a) specific terms that allow payments to be made after 60 days are included in standard contracts for sales transactions concerning wine in bulk which have been made binding by the Member State pursuant to Article 164 of this Regulation before 30 October 2021 and this extension of the standard contracts is renewed by the Member State as from that date without any significant changes to the terms of payment that would be to the disadvantage of suppliers of wine in bulk; and
+(b) the supply agreements between suppliers of wine in bulk and their direct buyers are multiannual or become multiannual.

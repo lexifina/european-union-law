@@ -1,0 +1,3 @@
+# Article 172b
+Guidance by interbranch organisations for the sale of grapes for wines with a protected designation of origin or protected geographical indication
+By way of derogation from Article 101(1) TFEU, interbranch organisations recognised under Article 157 of this Regulation operating in the wine sector may provide non-mandatory price guidance indicators concerning the sale of grapes for the production of wines with a protected designation of origin or protected geographical indication, provided that such guidance does not eliminate competition in respect of a substantial proportion of the products in question.
