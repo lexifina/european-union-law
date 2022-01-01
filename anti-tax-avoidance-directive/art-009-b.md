@@ -1,0 +1,3 @@
+# Article 9b
+Tax residency mismatches
+To the extent that a deduction for payment, expenses or losses of a taxpayer who is resident for tax purposes in two or more jurisdictions is deductible from the tax base in both jurisdictions, the Member State of the taxpayer shall deny the deduction to the extent that the other jurisdiction allows the duplicate deduction to be set off against income that is not dual-inclusion income. If both jurisdictions are Member States, the Member State where the taxpayer is not deemed to be a resident according to the double taxation treaty between the two Member States concerned shall deny the deduction.

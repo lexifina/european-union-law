@@ -1,0 +1,4 @@
+# Article 9a
+Reverse hybrid mismatches
+1. Where one or more associated non-resident entities holding in aggregate a direct or indirect interest in 50 per cent or more of the voting rights, capital interests or rights to a share of profit in a hybrid entity that is incorporated or established in a Member State are located in a jurisdiction or jurisdictions that regard the hybrid entity as a taxable person, the hybrid entity shall be regarded as a resident of that Member State and taxed on its income to the extent that that income is not otherwise taxed under the laws of the Member State or any other jurisdiction.
+2. Paragraph 1 shall not apply to a collective investment vehicle. For the purposes of this Article, 'collective investment vehicle' means an investment fund or vehicle that is widely held, holds a diversified portfolio of securities and is subject to investor-protection regulation in the country in which it is established.
