@@ -1,0 +1,3 @@
+# Article 141c
+Failure to meet the leverage ratio buffer requirement
+An institution shall be considered as failing to meet the leverage ratio buffer requirement for the purposes of Article 141b of this Directive where it does not have Tier 1 capital in the amount needed to meet at the same time the requirement laid down in Article 92(1a) of Regulation (EU) No 575/2013 and the requirement laid down in point (d) of Article 92(1) of that Regulation and in point (a) of Article 104(1) of this Directive when addressing the risk of excessive leverage not sufficiently covered by point (d) of Article 92(1) of Regulation (EU) No 575/2013.
