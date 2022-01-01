@@ -1,0 +1,6 @@
+# Article 9a
+1. Member States may apply reduced rates of duty to wine produced by independent small wine producers within the following limits:
+- the reduced rates shall not be applied to undertakings producing on average more than 1 000 hl or, in the case of the Republic of Malta, on average more than 20 000 hl of wine per year,
+- the reduced rates shall not be set more than 50 % below the standard national rate of excise duty.
+2. For the purposes of the reduced rates the term 'independent small wine producer' shall mean a wine producer which is legally and economically independent of any other wine producer, which uses premises situated physically apart from those of any other wine producer and does not operate under licence. However, where two or more small wine producers cooperate, and their combined annual production does not exceed 1 000 hl or 20 000 hl, as appropriate, those wine producers may be treated as a single independent small wine producer.
+3. Member States shall ensure that any reduced rates they may introduce apply equally to wine delivered into their territory from independent small wine producers situated in other Member States. In particular they shall ensure that no individual delivery from another Member State ever bears more duty than their exact national equivalent.
