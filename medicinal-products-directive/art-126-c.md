@@ -1,0 +1,9 @@
+# Article 126c
+1. By way of derogation from Article 126a, until 31 December 2024, in the absence of a marketing authorisation or of a pending application for a marketing authorisation the competent authorities of Cyprus and Malta may authorise for justified public health reasons the placing on their national market of a medicinal product authorised in parts of the United Kingdom other than Northern Ireland.
+The competent authorities of Cyprus and Malta may also maintain in force or, until 31 December 2024, extend marketing authorisations that were granted pursuant to Article 126a before 20 April 2022 which authorise the placing on their national market of a medicinal product authorised in parts of the United Kingdom other than Northern Ireland.
+Authorisations that are granted, extended or maintained in force pursuant to the first or second subparagraph shall not be valid after 31 December 2026.
+2. By way of derogation from Article 8(2), the competent authorities of Malta and Cyprus may grant marketing authorisations as referred to in paragraph 1 of this Article to marketing authorisation holders established in parts of the United Kingdom other than Northern Ireland.
+3. Where the competent authorities of Cyprus or Malta grant or extend a marketing authorisation as referred to in paragraph 1, they shall ensure compliance with the requirements of this Directive.
+4. Before granting a marketing authorisation pursuant to paragraph 1, the competent authorities of Cyprus or Malta:
+(a) shall notify the marketing authorisation holder in parts of the United Kingdom other than Northern Ireland of the proposal to grant a marketing authorisation or to extend a marketing authorisation under this Article in respect of the medicinal product concerned;
+(b) may request the competent authority in the United Kingdom to submit the relevant information regarding the marketing authorisation of the medicinal product concerned.

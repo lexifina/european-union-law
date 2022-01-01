@@ -1,0 +1,5 @@
+# Article 5a
+By way of derogation from Article 6, the competent authorities of the United Kingdom in respect of Northern Ireland may temporarily authorise the supply to patients in Northern Ireland of a medicinal product belonging to the categories referred to in Article 3(1) and (2) of Regulation (EC) No 726/2004 provided that all of the following conditions are fulfilled:
+(a) the medicinal product concerned has been granted a marketing authorisation by the competent authority of the United Kingdom for parts of the United Kingdom other than Northern Ireland;
+(b) the medicinal product concerned is only made available to patients or end-consumers in the territory of Northern Ireland and is not made available in any Member State.
+The maximum validity of the temporary authorisation shall be six months. Notwithstanding the specified validity, the temporary authorisation shall cease to be valid if the medicinal product concerned has been granted a marketing authorisation in accordance with Article 10 of Regulation (EC) No 726/2004, or if such marketing authorisation has been refused in accordance with that Article.

@@ -1,0 +1,2 @@
+# Article 127c
+The derogations set out in Article 8(2a) and(2b), Article 18a, Article 20, second paragraph, Article 40(1a) and (3a), Article 48(3), Article 104(3a) and Article 126c shall not affect the obligations of the marketing authorisation holder to ensure the quality, safety and efficacy of the medicinal product placed on the markets of Cyprus, Ireland, Malta or Northern Ireland laid down in this Directive.
