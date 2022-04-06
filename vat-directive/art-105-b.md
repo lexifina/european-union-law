@@ -1,0 +1,5 @@
+# Article 105b
+Member States which, in accordance with Union law, on 1 January 2021, were applying reduced rates not lower than the minimum of 5 % to transactions regarding housing not being part of a social policy, may, in accordance with Article 98(1), first subparagraph, continue to apply those reduced rates. In such a case, the reduced rates to be applied to such transactions shall as of 1 January 2042 not be lower than 12 %.
+Member States shall communicate to the VAT Committee the text of the main provisions of national law and conditions for the application of the reduced rates referred to in the first paragraph no later than 7 July 2022.
+A reduced rate not lower than 12 % may be applied by other Member States, in accordance with Article 98(1), first subparagraph, to the transactions referred to in the first paragraph of this Article under the same conditions as those applicable on 1 January 2021 in the Member States referred to in the first paragraph of this Article.
+For the purposes of Article 98(1), third subparagraph, the transactions referred to in this Article shall be regarded as falling under Annex III, point (10).
