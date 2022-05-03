@@ -1,0 +1,7 @@
+# Article 13a
+Payment under reservation
+1. In the case of a disagreement between a Member State and the Commission concerning amounts of traditional own resources due to the budget of the Union or concerning VAT amounts subject to the measures referred to in Article 12(2), point (c), the Member State may, when making a payment of the contested amount, express reservations as to the position of the Commission.
+Member States shall provide information about those reservations, for the amounts related to traditional own resources, together with their monthly statement referred to in Article 6(4) and, for the amounts related to VAT own resource, together with their statement referred to in Article 10b(1). Member States shall notify the lifting of reservations to the Commission as soon as possible.
+2. If a disagreement as referred to in paragraph 1 is resolved in favour of the Member State, that Member State shall be authorised by the Commission to deduct the amount paid from its next own resources payment or payments.
+3. Entry in the account under Article 9 of the payment under reservation shall interrupt the period for which interest accrues, as referred to in Article 12.
+4. By the end of September of each year, the Commission shall provide an annual information note showing the overview of the total amount paid under reservation and the total amount of reservations lifted during the preceding year.
