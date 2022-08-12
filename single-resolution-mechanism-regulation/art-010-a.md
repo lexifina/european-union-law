@@ -35,4 +35,4 @@ minus
 The lower and upper bounds of each quartile of the combined buffer requirement shall be calculated as follows:
 image
 image
-where 'Qn' = the ordinal number of the quartile concerned.
+where 'Qn ' = the ordinal number of the quartile concerned.
