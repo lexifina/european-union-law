@@ -1,0 +1,5 @@
+# Article 10a
+1. Member States shall require that small EC B packages:
+(a) bear on the outside in accordance with Annex IV (B) a supplier's label, a printed notice or stamp in one of the official languages of the Community; in the case of transparent packages this label may be placed inside, provided it can be read through the package; as regards the colour of the label, Article 10 (1) (a) shall apply;
+(b) bear on the outside or on the supplier's label provided for in subparagraph (a) an officially assigned serial number; should an official adhesive label be used, Article 10 (1) (a) shall apply as regards its colour; the methods of attaching the said serial number may be fixed in accordance with the procedure laid down under Article 21.
+2. Member States may require that an official adhesive label containing part of the information prescribed in Annex IV (B) is used for the marking of small EC B packages packed in their territory; insofar as the information is given on such label, the marking provided for in paragraph 1 (a) shall not be required.
