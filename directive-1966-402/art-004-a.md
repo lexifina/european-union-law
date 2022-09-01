@@ -1,0 +1,7 @@
+# Article 4a
+1. Notwithstanding Article 3(1), Member States may authorise producers in their own territory to place on the market:
+(a) small quantities of seed for, scientific purposes or selection work;
+(b) appropriate quantities of seed for other test or trial purposes, provided it belongs to varieties for which an application for entry in the catalogue has been submitted in the Member State in question.
+In the case of genetically modified material, such authorisation may be granted only if all appropriate measures have been taken to avoid adverse effects on human health and the environment. For the environmental risk assessment to be carried out in this respect, the provisions of Article 7(4) of Directive 70/457/EEC shall apply accordingly.
+2. The purposes for which the authorities referred to in paragraph 1(b) may be given, the provisions relating to the marking of packages, and the quantities and the conditions under which Member States may grant such authorisation shall be determined in accordance with the procedure laid down in Article 21.
+3. Authorisations granted before the date of adoption of this Directive by Member States to producers in their own territory for the purposes set out in paragraph 1 shall remain in force pending determination of the provisions referred to in paragraph 2. Thereafter, all such authorisations shall respect the provisions established in accordance with paragraph 2.
