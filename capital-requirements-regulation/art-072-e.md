@@ -24,8 +24,8 @@ the amount of liabilities included in eligible liabilities items by the issuing 
 Li
 =
 the total amount of the outstanding liabilities of the issuing institution i referred to in Article 72b(3) according to the latest disclosures by the issuer.
-4. Where an EU parent institution or a parent institution in a Member State that is subject to Article 92a has direct, indirect or synthetic holdings of own funds instruments or eligible liabilities instruments of one or more subsidiaries which do not belong to the same resolution group as that parent institution, the resolution authority of that parent institution, after duly considering the opinion of the resolution authorities of any subsidiaries concerned, may permit the parent institution to deduct such holdings by deducting a lower amount specified by the resolution authority of that parent institution. That adjusted amount shall be at least equal to the amount (m) calculated as follows:
-mi = max{0; OPi + LPi - max{0; β · [Oi + Li - ri · aRWAi]}}
+4. Where an EU parent institution or a parent institution in a Member State that is subject to Article 92a has direct, indirect or synthetic holdings of own funds instruments or eligible liabilities instruments of one or more subsidiaries which do not belong to the same resolution group as that parent institution, the resolution authority of that parent institution, after duly considering the opinion of the resolution authorities or relevant third-country authorities of any subsidiaries concerned, may permit the parent institution to deduct such holdings by deducting a lower amount specified by the resolution authority of that parent institution. That adjusted amount shall be at least equal to the amount (m) calculated as follows:
+mi = max{0; OPi + LPi - max{0; β · [Oi + Li - max{ri · aRWAi; wi · aLREi}]}}
 where:
 i
 =
@@ -38,8 +38,9 @@ LPi
 the amount of eligible liabilities instruments issued by subsidiary i and held by the parent institution;
 β
 =
-percentage of own funds instruments and eligible liabilities instruments issued by subsidiary i and held by the parent undertaking, calculated as:
-image;
+percentage of own funds instruments and eligible liabilities instruments issued by subsidiary i and held by the parent undertaking, calculated as follows:
+image
+;
 Oi
 =
 the amount of own funds of subsidiary i, not taking into account the deduction calculated in accordance with this paragraph;
@@ -48,8 +49,14 @@ Li
 the amount of eligible liabilities of subsidiary i, not taking into account the deduction calculated in accordance with this paragraph;
 ri
 =
-the ratio applicable to subsidiary i at the level of its resolution group in accordance with point (a) of Article 92a(1) of this Regulation and point (a) of the first subparagraph of Article 45c(3) of Directive 2014/59/EU; and
+the ratio applicable to subsidiary i at the level of its resolution group in accordance with Article 92a(1), point (a), of this Regulation and Article 45c(3), first subparagraph, point (a), of Directive 2014/59/EU or, for third-country subsidiaries, an equivalent resolution requirement applicable to subsidiary i in the third country where it has its head office, insofar as that requirement is met with instruments that would be considered own funds or eligible liabilities under this Regulation;
 aRWAi
 =
-the total risk exposure amount of the G-SII entity i calculated in accordance with Article 92(3) and (4), taking into account the adjustments set out in Article 12a.
+the total risk exposure amount of the G-SII entity i calculated in accordance with Article 92(3), taking into account the adjustments set out in Article 12a or, for third-country subsidiaries, calculated in accordance with the applicable local regulations;
+wi
+=
+the ratio applicable to subsidiary i at the level of its resolution group in accordance with Article 92a(1), point (b), of this Regulation and of Article 45c(3), first subparagraph, point (b), of Directive 2014/59/EU or, for third-country subsidiaries, an equivalent resolution requirement applicable to subsidiary i in the third country where it has its head office, insofar as that requirement is met with instruments that would be considered own funds or eligible liabilities under this Regulation;
+aLREi
+=
+the total exposure measure of the G-SII entity i calculated in accordance with Article 429(4) or, for third-country subsidiaries, calculated in accordance with the applicable local regulations.
 Where the parent institution is allowed to deduct the adjusted amount in accordance with the first subparagraph, the difference between the amount of holdings of own funds instruments and eligible liabilities instruments referred to in the first subparagraph and that adjusted amount shall be deducted by the subsidiary.
