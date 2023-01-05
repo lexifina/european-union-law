@@ -1,0 +1,4 @@
+# Article 29d
+Single electronic reporting format
+1. Undertakings subject to the requirements of Article 19a of this Directive shall prepare their management report in the electronic reporting format specified in Article 3 of Commission Delegated Regulation (EU) 2019/815 and shall mark up their sustainability reporting, including the disclosures provided for in Article 8 of Regulation (EU) 2020/852, in accordance with the electronic reporting format specified in that Delegated Regulation.
+2. Parent undertakings subject to the requirements of Article 29a shall prepare their consolidated management report in the electronic reporting format specified in Article 3 of Delegated Regulation (EU) 2019/815 and shall mark up their sustainability reporting, including the disclosures provided for in Article 8 of Regulation (EU) 2020/852, in accordance with the electronic reporting format specified in that Delegated Regulation.
