@@ -1,0 +1,3 @@
+# Article 32a
+Meaning of sustainable for the income capacity of the institution for the purposes of Article 78a(1), point (a), of Regulation (EU) No 575/2013
+Sustainable for the income capacity of the institution under Article 78a(1), point (a), of Regulation (EU) No 575/2013 shall mean that the profitability of the institution, as assessed by the resolution authority, continues to be sound or does not see any negative change after the replacement of the eligible liabilities instruments with own funds or eligible liabilities instruments of equal or higher quality, at that date and for the foreseeable future. The resolution authority's assessment shall take into account the institution's profitability in stress situations.
