@@ -1,9 +1,9 @@
 # Article 29a
 Measures in the event of excessive price fluctuations
-1. If, for more than six consecutive months, the allowance price is more than three times the average price of allowances during the two preceding years on the European carbon market, the Commission shall immediately convene a meeting of the Committee established by Article 9 of Decision No 280/2004/EC.
-2. If the price evolution referred to in paragraph 1 does not correspond to changing market fundamentals, one of the following measures may be adopted, taking into account the degree of price evolution:
-(a) a measure which allows Member States to bring forward the auctioning of a part of the quantity to be auctioned;
-(b) a measure which allows Member States to auction up to 25 % of the remaining allowances in the new entrants reserve.
-Those measures shall be adopted in accordance with the management procedure referred to in Article 23(4).
-3. Any measure shall take utmost account of the reports submitted by the Commission to the European Parliament and to the Council pursuant to Article 29, as well as any other relevant information provided by Member States.
-4. The arrangements for the application of these provisions shall be laid down in the acts referred to in Article 10(4).
+1. If the average allowance price for the six preceding calendar months is more than 2,4 times the average allowance price for the preceding two-year reference period, 75 million allowances shall be released from the market stability reserve in accordance with Article 1(7) of Decision (EU) 2015/1814.
+The allowance price referred to in the first subparagraph of this paragraph shall, for allowances covered by Chapters II and III, be the price of auctions carried out in accordance with the delegated acts adopted pursuant to Article 10(4).
+The preceding two-year reference period referred to in the first subparagraph shall be the two-year period that ends before the first month of the period of six calendar months referred to in that subparagraph.
+Where the condition in the first subparagraph of this paragraph is met and paragraph 2 is not applicable, the Commission shall publish a notice to that effect in the Official Journal of the European Union indicating the date on which the condition was fulfilled.
+The Commission shall publish within the first three working days of each month the average allowance price for the preceding six calendar months and the average allowance price for the preceding two-year reference period. If the condition referred to in the first subparagraph is not met, the Commission shall also publish the level that the average allowance price would have to reach in the next month in order to meet the condition referred to in that subparagraph.
+2. When the condition for release of allowances from the market stability reserve pursuant to paragraph 1 has been met, the condition referred to in that paragraph shall not be considered to have been met again until at least twelve months after the end of the previous release.
+3. The detailed arrangements for the application of the measures referred to in paragraphs 1 and 2 of this Article shall be laid down in the delegated acts referred to in Article 10(4).

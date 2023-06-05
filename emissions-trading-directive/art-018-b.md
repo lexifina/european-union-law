@@ -1,3 +1,4 @@
 # Article 18b
-Assistance from Eurocontrol
-For the purposes of carrying out its obligations under Articles 3c(4) and 18a, the Commission may request the assistance of Eurocontrol or another relevant organisation and may conclude to that effect any appropriate agreements with those organisations.
+Assistance from the Commission, EMSA and other relevant organisations
+1. For the purposes of carrying out its obligations under Article 3c(4) and Articles 3g, 3gd, 3ge, 3gf, 3gg and 18a, the Commission, the administering Member State and administering authorities in respect of a shipping company may request the assistance of EMSA or another relevant organisation and may conclude to that effect any appropriate agreements with those organisations.
+2. The Commission, assisted by EMSA, shall endeavour to develop appropriate tools and guidance to facilitate and coordinate verification and enforcement activities related to the application of this Directive to maritime transport. As far as practicable, such guidance and tools shall be made available to the Member States and the verifiers for information-sharing purposes and in order to better ensure robust enforcement of the national measures transposing this Directive.

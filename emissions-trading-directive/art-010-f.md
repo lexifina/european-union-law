@@ -1,0 +1,3 @@
+# Article 10f
+'Do no significant harm' principle
+From 1 January 2025, the beneficiary Member States and the Commission shall use the revenues generated from the auctioning of allowances destined for the Innovation Fund pursuant to Article 10a(8) of this Directive, and of the allowances referred to in Article 10(1), third and fourth subparagraphs, of this Directive in accordance with the 'do no significant harm' criteria set out in Article 17 of Regulation (EU) 2020/852, where such revenues are used for an economic activity for which technical screening criteria for determining whether an economic activity causes significant harm to one or more of the relevant environmental objectives have been established pursuant to Article 10(3), point (b), of that Regulation.
