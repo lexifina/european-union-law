@@ -1,0 +1,3 @@
+# Article 30i
+Review of this Chapter
+By 1 January 2028, the Commission shall report to the European Parliament and to the Council on the implementation of the provisions of this Chapter with regard to their effectiveness, administration and practical application, including on the application of the rules under Decision (EU) 2015/1814. Where appropriate, the Commission shall accompany that report with a legislative proposal to amend this Chapter. By 31 October 2031, the Commission shall assess the feasibility of integrating the sectors covered by Annex III to this Directive into the EU ETS covering the sectors listed in Annex I to this Directive.

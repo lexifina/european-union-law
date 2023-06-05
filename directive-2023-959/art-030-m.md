@@ -1,0 +1,9 @@
+# Article 30m
+Information, communication and publicity
+1. The Commission shall ensure the visibility of funding from EU ETS auctioning revenues referred to in Article 10a(8) by:
+(a) ensuring that the beneficiaries of such funding acknowledge the origin of those funds and ensure the visibility of the Union funding, in particular when promoting the projects and their results, by providing coherent, effective and proportionate targeted information to multiple audiences, including the media and the public; and
+(b) ensuring that the recipients of such funding use an appropriate label that reads '(co-)funded by the EU Emissions Trading System (the Innovation Fund)', as well as the emblem of the Union and the amount of funding; where the use of that label is not feasible, the Innovation Fund shall be mentioned in all communication activities, including on notice boards at strategic places visible to the public.
+The Commission shall in the delegated act referred to in Article 10a(8) set out the necessary requirements to ensure the visibility of funding from the Innovation Fund, including a requirement to mention that Fund.
+2. Member States shall ensure the visibility of funding from EU ETS auctioning revenues referred to in Article 10d corresponding to what is referred to in paragraph 1, first subparagraph, points (a) and (b), of this Article, including through a requirement to mention the Modernisation Fund.
+3. Taking into account national circumstances, the Member States shall endeavour to ensure the visibility of the source of the funding of actions or projects funded from the EU ETS auctioning revenues of which they determine the use in accordance with Article 3d(4), Article 10(3) and Article 30d(6).
+(31) Annexes I, IIb, IV and V to Directive 2003/87/EC are amended in accordance with Annex I to this Directive, and Annexes III and IIIa are inserted in Directive 2003/87/EC as set out in Annex I to this Directive.
