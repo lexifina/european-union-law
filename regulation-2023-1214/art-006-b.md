@@ -1,0 +1,51 @@
+# Article 6b
+1. Consistent with respect for the confidentiality of communications between lawyers and their clients guaranteed in Article 7 of the Charter of Fundamental Rights of the European Union and, where applicable, without prejudice to rules regarding the confidentiality of information held by judicial authorities, natural and legal persons, entities and bodies shall:
+(a) supply any information which would facilitate the implementation of this Regulation to the competent authority of the Member State where they are resident or located within two weeks of acquiring this information; and
+(b) cooperate with the competent authority in any verification of such information.
+2. The Member State concerned shall transmit to the Commission any relevant information received pursuant to paragraph 1 within one month of receiving it. The Member State concerned may transmit such information in an anonymised form if an investigating or judicial authority has declared it to be confidential in the context of pending criminal investigations or criminal judicial proceedings.
+3. Any additional information received directly by the Commission shall be made available to the Member States.
+4. Any information provided to or received by the competent authorities of the Member States in accordance with this Article shall be used by those authorities only for the purposes for which it was provided or received.'
+;
+(27) in Article 12a, paragraphs 2 and 3 are replaced by the following:
+'2. For the purposes of this Regulation, the Commission is designated as 'controller' within the meaning of Article 3(8) of Regulation (EU) 2018/1725 in relation to the processing activities necessary to accomplish the tasks referred to in paragraph 1.
+3. The competent authorities of the Member States, including enforcement authorities, customs authorities within the meaning of Regulation (EU) No 952/2013 of the European Parliament and of the Council, competent authorities within the meaning of Regulation (EU) No 575/2013, Directive (EU) 2015/849 of the European Parliament and of the Council and Directive 2014/65/EU, as well as administrators of official registers wherein natural persons, legal persons, entities and bodies as well as immovable or movable property are registered, shall process and exchange without delay information, including personal data and, if necessary, the information referred to in Article 6b(1), with other competent authorities of their Member State, of other Member States and the Commission, if such processing and exchange is necessary to carry out the tasks of the processing authority or the receiving authority under this Regulation, in particular when they detect instances of a breach or circumvention, or attempts at a breach or circumvention of the prohibitions set out in this Regulation. This provision is without prejudice to rules regarding the confidentiality of information held by judicial authorities.
+(28) Article 12b is amended as follows:
+(a) in paragraph 1, the introductory wording is replaced by the following:
+'1. By way of derogation from Articles 2, 2a, 3, 3b, 3c, 3f, 3h and 3k, the competent authorities may authorise the sale, supply or transfer of goods and technologies listed in Annexes II, VII, X, XI, XVI, XVIII, XX and XXIII to this Regulation and in Annex I to Regulation (EU) 2021/821 as well as the sale, licensing or transfer in any other way of intellectual property rights or trade secrets as well as granting rights to access or re-use any material or information protected by means of intellectual property rights or constituting trade secrets, related to the goods and technology mentioned above until 31 December 2023, where such sale, supply, transfer, licensing, granting rights to access or re-use is strictly necessary for the divestment from Russia or the wind-down of business activities in Russia, provided that the following conditions are fulfilled:'
+;
+(b) the following paragraph is inserted:
+'1a. By way of derogation from Article 3, the competent authorities may authorise the sale, supply or transfer of goods and technologies listed in Annex II until 31 March 2024, where such sale, supply or transfer is strictly necessary for the divestment from a joint venture incorporated or constituted under the law of a Member State before 24 February 2022, involving a Russian legal person, entity or body, and operating a gas pipeline infrastructure between Russia and third countries.'
+;
+(c) in paragraph 2a, the introductory wording is replaced by the following:
+'2a. By way of derogation from Article 5n, the competent authorities may authorise the continuation of the provision of services listed therein until 31 March 2024 where such provision of services is strictly necessary for the divestment from Russia or the wind-down of business activities in Russia, provided that the following conditions are fulfilled:'
+;
+(d) the following paragraph is inserted:
+'2b. By way of derogation from Article 5n(2), the competent authorities may authorise the provision, until 31 March 2024, of legal advisory services which are legally required for the completion of a sale or transfer of proprietary rights directly or indirectly owned by legal persons, entities or bodies established in Russia in a legal person, entity or body established in the Union.'
+;
+(e) paragraph 3 is replaced by the following:
+'3. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraphs 1, 1a, 2, 2a or 2b within two weeks of the authorisation.'
+;
+(29) the following Article is inserted:
+'Article 12f
+1. It shall be prohibited to sell, supply, transfer or export, directly or indirectly, goods and technology as listed in Annex XXXIII, whether or not originating in the Union, to any natural or legal person, entity or body in the third country specified in that Annex.
+2. It shall be prohibited to:
+(a) provide technical assistance, brokering services or other services related to the goods and technology referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods and technology, directly or indirectly to any natural or legal person, entity or body in the third country specified;
+(b) provide financing or financial assistance related to the goods and technology referred to in paragraph 1 for any sale, supply, transfer or export of those goods and technology, or for the provision of related technical assistance, brokering services or other services, directly or indirectly to any natural or legal person, entity or body in the third country specified;
+(c) sell, license or transfer in any other way intellectual property rights or trade secrets as well as grant rights to access or re-use any material or information protected by means of intellectual property rights or constituting trade secrets related to the goods and technology referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods and technology, directly or indirectly to any natural or legal person, entity or body in the third country specified.
+3. Annex XXXIII shall only include sensitive dual-use goods and technology, or goods and technology that might contribute to the enhancement of Russia's military, technological or industrial capacities or to the development of Russia's defence and security sector, in a way that strengthens its ability to wage war, and whose export to Russia is prohibited under this Regulation and that present a high and continuous risk of being sold, supplied, transferred or exported from third countries to Russia after being sold, supplied, transferred or exported from the Union. Annex XXXIII shall specify, for each item of listed goods or technology, the third countries to which the sale, supply, transfer or export is prohibited. Annex XXXIII shall only include third countries that have been identified by the Council as having systematically and persistently failed to prevent the sale, supply, transfer or export to Russia of goods and technology, as listed in that Annex, exported from the Union, despite the Union's prior outreach and assistance to the country in question.
+4. If the sale, supply, transfer or export of goods or technology listed in Annex XXXIII to a natural or legal person, entity or body in Russia or for use in Russia is not prohibited under certain exemptions provided for in this Regulation, their sale, supply, transfer or export to a natural or legal person, entity or body in the third country specified shall not be prohibited, provided that the same conditions applicable under this Regulation for export to Russia or for use in Russia are fulfilled.
+5. If the sale, supply, transfer or export of goods or technology listed in Annex XXXIII to a natural or legal person, entity or body in Russia or for use in Russia can be authorised by the competent authorities in accordance with this Regulation, their sale, supply, transfer or export to a natural or legal person, entity or body in the third country specified may be authorised by the competent authorities under the same conditions applicable to derogations for exports to Russia or for use in Russia.'
+;
+(30) Annex IV is amended in accordance with Annex I to this Regulation;
+(31) Annex VII is amended in accordance with Annex II to this Regulation;
+(32) Annex VIII is amended in accordance with Annex III to this Regulation.
+(33) Annex XV is amended in accordance with Annex IV to this Regulation.
+This point shall apply in respect of one or several of the entities referred to in Annex IV to this Regulation as from 1 October 2023 and provided that the Council, having examined the respective cases, so decides by implementing act;
+(34) Annex XVII is amended in accordance with Annex V to this Regulation;
+(35) Annex XVIII is amended in accordance with Annex VI to this Regulation;
+(36) Annex XXI is amended in accordance with Annex VII to this Regulation;
+(37) Annex XXII is deleted;
+(38) Annex XXIII is amended in accordance with Annex VIII to this Regulation;
+(39) Annex XXIX is amended in accordance with Annex IX to this Regulation;
+(40) Annex XXXIII is added in accordance with Annex X to this Regulation;
+(41) Annex XXXV is added in accordance with Annex XI to this Regulation.
