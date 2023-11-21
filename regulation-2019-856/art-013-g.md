@@ -1,0 +1,4 @@
+# Article 13g
+Technical assistance provided to Member States with a low level of effective participation
+1. Member States with the lowest ratio based on the Innovation Fund support received by projects on their territory compared with their share of EU ETS verified emissions in 2013-2020 may be eligible for technical assistance provided by the Commission in accordance with Article 10a(8), fourteenth subparagraph, of the Directive 2003/87/EC.
+2. The maximum amount of the Innovation Fund support available for technical assistance as well as the list of Member States eligible for technical assistance shall be determined by the Commission after consulting the Member States in accordance with Article 21(2)(d). The list of eligible Member States shall be updated at least once every two years thereafter.
