@@ -1,0 +1,3 @@
+# Article 18a
+Review
+By 31 December 2028, on the basis of the latest Commission report prepared in accordance with Article 17(4), the Commission shall review Article 6a, Article 7 and Annexes III and IV, and may, where appropriate, submit a proposal for amendment. In particular, the Commission may, on the basis of the progress made with regard to the availability and the accessibility of data and in the deployment of services, and taking into account their increased use through ITS applications, propose to adapt the geographical coverage of certain data types and services and add data types and services considered crucial for the further deployment of ITS.
