@@ -1,0 +1,4 @@
+# Article 3f
+Information on implementation
+1. Competent authorities shall inform the Commission of substantial practical difficulties in enforcement of the provisions of this Chapter or non-compliance with the provisions of this Chapter by Union or third-country intermediaries.
+2. The Commission shall, in close cooperation with ESMA and the European Supervisory Authority (European Banking Authority), established by Regulation (EU) No 1093/2010 of the European Parliament and of the Council, submit a report to the European Parliament and to the Council on the implementation of this Chapter, including its effectiveness, difficulties in practical application and enforcement, while taking into account relevant market developments at the Union and international level. The report shall also address the appropriateness of the scope of application of this Chapter in relation to third-country intermediaries. The Commission shall publish the report by 10 June 2023.
