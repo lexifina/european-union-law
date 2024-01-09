@@ -1,0 +1,45 @@
+# Article 45f
+Application of the minimum requirement for own funds and eligible liabilities to entities that are not themselves resolution entities
+1. Institutions that are subsidiaries of a resolution entity or of a third-country entity, but are not themselves resolution entities, shall comply with the requirements laid down in Article 45c on an individual basis.
+A resolution authority, after consulting the competent authority, may decide to apply the requirement laid down in this Article to an entity referred to in points (b), (c) or (d) of Article 1(1) that is a subsidiary of a resolution entity but is not itself a resolution entity.
+By way of derogation from the first subparagraph of this paragraph, Union parent undertakings that are not themselves resolution entities, but are subsidiaries of third-country entities, shall comply with the requirements laid down in Articles 45c and 45d on a consolidated basis.
+For resolution groups identified in accordance with point (b) of point (83b) of Article 2(1), those credit institutions which are permanently affiliated to a central body, but are not themselves resolution entities, a central body which is not itself a resolution entity, and any resolution entities that are not subject to a requirement under Article 45e(3), shall comply with Article 45c(7) on an individual basis.
+The requirement referred to in Article 45(1) for an entity referred to in this paragraph shall be determined in accordance with Articles 45h and 89, where applicable, and on the basis of the requirements laid down in Article 45c.
+2. The requirement referred to in Article 45(1) for entities referred to in paragraph 1 of this Article shall be met using one or more of the following:
+(a) liabilities:
+(i) that are issued to and bought by the resolution entity, either directly or indirectly through other entities in the same resolution group that bought the liabilities from the entity that is subject to this Article, or are issued to and bought by an existing shareholder that is not part of the same resolution group as long as the exercise of write down or conversion powers in accordance with Articles 59 to 62 does not affect the control of the subsidiary by the resolution entity;
+(ii) that fulfil the eligibility criteria referred to in Article 72a of Regulation (EU) No 575/2013, except for points (b), (c), (k), (l) and (m) of Article 72b(2) and Article 72b(3) to (5) of that Regulation;
+(iii) that rank, in normal insolvency proceedings, below liabilities that do not meet the condition referred to in point (i) and that are not eligible for own funds requirements;
+(iv) that are subject to write down or conversion powers in accordance with Articles 59 to 62 in a manner that is consistent with the resolution strategy of the resolution group, in particular by not affecting the control of the subsidiary by the resolution entity;
+(v) the acquisition of ownership of which is not funded directly or indirectly by the entity that is subject to this Article;
+(vi) the provisions governing which do not indicate explicitly or implicitly that the liabilities would be called, redeemed, repaid or repurchased early, as applicable, by the entity that is subject to this Article, other than in the case of the insolvency or liquidation of that entity, and that entity does not otherwise provide such an indication;
+(vii) the provisions governing which do not give the holder the right to accelerate the future scheduled payment of interest or principal, other than in the case of the insolvency or liquidation of the entity that is subject to this Article;
+(viii) the level of interest or dividend payments, as applicable, due thereon is not amended on the basis of the credit standing of the entity that is subject to this Article or its parent undertaking;
+(b) own funds, as follows:
+(i) Common Equity Tier 1 capital, and
+(ii) other own funds that:
+- are issued to and bought by entities that are included in the same resolution group, or
+- are issued to and bought by entities that are not included in the same resolution group as long as the exercise of write down or conversion powers in accordance with Articles 59 to 62 does not affect the control of the subsidiary by the resolution entity.
+3. The resolution authority of a subsidiary that is not a resolution entity may waive the application of this Article to that subsidiary where:
+(a) both the subsidiary and the resolution entity are established in the same Member State and are part of the same resolution group;
+(b) the resolution entity complies with the requirement referred to in Article 45e;
+(c) there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities by the resolution entity to the subsidiary in respect of which a determination has been made in accordance with Article 59(3), in particular where resolution action is taken in respect of the resolution entity;
+(d) the resolution entity satisfies the competent authority regarding the prudent management of the subsidiary and has declared, with the consent of the competent authority, that it guarantees the commitments entered into by the subsidiary, or the risks in the subsidiary are of no significance;
+(e) the risk evaluation, measurement and control procedures of the resolution entity cover the subsidiary;
+(f) the resolution entity holds more than 50 % of the voting rights attached to shares in the capital of the subsidiary or has the right to appoint or remove a majority of the members of the management body of the subsidiary.
+4. The resolution authority of a subsidiary that is not a resolution entity may also waive the application of this Article to that subsidiary where:
+(a) both the subsidiary and its parent undertaking are established in the same Member State and are part of the same resolution group;
+(b) the parent undertaking complies on a consolidated basis with the requirement referred to in Article 45(1) in that Member State;
+(c) there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities by the parent undertaking to the subsidiary in respect of which a determination has been made in accordance with Article 59(3), in particular where resolution action or powers referred to in Article 59(1) are taken in respect of the parent undertaking;
+(d) the parent undertaking satisfies the competent authority regarding the prudent management of the subsidiary and has declared, with the consent of the competent authority, that it guarantees the commitments entered into by the subsidiary, or the risks in the subsidiary are of no significance;
+(e) the risk evaluation, measurement and control procedures of the parent undertaking cover the subsidiary;
+(f) the parent undertaking holds more than 50 % of the voting rights attached to shares in the capital of the subsidiary or has the right to appoint or remove a majority of the members of the management body of the subsidiary.
+5. Where the conditions laid down in points (a) and (b) of paragraph 3 are met, the resolution authority of a subsidiary may permit the requirement referred to in Article 45(1) to be met in full or in part with a guarantee provided by the resolution entity, which fulfils the following conditions:
+(a) the guarantee is provided for at least an amount that is equivalent to the amount of the requirement for which it substitutes;
+(b) the guarantee is triggered when the subsidiary is unable to pay its debts or other liabilities as they fall due, or a determination has been made in accordance with Article 59(3) in respect of the subsidiary, whichever is the earliest;
+(c) the guarantee is collateralised through a financial collateral arrangement as defined in point (a) of Article 2(1) of Directive 2002/47/EC for at least 50 % of its amount;
+(d) the collateral backing the guarantee fulfils the requirements of Article 197 of Regulation (EU) No 575/2013, which, following appropriately conservative haircuts, is sufficient to cover the amount collateralised as referred to in point (c);
+(e) the collateral backing the guarantee is unencumbered and, in particular, is not used as collateral to back any other guarantee;
+(f) the collateral has an effective maturity that fulfils the same maturity condition as that referred to in Article 72c(1) of Regulation (EU) No 575/2013; and
+(g) there are no legal, regulatory or operational barriers to the transfer of the collateral from the resolution entity to the relevant subsidiary, including where resolution action is taken in respect of the resolution entity.
+For the purposes of point (g) of the first subparagraph, at the request of the resolution authority, the resolution entity shall provide an independent written and reasoned legal opinion or shall otherwise satisfactorily demonstrate that there are no legal, regulatory or operational barriers to the transfer of collateral from the resolution entity to the relevant subsidiary.
