@@ -1,0 +1,4 @@
+# Article 9b
+Stress testing
+1. Member States may require that the coordinator ensure appropriate and regular stress testing of financial conglomerates. They shall require the relevant competent authorities to cooperate fully with the coordinator.
+2. For the purpose of Union-wide stress tests the ESA may, through the Joint Committee and in cooperation with the European Systemic Risk Board, established by Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on the European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board, develop supplementary parameters that capture the specific risks associated with financial conglomerates, in accordance with Regulation (EU) No 1093/2010, Regulation (EU) No 1094/2010 and Regulation (EU) No 1095/2010. The coordinator shall communicate the results of the stress tests to the Joint Committee.
