@@ -1,0 +1,12 @@
+# Article 56a
+Composition of lots of certain fishery and aquaculture products
+1. Fishery and aquaculture products from catching or harvesting shall be put into lots prior to placing on the market.
+2. A lot of fishery products or a lot of aquaculture products falling under Chapter 3 of the Combined Nomenclature established by Council Regulation (EEC) No 2658/87 (the 'Combined Nomenclature') shall contain only:
+(a) fishery products of a single species, of the same product presentation and coming from the same relevant geographical area and from the same fishing vessel, or group of fishing vessels; or
+(b) aquaculture products of a single species, of the same product presentation and coming from the same aquaculture production unit.
+3. By way of derogation from paragraph 2, prior to the placing on the market, quantities of fishery products falling under Chapter 3 of the Combined Nomenclature totalling less than 30 kg of several species and coming from the same relevant geographical area and of the same product presentation, per catching vessel and per day, may be put into the same lot.
+4. By way of derogation from paragraph 2, prior to the placing on the market, quantities of fishery products falling under Chapter 3 of the Combined Nomenclature of several species, consisting of individuals below the applicable minimum conservation reference size and coming from the same relevant geographical area and the same catching vessel, or group of catching vessels, may be put into lots for purposes other than direct human consumption.
+5. After the placing on the market, a lot of fishery or aquaculture products falling under Chapter 3 of the Combined Nomenclature may only be merged with another lot or split, if the lot created by merging or the lots created by splitting meet the following conditions:
+(a) the traceability information listed in Article 58(5) is provided for the newly created lot(s);
+(b) the operator responsible for placing the newly created lot(s) on the market retains and is able to provide the information concerning the composition of the newly created lot(s), in particular the information relating to each of the lots of fishery or aquaculture products which it contains and the quantities of fishery or aquaculture products coming from each of the lots forming the new lot(s).
+6. This Article shall not apply to ornamental fish, ornamental crustaceans, ornamental molluscs or ornamental algae.
