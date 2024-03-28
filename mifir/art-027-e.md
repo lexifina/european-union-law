@@ -6,3 +6,4 @@ Withdrawal of authorisation
 (c) no longer meets the conditions under which it was authorised;
 (d) has seriously and systematically infringed this Regulation.
 2. ESMA shall, where relevant, without undue delay, notify the national competent authority in the Member State where the data reporting services provider is established of a decision to withdraw the authorisation of a data reporting services provider.
+3. A data reporting services provider from which authorisation is to be withdrawn shall ensure orderly substitution, including the transfer of data to other data reporting services providers, the provision of due notice to its clients and the redirection of reporting flows to other data reporting services providers before the withdrawal.

@@ -1,38 +1,40 @@
 # Article 27h
 Organisational requirements for CTPs
-1. A CTP shall have adequate policies and arrangements in place to collect the information made public in accordance with Articles 6 and 20, consolidate it into a continuous electronic data stream, and make the information available to the public as close to real time as is technically possible, on a reasonable commercial basis.
-That information shall include, at least, the following details:
-(a) the identifier of the financial instrument;
-(b) the price at which the transaction was concluded;
-(c) the volume of the transaction;
-(d) the time of the transaction;
-(e) the time the transaction was reported;
-(f) the price notation of the transaction;
-(g) the code for the trading venue the transaction was executed on, or where the transaction was executed via a systematic internaliser the code 'SI' or otherwise the code 'OTC';
-(h) where applicable, the fact that a computer algorithm within the investment firm was responsible for the investment decision and the execution of the transaction;
-(i) if applicable, an indicator that the transaction was subject to specific conditions;
-(j) if the obligation to make public the information referred to in Article 3(1) was waived in accordance with point (a) or (b) of Article 4(1), a flag to indicate which of those waivers the transaction was subject to.
-The information shall be made available free of charge 15 minutes after the CTP has published it. The CTP shall be able to efficiently and consistently disseminate such information in a way that ensures fast access to the information, on a non-discriminatory basis and in formats that are easily accessible and utilisable for market participants.
-2. A CTP shall have adequate policies and arrangements in place to collect the information made public in accordance with Article 10 and Article 21, consolidate it into a continuous electronic data stream, and make information available to the public as close to real time as is technically possible, on a reasonable commercial basis including, at least, the following details:
-(a) the identifier or identifying features of the financial instrument;
-(b) the price at which the transaction was concluded;
-(c) the volume of the transaction;
-(d) the time of the transaction;
-(e) the time the transaction was reported;
-(f) the price notation of the transaction;
-(g) the code for the trading venue the transaction was executed on, or where the transaction was executed via a systematic internaliser the code 'SI' or otherwise the code 'OTC';
-(h) if applicable, an indicator that the transaction was subject to specific conditions.
-The information shall be made available free of charge 15 minutes after the CTP has published it. The CTP shall be able to efficiently and consistently disseminate such information in a way that ensures fast access to the information, on a non-discriminatory basis, and in generally accepted formats that are interoperable and easily accessible and utilisable for market participants.
-3. The CTP shall ensure that the data provided is consolidated from all the regulated markets, MTFs, OTFs and APAs and for the financial instruments specified by regulatory technical standards under point (c) of paragraph 8.
-4. The CTP shall operate and maintain effective administrative arrangements designed to prevent conflicts of interest. In particular, a market operator, or an APA, who also operates a consolidated tape, shall treat all information collected in a non-discriminatory way and shall operate and maintain appropriate arrangements to separate different business functions.
-5. The CTP shall have sound security mechanisms in place designed to guarantee the security of the means of transfer of information and to minimise the risk of data corruption and unauthorised access. The CTP shall maintain adequate resources and have back-up facilities in place in order to offer and maintain its services at all times.
-6. ESMA shall develop draft regulatory technical standards to determine data standards and formats for the information to be published in accordance with Articles 6, 10, 20 and 21, including financial instrument identifier, price, quantity, time, price notation, venue identifier and indicators for specific conditions the transactions was subject to as well as technical arrangements promoting an efficient and consistent dissemination of information in a way ensuring for it to be easily accessible and utilisable for market participants as referred to in paragraphs 1 and 2 of this Article, including identifying additional services the CTP could perform which increase the efficiency of the market.
-Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
-7. The Commission shall adopt delegated acts in accordance with Article 50 in order to supplement this Regulation by clarifying what constitutes a reasonable commercial basis to provide access to data streams as referred to in paragraphs 1 and 2 of this Article.
-8. ESMA shall develop draft regulatory technical standards specifying:
-(a) the means by which the CTP may comply with the information obligation referred to in paragraphs 1 and 2;
-(b) the content of the information published under paragraphs 1 and 2;
-(c) the financial instruments data of which must be provided in the data stream and for non-equity instruments the trading venues and APAs which need to be included;
-(d) other means to ensure that the data published by different CTPs is consistent and allows for comprehensive mapping and cross-referencing against similar data from other sources, and is capable of being aggregated at Union level;
-(e) the concrete organisational requirements laid down in paragraphs 4 and 5.
+1. A CTP shall, in accordance with the conditions for authorisation referred to in Article 27db:
+(a) collect all data transmitted by data contributors in relation to the asset class for which it is authorised;
+(b) collect fees from users, while providing access, free of charge, to the consolidated tape to retail investors, academics, civil society organisations and competent authorities;
+(c) in the case of the consolidated tape for shares and ETFs, redistribute part of its revenue in accordance with paragraph 6;
+(d) disseminate core market data and regulatory data to users as a continuous electronic live data stream on non-discriminatory terms as close to real time as technically possible;
+(e) ensure that the core market data and regulatory data are easily accessible, machine-readable and usable for all users, including retail investors;
+(f) have systems in place that can effectively check the completeness of the data transmitted by data contributors, identify obvious errors, and request the re-submission of data;
+(g) where the CTP is controlled by a group of economic operators, have a compliance system in place to ensure that the operation of the consolidated tape does not result in a distortion of competition.
+For the purposes of the first subparagraph, point (d), a CTP for shares and ETFs shall not publish the market identifier code when disseminating the European best bid and offer as close as to real time as technically possible to the public.
+2. A CTP shall adopt, publish on its website and regularly update service level standards covering all of the following:
+(a) an inventory of data contributors from whom data are received;
+(b) modes and speed of delivery of core market data and regulatory data to users;
+(c) measures taken to ensure operational continuity in the provision of core market data and regulatory data.
+3. A CTP shall have sound security arrangements in place designed to guarantee the security of the means of transfer of data between the data contributors and the CTP and between the CTP and the users and to minimise the risk of data corruption and unauthorised access. The CTP shall maintain adequate resources and have back-up facilities in place to offer and maintain its services at all times.
+4. For each of the asset classes referred to in Article 27da(1), a CTP shall publish a list of the financial instruments that are covered by the consolidated tape, indicating their identifying reference data.
+The CTP shall offer access, free of charge, to its list, and shall ensure that the list is regularly reviewed and updated, in order to offer a comprehensive view of all the financial instruments covered by the consolidated tape.
+5. A CTP for financial instruments other than shares and ETFs may redistribute to data contributors part of the revenue generated by the consolidated tape.
+6. A CTP for shares and ETFs shall redistribute part of the revenue generated by the consolidated tape, as indicated in the reasoned decision referred to in Article 27db(3), to data contributors meeting one or more of the following criteria (the 'revenue redistribution scheme'):
+(a) the data contributor is a regulated market or an SME growth market whose annual trading volume of shares represents 1 % or less of the annual trading volume of shares in the Union ('small trading venue');
+(b) the data contributor is a trading venue that provided initial admission to trading of shares or ETFs on 27 March 2019 or thereafter;
+(c) the data are transmitted by a trading venue and pertain to transactions in shares and ETFs that have been concluded on a trading system that provides pre-trade transparency, where those transactions did not result from orders that were subject to a waiver from pre-trade transparency pursuant to Article 4(1), point (c).
+7. For the purposes of the revenue redistribution scheme, the CTP shall take into account the following trading volume (the 'relevant trading volume'):
+(a) for the purposes of paragraph 6, point (a), the total annual trading volume generated by that trading venue;
+(b) for the purposes of paragraph 6, point (b):
+(i) in the case of small trading venues, their total annual trading volume;
+(ii) in the case of trading venues other than small trading venues, the trading volume pertaining to the shares and ETFs referred to in that point;
+(c) for the purposes of paragraph 6, point (c), the volume pertaining to the shares and ETFs referred to in that point.
+The CTP shall determine the amount of the revenue to be redistributed to data contributors under the revenue redistribution scheme by multiplying the relevant trading volume by the weighting assigned to each criterion laid down in paragraph 6, as specified in the regulatory technical standards adopted pursuant to paragraph 8.
+If trading venues meet more than one of the criteria laid down in paragraph 6, the amounts resulting from the calculation referred to in the second subparagraph of this paragraph shall be added cumulatively.
+8. ESMA shall develop draft regulatory technical standards to:
+(a) specify the weighting assigned to each criterion laid down in paragraph 6;
+(b) further specify the method for calculating the amount of the revenue to be redistributed to data contributors as referred to in paragraph 7, second subparagraph;
+(c) specify the criteria under which the CTP can, where the CTP proves that a data contributor has seriously and repeatedly breached the data requirements referred to in Articles 22a, 22b and 22c, temporarily suspend the participation of that data contributor in the revenue redistribution scheme, and specify the conditions under which the CTP is to:
+(i) resume revenue redistribution; and
+(ii) where there was no breach of those requirements, provide that data contributor with the revenue retained plus interest.
+For the purposes of the first subparagraph, point (a), of this paragraph, the criterion laid down in paragraph 6, point (a), shall have a higher weighting than the criterion laid down in point (b) of that paragraph, and the criterion laid down in point (b) of that paragraph shall have a higher weighting than the criterion laid down in point (c) of that paragraph.
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 29 December 2024.
 Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.

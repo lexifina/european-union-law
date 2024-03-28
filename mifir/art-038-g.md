@@ -1,6 +1,6 @@
 # Article 38g
 Supervisory measures by ESMA
-1. Where ESMA finds that a person listed in point (a) of Article 38b(1) has committed one of the infringements of requirements provided for in Title IVa, it shall take one or more of the following actions:
+1. Where ESMA finds that a person listed in Article 38b(1), point (a), has not complied with any of the requirements laid down in Articles 20 to 22c, or in Title IVa, it shall take one or more of the following actions:
 (a) adopt a decision requiring the person to bring the infringement to an end;
 (b) adopt a decision imposing fines or periodic penalty payments pursuant to Articles 38h and 38i;
 (c) issue public notices.
