@@ -1,0 +1,7 @@
+# Article 5d
+Screening of PSUs by PSPs that offer instant credit transfers to verify whether a PSU is a person or entity subject to targeted financial restrictive measures
+1. PSPs offering instant credit transfers shall verify whether any of their PSUs are persons or entities subject to targeted financial restrictive measures.
+PSPs shall carry out such verifications immediately after the entry into force of any new targeted financial restrictive measures, and immediately after the entry into force of any amendments to such targeted financial restrictive measures, and at least once every calendar day.
+2. During the execution of an instant credit transfer, the payer's PSP and the payee's PSP involved in the execution of that instant credit transfer shall not verify whether the payer or the payee whose payment accounts are used for the execution of that instant credit transfer are persons or entities subject to targeted financial restrictive measures in addition to carrying out verifications under paragraph 1 of this Article.
+The first subparagraph of this paragraph is without prejudice to actions taken by PSPs in order to comply with restrictive measures, other than targeted financial restrictive measures, adopted in accordance with Article 215 TFEU, with restrictive measures that are not adopted in accordance with Article 215 TFEU, or with Union law on the prevention of money laundering and terrorist financing.
+3. PSPs shall comply with this Article by 9 January 2025.
