@@ -1,0 +1,4 @@
+# Article 3a
+Transitional measures
+1. The feed additive 25-hydroxycholecalciferol, as authorised by Regulation (EC) No 887/2009, and premixtures containing that additive, which are produced and labelled before 5 November 2024 in accordance with the rules applicable before 5 May 2024, may continue to be placed on the market and used until the stocks concerned are exhausted if they are intended for chickens for fattening, turkeys for fattening, other poultry and pigs.
+2. Compound feed and feed materials containing the feed additive referred to in paragraph 1, which are produced and labelled before 5 May 2025 in accordance with the rules applicable before 5 May 2024, may continue to be placed on the market and used until the stocks concerned are exhausted if they are intended for chickens for fattening, turkeys for fattening, other poultry and pigs.
