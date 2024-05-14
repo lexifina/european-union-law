@@ -1,0 +1,6 @@
+# Article 43m
+Verification of methods applied for missing data
+1. Where methods laid down in the monitoring plan as approved by the competent authority have been used to complete missing data pursuant to Articles 66 and 75o of Implementing Regulation (EU) 2018/2066, the verifier shall check whether the methods used were appropriate for the specific situation and whether they have been applied correctly.
+If the regulated entity has obtained an approval by the competent authority to use other methods than those referred to in the first subparagraph of this paragraph in accordance with Articles 66 and 75o of Implementing Regulation (EU) 2018/2066, the verifier shall check whether the approved approach has been applied correctly and appropriately documented.
+Where a regulated entity is not able to obtain such approval in time, the verifier shall check whether the approach used by the regulated entity to complete the missing data ensures that the emissions are not underestimated and that this approach does not lead to material misstatements.
+2. The verifier shall check the effectiveness of the control activities implemented by the regulated entity to prevent missing data referred to in Articles 66 and 75o of Implementing Regulation (EU) 2018/2066 from occurring.
