@@ -11,29 +11,36 @@ Transitional retail roaming surcharges
 (b) in paragraph 1, the sixth subparagraph is replaced by the following:
 'The first, second, fourth and fifth subparagraphs, with the exception of the reference to the fair use policy and the surcharge applied in accordance with Article 6c, shall also apply to voice and SMS roaming services used by roaming customers travelling outside the Union and provided by a roaming provider.';
 (c) the following paragraph is inserted:
-'2a. The roaming provider shall send a notification to the roaming customer when the applicable fair use volume of regulated voice, or SMS, roaming services is fully consumed or any usage threshold applied in accordance with Article 6c is reached. That notification shall indicate the surcharge that will be applied to any additional consumption of regulated voice, or SMS, roaming services by the roaming customer. Each customer shall have the right to require the roaming provider to stop sending such notifications and shall have the right, at any time and free of charge, to require the roaming provider to provide the service again.';
+'2a.
+The roaming provider shall send a notification to the roaming customer when the applicable fair use volume of regulated voice, or SMS, roaming services is fully consumed or any usage threshold applied in accordance with Article 6c is reached. That notification shall indicate the surcharge that will be applied to any additional consumption of regulated voice, or SMS, roaming services by the roaming customer. Each customer shall have the right to require the roaming provider to stop sending such notifications and shall have the right, at any time and free of charge, to require the roaming provider to provide the service again.';
 (d) paragraph 3 is replaced by the following:
-'3. Roaming providers shall provide all customers with full information on applicable roaming charges, when subscriptions are taken out. They shall also provide their roaming customers with updates on applicable roaming charges without undue delay each time there is a change in these charges.
+'3.
+Roaming providers shall provide all customers with full information on applicable roaming charges, when subscriptions are taken out. They shall also provide their roaming customers with updates on applicable roaming charges without undue delay each time there is a change in these charges.
 Roaming providers shall send a reminder at reasonable intervals thereafter to all customers who have opted for another tariff.'.
 (8) Article 15 is amended as follows:
 (a) paragraph 2 is replaced by the following:
-'2. An automatic message from the roaming provider shall inform the roaming customer that the latter is using regulated data roaming services, and provide basic personalised tariff information on the charges (in the currency of the home bill provided by the customer's domestic provider) applicable to the provision of regulated data roaming services to that roaming customer in the Member State concerned, except where the customer has notified the roaming provider that he does not require that information.
+'2.
+An automatic message from the roaming provider shall inform the roaming customer that the latter is using regulated data roaming services, and provide basic personalised tariff information on the charges (in the currency of the home bill provided by the customer's domestic provider) applicable to the provision of regulated data roaming services to that roaming customer in the Member State concerned, except where the customer has notified the roaming provider that he does not require that information.
 That basic personalised tariff information shall include information on:
 (a) any fair use policy that the roaming customer is subject to within the Union and the surcharges which apply in excess of any limits under that fair use policy; and
 (b) any surcharge applied in accordance with Article 6c.
 The information shall be delivered to the roaming customer's mobile device, for example by an SMS message, an e-mail or a pop-up window on the mobile device, every time the roaming customer enters a Member State other than that of his domestic provider and initiates for the first time a data roaming service in that particular Member State. It shall be provided free of charge at the moment the roaming customer initiates a regulated data roaming service, by an appropriate means adapted to facilitate its receipt and easy comprehension.
 A customer who has notified his roaming provider that he does not require the automatic tariff information shall have the right at any time and free of charge to require the roaming provider to provide this service again.';
 (b) the following paragraph is inserted:
-'2a. The roaming provider shall send a notification when the applicable fair use volume of regulated data roaming service is fully consumed or any usage threshold applied in accordance with Article 6c is reached. That notification shall indicate the surcharge that will be applied to any additional consumption of regulated data roaming services by the roaming customer. Each customer shall have the right to require the roaming provider to stop sending such notifications and shall have the right, at any time and free of charge, to require the roaming provider to provide the service again.';
+'2a.
+The roaming provider shall send a notification when the applicable fair use volume of regulated data roaming service is fully consumed or any usage threshold applied in accordance with Article 6c is reached. That notification shall indicate the surcharge that will be applied to any additional consumption of regulated data roaming services by the roaming customer. Each customer shall have the right to require the roaming provider to stop sending such notifications and shall have the right, at any time and free of charge, to require the roaming provider to provide the service again.';
 (c) in paragraph 3, the first subparagraph is replaced by the following:
-'3. Each roaming provider shall grant to all their roaming customers the opportunity to opt deliberately and free of charge for a facility which provides in a timely manner information on the accumulated consumption expressed in volume or in the currency in which the roaming customer is billed for regulated data roaming services and which guarantees that, without the customer's explicit consent, the accumulated expenditure for regulated data roaming services over a specified period of use, excluding MMS billed on a per-unit basis, does not exceed a specified financial limit.';
+'3.
+Each roaming provider shall grant to all their roaming customers the opportunity to opt deliberately and free of charge for a facility which provides in a timely manner information on the accumulated consumption expressed in volume or in the currency in which the roaming customer is billed for regulated data roaming services and which guarantees that, without the customer's explicit consent, the accumulated expenditure for regulated data roaming services over a specified period of use, excluding MMS billed on a per-unit basis, does not exceed a specified financial limit.';
 (d) in paragraph 6, the first subparagraph is replaced by the following:
-'6. This Article, with the exception of paragraph 5, of the second subparagraph of paragraph 2 and of paragraph 2a, and subject to the second and third subparagraph of this paragraph, shall also apply to data roaming services used by roaming customers travelling outside the Union and provided by a roaming provider.'.
+'6.
+This Article, with the exception of paragraph 5, of the second subparagraph of paragraph 2 and of paragraph 2a, and subject to the second and third subparagraph of this paragraph, shall also apply to data roaming services used by roaming customers travelling outside the Union and provided by a roaming provider.'.
 (9) Article 16 is amended as follows:
 (a) in paragraph 1, the following subparagraph is added:
 'National regulatory authorities shall strictly monitor and supervise roaming providers availing themselves of Article 6b, 6c and 6e(3).';
 (b) paragraph 2 is replaced by the following:
-'2. National regulatory authorities shall make up-to-date information on the application of this Regulation, in particular Articles 6a, 6b, 6c, 6e, 7, 9, and 12, publicly available in a manner that enables interested parties to have easy access to it.'.
+'2.
+National regulatory authorities shall make up-to-date information on the application of this Regulation, in particular Articles 6a, 6b, 6c, 6e, 7, 9, and 12, publicly available in a manner that enables interested parties to have easy access to it.'.
 (10) Article 19 is replaced by the following:
 'Article 19
 Review
