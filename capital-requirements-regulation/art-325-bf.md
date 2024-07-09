@@ -47,3 +47,6 @@ In extraordinary circumstances, competent authorities may limit the add-on to th
 9. EBA shall develop draft regulatory technical standards to specify the technical elements to be included in the actual and hypothetical changes to the value of the portfolio of an institution for the purposes of this Article.
 EBA shall submit those draft regulatory technical standards to the Commission by 28 March 2020.
 Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+10. EBA shall develop draft regulatory technical standards to specify the conditions and the criteria according to which an institution may be permitted not to count an overshooting where the one-day change in the value of its portfolio that exceeds the related value-at-risk number calculated by that institution's internal model is attributable to a non-modellable risk factor.
+EBA shall submit those draft regulatory technical standards to the Commission by 10 July 2026.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

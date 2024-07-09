@@ -1,0 +1,3 @@
+# Article 126a
+Land acquisition, development and construction exposures
+3. By 10 July 2025, EBA shall issue guidelines, in accordance with Article 16 of Regulation (EU) No 1093/2010, specifying the terms 'substantial cash deposits', 'financing ensured in an equivalent manner', 'significant portion of total contracts' and 'appropriate amount of obligor-contributed equity', taking into account the specificities of institutions' lending to public housing or not-for-profit entities across the Union that are regulated by law and that exist to serve social purposes and to offer tenants long-term housing.

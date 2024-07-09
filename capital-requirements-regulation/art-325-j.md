@@ -17,3 +17,6 @@ However, where data for the last 12 months are not fully available, an instituti
 (c) the CIU shall apply leverage to the maximum extent allowed under its mandate or relevant law, where applicable.
 The own funds requirements for all positions in the same CIU for which the calculations referred to in the first subparagraph are used shall be calculated on a stand-alone basis as a separate portfolio using the approach set out in this Chapter.
 5. An institution may use the approaches referred to in point (a) or (b) of paragraph 1 only where the CIU meets all the conditions set out in Article 132(3) and point (a) of Article 132(4).
+7. EBA shall develop draft regulatory technical standards to further specify the technical elements of the methodology to determine hypothetical portfolios for the purposes of the approach set out in paragraph 4, including the manner in which institutions are to take into account in the methodology, where applicable, leverage to the maximum extent.
+EBA shall submit those draft regulatory technical standards to the Commission by 10 January 2027.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

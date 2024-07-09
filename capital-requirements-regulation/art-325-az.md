@@ -20,8 +20,8 @@ Institutions shall notify the competent authorities of all other extensions and 
 (b) the assessment methodology under which competent authorities verify an institution's compliance with the requirements set out in Articles 325bh, 325bi, 325bn, 325bo and 325bp.
 EBA shall submit those draft regulatory technical standards to the Commission by 28 June 2024.
 Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
-9. EBA shall develop draft regulatory technical standards to specify the extraordinary circumstances under which competent authorities may permit an institution:
-(a) to continue using its alternative internal models for the purpose of calculating the own funds requirements for the market risk of a trading desk that no longer meets the conditions referred to in point (c) of paragraph 2 of this Article and in Article 325bg(1);
-(b) to limit the add-on to the one resulting from overshootings under back-testing hypothetical changes.
-EBA shall submit those draft regulatory technical standards to the Commission by 28 June 2024.
-Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+9. EBA shall issue an opinion as to whether extraordinary circumstances as referred to in paragraph 5 of this Article and in Article 325bf(6), second subparagraph, have occurred.
+For the purpose of providing that opinion, EBA shall monitor the market conditions to assess whether extraordinary circumstances have occurred and, where that is the case, shall notify the Commission immediately.
+10. EBA shall develop draft regulatory technical standards to specify the conditions and indicators that EBA is to use to determine whether extraordinary circumstances have occurred.
+EBA shall submit those draft regulatory technical standards to the Commission by 30 June 2024.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

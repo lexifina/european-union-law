@@ -9,5 +9,5 @@ Profit and loss attribution requirement
 (c) the frequency at which the P&L attribution is to be performed by an institution;
 (d) the technical elements to be included in the theoretical and hypothetical changes in the value of a trading desk's portfolio for the purposes of this Article;
 (e) the manner in which institutions that use the internal model are to aggregate the total own funds requirement for market risk for all their trading book positions and non-trading book positions that are subject to foreign exchange risk or commodity risk, taking into account the consequences referred to in point (b).
-EBA shall submit those draft regulatory technical standards to the Commission by 28 March 2020.
+EBA shall submit those draft regulatory technical standards to the Commission by 10 July 2025.
 Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
