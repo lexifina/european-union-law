@@ -1,0 +1,18 @@
+# Article 48i
+Power to require the establishment of a subsidiary
+1. Member States shall ensure that competent authorities have the power to require third-country branches to apply for authorisation under Title III, Chapter 1, at least where:
+(a) the third-country branch has carried out in the past or is currently carrying out activities referred to in Article 47(1), without prejudice to the exemptions referred to in Article 48c(4), point (d), with clients or counterparties in other Member States;
+(b) the third-country branch meets the indicators of systemic importance referred to in Article 131(3) or is assessed as having systemic importance in accordance with Article 48j and poses significant financial stability risks in the Union or the Member State where it is established; or
+(c) the aggregate amount of the assets of all third-country branches in the Union which belong to the same third-country group is equal to or greater than EUR 40 billion or the amount of the third-country branch's assets on its book in the Member State where it is established is equal to or greater than EUR 10 billion.
+The power referred to in the first subparagraph of this paragraph may be used after applying the measures in Article 48j or 48o, as appropriate, or where the competent authority can justify, on grounds other than those listed under the first subparagraph of this paragraph, that those measures would be insufficient to address the material supervisory concerns.
+2. Before exercising the power referred to in paragraph 1, competent authorities shall consult EBA and the competent authorities of the Member States where the relevant third-country group has established other third-country branches or subsidiary institutions.
+For the purposes of paragraph 1, points (b) and (c), of this Article and when carrying out the assessment referred to in Article 48j, the competent authorities or, where appropriate, designated authorities shall take into account appropriate indicators for assessing the systemic importance of third-country branches, which shall include in particular:
+(a) the size of the third-country branch;
+(b) the complexity of the third-country branch's structure, organisation and business model;
+(c) the degree of interconnectedness of the third-country branch with the financial system of the Union and of the Member State where it is established;
+(d) the substitutability of the activities, services or operations conducted or the financial infrastructure provided by the third-country branch;
+(e) the market share of the third-country branch in the Union and in the Member State where it is established as regards total banking assets and in relation to the activities and services it provides and the operations that it conducts;
+(f) the likely impact of a suspension or closure of the third-country branch's operations or business on the liquidity of the financial system of the Member State where it is established or on the payment, clearing and settlement systems in the Union and in that Member State;
+(g) the role and importance of the third-country branch for the activities, services and operations of the third-country group in the Union and in the Member State where it is established;
+(h) the role and importance of the third-country branch in the context of resolution or winding-up based on information from the resolution authority;
+(i) the volume of the third-country group's business being conducted through third-country branches, relative to the business of that group conducted through subsidiary institutions authorised in the Union and in the Member States where the third-country branches are established.
