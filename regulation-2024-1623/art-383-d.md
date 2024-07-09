@@ -1,0 +1,5 @@
+# Article 383d
+Foreign exchange risk factors
+1. The foreign exchange delta risk factors to be applied by institutions to instruments in the CVA portfolio sensitive to foreign exchange spot rates shall be the spot foreign exchange rates between the currency in which an instrument is denominated and the institution's reporting currency or the institution's base currency where the institution is using a base currency in accordance with Article 325q(7). There shall be one bucket per currency pair, containing a single risk factor and a single net sensitivity.
+2. The foreign exchange vega risk factors to be applied by institutions to instruments in the CVA portfolio sensitive to foreign exchange volatility shall be the implied volatilities of foreign exchange rates between the currency pairs referred to in paragraph 1. There shall be one bucket for all currencies and maturities, containing all foreign exchange vega risk factors and a single net sensitivity.
+3. Institutions shall not be required to distinguish between onshore and offshore variants of a currency for foreign exchange delta and vega risk factors.
