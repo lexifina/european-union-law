@@ -1,0 +1,18 @@
+# Article 21a
+Temporary restrictions on travel to the Union
+1. This Article shall apply to large-scale public health emergencies.
+2. The Council, on the basis of a proposal by the Commission, may adopt an implementing Regulation providing for temporary restrictions on travel to the Member States to be applied at the external borders.
+Temporary restrictions on travel may include temporary restrictions on entry to the Member States and temporary health-related restrictions that are necessary for the protection of public health in the area without internal border control. Those temporary health-related restrictions may include testing, quarantine and self-isolation.
+Temporary restrictions on travel to the Union shall be proportionate and non-discriminatory. Where a Member State adopts stricter restrictions than those laid down in the implementing act, those restrictions shall not have a negative impact on the functioning of the area without internal border control. Temporary health-related restrictions on persons enjoying the right of free movement under Union law shall comply with Directive 2004/38/EC at all times.
+3. The following categories of persons shall be exempted from the restrictions on entry, independent of the purpose of their travel:
+(a) persons enjoying the right of free movement under Union law;
+(b) third-country nationals who are long-term residents under Directive 2003/109/EC, persons deriving their right to reside from other instruments of Union law or national law, including beneficiaries of international protection or persons who hold national long-stay visas, as well as their respective family members.
+4. Categories of persons listed in Annex XI, part A, shall be exempted from restrictions on entry.
+5. Any category of persons listed in Annex XI, part B, shall be exempted from restrictions on entry where that category is included in the implementing regulation referred to in paragraph 2.
+6. The implementing Regulation referred to in paragraph 2 shall, where appropriate:
+(a) identify, where required by the nature of the large-scale public health emergency, the categories of persons undertaking essential travel listed in Annex XI, part B, to be exempted from restrictions on entry;
+(b) determine any geographical areas or third countries from which travel may be subject to restrictions or exemptions from restrictions, and establish a procedure for the periodic review of the situation of such areas or countries and of the restrictions on travel imposed on the basis of objective methodology and objective criteria, including, in particular, the epidemiological situation;
+(c) lay down the conditions under which non-essential travel may be restricted or exempted from restrictions, including proof to be presented to support the exemption and the conditions relating to the duration and nature of stay in the areas or countries referred to in point (b);
+(d) refer to minimum temporary health-related restrictions to which persons referred to in paragraph 3, points (a) and (b), may be subject;
+(e) by way of derogation from paragraphs 4 and 5 lay down the conditions under which travel restrictions may be imposed on persons undertaking essential travel;
+7. Restrictions on entry to the Member States for persons undertaking essential travel shall be imposed only exceptionally, for a strictly limited period of time, until sufficient information about the large-scale public health emergencies referred to in paragraph 1' is available and until the Council, on a proposal by the Commission, identifies and adopts alternative health-related restrictions that are necessary to protect public health and that are to be applied to those persons.
