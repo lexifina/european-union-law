@@ -1,0 +1,7 @@
+# Article 18a
+Supplier risk management
+1. Regulatory authorities or, where a Member State has designated an alternative independent competent authority for that purpose, such a designated competent authority, taking into account the size of the supplier or the market structure and including, if relevant, by carrying out stress tests shall ensure that suppliers:
+(a) have in place and implement appropriate hedging strategies, to limit the risk of changes in wholesale electricity supply to the economic viability of their contracts with customers, while maintaining liquidity on and price signals from short-term markets;
+(b) take all reasonable steps to limit their risk of supply failure.
+2. Supplier hedging strategies may include the use of power purchase agreements as defined in Article 2, point (77), of Regulation (EU) 2019/943 or other appropriate instruments, such as forward contracts. Where sufficiently developed markets for power purchase agreements exist which allow effective competition, Member States may require that a share of suppliers' risk exposure to changes in wholesale electricity prices is covered using power purchase agreements for electricity generated from renewable energy sources matching the duration of their risk exposure on the consumer side, subject to compliance with Union competition law.
+3. Member States shall endeavour to ensure the accessibility of hedging products for citizen energy communities and renewable energy communities and to put in place enabling conditions for that purpose.
