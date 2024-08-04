@@ -1,0 +1,10 @@
+# Article 5a
+Rules on the calculation of the attainment of the targets
+1. For the purpose of calculating whether the targets laid down in Article 5(5) and (6) have been attained:
+(a) the weight of the municipal waste generated and directed to landfilling shall be calculated in a given calendar year;
+(b) the weight of waste resulting from treatment operations prior to recycling or other recovery of municipal waste, such as sorting or mechanical biological treatment, which is subsequently landfilled shall be included in the weight of municipal waste reported as landfilled;
+(c) the weight of municipal waste that enters incineration disposal operations and the weight of waste produced in the stabilisation operations of the biodegradable fraction of municipal waste in order to be subsequently landfilled shall be reported as landfilled;
+(d) the weight of waste produced during recycling or other recovery operations of municipal waste which is subsequently landfilled shall not be included in the weight of municipal waste reported as landfilled.
+2. Member States shall establish an effective system of quality control and traceability of the municipal waste landfilled to ensure that the conditions laid down in paragraph 1 of this Article are met. They may use the system established in accordance with Article 11a(3) of Directive 2008/98/EC for that purpose.
+3. Where municipal waste is shipped to another Member State or exported from the Union for the purposes of landfilling, in accordance with Regulation (EC) No 1013/2006 of the European Parliament and of the Council, it shall be counted towards the amount of waste landfilled, in accordance with paragraph 1 by the Member State in which that waste was collected.
+4. In order to ensure uniform conditions for the application of this Article, the Commission shall adopt by 31 March 2019 implementing acts establishing rules for the calculation, verification and reporting of data. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 17(2).
