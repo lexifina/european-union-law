@@ -3,6 +3,18 @@ Application of the minimum requirement for own funds and eligible liabilities to
 1. Institutions that are subsidiaries of a resolution entity or of a third-country entity, but are not themselves resolution entities, shall comply with the requirements laid down in Article 45c on an individual basis.
 A resolution authority, after consulting the competent authority, may decide to apply the requirement laid down in this Article to an entity referred to in points (b), (c) or (d) of Article 1(1) that is a subsidiary of a resolution entity but is not itself a resolution entity.
 By way of derogation from the first subparagraph of this paragraph, Union parent undertakings that are not themselves resolution entities, but are subsidiaries of third-country entities, shall comply with the requirements laid down in Articles 45c and 45d on a consolidated basis.
+By way of derogation from the first and second subparagraphs, a resolution authority may decide to determine the requirement laid down in Article 45c on a consolidated basis for a subsidiary as referred to in this paragraph where the resolution authority concludes that all of the following conditions are met:
+(a) the subsidiary meets one of the following conditions:
+(i) the subsidiary is held directly by the resolution entity and:
+- the resolution entity is a Union parent financial holding company or a Union parent mixed financial holding company;
+- both the subsidiary and the resolution entity are established in the same Member State and are part of the same resolution group;
+- the resolution entity does not hold directly any subsidiary institution or any subsidiary entity as referred to in Article 1(1), point (b), (c) or (d), where that entity is subject to the requirements set out in this Article or to the requirement referred to in Article 45c, other than the subsidiary concerned;
+- the subsidiary would be disproportionately affected by the deductions required pursuant to Article 72e(5) of Regulation (EU) No 575/2013;
+(ii) the subsidiary is subject to the requirement referred to in Article 104a of Directive 2013/36/EU on a consolidated basis only and the determination of the requirement laid down in Article 45c of this Directive on a consolidated basis would not lead to overstating the recapitalisation needs, for the purposes of Article 45c(1), point (b), of this Directive, of the subgroup consisting of entities within the consolidation perimeter concerned, in particular where there is a prevalence of liquidation entities within the same consolidation perimeter;
+(b) compliance with the requirement laid down in Article 45c on a consolidated basis as a substitute for compliance with that requirement on an individual basis does not impair in a material way any of the following:
+(i) the credibility and feasibility of the group resolution strategy;
+(ii) the subsidiary's capacity to comply with its own funds requirement after the exercise of write-down and conversion powers; and
+(iii) the adequacy of the internal loss transfer and recapitalisation mechanism, including the write-down or conversion, in accordance with Article 59, of relevant capital instruments and eligible liabilities of the subsidiary concerned or of other entities in the resolution group.
 For resolution groups identified in accordance with point (b) of point (83b) of Article 2(1), those credit institutions which are permanently affiliated to a central body, but are not themselves resolution entities, a central body which is not itself a resolution entity, and any resolution entities that are not subject to a requirement under Article 45e(3), shall comply with Article 45c(7) on an individual basis.
 The requirement referred to in Article 45(1) for an entity referred to in this paragraph shall be determined in accordance with Articles 45h and 89, where applicable, and on the basis of the requirements laid down in Article 45c.
 2. The requirement referred to in Article 45(1) for entities referred to in paragraph 1 of this Article shall be met using one or more of the following:
@@ -20,6 +32,12 @@ The requirement referred to in Article 45(1) for an entity referred to in this p
 (ii) other own funds that:
 - are issued to and bought by entities that are included in the same resolution group, or
 - are issued to and bought by entities that are not included in the same resolution group as long as the exercise of write down or conversion powers in accordance with Articles 59 to 62 does not affect the control of the subsidiary by the resolution entity.
+2a. Where an entity as referred to in paragraph 1 complies with the requirement referred to in Article 45(1) on a consolidated basis, the amount of own funds and eligible liabilities of that entity shall include the following liabilities issued in accordance with paragraph 2, point (a), of this Article by a subsidiary established in the Union included in the consolidation of that entity:
+(a) liabilities issued to and bought by the resolution entity, either directly, or indirectly through other entities in the same resolution group that are not included in the consolidation of the entity complying with the requirement referred to in Article 45(1) on a consolidated basis;
+(b) liabilities issued to an existing shareholder that is not part of the same resolution group.
+2b. The liabilities referred to in paragraph 2a, points (a) and (b), of this Article, shall not exceed the amount determined by subtracting from the amount of the requirement referred to in Article 45(1) applicable to the subsidiary included in the consolidation the sum of all of the following:
+(a) the liabilities issued to and bought by the entity complying with the requirement referred to in Article 45(1) on a consolidated basis, either directly, or indirectly through other entities in the same resolution group that are included in the consolidation of that entity;
+(b) the amount of own funds that are issued in accordance with paragraph 2, point (b), of this Article.
 3. The resolution authority of a subsidiary that is not a resolution entity may waive the application of this Article to that subsidiary where:
 (a) both the subsidiary and the resolution entity are established in the same Member State and are part of the same resolution group;
 (b) the resolution entity complies with the requirement referred to in Article 45e;
