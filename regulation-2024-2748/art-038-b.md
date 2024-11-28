@@ -1,0 +1,6 @@
+# Article 38b
+Prioritisation of the assessment and verification of constancy of performance of construction products designated as crisis-relevant goods
+1. This Article applies to construction products listed in the implementing act referred to in Article 38a(1) that are subject to third party tasks of notified bodies related to the assessment and verification of constancy of performance in accordance with Article 28(1).
+2. The notified bodies shall make best efforts to process as a matter of priority requests for third party tasks related to the assessment and verification of constancy of performance of construction products referred to in paragraph 1, irrespective of whether those requests have been lodged before or after the activation of the emergency procedures pursuant to Article 38a.
+3. The prioritisation of requests for third party tasks related to the assessment and verification of constancy of performance of construction products pursuant to paragraph 2 shall not result in additional disproportionate costs for the manufacturers who have lodged those requests.
+4. The notified bodies shall make reasonable efforts to increase their respective assessment and verification capacities regarding construction products referred to in paragraph 1 in respect of which they have been notified.
