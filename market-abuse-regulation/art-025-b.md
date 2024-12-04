@@ -1,0 +1,7 @@
+# Article 25b
+Collaboration platforms
+1. ESMA may, at the request of one or more competent authorities, in the case of serious concerns about market integrity or the orderly functioning of markets, set up and coordinate a collaboration platform.
+2. Without prejudice to Article 35 of Regulation (EU) No 1095/2010, at the request of ESMA, the relevant competent authorities shall provide all necessary information in a timely manner.
+3. Where two or more competent authorities of a collaboration platform disagree about the procedure or content of an action to be taken, or inaction, ESMA may, at the request of any relevant competent authority, assist the competent authorities in reaching an agreement in accordance with Article 19(1), first subparagraph, of Regulation (EU) No 1095/2010.
+ESMA may also, at the request of one or more competent authorities, coordinate on-site inspections. The competent authority of the home Member State as well as other relevant competent authorities of the collaboration platform may invite ESMA to participate in such on-site inspections.
+ESMA may also, at the request of one or more competent authorities, set up a collaboration platform jointly with the Agency for the Cooperation of Energy Regulators (ACER) and the public bodies monitoring wholesale commodity markets where the concerns about market integrity and the orderly functioning of markets affect both financial and spot markets.

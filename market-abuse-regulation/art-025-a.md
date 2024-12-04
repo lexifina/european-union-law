@@ -1,0 +1,30 @@
+# Article 25a
+Mechanism to exchange order data
+1. Competent authorities supervising trading venues with a significant cross-border dimension shall, by 5 June 2026, set up a mechanism to permit the ongoing and timely exchange of order data on the financial instruments referred to in paragraph 4, point (a), and collected from those trading venues in accordance with Article 25 of Regulation (EU) No 600/2014. Competent authorities may delegate the set-up of the mechanism to ESMA.
+Where a competent authority submits a request for data under paragraph 4, the requested competent authority shall request that data from the relevant trading venue in a timely manner and not later than four working days from the date of the request. The requested data shall be made available to the competent authority that submitted the first request as soon as possible and no later than the deadline determined in paragraph 6, point (c).
+The ongoing and timely exchange of order data on the financial instruments referred to in paragraph 4, points (b) and (c), shall be made operational through the mechanism set up pursuant to the first subparagraph of this paragraph by 5 June 2028.
+2. The relevant trading venue shall establish and maintain appropriate arrangements, systems and procedures to permit the ongoing and timely exchange of order data by 5 June 2026.
+3. The request for ongoing order data from a competent authority may be submitted for a specific set of financial instruments.
+4. A competent authority may obtain order data originating from a trading venue that has a significant cross-border dimension when that competent authority is the competent authority of the most relevant market referred to in Article 26 of Regulation (EU) No 600/2014 and that data could be relevant for the supervisory activities of that authority for the following financial instruments:
+(a) shares;
+(b) bonds;
+(c) futures.
+5. A Member State may decide that its competent authority participates in the mechanism set up pursuant to paragraph 1 even if none of the trading venues under the supervision of such competent authority has a significant cross-border dimension. Such decision shall be communicated to ESMA which shall make it public on its website.
+Where a Member State makes a decision pursuant to the first subparagraph, that Member State and its competent authority shall comply with this Article.
+6. ESMA shall develop draft implementing technical standards:
+(a) to specify the appropriate mechanism for the exchange of order data and in particular, to lay down the operational arrangements to ensure the swift transmission of information between competent authorities;
+(b) to determine appropriate arrangements, systems and procedures for trading venues to comply with paragraph 1, second subparagraph; and
+(c) to determine the format and the deadline for providing without delay the requested data in paragraph 1, second subparagraph.
+ESMA shall submit those draft implementing technical standards to the Commission by 5 September 2025.
+Power is delegated to the Commission to supplement this Regulation by adopting the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+7. The Commission shall adopt delegated acts in accordance with Article 35 to establish a list of designated trading venues that have a significant cross-border dimension in the supervision of market abuse by taking into account, for each class of financial instruments, at least the following:
+(a) the trading volume on the trading venue; and
+(b) the trading volume on that trading venue in financial instruments for which the competent authority of the most relevant market referred to in Article 26 of Regulation (EU) No 600/2014 differs from the competent authority of the trading venue.
+With regard to shares, the criterion referred to in the first subparagraph, point (a), shall be measured as turnover in shares aggregated at the level of the trading venue, and shall not be below EUR 100 billion per year in any of the last four years. The criterion referred to in the first subparagraph, point (b), shall be defined as the ratio between the turnover in shares for which the competent authority of the most relevant market referred to in Article 26 of Regulation (EU) No 600/2014 is different from the competent authority of the trading venue and the total turnover in all shares traded on that venue in a year. That ratio shall not be below 50 %.
+8. By 5 December 2027, ESMA shall submit a report to the Commission on the functioning of the mechanism set up pursuant to paragraph 1.
+That report shall cover at least the following:
+(a) a description of technical challenges faced by trading venues, competent authorities and ESMA during the implementation of the mechanism for shares;
+(b) the costs incurred by competent authorities and ESMA in the set-up of the mechanism for shares;
+(c) the functioning of the thresholds referred to in paragraph 7, second subparagraph.
+The report shall include a cost-benefit analysis linked to the future development of the mechanism set up pursuant to paragraph 1 with regard to the inclusion in its scope of possible relevant financial instruments, including bonds and futures. The report shall also include recommendations on the extension of the scope to the financial instruments referred to in paragraph 4, taking into account the added value, technical challenges and expected costs.
+9. The Commission shall adopt delegated acts in accordance with Article 35 to amend paragraphs 4 and 7 of this Article by updating the financial instruments and the list of designated trading venues with a significant cross-border dimension, and amending paragraph 1, third subparagraph, to postpone the extension of the scope of the mechanism set up pursuant to paragraph 1 to bonds and futures, taking into account the report mentioned in paragraph 8 of this Article, the developments in financial markets and the capacity of competent authorities to process the data on those financial instruments.
