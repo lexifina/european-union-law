@@ -1,8 +1,10 @@
 # Article 23a
 Supervisory cooperation between competent authorities and ESMA with regards to authorised CCPs
-1. ESMA shall fulfil a coordination role between competent authorities and across colleges with a view to building a common supervisory culture and consistent supervisory practices, ensuring uniform procedures and consistent approaches, and strengthening consistency in supervisory outcomes, especially with regard to supervisory areas which have a cross-border dimension or a possible cross-border impact.
-2. Competent authorities shall submit their draft decisions to ESMA before adopting any act or measure pursuant to Articles 7, 8, 14, 15, 29 to 33, 35, 36 and 54.
-Competent authorities may also submit draft decisions to ESMA before adopting any other act or measure in accordance with their duties under Article 22(1).
-3. Within 20 working days of receipt of a draft decision submitted in accordance with paragraph 2 in relation to a specific Article ESMA shall provide an opinion on that draft decision to the competent authority where necessary to promote a consistent and coherent application of that Article.
-Where the draft decision submitted to ESMA in accordance with paragraph 2 shows a lack of convergence or coherence in the application of this Regulation, ESMA shall issue guidelines or recommendations to promote the necessary consistency or coherence in the application of this Regulation pursuant to Article 16 of Regulation (EU) No 1095/2010.
-4. Where ESMA adopts an opinion in accordance with paragraph 3, the competent authority shall give it due consideration and shall inform ESMA of any subsequent action or inaction thereto. Where the competent authority does not agree with an opinion of ESMA, it shall provide comments to ESMA on any significant deviation from that opinion.
+1. ESMA shall fulfil a coordination role between competent authorities and across colleges to:
+(a) build a common supervisory culture and consistent supervisory practices;
+(b) ensure uniform procedures and consistent approaches;
+(c) strengthen consistency in supervisory outcomes, in particular with regard to supervisory areas which have a cross-border dimension or a possible cross-border impact;
+(d) strengthen coordination in emergency situations in accordance with Article 24;
+(e) assess risks when providing opinions to competent authorities pursuant to paragraph 2 on CCPs' compliance with the requirements of this Regulation in relation to identified cross-border risks or risks to the financial stability of the Union, and providing recommendations as to how a CCP shall mitigate such risks.
+2. Competent authorities shall submit their draft decisions, reports or other measures to ESMA for its opinion before adopting any act or measure pursuant to Articles 7, 8 and 14, Article 15(1), second subparagraph, Article 21, Articles 29 to 33, and Articles 35, 36, 37, 41, 54 and, except where a decision is required urgently, Article 20.
+Competent authorities may also submit draft decisions to ESMA for its opinion before adopting any other act or measure in accordance with their duties under Article 22(1).

@@ -1,6 +1,7 @@
 # Article 25f
 Request for information
-1. ESMA may by simple request or by decision require recognised CCPs and related third parties to whom those CCPs have outsourced operational functions or activities to provide all necessary information to enable ESMA to carry out its duties under this Regulation.
+1. ESMA may by simple request or by decision require recognised CCPs and related third parties to whom those CCPs have outsourced operational functions or activities to provide all necessary information to enable ESMA to monitor those CCPs' provision of clearing services and activities in the Union and to carry out its duties under this Regulation.
+The information referred to in the first subparagraph and requested by simple request may be of a periodic or one-off nature.
 2. When sending a simple request for information under paragraph 1, ESMA shall indicate all of the following:
 (a) the reference to this Article as the legal basis of the request;
 (b) the purpose of the request;
