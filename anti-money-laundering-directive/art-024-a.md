@@ -1,0 +1,2 @@
+# Article 24a
+By 1 January 2024, EBA shall issue guidelines specifying how the enhanced customer due diligence measures in this Section apply when obliged entities perform crypto-asset services as defined in Article 3(1), point (16), of Regulation (EU) 2023/1114, with the exception of point (h) of that point, as well as transfers of crypto-assets as defined in Article 3, point (10), of Regulation (EU) 2023/1113. In particular, EBA shall specify how and when those obliged entities shall obtain additional information on the originator and beneficiary.
