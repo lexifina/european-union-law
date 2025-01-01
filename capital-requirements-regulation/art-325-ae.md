@@ -36,4 +36,6 @@ Risk Weight
 30 years
 1,1 %
 2. Institutions shall apply a risk weight of 1,6 % to all sensitivities of inflation and to cross currency basis risk factors.
-3. For the currencies included in the most liquid currency sub-category as referred to in point (b) of 325bd(7) and the domestic currency of the institution, the risk weights of the risk-free rate risk factors shall be the risk weights referred to in Table 3 divided by √2.
+3. The risk weights of risk factors based on the currencies included in the most liquid currency sub-category as referred to in Article 325bd(7), point (b), and the domestic currency of the institution shall be the following:
+(a) for risk-free rate risk factors, the risk weights referred to in paragraph 1, Table 3, of this Article divided by image;
+(b) for inflation risk factor and cross currency basis risk factors, the risk weights referred to in paragraph 2 of this Article divided by image.

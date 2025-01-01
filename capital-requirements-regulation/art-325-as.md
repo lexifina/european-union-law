@@ -12,7 +12,13 @@ Energy - solid combustibles
 Energy - liquid combustibles
 35 %
 3
-Energy - electricity and carbon trading
+Energy - electricity
+60 %
+3a
+Energy - EU ETS carbon trading
+40 %
+3b
+Energy - non-EU ETS carbon trading
 60 %
 4
 Freight

@@ -11,7 +11,7 @@ All
 Central government, including central banks, of Member States
 4,0 %
 2
-Credit quality step 1 to 3
+Credit quality step 1 to 10
 Central government, including central banks, of a third country, multilateral development banks and international organisations referred to in Article 117(2) or Article 118
 4,0 %
 3
@@ -39,14 +39,14 @@ Covered bonds issued by credit institutions established in Member States
 Covered bonds issued by credit institutions in third countries
 6,0 %
 11
-Credit quality step 4 to 6 and unrated
+Credit quality step 11 to 17
 Central government, including central banks, of a third country, multilateral development banks and international organisations referred to in Article 117(2) or Article 118
 13,0 %
 12
 Regional or local authority and public sector entities
 13,0 %
 13
-Financial sector entities including credit institutions incorporated or established by a central government, a regional government or a local authority and promotional lenders
+Financial sector entities, including credit institutions incorporated or established by a central government, a regional government or a local authority, promotional lenders and covered bonds
 16,0 %
 14
 Basic materials, energy, industrials, agriculture, manufacturing, mining and quarrying
@@ -63,3 +63,5 @@ Health care, utilities, professional and technical activities
 18
 Other sector
 13,0 %
+For the purposes of this Article, an exposure shall be assigned the credit quality category corresponding to the credit quality category that it would be assigned under the standardised approach for credit risk set out in Title II, Chapter 2.
+By way of derogation from the second paragraph, institutions may assign a risk exposure of an unrated covered bond to bucket 4 where the institution that issues the covered bond has a credit quality step 1 to 3.

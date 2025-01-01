@@ -1,7 +1,7 @@
 # Article 279a
 Supervisory delta
 1. Institutions shall calculate the supervisory delta as follows:
-(a) for call and put options that entitle the option buyer to purchase or sell an underlying instrument at a positive price on a single or multiple dates in the future, except where those options are mapped to the interest rate risk category, institutions shall use the following formula:
+(a) for call and put options that entitle the option buyer to purchase or sell an underlying instrument at a positive price on a single or multiple dates in the future, except where those options are mapped to the interest rate risk or commodity risk category, institutions shall use the following formula:
 image
 where:
 δ
@@ -83,7 +83,7 @@ left accolade
 - 1 if the transaction is a short position in the primary risk driver or in the most material risk driver in the given risk category
 2. For the purposes of this Section, a long position in the primary risk driver or in the most material risk driver in the given risk category for transactions referred to in Article 277(3) means that the market value of the transaction increases when the value of that risk driver increases and a short position in the primary risk driver or in the most material risk driver in the given risk category for transactions referred to in Article 277(3) means that the market value of the transaction decreases when the value of that risk driver increases.
 3. EBA shall develop draft regulatory technical standards to specify:
-(a) in accordance with international regulatory developments, the formula that institutions shall use to calculate the supervisory delta of call and put options mapped to the interest rate risk category compatible with market conditions in which interest rates may be negative as well as the supervisory volatility that is suitable for that formula;
+(a) in accordance with international regulatory developments, the formulae that institutions shall use to calculate the supervisory delta of call and put options mapped to the interest rate risk or commodity risk category compatible with market conditions in which interest rates or commodity prices may be negative and the supervisory volatility that is suitable for those formulae;
 (b) the method for determining whether a transaction is a long or short position in the primary risk driver or in the most material risk driver in the given risk category for transactions referred to in Article 277(3).
 EBA shall submit those draft regulatory technical standards to the Commission by 10 July 2025.
 Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.

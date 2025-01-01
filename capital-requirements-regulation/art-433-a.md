@@ -16,9 +16,11 @@ Disclosures by large institutions
 (xi) Article 451a(3);
 (xii) point (g) of Article 452;
 (xiii) points (f) to (j) of Article 453;
-(xiv) points (d), (e) and (g) of Article 455;
+(xiv) Article 455(2), points (a), (b) and (c);
+(xv) Article 449a;
+(xvi) Article 449b;
 (c) on a quarterly basis the information referred to in:
-(i) points (d) and (h) of Article 438;
+(i) Article 438, points (d), (da) and (h);
 (ii) the key metrics referred to in Article 447;
 (iii) Article 451a(2).
 2. By way of derogation from paragraph 1, large institutions other than G-SIIs that are non-listed institutions shall disclose the information outlined below with the following frequency:

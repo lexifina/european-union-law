@@ -13,6 +13,9 @@ Own funds requirements for residual risks
 (a) the instrument is listed on a recognised exchange;
 (b) the instrument is eligible for central clearing in accordance with Regulation (EU) No 648/2012;
 (c) the instrument perfectly offsets the market risk of another position in the trading book, in which case the two perfectly matching trading book positions shall be exempted from the own funds requirement for residual risks.
+4a. By way of derogation from paragraph 1, until 31 December 2032, an institution shall not apply the own funds requirement for residual risks to instruments that aim solely to hedge the market risk of positions in the trading book that generate an own funds requirement for residual risks and are subject to the same type of residual risks as the positions they hedge.
+The competent authority shall grant permission to apply the treatment referred to in the first subparagraph if the institution can demonstrate on an ongoing basis to the satisfaction of the competent authority that the instruments comply with the criteria to be treated as hedging positions.
+The institution shall report to the competent authority the result of the calculation of the own funds requirements for the residual risks for all instruments for which the derogation referred to in the first subparagraph is applied.
 5. EBA shall develop draft regulatory technical standards to specify what an exotic underlying is and which instruments are instruments bearing residual risks for the purposes of paragraph 2.
 When developing those draft regulatory technical standards, EBA shall examine whether longevity risk, weather, natural disasters and future realised volatility should be considered as exotic underlyings.
 EBA shall submit those draft regulatory technical standards to the Commission by 28 June 2021.

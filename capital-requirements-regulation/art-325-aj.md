@@ -3,7 +3,11 @@ Correlations across buckets for credit spread risk for non-securitisations
 The correlation parameter γbc that applies to the aggregation of sensitivities between different buckets shall be set as follows:
 γbc = γbc (rating) · γbc (sector)
 where:
-γbc (rating) shall be equal to 1 where the two buckets have the same credit quality category (either credit quality step 1 to 3 or credit quality step 4 to 6), otherwise it shall be equal to 50 %; for the purposes of that calculation, bucket 1 shall be considered as belonging to the same credit quality category as buckets that have credit quality step 1 to 3; and
+γbc (rating) shall be equal to:
+(a) 1, where buckets b and c are buckets 1 to 17 and both buckets have the same credit quality category (either credit quality step 1 to 3 or credit quality step 4 to 6); otherwise it shall be equal to 50 %; for the purposes of that calculation, bucket 1 shall be considered as belonging to the same credit quality category as buckets that have credit quality step 1 to 3;
+(b) 1, where either bucket b or c is bucket 18;
+(c) 1, where bucket b or c is bucket 19 and the other bucket has credit quality step 1 to 3; otherwise it shall be equal to 50 %;
+(d) 1, where bucket b or c is bucket 20 and the other bucket has credit quality step 4 to 6; otherwise it shall be equal to 50 %;
 γbc (sector) shall be equal to 1 where the two buckets belong to the same sector, and otherwise shall be equal to the corresponding percentage set out in Table 5:
 Table 5
 Bucket

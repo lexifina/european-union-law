@@ -1,7 +1,7 @@
 # Article 92a
 Requirements for own funds and eligible liabilities for G-SIIs
 1. Subject to Articles 93 and 94 and to the exceptions set out in paragraph 2 of this Article, institutions identified as resolution entities and that are G-SII entities shall at all times satisfy the following requirements for own funds and eligible liabilities:
-(a) a risk-based ratio of 18 %, representing the own funds and eligible liabilities of the institution expressed as a percentage of the total risk exposure amount calculated in accordance with Article 92(3) and (4);
+(a) a risk-based ratio of 18 %, representing the own funds and eligible liabilities of the institution expressed as a percentage of the total risk exposure amount calculated in accordance with Article 92(3);
 (b) a non-risk-based ratio of 6,75 %, representing the own funds and eligible liabilities of the institution expressed as a percentage of the total exposure measure referred to in Article 429(4).
 2. The requirements laid down in paragraph 1 shall not apply in the following cases:
 (a) within the three years following the date on which the institution or the group of which the institution is part has been identified as a G-SII;

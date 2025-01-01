@@ -1,0 +1,4 @@
+# Article 506c
+Credit risk - interaction between Common Equity Tier 1 capital reductions and credit risk parameters
+By 31 December 2026, EBA shall report to the Commission on the consistency between the current measurement of credit risk and the individual credit risk parameters and on the treatment of any adjustments for the purpose of the computation of the IRB shortfall or IRB excess as referred to in Article 159, and on its consistency with the determination of the exposure value in accordance with Article 166 and with the estimation of LGD.
+That report shall consider the maximum possible economic loss arising from a default event along with its achieved coverage in terms of Common Equity Tier 1 capital reductions, taking into account any accounting-based Common Equity Tier 1 capital reductions, including from expected credit losses or fair value adjustments, and any discounts on received exposures, and their implications for regulatory deductions.

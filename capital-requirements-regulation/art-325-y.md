@@ -40,3 +40,4 @@ a ratio recognising a benefit for hedging relationships within a bucket, which s
 image
 For the purposes of calculating the DRCb and the WtS, the long positions and short positions shall be aggregated for all positions within a bucket, regardless of the credit quality step to which those positions are allocated, to produce the bucket-specific own funds requirements for the default risk.
 5. The final own funds requirement for the default risk for non-securitisations shall be calculated as the simple sum of the bucket-level own funds requirements.
+6. For the purposes of this Article, an exposure shall be assigned the credit quality category corresponding to the credit quality category that it would be assigned under the standardised approach for credit risk set out in Title II, Chapter 2.

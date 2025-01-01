@@ -1,0 +1,3 @@
+# Article 495f
+Transitional arrangements for property revaluation requirements
+By way of derogation from Article 229(1), points (a) to (d), for exposures secured by residential property or commercial immovable property granted before 1 January 2025, institutions may continue to value residential property or commercial immovable property at or less than the market value, or in those Member States that have provided for rigorous criteria for the assessment of the mortgage lending value in statutory or regulatory provisions, the mortgage lending value of that property, until a review of the property value is required in accordance with Article 208(3), or 31 December 2027, whichever is earlier.

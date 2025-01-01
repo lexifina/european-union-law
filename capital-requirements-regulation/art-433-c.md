@@ -7,6 +7,9 @@ Disclosures by other institutions
 (a) points (a), (e) and (f) of Article 435(1);
 (b) points (a, (b) and (c) of Article 435(2);
 (c) point (a) of Article 437;
-(d) points (c) and (d) of Article 438;
+(d) Article 438, points (c), (d) and (da):
+(da) Article 442, points (c) and (d);
 (e) the key metrics referred to in Article 447;
+(ea) the information referred to in Article 449a;
+(eb) the information referred to in Article 449b;
 (f) points (a) to (d), (h) to (k) of Article 450(1).

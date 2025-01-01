@@ -4,7 +4,14 @@ Exposures excluded from the total exposure measure
 (a) the amounts deducted from Common Equity Tier 1 items in accordance with point (d) of Article 36(1);
 (b) the assets deducted in the calculation of the capital measure referred to in Article 429(3);
 (c) exposures that are assigned a risk weight of 0 % in accordance with Article 113(6) or (7);
+(ca) where the institution is a member of the network referred to in Article 113(7), the exposures that are assigned a risk weight of 0 % in accordance with Article 114 and arising from assets being an equivalent of deposits in the same currency of other members of that network stemming from legal or statutory minimum deposit in accordance with Article 422(3), point (b); in such a case exposures of other members of that network being legal or statutory minimum deposit are not subject to point (c) of this paragraph;
 (d) where the institution is a public development credit institution, the exposures arising from assets that constitute claims on central governments, regional governments, local authorities or public sector entities in relation to public sector investments, and promotional loans;
+(da) the institution's exposures to its shareholders, provided that such exposures are collateralised to the level of at least 125 % by assets referred to in Article 129(1), points (d) and (e), and those assets are accounted for in the shareholders' leverage ratio requirement, where the institution is not a public development credit institution but it meets the following conditions:
+(i) its shareholders are credit institutions and do not exercise control over the institution;
+(ii) it complies with paragraph 2, points (a), (b), (c) and (e), of this Article;
+(iii) its exposures are located in the same Member State;
+(iv) it is subject to some form of oversight by a Member State's central government on an ongoing basis;
+(v) its business model is limited to the pass-through of the amount corresponding to the proceeds raised through the issuance of covered bonds to its shareholders, in the form of debt instruments;
 (e) where the institution is not a public development credit institution, the parts of exposures arising from passing-through promotional loans to other credit institutions;
 (f) the guaranteed parts of exposures arising from export credits that meet both of the following conditions:
 (i) the guarantee is provided by an eligible provider of unfunded credit protection in accordance with Articles 201 and 202, including by export credit agencies or by central governments;

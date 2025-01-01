@@ -24,6 +24,7 @@ minj {LHj/LHj ≥ Mat}
 =
 the length of one of the liquidity horizons listed in Table 1 of Article 325bc which is the nearest liquidity horizon above the maturity of the trading book position.
 5. Currency pairs that are composed of the euro and the currency of a Member State participating in ERM II shall be included in the most liquid currency pairs sub-category within the broad category of foreign exchange risk factor of Table 2.
+5a. Currencies of Member States participating in ERM II shall be included in the most liquid currencies and domestic currency sub-category within the broad category of interest rate risk factor of Table 2.
 6. An institution shall verify the appropriateness of the mapping referred to in paragraph 1 on at least a monthly basis.
 7. EBA shall develop draft regulatory technical standards to specify:
 (a) how institutions are to map the risk factors of the positions referred to in paragraph 1 to broad categories of risk factors and broad sub-categories of risk factors for the purposes of paragraph 1;

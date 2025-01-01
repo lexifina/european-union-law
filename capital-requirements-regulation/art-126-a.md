@@ -1,3 +1,7 @@
 # Article 126a
 Land acquisition, development and construction exposures
+1. An ADC exposure shall be assigned a risk weight of 150 %.
+2. ADC exposures to residential property may be assigned a risk weight of 100 %, provided that the institution applies sound origination and monitoring standards which meet the requirements laid down in Articles 74 and 79 of Directive 2013/36/EU and where at least one of the following conditions is met:
+(a) legally binding pre-sale or pre-lease contracts for which the purchaser or tenant has made a substantial cash deposit which is subject to forfeiture if the contract is terminated or where the financing is ensured in an equivalent manner, or legally binding sale or lease contracts, including where the payment is made by instalments as the construction works progress, amount to a significant portion of total contracts;
+(b) the obligor has substantial equity at risk, which is represented as an appropriate amount of obligor-contributed equity to the residential property value upon completion.
 3. By 10 July 2025, EBA shall issue guidelines, in accordance with Article 16 of Regulation (EU) No 1093/2010, specifying the terms 'substantial cash deposits', 'financing ensured in an equivalent manner', 'significant portion of total contracts' and 'appropriate amount of obligor-contributed equity', taking into account the specificities of institutions' lending to public housing or not-for-profit entities across the Union that are regulated by law and that exist to serve social purposes and to offer tenants long-term housing.

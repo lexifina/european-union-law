@@ -49,7 +49,7 @@ Central government, including central banks, of a third country, multilateral de
 Regional or local authority and public sector entities
 4,0 %
 13
-Financial sector entities including credit institutions incorporated or established by a central government, a regional government or a local authority and promotional lenders
+Financial sector entities, including credit institutions incorporated or established by a central government, a regional government or a local authority, promotional lenders and covered bonds
 12,0 %
 14
 Basic materials, energy, industrials, agriculture, manufacturing, mining and quarrying
@@ -72,4 +72,6 @@ Listed credit indices with a majority of its individual constituents being inves
 20
 Listed credit indices with a majority of its individual constituents being non-investment grade or unrated
 5 %
+For the purposes of this Article, an exposure shall be assigned the credit quality category corresponding to the credit quality category that it would be assigned under the standardised approach for credit risk set out in Title II, Chapter 2.
 2. To assign a risk exposure to a sector, institutions shall rely on a classification that is commonly used in the market for grouping issuers by sector. Institutions shall assign each issuer to only one of the sector buckets in Table 4. Risk exposures from any issuer that an institution cannot assign to a sector in such a manner shall be assigned to bucket 18 in Table 4.
+3. By way of derogation from paragraph 2, institutions may assign a risk exposure of an unrated covered bond to bucket 4 where the institution that issued the covered bond has credit quality step 1 to 3.

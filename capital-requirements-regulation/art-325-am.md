@@ -7,7 +7,7 @@ Credit quality
 Sector
 Risk weight
 1
-Senior and Credit quality step 1 to 3
+Senior and credit quality step 1 to 10
 RMBS - Prime
 0,9 %
 2
@@ -32,7 +32,7 @@ ABS - Auto
 Collateralised loan obligations (CLO) non-ACTP
 1,4 %
 9
-Non-senior and credit quality step 1 to 3
+Non-senior and credit quality step 1 to 10
 RMBS - Prime
 1,125 %
 10
@@ -57,7 +57,7 @@ ABS - Auto
 CLO non-ACTP
 1,75 %
 17
-Credit quality step 4 to 6 and unrated
+Credit quality step 11 to 17 and unrated
 RMBS - Prime
 1,575 %
 18
@@ -85,3 +85,4 @@ CLO non-ACTP
 Other sector
 3,5 %
 2. To assign a risk exposure to a sector, institutions shall rely on a classification that is commonly used in the market for grouping issuers by sector. Institutions shall assign each tranche to one of the sector buckets in Table 7. Risk exposures from any tranche that an institution cannot assign to a sector in such a manner shall be assigned to bucket 25.
+3. For the purposes of this Article, an exposure shall be assigned the credit quality category corresponding to the credit quality category that it would be assigned under the External Rating Based Approach set out in Title II, Chapter 5.

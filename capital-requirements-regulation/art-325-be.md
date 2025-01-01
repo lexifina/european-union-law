@@ -1,7 +1,14 @@
 # Article 325be
 Assessment of the modellability of risk factors
 1. Institutions shall assess the modellability of all the risk factors of the positions assigned to the trading desks for which they have been granted permission as referred to in Article 325az(2) or are in the process of being granted such permission.
+For the purposes of the assessment referred to in first subparagraph, competent authorities may allow institutions to use market data provided by third-party vendors.
+1a. Competent authorities may require an institution to consider not modellable a risk factor that has been assessed as modellable by the institution in accordance with paragraph 1 of this Article, where the data inputs used to determine the scenarios of future shocks applied to the risk factor do not meet, to the satisfaction of the competent authorities, the requirements referred to in Article 325bc(6).
 2. As part of the assessment referred to in paragraph 1 of this Article, institutions shall calculate the own funds requirements for market risk in accordance with Article 325bk for those risk factors that are not modellable.
+2a. In extraordinary circumstances, occurring during periods of significant reduction in certain trading activities across financial markets, competent authorities may allow institutions using the approach set out in this Chapter to consider as modellable risk factors that have been assessed as not modellable by those institutions in accordance with paragraph 1, provided that the following conditions are met:
+(a) the risk factors subject to the treatment correspond to the trading activities which are significantly reduced across financial markets;
+(b) the treatment is applied temporarily, and for not more than six months within one financial year;
+(c) the treatment does not significantly reduce the total own funds requirements for market risk of the institutions applying it;
+(d) competent authorities immediately notify EBA of any decision to allow institutions to apply the approach set out in this Chapter to consider as modellable risk factors that have been assessed as non-modellable, as well as of the trading activities concerned, and substantiate that decision.
 3. EBA shall develop draft regulatory technical standards to specify the criteria to assess the modellability of risk factors in accordance with paragraph 1, including where market data provided by third-party vendors are used, and the frequency of that assessment.
 EBA shall submit those draft regulatory technical standards to the Commission by 10 July 2025.
 Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
