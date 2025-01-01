@@ -1,0 +1,6 @@
+# Article 37a
+1. The Member State of establishment shall transmit the following information by electronic means to the competent authorities of the Member States granting the exemption within 15 working days from the date on which the information becomes available:
+(a) as regards taxable persons who have given a prior notification or an update to a notification referred to in Article 284(3) or (4) of Directive 2006/112/EC, the information referred to in points (a) and (d) of Article 21(2b) of this Regulation;
+(b) as regards taxable persons whose Union annual turnover has exceeded the amount referred to in point (a) of Article 284(2) of Directive 2006/112/EC, the information referred to in points (a) and (h) of Article 21(2b) of this Regulation;
+(c) as regards taxable persons who have failed to comply with the rules provided for in Article 284b of Directive 2006/112/EC, the fact of that failure and the information referred to in point (a) of Article 21(2b) of this Regulation.
+2. The Commission shall adopt by means of implementing acts the technical details, including a common electronic message, by which the information referred to in paragraph 1 of this Article is to be submitted. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 58(2).
