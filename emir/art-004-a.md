@@ -13,3 +13,8 @@ UCITS management companies which manage more than one UCITSs and AIFMs which man
 (a) a systematic underestimation of the positions of any of the funds they manage or the positions of the manager; and
 (b) a circumvention of the clearing obligation.
 The relevant competent authorities of the financial counterparty and of the other entities within the group shall establish cooperation procedures to ensure the effective calculation of the positions at the group level.
+4. ESMA, after having consulted the ESRB and other relevant authorities, shall develop draft regulatory technical standards to specify the value of the clearing thresholds applicable to aggregate positions where necessary to ensure the prudent coverage of financial counterparties under the clearing obligation.
+Where ESMA, in accordance with Article 10(4a), reviews the clearing thresholds specified pursuant to Article 10(4), first subparagraph, point (b), ESMA shall also review the clearing threshold specified pursuant to the first subparagraph of this paragraph.
+ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 25 December 2025.
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+5. For the purposes of this Article and Article 10, 'uncleared position' means the aggregate month-end average position for the previous 12 months in OTC derivative contracts that are not cleared by a CCP authorised under Article 14 or recognised under Article 25.
