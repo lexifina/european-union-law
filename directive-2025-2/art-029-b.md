@@ -1,0 +1,18 @@
+# Article 29b
+Process of classification for undertakings complying with the criteria
+1. Member States shall ensure that undertakings complying with the criteria set out in Article 29a may notify the supervisory authority of such compliance with a view to being classified as small and non-complex undertakings.
+2. The notification referred to in paragraph 1 of this Article shall be submitted by the undertaking to the supervisory authority of the Member State that granted the prior authorisation referred to in Article 14. That notification shall include all of the following:
+(a) evidence of the compliance with all criteria set out in Article 29a applicable to that undertaking;
+(b) a declaration that the undertaking does not plan any strategic change that would lead to non-compliance with any of the criteria set out in Article 29a within the next three years;
+(c) an identification of the proportionality measures the undertaking expects to implement, in particular if the best estimate simplification is intended to be used and whether the undertaking plans to use the simplified method to calculate technical provisions laid down in Article 77(8).
+3. The supervisory authority may oppose the classification as a small and non-complex undertaking within two months of receipt of the complete notification referred to in paragraph 1 on grounds related exclusively to any of the following:
+(a) non-compliance with the criteria provided for in Article 29a;
+(b) non-compliance with the Solvency Capital Requirement, assessed without the use of any of the transitional measures referred to in Article 77a(2), Article 308c, Article 308d or, where relevant, Article 111(1), second subparagraph;
+(c) the undertaking represents more than 5 % of the life market or, where applicable, non-life market in accordance with Article 35a(1), second subparagraph, of the home Member State of the undertaking.
+4. Any decision of the supervisory authority to oppose the classification as a small and non-complex undertaking shall state the reasons therefor and shall be communicated to the undertaking concerned in writing.
+In the absence of such a decision, the undertaking shall be classified as a small and non-complex undertaking as of the end of the two-month period referred to in paragraph 3.
+Where, before the end of the two-month period referred to in paragraph 3, the supervisory authority has issued a decision confirming compliance with the criteria, the undertaking shall be classified as a small and non-complex undertaking as of the date of such decision.
+5. With respect to requests received by supervisory authorities within the first six months of 30 January 2027, the period referred to in paragraph 3 shall be extended to four months.
+6. An undertaking shall be classified as a small and non-complex undertaking for as long as such classification does not cease in accordance with this paragraph.
+Where a small and non-complex undertaking no longer complies with any of the criteria set out in Article 29a(1), it shall inform the supervisory authority without delay. Where such non-compliance continuously persists over two consecutive years, the undertaking shall inform the supervisory authority thereof, and shall cease to be classified as a small and non-complex undertaking as from the following financial year.
+Where an undertaking that has been classified as a small and non-complex undertaking fulfils any of the exclusion criteria set out in Article 29a(3), that undertaking shall inform the supervisory authority without delay and shall cease to be classified as a small and non-complex undertaking as from the following financial year.
