@@ -1,0 +1,2 @@
+# Article 5b
+By 28 June 2024, railway undertakings and infrastructure managers shall change their safety management system as defined in Article 9 of Directive (EU) 2016/798 in accordance with the requirements laid down in the Annex to this Regulation. Such changes, if limited to those strictly necessary to apply this Regulation, as amended, shall not be considered to be substantial changes to the safety regulatory framework within the meaning of Article 10(15) of Directive (EU) 2016/798.
