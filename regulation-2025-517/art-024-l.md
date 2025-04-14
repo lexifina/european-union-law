@@ -1,0 +1,3 @@
+# Article 24l
+1. The costs of establishing, operating and maintaining the central VIES shall be borne by the general budget of the Union. Those costs shall include the costs of the secure connection between the central VIES and the national electronic systems referred to in Article 24g(2), and the costs of the services necessary to carry out the functions listed in Article 24j.
+2. Each Member State shall bear the costs of and shall be responsible for all developments to its national electronic system as referred to in Article 24g(2) necessary to permit the exchange of information using the Common Communications Network (CCN) or any other similar secure network.
