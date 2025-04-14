@@ -1,0 +1,3 @@
+# Article 271a
+1. Member States may require that taxable persons established or identified for VAT purposes in their territory send electronically to their tax authorities data on the supplies of goods and services, other than those referred to in Article 262, made within their territory to themselves or to other taxable persons.
+2. Member States may require that taxable persons established or identified for VAT purposes in their territory send electronically to their tax authorities data on the supplies of goods and services, other than those referred to in Article 262, made within their territory to them by themselves or by other taxable persons.
