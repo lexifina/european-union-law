@@ -1,0 +1,6 @@
+# Article 18a
+Measures in the event of risks posed by the presence of ice
+1. Where the competent authorities consider, in view of ice conditions, that there is a serious threat to the safety of human life at sea or to the protection of their shipping areas or coastal zones, or of the shipping areas or coastal zones of other States:
+(a) they shall supply the master of a ship which is in their area of competence, or intends to enter or leave one of their ports, with appropriate information on the ice conditions, the recommended routes and the icebreaking services in their area of competence;
+(b) they may, without prejudice to the duty of assistance to ships in need of assistance and other obligations flowing from relevant international rules, request that a ship which is in the area concerned and intends to enter or leave a port or terminal or to leave an anchorage area document that it satisfies the strength and power requirements commensurate with the ice situation in the area concerned.
+2. The measures taken pursuant to paragraph 1 shall be based, as regards the data concerning the ice conditions, upon ice and weather forecasts provided by a qualified meteorological information service recognised by the Member State.
