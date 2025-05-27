@@ -1,0 +1,6 @@
+# Article 54c
+Conditions for zero-rating biofuels, RFNBO, RCF and synthetic low-carbon fuels by aircraft operators
+1. The aircraft operator may count the biomass fraction of a mixed aviation fuel towards the zero-rated biomass fraction only to the extent that the biofuel content complies with the criteria set out in Article 38(5).
+2. The aircraft operator may count the RFNBO or RCF fraction of a mixed aviation fuel towards the zero-rated RFNBO or RCF fraction only to the extent that the RFNBO or RCF content complies with the criteria set out in Article 39a(3).
+3. The aircraft operator may count the synthetic low-carbon fraction of a mixed aviation fuel towards the zero-rated synthetic low-carbon fraction only to the extent that the synthetic low-carbon content complies with the criteria set out in Article 39a(4).
+4. The aircraft operator may claim zero-rated biofuels, zero-rated RFNBO or RCF and zero-rated synthetic low-carbon fuels only to the extent these zero-rated fuels comply with the maximum amount of fuel use determined in accordance with Article 53a of this Regulation, for flights for which allowances have to be surrendered in accordance with Article 12(3) of Directive 2003/87/EC.
