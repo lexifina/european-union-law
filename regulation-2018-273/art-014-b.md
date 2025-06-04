@@ -1,0 +1,7 @@
+# Article 14b
+Disposal of by-products
+1. Producers shall withdraw the by-products of winemaking or of any other processing of grapes under supervision by the competent authorities of the Member States, subject to the requirements on delivery and registration laid down in Article 9(1)(b) of Commission Delegated Regulation (EU) 2018/273 and Article 14(1)(b)(vii) and Article 18 of Commission Implementing Regulation (EU) 2018/274, respectively.
+2. Withdrawal shall be carried out without delay and no later than at the end of the wine year in which the by-products were obtained, in compliance with applicable Union legislation, in particular as regards the environment.
+3. Member States may decide that producers who, during the wine year in question, do not produce more than 50 hectolitres of wine or must themselves on their own premises are not required to withdraw their by-products.
+4. Producers may fulfil the obligation of disposal for all or a part of the by-products of winemaking or any other processing of grapes by delivering the by-products to distillation. Such disposal of the by-products shall be certified by a competent authority of the Member State.
+5. Member States may decide that the delivery to distillation of all or a part of the by-products of winemaking or of any other processing of grapes is made compulsory for all or certain producers on their territory on the basis of objective and non-discriminatory criteria.
