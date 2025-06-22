@@ -1,0 +1,5 @@
+# Article 43n
+Sampling
+1. When checking the conformance of control activities and procedures referred to in Article 43i, points (b) and (c), or when performing the checks referred to in Articles 43j and 43k, the verifier may use sampling methods specific to a regulated entity provided that, based on the risk analysis, sampling is justified.
+2. Where the verifier identifies a non-conformity or a misstatement in the course of sampling, it shall request the regulated entity to explain the main causes of the non-conformity or the misstatement in order to assess the impact of the non-conformity or misstatement on the reported data. Based on the outcome of that assessment, the verifier shall determine whether additional verification activities are needed, whether the sampling size needs to be increased, and which part of the data population has to be corrected by the regulated entity.
+3. The verifier shall document the outcome of the checks referred to in Articles 43i to 43l, including the details of additional samples, in the internal verification documentation.
