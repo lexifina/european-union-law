@@ -1,0 +1,3 @@
+# Article 31b
+Coordination function in relation to orders, transactions and activities with significant cross-border effects
+Where a competent authority has evidence or clear indications from several different sources to suspect that orders, transactions or any other activity with significant cross-border effects threaten the orderly functioning and integrity of financial markets or the financial stability in the Union, it shall promptly notify the Authority and provide the relevant information. The Authority may issue an opinion on appropriate follow-up to the competent authorities of the Member States where the suspected activity has occurred.
