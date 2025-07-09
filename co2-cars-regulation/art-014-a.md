@@ -1,0 +1,17 @@
+# Article 14a
+Progress report
+1. By 31 December 2025, and every two years thereafter, the Commission shall submit a report to the European Parliament and to the Council on the progress towards zero-emission road mobility. The report shall in particular monitor and assess the need for possible additional measures to facilitate a just transition, including through financial means.
+2. In the report, the Commission shall consider all factors that contribute to a cost-efficient progress towards climate neutrality by 2050, including:
+(a) progress in the deployment of zero- and low-emission vehicles, in particular in the light commercial vehicles segment, as well as the measures at Union, Member State and local level to facilitate Member States' transition to zero- emission light-duty vehicles;
+(b) progress in the energy efficiency and affordability of zero- and low-emission vehicles;
+(c) the impacts on consumers, particularly on low- and medium-income households, including on electricity prices;
+(d) analysis of the market for second-hand vehicles;
+(e) the potential contribution in terms of CO2 savings of additional measures aimed to lower the average age and thus the emissions of the light-duty vehicles fleet, such as measures to support the phase out of older vehicles in a socially just and environmentally sound manner;
+(f) impacts on employment in the automotive sector, especially on micro, small and medium-sized enterprises (SMEs), and the effectiveness of measures to support retraining and upskilling of the workforce;
+(g) the effectiveness of existing financial measures and the need for further action, including adequate financial measures, at Union, Member State or local level to ensure a just transition and to mitigate any negative socioeconomic impacts, in particular in the regions and the communities most affected;
+(h) progress in social dialogue, as well as aspects to further facilitate an economically viable and socially fair transition towards zero-emission road mobility;
+(i) progress in the roll-out of public and private recharging and refuelling infrastructure, including progress under a Regulation of the European Parliament and of the Council on the deployment of alternative fuels infrastructure, and repealing Directive 2014/94/EU of the European Parliament and of the Council and a recast of Directive 2010/31/EU of the European Parliament and of the Council;
+(j) the potential contribution of innovation technologies and sustainable alternative fuels, including synthetic fuels, to reach climate neutral mobility;
+(k) life-cycle emissions of new passenger cars and new light commercial vehicles placed on the market, as reported in accordance with Article 7a;
+(l) the impact of this Regulation on the achievement of the Member States' targets under Regulation (EU) 2018/842 and a recast of Directive 2008/50/EC of the European Parliament and of the Council.
+3. At the date of submission of the first progress report referred to in paragraph 1, the Commission shall also, in cooperation with Member States and all relevant stakeholders, submit a report to the European Parliament and to the Council which includes an analysis to identify any funding gaps in ensuring a just transition in the automotive supply chain, with particular attention for SMEs and the regions that are most affected by the transition. The report shall, where appropriate, be accompanied by proposals for adequate financial measures to address the needs identified.
