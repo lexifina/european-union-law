@@ -1,0 +1,2 @@
+# Article 1a
+By 31 December 2025, the Commission shall conclude the review of third countries that are not identified as being subject to calls for action or increased monitoring by the FATF, but whose membership in that international standard-setter is suspended, to assess whether to amend the Annex to Delegated Regulation (EU)2016/1675 accordingly.
