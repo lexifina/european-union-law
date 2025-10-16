@@ -1,0 +1,4 @@
+# Article 29a
+Food waste prevention programmes
+1. Member States shall evaluate and adapt their food waste prevention programmes, with a view to attaining the targets provided for in Article 9a(4). Those programmes shall at least contain the measures laid down in Article 9(1) and Article 9a(1) and, where relevant, the measures listed in Annexes IV and IVa and shall be communicated to the Commission by 17 October 2027.
+2. Each Member State shall designate the competent authorities responsible for the coordination of the measures to prevent generation of food waste referred to in Article 9a(1) implemented in order to reach the targets set out in Article 9a(4) and inform accordingly the Commission by 17 January 2026. The Commission shall subsequently publish that information on the relevant website.
