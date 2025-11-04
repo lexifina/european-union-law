@@ -1,0 +1,11 @@
+# Article 21a
+Exchange of information on terrorism cases
+1. As regards terrorist offences, the competent national authorities shall inform their national members of any ongoing or concluded criminal investigations supervised by judicial authorities as soon as the case is referred to the judicial authorities in accordance with national law, in particular national criminal procedural law, of any ongoing or concluded prosecutions and court proceedings, and of any court decisions on terrorist offences. That obligation shall apply to all criminal investigations related to terrorist offences regardless of whether there is a known link to another Member State or a third country unless the criminal investigation, due to its specific circumstances, clearly affects only one Member State.
+2. Paragraph 1 shall not apply where:
+(a) the sharing of information would jeopardise an ongoing investigation or the safety of an individual; or
+(b) the sharing of information would be contrary to essential security interests of the Member State concerned.
+3. Terrorist offences for the purpose of this Article are offences referred to in Directive (EU) 2017/541 of the European Parliament and of the Council.
+4. The information transmitted in accordance with paragraph 1 shall include the operational personal data and non-personal data set out in Annex III. Such information may include personal data in accordance with Annex III, point (d), but only if such personal data are held by or can be communicated to the competent national authorities in accordance with national law and if the transmission of those data is necessary to identify reliably a data subject under Article 27(5).
+5. Subject to paragraph 2, the competent national authorities shall inform their national members about any changes to the information transmitted under paragraph 1 without undue delay and, where possible, no later than 10 working days after such changes.
+6. The competent national authority shall not be obliged to provide such information where it has already been transmitted to Eurojust.
+7. The national competent authority may at any stage request the support of Eurojust in the follow-up action as regards links identified on the basis of information provided under this Article.
