@@ -1,6 +1,8 @@
 # Article 16a
 Opinions
 1. The Authority may, upon a request from the European Parliament, from the Council or from the Commission, or on its own initiative, provide opinions to the European Parliament, to the Council and to the Commission on all issues related to its area of competence.
+In its opinions, the Authority may, where appropriate, address the functioning of legislative acts in force, including the appropriateness of removing any redundant or obsolete reporting and disclosure requirements in Union law or in measures of national law transposing Union law.
+To provide opinions on legislative acts in force, as referred to in the second subparagraph, the Authority may consult all relevant stakeholders specifically on that matter and take their input into account. The Commission may, after considering those opinions, where appropriate, submit to the European Parliament and to the Council a legislative proposal.
 2. The request referred to in paragraph 1 may include a public consultation or a technical analysis.
 3. With regard to assessments referred to in Article 22 of Directive 2013/36/EU, and which according to that Article require consultation between competent authorities from two or more Member States, the Authority may, at the request of one of the competent authorities concerned, issue and publish an opinion on such assessments. The opinion shall be issued promptly and, in any event, before the end of the assessment period referred to in that Article.
 4. The Authority may, upon a request from the European Parliament, from the Council or from the Commission provide technical advice to the European Parliament, the Council and the Commission in the areas set out in the legislative acts referred to in Article 1(2).
