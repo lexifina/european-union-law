@@ -1,0 +1,5 @@
+# Article 15b
+Specifications concerning the language of the standard driving disqualification certificate
+1. The standard driving disqualification certificate shall be transmitted in any official language of the institutions of the Union that is an official language of the Member State of issuance, or in any other official language of the institutions of the Union that the Member State of issuance has accepted in accordance with paragraph 2.
+2. Any Member State may, at any time, state in a declaration submitted to the Commission that it will accept standard driving disqualification certificates in one or more official languages of the institutions of the Union that are not an official language of the Member State of issuance. The Member State concerned may modify or withdraw such a declaration at any time. The Commission shall make that information available to all Member States, including in the EU driving licence network, in order to facilitate the notification by Member States.
+3. There shall be no obligation on the Member State of the offence to translate the decision imposing the driving disqualification.
