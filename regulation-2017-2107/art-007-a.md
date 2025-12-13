@@ -1,0 +1,5 @@
+# Article 7a
+Statistical documents and reporting
+1. When validating statistical documents, the flag Member State of large-scale pelagic longline vessels shall ensure that transhipments are consistent with the reported catch amount by each such vessel.
+2. The flag Member State of large-scale pelagic longline vessels shall validate statistical documents for the transhipped fish, after confirming that the transhipment was conducted in accordance with Articles 51 to 58 of Regulation (EU) 2017/2107 of the European Parliament and of the Council. That confirmation shall be based on the information obtained through the ICCAT regional observer programme for transhipment at sea.
+3. Member States shall require that the species covered by the statistical document programs caught by large-scale pelagic longline vessels in the ICCAT Convention area, when imported into their area or territory, are accompanied by statistical documents validated for the vessels on the ICCAT list of large-scale pelagic longline vessels authorised to tranship at sea and a copy of the ICCAT transhipment declaration.
