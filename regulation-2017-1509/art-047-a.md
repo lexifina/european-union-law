@@ -1,0 +1,4 @@
+# Article 47a
+1. Annexes XV, XVI, XVII and XVIII shall be reviewed at regular intervals and at least every 12 months.
+2. Annexes XIII, XIV, XV, XVI, XVII and XVIII shall include the grounds for the listing of persons, entities, bodies and vessels concerned.
+3. Annexes XIII, XIV, XV, XVI, XVII and XVIII shall also include, where available, information necessary to identify the natural or legal persons, entities, bodies and vessels concerned. With regard to natural persons, such information may include names including aliases, date and place of birth, nationality, passport and ID card numbers, gender, address, if known, and function or profession. With regard to legal persons, entities and bodies, such information may include names, place and date of registration, registration number and place of business.
