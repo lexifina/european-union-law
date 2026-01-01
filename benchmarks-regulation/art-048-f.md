@@ -1,6 +1,6 @@
 # Article 48f
 Fines
-1. Where, in accordance with Article 48i(5), ESMA finds that any person has, intentionally or negligently, committed one or more of the infringements listed in point (a) of Article 42(1), it shall adopt a decision imposing a fine in accordance with paragraph 2 of this Article.
+1. Where, in accordance with Article 48i(5), ESMA finds that any person has, intentionally or negligently, committed one or more of the infringements listed in Article 42(1), point (a), or any failure to cooperate or comply in an investigation or with an inspection or request covered by Section 1 of this Chapter, it shall adopt a decision imposing a fine in accordance with paragraph 2 of this Article.
 An infringement shall be considered to have been committed intentionally if ESMA finds objective factors which demonstrate that a person acted deliberately to commit the infringement.
 2. The maximum amount of the fine referred to in paragraph 1 shall be:
 (a) in the case of a legal person, EUR 1 000 000, or, in the Member States whose currency is not the euro, the corresponding value in the national currency on 30 June 2016, or 10 % of the total annual turnover of that legal person according to the last available financial statements approved by the management body, whichever is the higher;
