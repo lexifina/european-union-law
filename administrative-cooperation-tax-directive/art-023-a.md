@@ -1,0 +1,6 @@
+# Article 23a
+Confidentiality of information
+1. Information communicated to the Commission pursuant to this Directive shall be kept confidential by the Commission in accordance with the provisions applicable to Union authorities and may not be used for any purposes other than those required to determine whether and to what extent Member States comply with this Directive.
+2. Information communicated to the Commission by a Member State under Article 23, as well as any report or document produced by the Commission using such information, may be transmitted to other Member States. Such transmitted information shall be covered by the obligation of official secrecy and enjoy the protection extended to similar information under the national law of the Member State which received it.
+Reports and documents produced by the Commission, referred to in the first subparagraph, may be used by Member States only for analytical purposes, and shall not be published or made available to any other person or body without the express agreement of the Commission.
+Notwithstanding the first and second subparagraphs, the Commission may publish annually anonymised summaries of the statistical data that Member States communicate to it in accordance with Article 23(4).

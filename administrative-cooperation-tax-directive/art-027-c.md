@@ -1,0 +1,4 @@
+# Article 27c
+Reporting and communication of the TIN
+1. Each Member State shall take the necessary measures to require that the TIN of reported individuals or entities issued by the Member State of residence be reported by the reporting entity or reporting individual and be communicated by each Member State when explicitly required by, and pursuant to, the Articles and Annexes of this Directive.
+4. For taxable periods starting on or after 1 January 2028, each Member State shall include, where it has been obtained by the competent authority of the Member State, the TIN of individuals and entities issued by the Member State of residence in the communication of the information referred to in Article 8a(6), points (a) and (k), as well as of reported individuals and entities in the communication of the information referred to in Article 8aa(3), point (b), and in Article 8ab(14), point (h).
