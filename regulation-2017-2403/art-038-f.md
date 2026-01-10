@@ -1,0 +1,5 @@
+# Article 38f
+Closure of fishing operations
+1. Where fishing opportunities granted to the United Kingdom are deemed to have been exhausted, the Commission shall immediately notify the United Kingdom and the competent inspection authorities of the Member States thereof. With a view to ensuring the continuation of fishing operations of non-exhausted fishing opportunities, which may also affect the exhausted opportunities, the Commission shall request the United Kingdom to communicate to it technical measures preventing any negative impact on the exhausted fishing opportunities.
+2. From the date of the notification referred to in paragraph 1, the fishing authorisations issued to vessels flying the flag of the United Kingdom shall be considered to be suspended for the fishing operations concerned and the vessels shall no longer be authorised to engage in those fishing operations.
+3. Fishing authorisations shall be considered to be withdrawn where a suspension of fishing authorisations in accordance with paragraph 2 concerns all the operations for which they have been granted.

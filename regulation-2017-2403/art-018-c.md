@@ -1,0 +1,11 @@
+# Article 18c
+Procedure for obtaining fishing authorisations from the United Kingdom
+1. A flag Member State that has verified that the conditions set out in Article 5 are complied with shall send to the Commission the corresponding application or list of applications for authorisation by the United Kingdom.
+2. Each application or list of applications shall contain the information requested by the United Kingdom for the issuing of the authorisation, in the required format, as communicated by the United Kingdom to the Commission.
+3. The Commission shall inform the Member States of the information and format referred to in paragraph 2. The Commission may send a request to the flag Member State for any additional information necessary for verifying compliance with the conditions referred to in paragraphs 1 and 2.
+4. Upon receipt of the application or any additional information requested pursuant to paragraph 3, the Commission shall forward the application to the United Kingdom without delay.
+5. As soon as the United Kingdom informs the Commission that it has decided to issue or refuse an authorisation to a Union fishing vessel, the Commission shall immediately inform the flag Member State accordingly.
+6. A flag Member State may only issue a fishing authorisation for fishing operations in United Kingdom waters after having been informed that the United Kingdom has decided to issue an authorisation to the relevant Union fishing vessel.
+7. Fishing operations shall not commence until both the flag Member State and the United Kingdom have issued a fishing authorisation.
+8. Where the United Kingdom informs the Commission that it has decided to suspend or withdraw a fishing authorisation for a Union fishing vessel, the Commission shall immediately inform the flag Member State accordingly. The Member State shall suspend or withdraw its fishing authorisation for fishing operations in United Kingdom waters accordingly.
+9. Where the United Kingdom informs the flag Member State directly that it has decided to issue, refuse, suspend or withdraw a fishing authorisation for a Union fishing vessel, the flag Member State shall immediately inform the Commission accordingly. The Member State shall suspend or withdraw its fishing authorisation for fishing operations in United Kingdom waters accordingly.
