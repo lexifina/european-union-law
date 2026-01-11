@@ -1,0 +1,12 @@
+# Article 27k
+Cooperation between competent authorities
+1. The competent authority shall consult the authorities entrusted with the public duty of supervising other financial sector entities concerned when carrying out the assessment provided for in Article 27j(1) where the proposed operation involves, in addition to the financial stakeholders, entities that are any of the following:
+(a) a credit institution, an insurance undertaking, a reinsurance undertaking, an investment firm or an asset management company, authorised in another Member State or in a sector other than that in which the proposed operation is undertaken;
+(b) a parent undertaking of a credit institution, of an insurance undertaking, of a reinsurance undertaking, of an investment firm or of an asset management company, authorised in another Member State or in a sector other than that in which the proposed operation is undertaken;
+(c) a legal person controlling a credit institution, an insurance undertaking, a reinsurance undertaking, an investment firm or an asset management company, authorised in another Member State or in a sector other than that in which the proposed operation is undertaken.
+2. The competent authorities shall, without delay, provide each other with any information which is essential or relevant for the assessment. In that regard, the competent authorities shall communicate to each other upon request or on their own initiative all relevant information for the assessment. An opinion by a competent authority of a financial stakeholder shall indicate any views or reservations expressed by the competent authority that supervises one or more of the entities listed in paragraph 1.
+The competent authorities shall seek to coordinate their assessments and ensure the consistency of their opinions.
+3. EBA shall develop draft implementing technical standards to establish common procedures and forms and shall develop templates for the consultation process between the relevant competent authorities as referred to in this Article.
+For the purposes of the first subparagraph, EBA shall take into consideration Title II of Directive (EU) 2017/1132.
+EBA shall submit those draft implementing technical standards to the Commission by 10 January 2027.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010.

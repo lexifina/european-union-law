@@ -16,6 +16,9 @@ By way of derogation from the first subparagraph of this paragraph, where none o
 (a) the names and the total value of assets of supervised institutions belonging to a third-country group;
 (b) the names and the total value of assets corresponding to branches authorised in that Member State in accordance with this Directive, Directive 2014/65/EU or Regulation (EU) No 600/2014, and the types of activities that they are authorised to carry out;
 (c) the name and the type as referred to in paragraph 3 of any intermediate EU parent undertaking set up in that Member State and the name of the third-country group of which it is part.
+6a. EBA shall develop draft implementing technical standards to specify the uniform formats and definitions, and shall develop the IT solutions to be applied in the Union, for the reporting of the information referred to in paragraph 6.
+EBA shall submit those draft implementing technical standards to the Commission by 10 January 2026.
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the second subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
 7. EBA shall publish on its website a list of all third-country groups operating in the Union and their intermediate EU parent undertaking or undertakings, where applicable.
 Competent authorities shall ensure that each institution under their jurisdiction that is part of a third-country group meets one of the following conditions:
 (a) it has an intermediate EU parent undertaking;
