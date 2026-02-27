@@ -1,0 +1,7 @@
+# Article 2b
+1. By way of derogation from Article 2(1), the competent authorities may authorise the release of certain frozen funds or economic resources, provided that the following conditions are met:
+(a) the funds or economic resources are the subject of an arbitral decision rendered prior to the date on which the natural or legal person, group or entity referred to in Article 2 was listed in Annex II or III, or of a judicial or administrative decision rendered in the Union, or a judicial decision enforceable in the Member State concerned, prior to, on or after that date;
+(b) the funds or economic resources will be used exclusively to satisfy claims secured by such a decision or recognised as valid in such a decision, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+(c) the decision is not for the benefit of a natural or legal person, group or entity listed in Annex II or III; and
+(d) recognising the decision is not contrary to public policy in the Member State concerned.
+2. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1 within two weeks of the authorisation.
