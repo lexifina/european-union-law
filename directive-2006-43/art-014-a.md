@@ -1,0 +1,5 @@
+# Article 14a
+Statutory auditors approved or recognised before 1 January 2024 and persons undergoing the approval process for statutory auditors on 1 January 2024
+Member States shall ensure that statutory auditors that are approved or recognised to carry out statutory audits before 1 January 2024 are not subject to the requirements of Article 7(2), Article 8(3), the second subparagraph of Article 10(1) and the fourth subparagraph of Article 14(2).
+Member States shall ensure that persons that on 1 January 2024 are undergoing the approval process provided for in Articles 6 to 14 are not subject to the requirements of Article 7(2), Article 8(3), the second subparagraph of Article 10(1) and the fourth subparagraph of Article 14(2), provided they complete that process by 1 January 2026.
+Member States shall ensure that statutory auditors approved before 1 January 2026 who wish to carry out the assurance of sustainability reporting acquire the necessary knowledge of sustainability reporting and the assurance of sustainability reporting, including of the subjects listed in Article 8(3), via the continuing education referred to in Article 13.
