@@ -1,3 +1,17 @@
 # Article 69a
 Assessment of the passport regime
 Before the entry into force of the delegated acts referred to in Article 67(6) pursuant to which the rules set out in Article 35 and Articles 37 to 41 become applicable, the Commission shall submit a report to the European Parliament and to the Council, taking into account the result of an assessment of the passport regime provided in this Directive including the extension of that regime to non-EU AIFMs. That report shall be accompanied, where appropriate, by a legislative proposal.
+Article 69-a
+Other review
+1. By 16 April 2029 and following the report produced by ESMA in accordance with Article 7(8), the Commission shall initiate a review of the functioning of the rules laid down in this Directive and the experience acquired in applying them. That review shall include an assessment of the following aspects:
+(a) the impact on financial stability of the availability and activation of liquidity management tools by AIFMs;
+(b) the effectiveness of the AIFM authorisation requirements in Articles 7 and 8 as regards the delegation regime laid down in Article 20 of this Directive, in particular with regard to preventing the creation of letter-box entities in the Union;
+(c) the appropriateness of the requirements applicable to AIFMs managing AIFs which originate loans laid down in Article 15 and Article 16(2a) and (2f);
+(d) the functioning of the derogation allowing the appointment of a depositary established in another Member State as set out in Article 21(5a) and the potential benefits and risks, including the impact on investor protection, on financial stability, on supervisory efficiency and on the availability of market choices, of amending the scope of that derogation, in line with the objectives of the capital markets union;
+(e) the appropriateness of the requirements applicable to AIFMs managing an AIF at the initiative of a third party as laid down in Article 14(2a) and the need for additional safeguards to prevent circumvention of those requirements, and, in particular, whether the provisions of this Directive on conflicts of interest are effective and appropriate in order to identify, manage, monitor and, where applicable, disclose conflicts of interest arising from the relationship between the AIFM and the third-party initiator;
+(f) the appropriateness and impact on investor protection of the appointment of at least one non-executive or independent director to the governing body of the AIFM, where it manages AIFs marketed to retail investors.
+2. By 16 April 2026, ESMA shall submit to the Commission a report regarding the development of the integrated collection of supervisory data, which shall focus on how to:
+(a) reduce areas of duplication and inconsistencies between the reporting frameworks in the asset-management sector and other sectors of the financial industry; and
+(b) improve data standardisation and efficient sharing and use of data already reported within any Union reporting framework by any relevant competent authority, at Union or national level.
+3. When preparing the report referred to in paragraph 2, ESMA shall work in close cooperation with the European Central Bank, the other ESAs and the competent authorities.
+4. Following the review referred to in paragraph 1, and after consulting ESMA, the Commission shall submit a report to the European Parliament and to the Council presenting the conclusions of that review.
