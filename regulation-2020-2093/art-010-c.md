@@ -1,0 +1,3 @@
+# Article 10c
+Ukraine Support Loan Instrument
+After having sought budgetary availabilities, first under existing budgetary ceilings and subsequently under other special instruments, while taking into account applicable sectoral rules, any legal or other obligations including under Article 10a of this Regulation, priorities, prudent budgeting and sound financial management, the Ukraine Support Loan Instrument may be mobilised by the European Parliament and the Council in the framework of the budgetary procedure provided for in Article 314 TFEU. The Ukraine Support Loan Instrument may be used for the sole purpose of financing debt service costs of a loan to Ukraine to be provided through enhanced cooperation.
