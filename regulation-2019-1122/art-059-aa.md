@@ -1,0 +1,6 @@
+# Article 59aa
+Creation of LUFAs
+1. For the second LULUCF compliance period, the central administrator shall create in the EU LUFA Central Account a number of LUFAs equal to the maximum amount of 178 million tonnes of carbon dioxide equivalents available to all Member States for the period 2026 to 2030.
+The amount of LUFAs eligible for transfer from the EU LUFA Central Account to a Member State LULUCF Compliance Account for the second compliance period shall not exceed 50 % of the maximum amount of compensation available for the Member State concerned as set out in the second column of Annex VII to Regulation (EU) 2018/841.
+2. LUFAs shall only be valid to balance out net emissions or net removals, or both, accounted for as emissions against the target or the budget set for that Member State in accordance with Article 4(3) and (4) of Regulation (EU) 2018/841. LUFAs shall only be eligible for transfer from the EU LUFA Central Account to the LULUCF Compliance Account of the Member State concerned with a view to meeting its obligations under Article 4(3) and (4) of Regulation (EU) 2018/841.
+3. The central administrator shall ensure that the Union Registry assigns each LUFA a unique unit identification code upon its creation.
