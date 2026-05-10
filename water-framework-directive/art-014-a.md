@@ -1,0 +1,10 @@
+# Article 14a
+Access to justice
+1. In line with the objective of contributing to the implementation of the Convention on Access to Information, Public Participation in Decision-Making and Access to Justice in Environmental Matters, signed in Aarhus on 25 June 1998, Member States shall ensure that in accordance with the relevant national legal system, members of the public concerned have access to a review procedure before a court of law or another independent and impartial body established by law, to challenge the substantive or procedural legality of decisions, acts or omissions subject to Articles 4 and 11 and Article 13(1) of this Directive, where at least one of the following conditions is met:
+(a) they have a sufficient interest; or
+(b) they maintain the impairment of a right, where administrative procedural law of a Member State requires this as a precondition.
+2. Member States shall determine what constitutes a sufficient interest and impairment of a right, consistent with the objective of giving the public concerned wide access to justice. To this end, the interest of any non-governmental organisation promoting environmental protection and meeting any requirements under national law shall be deemed sufficient for the purpose of paragraph 1(a). Such organisations shall also be deemed to have rights capable of being impaired for the purpose of paragraph 1(b).
+3. Standing in the review procedure shall not be conditional on the role that the member of the public concerned played during a participatory phase of the decision-making procedures under this Directive.
+4. Member States shall determine at what stage the decisions, acts or omissions referred to in paragraph 1 may be challenged.
+5. The review procedure shall be fair, equitable, timely and not prohibitively expensive, and shall provide for adequate and effective redress mechanisms, including injunctive relief where appropriate.
+6. Member States shall ensure that practical information is made available to the public on access to administrative and judicial review procedures referred to in this Article.
