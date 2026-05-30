@@ -1,0 +1,5 @@
+# Article 38a
+Committee procedure
+1. The Commission shall be assisted by the committee on the transport of dangerous goods established by Article 9 of Directive 2008/68/EC. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council.
+2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+3. Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, shall apply.
