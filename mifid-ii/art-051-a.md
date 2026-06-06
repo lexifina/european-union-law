@@ -1,0 +1,12 @@
+# Article 51a
+Specific conditions for the admission of shares to trading
+1. Member States shall ensure that regulated markets require that the foreseeable market capitalisation of the company for whose shares admission to trading is sought, or if that cannot be assessed, that company's capital and reserves, including profit and loss, from the last financial year, shall be at least EUR 1 000 000 or an equivalent amount in a national currency other than the euro.
+2. Paragraph 1 shall not apply to the admission to trading of shares fungible with shares already admitted to trading.
+3. Where, as a result of an adjustment of the equivalent amount in a national currency other than the euro, the market capitalisation expressed in the national currency remains for a period of one year at least 10 % more, or at least 10 % less, than EUR 1 000 000, the Member State shall, within the 12 months following the expiry of that period, adjust its laws, regulations or administrative provisions to comply with paragraph 1.
+4. Member States shall ensure that regulated markets require that at least 10 % of the subscribed capital represented by the class of shares concerned by the application for admission to trading is held by the public at the time of admission to trading.
+5. By way of derogation from paragraph 4, Member States may require that regulated markets establish, at the time of admission, at least one of the following requirements for an application for admission to trading of shares:
+(a) a sufficient number of shares is held by the public;
+(b) the shares are held by a sufficient number of shareholders;
+(c) the market value of the shares held by the public represents a sufficient level of subscribed capital in the class of shares concerned.
+6. Where admission to trading is sought for shares fungible with shares already admitted to trading, regulated markets shall assess, to fulfil the requirement laid down in paragraph 4, whether a sufficient number of shares has been distributed to the public in relation to all shares issued and not only in relation to the shares fungible with shares already admitted to trading.
+7. The Commission is empowered to adopt delegated acts in accordance with Article 89 to amend this Directive by modifying the thresholds referred to in paragraphs 1 and 3 of this Article or the threshold referred to in paragraph 4 of this Article, or all of them, when the applicable thresholds impede liquidity on public markets taking into account financial developments.
