@@ -1,7 +1,7 @@
 # Article 12g
 Application of the minimum requirement for own funds and eligible liabilities to entities that are not themselves resolution entities
 1. Institutions that are subsidiaries of a resolution entity or of a third-country entity, but are not themselves resolution entities, shall comply with the requirements laid down in Article 12d on an individual basis.
-The Board, after consulting the competent authorities, including the ECB, may decide to apply the requirement laid down in this Article to an entity referred to in point (b) of Article 2 that is a subsidiary of a resolution entity but is not itself a resolution entity.
+The Board, after having consulted the competent authorities, including the ECB, may decide to apply the requirement laid down in this Article to an entity as referred to in Article 2, point (b), or to a financial institution as referred to in Article 2, point (c), that is a subsidiary of a resolution entity but is not itself a resolution entity.
 By way of derogation from the first subparagraph of this paragraph, Union parent undertakings that are not themselves resolution entities, but are subsidiaries of third-country entities, shall comply with the requirements laid down in Articles 12d and 12e on a consolidated basis.
 By way of derogation from the first and second subparagraphs, the Board may decide to determine the requirement laid down in Article 12d on a consolidated basis for a subsidiary as referred to in this paragraph where the Board concludes that all of the following conditions are met:
 (a) the subsidiary meets one of the following conditions:
@@ -49,3 +49,7 @@ The requirement referred to in Article 12a(1) for an entity referred to in this 
 (h) the collateral has an effective maturity that fulfils the same maturity condition as that referred to in Article 72c(1) of Regulation (EU) No 575/2013; and
 (i) there are no legal, regulatory or operational barriers to the transfer of the collateral from the resolution entity to the relevant subsidiary, including where resolution action is taken in respect of the resolution entity.
 For the purposes of point (i) of the first subparagraph, at the request of the Board, the resolution entity shall provide an independent written and reasoned legal opinion or shall otherwise satisfactorily demonstrate that there are no legal, regulatory or operational barriers to the transfer of collateral from the resolution entity to the relevant subsidiary.
+4. Where in accordance with the global resolution strategy subsidiaries established in the Union, or a Union parent undertaking and its subsidiary institutions, are not resolution entities and the members of the European resolution college, where established pursuant to Article 89 of Directive 2014/59/EU, agree with that strategy, subsidiaries established in the Union or, on a consolidated basis, the Union parent undertaking shall comply with the requirement of Article 12a(1) of this Regulation by issuing the instruments referred to in paragraph 2, points (a) and (b), of this Article, to any of the following:
+(a) their ultimate parent undertaking established in a third country;
+(b) the subsidiaries of that ultimate parent undertaking that are established in the same third country;
+(c) other entities under the conditions set out in paragraph 2, points (a)(i) and (b)(ii), of this Article.
