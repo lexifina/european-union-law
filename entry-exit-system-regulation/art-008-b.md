@@ -1,0 +1,6 @@
+# Article 8b
+Interoperability with ETIAS
+1. From the date of the start of operations of ETIAS, as determined in accordance with Article 88(1) of Regulation (EU) 2018/1240, the EES Central System shall be connected to the ESP to enable the automated verifications pursuant to Article 20, point (c)(ii) of Article 24(6), Article 41 and point (b) of Article 54(1) of that Regulation.
+2. Without prejudice to Article 24 of Regulation (EU) 2018/1240, the automated verifications pursuant to Article 20, point (c)(ii) of Article 24(6), Article 41 and point (b) of Article 54(1) of that Regulation shall enable the verifications provided for in Article 20 of that Regulation and the subsequent verifications provided for in Articles 22 and 26 of that Regulation.
+For the purpose of proceeding with the verifications referred to in points (g) and (h) of Article 20(2) of Regulation (EU) 2018/1240, the ETIAS Central System shall use the ESP to compare the data stored in ETIAS with EES data, in accordance with Article 11(8) of that Regulation, using the data listed in the correspondence table set out in Annex III to this Regulation.
+The verifications referred to in points (g) and (h) of Article 20(2) of Regulation (EU) 2018/1240 shall be without prejudice to the specific rules provided for in Article 24(3) of that Regulation.

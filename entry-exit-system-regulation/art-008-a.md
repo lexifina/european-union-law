@@ -1,0 +1,8 @@
+# Article 8a
+Automated process with ETIAS
+1. An automated process, using the secure communication channel referred to in point (da) of Article 6(2) of Regulation (EU) 2018/1240, shall enable the EES to create or update the entry/exit record or the refusal of entry record of a visa exempt third-country national in the EES in accordance with Articles 14, 17 and 18 of this Regulation.
+Where an entry/exit record or a refusal of entry record of a visa exempt third-country national is created, the automated process referred to in the first subparagraph shall enable the EES Central System:
+(a) to query and to import from the ETIAS Central System the information referred to in Article 47(2) of Regulation (EU) 2018/1240, the application number and the expiry date of the ETIAS travel authorisation;
+(b) to update the entry/exit record in the EES in accordance with Article 17(2) of this Regulation; and
+(c) to update the refusal of entry record in the EES in accordance with point (b) of Article 18(1) of this Regulation.
+2. An automated process, using the secure communication channel referred to in point (da) of Article 6(2) of Regulation (EU) 2018/1240, shall enable the EES to process queries received from the ETIAS Central System and to send the corresponding answers in accordance with Article 11c and Article 41(8) of that Regulation. Where necessary, the EES Central System shall record the fact that a notification is to be sent to the ETIAS Central System as soon as an entry/exit record indicating that the applicant having requested revocation of the travel authorisation has left the territory of the Member States has been created.

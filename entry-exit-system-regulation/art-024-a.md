@@ -1,0 +1,5 @@
+# Article 24a
+Access to data for the security check for the purposes of the screening
+The screening authorities as defined in Article 2, point (10), of Regulation (EU) 2024/1356 shall have access to the EES to consult the data in order to perform a security check in accordance with Article 15(2) of that Regulation.
+A search in accordance with this Article shall be performed by using the data referred to in Article 14(1) of Regulation (EU) 2024/1356 and the EES shall return a hit where a refusal of entry record based on the grounds provided for in points B, D, H, I and J of Part B of Annex V to Regulation (EU) 2016/399 is linked to a matching individual file. Where a hit is obtained, the screening authorities shall have access to all relevant data in the file.
+If the individual file does not include any biometric data, the screening authorities may proceed to access the biometric data of the person concerned and verify correspondence in VIS in accordance with Article 6 of Regulation (EC) No 767/2008.
