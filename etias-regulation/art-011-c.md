@@ -1,0 +1,5 @@
+# Article 11c
+Interoperability between ETIAS and the EES for the purpose of the revocation of an ETIAS travel authorisation at the request of an applicant
+1. For the purpose of implementing Article 41(8), an automated process, using the secure communication channel referred to in point (da) of Article 6(2), shall query the EES Central System to verify that applicants requesting the revocation of their travel authorisations are not present on the territory of the Member States.
+2. Where the outcome of the verification in the EES Central System under paragraph 1 indicates that the applicant is not present on the territory of the Member States, the revocation shall be effective immediately.
+3. Where the outcome of the verification under paragraph 1 of this Article indicates that the applicant is present on the territory of the Member States, Article 41(8) shall apply. The EES Central System shall record the fact that a notification is to be sent to the ETIAS Central System as soon as an entry/exit record indicating that the applicant having requested revocation of the travel authorisation has left the territory of the Member States has been created.

@@ -1,0 +1,6 @@
+# Article 35a
+Tasks of the ETIAS National Unit and Europol regarding the ETIAS watchlist for the purpose of the screening
+1. In cases referred to in Article 13(4b), fourth subparagraph, the ETIAS Central System shall send an automated notification to either the ETIAS National Unit or to Europol, depending on which of them entered the data into the ETIAS watchlist. Where the ETIAS National unit or Europol, as appropriate, considers that the third-country national undergoing the screening might pose a threat to internal security, it shall immediately notify the respective screening authorities and provide a reasoned opinion to the Member State performing the screening, within two days of the receipt of the notification, in the following manner:
+(a) the ETIAS National Units shall inform the screening authorities through a secure communication mechanism, to be set up by eu-LISA, between the ETIAS National Units on the one part and the screening authorities on the other;
+(b) Europol shall inform the screening authorities using the communication channels provided for in Regulation (EU) 2016/794; if no opinion is provided, it shall be considered that there is no security risk.
+2. The automated notification referred to in paragraph 1 of this Article shall contain the data referred to in Article 15(2) of Regulation (EU) 2024/1356 used for the query.
