@@ -1,0 +1,9 @@
+# Article 118a
+Conditions for operations subject to phased implementation that were selected for support before 29 June 2022 under Regulation (EU) No 1303/2013
+1. Notwithstanding Article 118, where an operation with a total cost exceeding EUR 1 000 000 was selected for support and started before 29 June 2022 under Regulation (EU) No 1303/2013 and Fund-specific Regulations (EU) No 1301/2013, (EU) No 1304/2013, (EU) No 1300/2013, (EU) No 1299/2013 and (EU) No 508/2014 of the European Parliament and of the Council, that operation shall be deemed eligible for support under this Regulation and the corresponding Fund-specific Regulations in the 2021-2027 programming period.
+By way of derogation from Article 73(1) and (2), the managing authority may decide to grant support to such an operation under this Regulation directly, provided that the following conditions are met:
+(a) the operation has two phases that are identifiable from a financial point of view with separate audit trails;
+(b) the operation falls within actions programmed under a relevant specific objective and is attributed to a type of intervention in accordance with Annex I;
+(c) expenditure included in a payment application in relation to the first phase is not included under any payment applications in relation to the second phase;
+(d) the Member State commits to complete during the programming period and render operational the second and final phase in the final implementation report, or in the context of the European Maritime and Fisheries Fund in the last annual implementation report, submitted in accordance with Article 141 of Regulation (EU) No 1303/2013.
+2. This Article shall not apply to operations addressing migratory challenges resulting from the military aggression by the Russian Federation that are supported by making use of the possibility provided under the first and second subparagraphs of Article 98(4) of Regulation (EU) No 1303/2013.
