@@ -1,0 +1,7 @@
+# Article 26b
+Use of information and communication technologies
+1. Member States shall ensure that victims can exercise their rights provided for in Article 3a, Article 5(1) and Article 5a(1) insofar as online reporting is concerned, by means of information and communication technologies.
+2. Member States shall ensure that victims can exercise their rights provided for in Article 4(1), Article 5(3), Article 5a(6), Article 6(1), (2), (4), (5) and (6), and Article 10b by means of, where available, information and communication technologies in accordance with national law.
+3. Member States shall ensure that victims are not prevented, on the basis that they are residents of another Member State, from exercising their rights referred to in paragraph 1 by means of information and communication technologies.
+Member States shall ensure that victims are not prevented, on the basis that they are residents of another Member State, from exercising their rights referred to in paragraph 2 by means of information and communication technologies where such technologies are available in the Member States.
+4. Where national systems offering information and communication technologies require the use of electronic identification, signatures and seals, Member States shall allow the use of European Digital Identity Wallets, notified electronic identification schemes, qualified electronic signatures and qualified electronic seals of any other Member States as provided for in Regulation (EU) No 910/2014 of the European Parliament and of the Council.
