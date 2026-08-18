@@ -1,7 +1,7 @@
 # Article 222a
 Union market observatories
 1. In order to improve transparency within the food supply chain, to inform the choices of economic operators and public authorities, to facilitate the monitoring of market developments and threats of market disturbance, the Commission shall establish Union market observatories.
-2. The Commission may decide for which agricultural sectors from those listed in Article 1(2) the Union market observatories shall be established.
+2. The Commission may decide for which agricultural sectors from those listed in Article 1(2) the Union market observatories shall be established. The Commission may make a specific distinction between organic and non-organic production within those observatories.
 3. The Union market observatories shall make available the statistical data and information necessary for the monitoring of market developments and threats of market disturbance, in particular:
 (a) production, supply and stocks;
 (b) prices, costs and, as far as possible, profit margins at all levels of the food supply chain;
