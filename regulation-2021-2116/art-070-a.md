@@ -1,0 +1,4 @@
+# Article 70a
+Quality assessment of the identification system for agricultural parcels, of the geo-spatial application system and of the area monitoring system
+Member States shall annually assess the quality of the elements referred to in Articles 68, 69 and 70 in accordance with the methodology established at Union level. Where the assessment reveals deficiencies in the systems, the Member State concerned shall adopt appropriate remedial actions or, failing that, the Commission shall request that that Member State establish an action plan in accordance with Article 42.
+Following the assessment referred to in the first paragraph, Member States shall submit to the Commission an assessment report and, where appropriate, the remedial actions and the timetable for their implementation by 15 February following the calendar year concerned.
