@@ -1,0 +1,4 @@
+# Article 1c
+1. It shall be prohibited for operators to broadcast or to enable, facilitate or otherwise contribute to broadcasting, any content by the legal persons, entities or bodies listed in Annex V, including through transmission or distribution by any means, such as cable, satellite, IP-TV, internet service providers, internet video-sharing platforms or applications, whether new or pre-installed.
+2. Any broadcasting license or authorisation, transmission or distribution arrangement with the legal persons, entities or bodies listed in Annex V shall be suspended.
+3. It shall be prohibited to advertise products or services in any content produced or broadcast by the legal persons, entities or bodies listed in Annex V, including through transmission or distribution by any of the means referred to in paragraph 1 of this article.
