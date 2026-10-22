@@ -1,0 +1,6 @@
+# Article 6b
+Missed connecting flight during journeys performed pursuant to a single air transport contract
+1. Where a passenger misses a connecting flight during a journey as a result of a disruption to the preceding flight, the operating air carrier of the preceding flight shall be responsible for rerouting the passenger in accordance with Article 8(1), first subparagraph, point (b), and for providing assistance in accordance with Article 9.
+2. Where the operating air carrier cannot reroute the passenger within five hours from the time of departure indicated on the passenger's ticket of the missed connecting flight, the operating air carrier shall, without undue delay, also offer the passengers concerned reimbursement in accordance with Article 8(1), first subparagraph, point (a).
+3. Passengers shall also have a right to receive, upon request, compensation from the air carrier operating the disrupted flight in accordance with Article 7, if they reach their final destination with a delay at arrival exceeding three hours.
+By way of derogation from the definition of delay at arrival, in the case of missed connecting flights, the delay at arrival shall be calculated from the time of arrival at the final destination, as indicated on the passenger's ticket, prior to the missed connecting flight.
