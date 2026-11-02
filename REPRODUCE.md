@@ -146,20 +146,31 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `blue-card-directive` | Directive (EU) 2021/1883 of the European Parliament and of the Council of 20 October 2021 on the conditions of entry and residence of third-country nationals for the purpose of highly qualified employment, and repealing Council Directive 2009/50/EC | 1 | 2021-11-17 to 2021-11-17 |
 | `cmo-regulation` | Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007 | 12 | 2013-12-20 to 2026-08-18 |
 | `organic-production-regulation` | Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 | 1 | 2023-02-21 to 2023-02-21 |
+| `eba-regulation` | Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC | 12 | 2010-12-16 to 2025-12-31 |
+| `esma-regulation` | Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC | 2 | 2025-07-01 to 2025-11-10 |
+| `eiopa-regulation` | Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC | 5 | 2010-12-16 to 2025-11-10 |
+| `esrb-regulation` | Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board | 3 | 2010-12-16 to 2025-11-10 |
+| `investment-firms-regulation` | Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014 (Text with EEA relevance) | 2 | 2019-12-25 to 2024-01-09 |
+| `investment-firms-directive` | Directive (EU) 2019/2034 of the European Parliament and of the Council of 27 November 2019 on the prudential supervision of investment firms and amending Directives 2002/87/EC, 2009/65/EC, 2011/61/EU, 2013/36/EU, 2014/59/EU and 2014/65/EU (Text with EEA relevance) | 4 | 2019-12-25 to 2024-12-24 |
+| `csdr` | Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012 Text with EEA relevance | 5 | 2022-06-22 to 2026-01-17 |
+| `sftr` | Regulation (EU) 2015/2365 of the European Parliament and of the Council of 25 November 2015 on transparency of securities financing transactions and of reuse and amending Regulation (EU) No 648/2012 (Text with EEA relevance) | 3 | 2016-01-12 to 2024-01-09 |
+| `benchmarks-regulation` | Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance) | 7 | 2016-06-30 to 2026-01-01 |
+| `eltif-regulation` | Regulation (EU) 2015/760 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds (Text with EEA relevance) | 1 | 2015-06-08 to 2015-06-08 |
+| `euveca-regulation` | Regulation (EU) No 345/2013 of the European Parliament and of the Council of 17 April 2013 on European venture capital funds Text with EEA relevance | 4 | 2013-05-15 to 2024-01-09 |
 
-The build made 599 commits:
+The build made 654 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 132 | first version of an act |
-| 316 | one law on its in-force day |
-| 151 | changes no amendment note explains, credited to the publisher |
+| 143 | first version of an act |
+| 347 | one law on its in-force day |
+| 164 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-02.
 - 4 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 623 laws in the record.
-- 853 tags.
+- 642 laws in the record.
+- 918 tags.
 
 ## Dates
 
@@ -171,7 +182,7 @@ When a law gives no date of its own, the default rule applies: Article 297 TFEU:
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `87781ebebf5e1285da1a193a9bbfabeb184f5911248f28778e5c885068eec7ad` (30594871 bytes).
+- Corpus: sha256 `9858cbb4653982390766614e7d1a06d2eb940070ee91982a98f8f1bff427db32` (33350889 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -201,6 +212,7 @@ No second build of this corpus has been compared yet.
 - Where the publisher has no text for a consolidated version other than the first, the history of that act starts with the first consolidated version after it, credited to the publisher as the oldest version available.
 - Changes that take effect after the day the data was retrieved (2026-11-02) are left out until that day.
 - An article title is the first line of the article file; the heading line is the article number only.
+- From this part on, an article that changes with no marker new in its consolidated version is credited to the act whose marker newly appears in that article (an amending act that applies in stages).
 - From this part on, an article that changes with no marker new in its consolidated version is credited to the act whose marker newly appears in that article (an amending act that applies in stages).
 - From this part on, an article that changes with no marker new in its consolidated version is credited to the act whose marker newly appears in that article (an amending act that applies in stages).
 - From this part on, an article that changes with no marker new in its consolidated version is credited to the act whose marker newly appears in that article (an amending act that applies in stages).

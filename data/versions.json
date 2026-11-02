@@ -3930,6 +3930,382 @@
      "sha256": "55b9236ccd673dc23a34fe6b3f924369e22352f321a38edfae59512a52e9c7ff"
     }
    ]
+  },
+  {
+   "slug": "eba-regulation",
+   "short": "Regulation No 1093/2010",
+   "title": "Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1093",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 82,
+     "source_url": "http://publications.europa.eu/resource/celex/32010R1093",
+     "sha256": "615d75b2831124e66cedb79335863fccf6cd4daf4dbe80ed9ee3aa5cff3ba5f7"
+    },
+    {
+     "from": "2013-10-30",
+     "units": 86,
+     "source_url": "http://publications.europa.eu/resource/celex/02010R1093-20131030",
+     "sha256": "ef89ed8a155c1d51c891446ac11317ee2c9f7ad61898819936bc03e39fab4ba1"
+    },
+    {
+     "from": "2014-03-20",
+     "units": 86,
+     "source_url": "http://publications.europa.eu/resource/celex/02010R1093-20140320",
+     "sha256": "6ff2e0501e162c461dde60d84dd70b45cb487a46ac30a75ef227b78ea11bdd8a"
+    },
+    {
+     "from": "2014-07-02",
+     "units": 86,
+     "source_url": "http://publications.europa.eu/resource/celex/02010R1093-20140702",
+     "sha256": "a9c838f2932a8e696834a245591e93a6632c445e0b5666eb0bf051e1f8e00b02"
+    },
+    {
+     "from": "2014-08-19",
+     "units": 86,
+     "source_url": "http://publications.europa.eu/resource/celex/02010R1093-20140819",
+     "sha256": "c698e586fb608906aecaaf44e3dbd00c72df6ae12f15b315eb3415b9d85b2ad3"
+    },
+    {
+     "from": "2016-01-12",
+     "units": 86,
+     "source_url": "http://publications.europa.eu/resource/celex/02010R1093-20160112",
+     "sha256": "da94f34050bdd3bdcdb52974c6ecaffcc259cc66a53841225dbd97895e9d7572"
+    },
+    {
+     "from": "2019-03-30",
+     "units": 86,
+     "source_url": "http://publications.europa.eu/resource/celex/02010R1093-20190330",
+     "sha256": "2f1e565dbbbef5628006324d01eff21f4d92f88efcb9da2d69082cec8da2e8b6"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 96,
+     "source_url": "http://publications.europa.eu/resource/celex/02010R1093-20200101",
+     "sha256": "97e85e0f47d389b1c5abdb938e02bd3b7028e19969c2e4dda0ae38f0bd9adfeb"
+    },
+    {
+     "from": "2021-06-26",
+     "units": 96,
+     "source_url": "http://publications.europa.eu/resource/celex/02010R1093-20210626",
+     "sha256": "5bc5a534e4b88abd91b1f9ed40c75acb9ed1948a8fbe7b0011bb35af4a91ba67"
+    },
+    {
+     "from": "2024-12-30",
+     "units": 96,
+     "source_url": "http://publications.europa.eu/resource/celex/02010R1093-20241230",
+     "sha256": "72a41062504103dd5fb74fbadc0b71455b437336d5613def49b4ce06d25793a7"
+    },
+    {
+     "from": "2025-11-10",
+     "units": 98,
+     "source_url": "http://publications.europa.eu/resource/celex/02010R1093-20251110",
+     "sha256": "f5784a945976caa1c4991600196cdc1a3acfc6c30cf16a80f703af5fe5243ae8"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 96,
+     "source_url": "http://publications.europa.eu/resource/celex/02010R1093-20251231",
+     "sha256": "9b0681efd3cf266909dd69f8cba067e880eda4597d763b16df4c7a79d5d67633"
+    }
+   ]
+  },
+  {
+   "slug": "esma-regulation",
+   "short": "Regulation No 1095/2010",
+   "title": "Regulation (EU) No 1095/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/77/EC",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1095",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 92,
+     "source_url": "http://publications.europa.eu/resource/celex/02010R1095-20250701",
+     "sha256": "d7fbf1dd15cf7e929bd226332db9d7224283dd4396ec4fe0af5349081570ede0"
+    },
+    {
+     "from": "2025-11-10",
+     "units": 94,
+     "source_url": "http://publications.europa.eu/resource/celex/02010R1095-20251110",
+     "sha256": "23b3364c445fde329480fc71558641e4f310b04a25602bf8918ccb6f9854a817"
+    }
+   ]
+  },
+  {
+   "slug": "eiopa-regulation",
+   "short": "Regulation No 1094/2010",
+   "title": "Regulation (EU) No 1094/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/79/EC",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1094",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 82,
+     "source_url": "http://publications.europa.eu/resource/celex/32010R1094",
+     "sha256": "da9c1f38daa11893cc1003986c3aef9a8d455a56a8e1b5a18aeca5579c71a82e"
+    },
+    {
+     "from": "2014-05-23",
+     "units": 82,
+     "source_url": "http://publications.europa.eu/resource/celex/02010R1094-20140523",
+     "sha256": "efc868d6c676ce264e306333935fd4ce72f0b5aa9bfa363051eb48b51dbf8c94"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 91,
+     "source_url": "http://publications.europa.eu/resource/celex/02010R1094-20200101",
+     "sha256": "b88d3fd5c2ce6db6afa5471f0541a043fcc2edf354a70ba3d091d660fce11172"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 91,
+     "source_url": "http://publications.europa.eu/resource/celex/02010R1094-20250701",
+     "sha256": "9f739d3729aed782914eb65ea60f83166c585cd70a48fea544d2f0a5c085092b"
+    },
+    {
+     "from": "2025-11-10",
+     "units": 93,
+     "source_url": "http://publications.europa.eu/resource/celex/02010R1094-20251110",
+     "sha256": "2ddaa4beb83a0b8a461d96a9c579460bcf048f39f55de2c4d06a6d8a57097b39"
+    }
+   ]
+  },
+  {
+   "slug": "esrb-regulation",
+   "short": "Regulation No 1092/2010",
+   "title": "Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010R1092",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 21,
+     "source_url": "http://publications.europa.eu/resource/celex/32010R1092",
+     "sha256": "b59ef9d461810c39139e717d25c686ea19b80b7f87085bebebbd7f86ffad8b2b"
+    },
+    {
+     "from": "2019-12-30",
+     "units": 21,
+     "source_url": "http://publications.europa.eu/resource/celex/02010R1092-20191230",
+     "sha256": "47dbd7d75393556e3e78c498dae6e28b5c396056b22055466acdf463abf3a0dc"
+    },
+    {
+     "from": "2025-11-10",
+     "units": 21,
+     "source_url": "http://publications.europa.eu/resource/celex/02010R1092-20251110",
+     "sha256": "914699d1aa8272f0a0fbe04e0a7035490006a74942df34b79221ff8e5680e037"
+    }
+   ]
+  },
+  {
+   "slug": "investment-firms-regulation",
+   "short": "Regulation 2019/2033",
+   "title": "Regulation (EU) 2019/2033 of the European Parliament and of the Council of 27 November 2019 on the prudential requirements of investment firms and amending Regulations (EU) No 1093/2010, (EU) No 575/2013, (EU) No 600/2014 and (EU) No 806/2014 (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R2033",
+   "versions": [
+    {
+     "from": "2019-12-25",
+     "units": 66,
+     "source_url": "http://publications.europa.eu/resource/celex/32019R2033",
+     "sha256": "167cd60d53196c7abfa69a0955986aa713ebe40f818299178400031e20adde07"
+    },
+    {
+     "from": "2024-01-09",
+     "units": 67,
+     "source_url": "http://publications.europa.eu/resource/celex/02019R2033-20240109",
+     "sha256": "d92180e76f1a53b6d16306dfaf2183016e5da87d9b8f264d6a4ce439e5792038"
+    }
+   ]
+  },
+  {
+   "slug": "investment-firms-directive",
+   "short": "Directive 2019/2034",
+   "title": "Directive (EU) 2019/2034 of the European Parliament and of the Council of 27 November 2019 on the prudential supervision of investment firms and amending Directives 2002/87/EC, 2009/65/EC, 2011/61/EU, 2013/36/EU, 2014/59/EU and 2014/65/EU (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L2034",
+   "versions": [
+    {
+     "from": "2019-12-25",
+     "units": 69,
+     "source_url": "http://publications.europa.eu/resource/celex/32019L2034",
+     "sha256": "b4b604aa7b560b8d5403c4b67e88c1ada118cb312f044c48b2f0dcc55f7e61db"
+    },
+    {
+     "from": "2020-12-02",
+     "units": 69,
+     "source_url": "http://publications.europa.eu/resource/celex/02019L2034-20191205",
+     "sha256": "a28f9769f55fcbcc3aaa7b5d7c3817f8c8e51ac4cc749f7a15ef6af2dcba10de"
+    },
+    {
+     "from": "2024-01-09",
+     "units": 70,
+     "source_url": "http://publications.europa.eu/resource/celex/02019L2034-20240109",
+     "sha256": "ee9ca12559c032a83f1507cf7e60464df717fcd0979e22c2b06d341f8c50f601"
+    },
+    {
+     "from": "2024-12-24",
+     "units": 70,
+     "source_url": "http://publications.europa.eu/resource/celex/02019L2034-20241224",
+     "sha256": "89da44ca615a7cd000b8a22b156fa76b0c6c719d40e460df0daa259a0c3614ef"
+    }
+   ]
+  },
+  {
+   "slug": "csdr",
+   "short": "Regulation No 909/2014",
+   "title": "Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012 Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0909",
+   "versions": [
+    {
+     "from": "2022-06-22",
+     "units": 76,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0909-20220622",
+     "sha256": "db432ff4afd86265f1e6a691b4ea542b638e5009b0efd5f0c622dd3e7e3d04e3"
+    },
+    {
+     "from": "2024-01-16",
+     "units": 82,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0909-20240116",
+     "sha256": "5aa83b989ceb20dc982d17a35df412c03ad0336cbb69fc378771ad01e409363a"
+    },
+    {
+     "from": "2024-05-01",
+     "units": 82,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0909-20240501",
+     "sha256": "48e82e409c418db284d1049c27d10f90fceacf3b7f4514a25ef0d0a00a99e9d5"
+    },
+    {
+     "from": "2025-01-17",
+     "units": 82,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0909-20250117",
+     "sha256": "8ef94c47052aff684ebb2d642688fe4410cbc6b29275ebd022139e94033ccfb3"
+    },
+    {
+     "from": "2026-01-17",
+     "units": 82,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0909-20260117",
+     "sha256": "bf86cff90ccaaad1ec19c70eef5410cb0a4c4798f7aabeb76b6b104df09ee9e4"
+    }
+   ]
+  },
+  {
+   "slug": "sftr",
+   "short": "Regulation 2015/2365",
+   "title": "Regulation (EU) 2015/2365 of the European Parliament and of the Council of 25 November 2015 on transparency of securities financing transactions and of reuse and amending Regulation (EU) No 648/2012 (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2365",
+   "versions": [
+    {
+     "from": "2016-01-12",
+     "units": 33,
+     "source_url": "http://publications.europa.eu/resource/celex/32015R2365",
+     "sha256": "530e772a912bc7ad42c3def0d4438e6e7635e408f8bba863e063cf069e024d97"
+    },
+    {
+     "from": "2022-08-12",
+     "units": 33,
+     "source_url": "http://publications.europa.eu/resource/celex/02015R2365-20220812",
+     "sha256": "508fd3ad16d9510dcee246b7135c18060a57e32946ef08a422b1e27fa202a1eb"
+    },
+    {
+     "from": "2024-01-09",
+     "units": 34,
+     "source_url": "http://publications.europa.eu/resource/celex/02015R2365-20240109",
+     "sha256": "e601d6d2a55163bca48ace252c8cf802c2100c9c7172c8e72465f8c0f46c4696"
+    }
+   ]
+  },
+  {
+   "slug": "benchmarks-regulation",
+   "short": "Regulation 2016/1011",
+   "title": "Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R1011",
+   "versions": [
+    {
+     "from": "2016-06-30",
+     "units": 59,
+     "source_url": "http://publications.europa.eu/resource/celex/32016R1011",
+     "sha256": "6162299ed6a59bb9b35c21069336d7d3fc78f684a316e48ed7781d6ef13e333f"
+    },
+    {
+     "from": "2019-12-10",
+     "units": 63,
+     "source_url": "http://publications.europa.eu/resource/celex/02016R1011-20191210",
+     "sha256": "8fe375b5fed40444ad308d24945268b82b298870e83ef246deb2b6ff2fa3ade3"
+    },
+    {
+     "from": "2021-02-13",
+     "units": 67,
+     "source_url": "http://publications.europa.eu/resource/celex/02016R1011-20210213",
+     "sha256": "4f08da982e956aae86fbf4ca9e7ee00ba391b5a1156c62f3457d6a4a8ff3ddf8"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 81,
+     "source_url": "http://publications.europa.eu/resource/celex/02016R1011-20220101",
+     "sha256": "049be0d91ad7fa4b65479ef11c028b64d301fc0923df87ce0058128f2e077ad3"
+    },
+    {
+     "from": "2024-01-09",
+     "units": 82,
+     "source_url": "http://publications.europa.eu/resource/celex/02016R1011-20240109",
+     "sha256": "471cff7dfee47599010d7b9e52cd0b57718b0eccbdfd1883048b3bf7fd683af1"
+    },
+    {
+     "from": "2025-01-17",
+     "units": 82,
+     "source_url": "http://publications.europa.eu/resource/celex/02016R1011-20250117",
+     "sha256": "79d4cd15413b9c3c2272ae8db3d8e1bdbe248af93b542e182d5e5654b7aebc32"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 82,
+     "source_url": "http://publications.europa.eu/resource/celex/02016R1011-20260101",
+     "sha256": "c000c8dbcdf6ca38cd5cb7d92724929e79f950d04ffa62a585419e1824d54cad"
+    }
+   ]
+  },
+  {
+   "slug": "eltif-regulation",
+   "short": "Regulation 2015/760",
+   "title": "Regulation (EU) 2015/760 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R0760",
+   "versions": [
+    {
+     "from": "2015-06-08",
+     "units": 38,
+     "source_url": "http://publications.europa.eu/resource/celex/32015R0760",
+     "sha256": "1df69f100b368a7eaeb4faf13a2d83873c4f9fa9a397650cb6cbdb57e4360d61"
+    }
+   ]
+  },
+  {
+   "slug": "euveca-regulation",
+   "short": "Regulation No 345/2013",
+   "title": "Regulation (EU) No 345/2013 of the European Parliament and of the Council of 17 April 2013 on European venture capital funds Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0345",
+   "versions": [
+    {
+     "from": "2013-05-15",
+     "units": 28,
+     "source_url": "http://publications.europa.eu/resource/celex/32013R0345",
+     "sha256": "1f4bfb2b0bc57d79eb2c8fcde0cbb56800898180badba12fd2729987c335e499"
+    },
+    {
+     "from": "2018-03-01",
+     "units": 32,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0345-20180301",
+     "sha256": "20259b3299966ae0d8ed23543bfa1f07036214eb410bed6e51613b9fa74d30c2"
+    },
+    {
+     "from": "2021-08-02",
+     "units": 33,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0345-20210802",
+     "sha256": "c1672fbb33ad1f80abb4a95911c006cebd152c9eadf75b28ac143ed3378aa3b4"
+    },
+    {
+     "from": "2024-01-09",
+     "units": 34,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0345-20240109",
+     "sha256": "813313e6f469b26de63309eca786b780ba70cccc057b2fe3aeaaf901ef363229"
+    }
+   ]
   }
  ]
 }
