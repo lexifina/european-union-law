@@ -27,6 +27,8 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `bathing-water-directive` | Directive 2006/7/EC of the European Parliament and of the Council of 15 February 2006 concerning the management of bathing water quality and repealing Directive 76/160/EEC | 3 | 2006-03-24 to 2014-01-01 |
 | `marine-strategy-directive` | Directive 2008/56/EC of the European Parliament and of the Council of 17 June 2008 establishing a framework for community action in the field of marine environmental policy (Marine Strategy Framework Directive) (Text with EEA relevance) | 1 | 2008-07-15 to 2008-07-15 |
 | `nature-restoration-regulation` | Regulation (EU) 2024/1991 of the European Parliament and of the Council of 24 June 2024 on nature restoration and amending Regulation (EU) 2022/869 (Text with EEA relevance) | 1 | 2024-08-18 to 2024-08-18 |
+| `energy-performance-buildings-directive` | Directive 2010/31/EU of the European Parliament and of the Council of 19 May 2010 on the energy performance of buildings (recast) | 4 | 2010-07-08 to 2021-01-01 |
+| `energy-efficiency-directive` | Directive (EU) 2023/1791 of the European Parliament and of the Council of 13 September 2023 on energy efficiency and amending Regulation (EU) 2023/955 (recast) (Text with EEA relevance) | 2 | 2023-10-10 to 2026-08-05 |
 | `gdpr` | Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (Text with EEA relevance) | 2 | 2016-05-24 to 2018-05-23 |
 | `digital-services-act` | Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services and amending Directive 2000/31/EC (Digital Services Act) (Text with EEA relevance) | 1 | 2022-02-17 to 2022-02-17 |
 | `digital-markets-act` | Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) (Text with EEA relevance) | 2 | 2022-11-01 to 2025-01-10 |
@@ -168,19 +170,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `eltif-regulation` | Regulation (EU) 2015/760 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds (Text with EEA relevance) | 1 | 2015-06-08 to 2015-06-08 |
 | `euveca-regulation` | Regulation (EU) No 345/2013 of the European Parliament and of the Council of 17 April 2013 on European venture capital funds Text with EEA relevance | 4 | 2013-05-15 to 2024-01-09 |
 
-The build made 716 commits:
+The build made 724 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 165 | first version of an act |
-| 375 | one law on its in-force day |
-| 176 | changes no amendment note explains, credited to the publisher |
+| 167 | first version of an act |
+| 379 | one law on its in-force day |
+| 178 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-02.
 - 4 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 726 laws in the record.
-- 1007 tags.
+- 731 laws in the record.
+- 1018 tags.
 
 ## Dates
 
@@ -192,7 +194,7 @@ When a law gives no date of its own, the default rule applies: Article 297 TFEU:
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `1ad6b4a0135fdcfe2b99b222655d42508343502a2dbdcbc909e8ae3e1604d098` (34277566 bytes).
+- Corpus: sha256 `22d367daa85adad94f5ead870ba810af4eb8ef761e7343d54ff96ffb271714af` (34568329 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
