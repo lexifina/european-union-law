@@ -3746,6 +3746,190 @@
      "sha256": "fe63c54cf2b98571551905551c5c20d4b142f7a50fe69640f756c8c0ff68c08b"
     }
    ]
+  },
+  {
+   "slug": "victims-rights-directive",
+   "short": "Council 2012/29",
+   "title": "Directive 2012/29/EU of the European Parliament and of the Council of 25 October 2012 establishing minimum standards on the rights, support and protection of victims of crime, and replacing Council Framework Decision 2001/220/JHA",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0029",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 43,
+     "source_url": "http://publications.europa.eu/resource/celex/02012L0029-20260720",
+     "sha256": "ea9364f3d1d232ad853ab15529869b7f14b474a1681101b706690b9cac6ffaf5"
+    }
+   ]
+  },
+  {
+   "slug": "reception-conditions-directive",
+   "short": "Council 2013/33",
+   "title": "Directive 2013/33/EU of the European Parliament and of the Council of 26 June 2013 laying down standards for the reception of applicants for international protection (recast)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0033",
+   "versions": [
+    {
+     "from": "2013-07-19",
+     "units": 34,
+     "source_url": "http://publications.europa.eu/resource/celex/32013L0033",
+     "sha256": "4d8214f771d22a617c0568ce9d7fb23cc8ebb6417404d6362aec3f312e1addae"
+    }
+   ]
+  },
+  {
+   "slug": "qualification-directive",
+   "short": "Council 2011/95",
+   "title": "Directive 2011/95/EU of the European Parliament and of the Council of 13 December 2011 on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection, for a uniform status for refugees or for persons eligible for subsidiary protection, and for the content of the protection granted (recast)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0095",
+   "versions": [
+    {
+     "from": "2012-01-09",
+     "units": 42,
+     "source_url": "http://publications.europa.eu/resource/celex/32011L0095",
+     "sha256": "5f968bab4dee01aaf24479c22cca801476137030cedc1158db184eaafa475793"
+    }
+   ]
+  },
+  {
+   "slug": "return-directive",
+   "short": "Council 2008/115",
+   "title": "Directive 2008/115/EC of the European Parliament and of the Council of 16 December 2008 on common standards and procedures in Member States for returning illegally staying third-country nationals",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0115",
+   "versions": [
+    {
+     "from": "2009-01-13",
+     "units": 23,
+     "source_url": "http://publications.europa.eu/resource/celex/32008L0115",
+     "sha256": "2586917f244a7b7d480328fe2cb45cbac97220f4d1d1966d8e6ae589a3c342a3"
+    }
+   ]
+  },
+  {
+   "slug": "long-term-residents-directive",
+   "short": "2003/109/ec 2003/109",
+   "title": "Council Directive 2003/109/EC of 25 November 2003 concerning the status of third-country nationals who are long-term residents",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003L0109",
+   "versions": [
+    {
+     "from": "2011-05-20",
+     "units": 29,
+     "source_url": "http://publications.europa.eu/resource/celex/02003L0109-20110520",
+     "sha256": "40043d3fb0296c52904dee689bcecf5f7dc34af3b96cec87cc5446e59d0844f2"
+    },
+    {
+     "from": "2026-06-12",
+     "units": 29,
+     "source_url": "http://publications.europa.eu/resource/celex/02003L0109-20260612",
+     "sha256": "ab0261ebbfb02f66cb662fdad5d947e0de3621cdeae385fd8f033a39410cad07"
+    }
+   ]
+  },
+  {
+   "slug": "blue-card-directive",
+   "short": "Directive 2021/1883",
+   "title": "Directive (EU) 2021/1883 of the European Parliament and of the Council of 20 October 2021 on the conditions of entry and residence of third-country nationals for the purpose of highly qualified employment, and repealing Council Directive 2009/50/EC",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021L1883",
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 33,
+     "source_url": "http://publications.europa.eu/resource/celex/32021L1883",
+     "sha256": "a3374080ed7fa8a8efd9bca83deae85d785339ae8f1c6cae1359cd1a7b062da1"
+    }
+   ]
+  },
+  {
+   "slug": "cmo-regulation",
+   "short": "Regulation No 1308/2013",
+   "title": "Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R1308",
+   "versions": [
+    {
+     "from": "2013-12-20",
+     "units": 232,
+     "source_url": "http://publications.europa.eu/resource/celex/32013R1308",
+     "sha256": "584fd5f5b685205f7f4b701599089ba25eb981403da37fdec53071d8ca77c2fc"
+    },
+    {
+     "from": "2016-07-26",
+     "units": 233,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R1308-20160726",
+     "sha256": "7c420421d3cf5e261a6894d086d23b1943ed60a839ab54808f21a94c0b39790f"
+    },
+    {
+     "from": "2017-08-01",
+     "units": 231,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R1308-20170801",
+     "sha256": "13bf59bc4fdbe16f8acc68bca38662e0bd21373b0d90a814fe6346821eddb6b7"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 229,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R1308-20180101",
+     "sha256": "7b05cac739276ac87e2c25a105292da267e1fb2bbd7e7481e92eb377801b5355"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 229,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R1308-20190101",
+     "sha256": "0ba626061763b9e2eaa51041b81eb1475d45d8bc051a6b8b797ca9fad54bcbad"
+    },
+    {
+     "from": "2020-12-29",
+     "units": 230,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R1308-20201229",
+     "sha256": "0c1cb1857a353c0fbf9f42e816d40d6c02afc68927d82fb9ca0fce9584afb160"
+    },
+    {
+     "from": "2021-12-07",
+     "units": 204,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R1308-20211207",
+     "sha256": "ba205e4227853977e5d23a588810db53420fca351c62613f259aa2ec1038a857"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 173,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R1308-20230101",
+     "sha256": "07d3b2a1b818c78b8485aff47be21ca12c183827c0bd3386d0478a29c36c0325"
+    },
+    {
+     "from": "2023-12-08",
+     "units": 173,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R1308-20231208",
+     "sha256": "e1161b5c75a169cf68e48e54660195e3870ef00cef9714d27877408ee9bdf625"
+    },
+    {
+     "from": "2024-05-13",
+     "units": 165,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R1308-20240513",
+     "sha256": "1d96abfcb50c6bfdc056d1d04dc470bef3f537bc5c1adb6bfd85625f588a8ae7"
+    },
+    {
+     "from": "2026-03-18",
+     "units": 165,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R1308-20260318",
+     "sha256": "c9a70d2f10edfe0ac8ce2e69c1d33853ef223c4e58077a952cd711131007d6f6"
+    },
+    {
+     "from": "2026-08-18",
+     "units": 165,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R1308-20260818",
+     "sha256": "57591a605380ea699381ecc0a0f51db7ed703d965372644f0d07902865b1ed65"
+    }
+   ]
+  },
+  {
+   "slug": "organic-production-regulation",
+   "short": "Regulation 2018/848",
+   "title": "Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R0848",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 61,
+     "source_url": "http://publications.europa.eu/resource/celex/02018R0848-20230221",
+     "sha256": "55b9236ccd673dc23a34fe6b3f924369e22352f321a38edfae59512a52e9c7ff"
+    }
+   ]
   }
  ]
 }

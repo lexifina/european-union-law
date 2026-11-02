@@ -138,20 +138,28 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `cosmetics-regulation` | Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (recast) (Text with EEA relevance) | 1 | 2026-05-01 to 2026-05-01 |
 | `iorp-ii` | Directive (EU) 2016/2341 of the European Parliament and of the Council of 14 December 2016 on the activities and supervision of institutions for occupational retirement provision (IORPs) (recast) (Text with EEA relevance) | 3 | 2017-01-12 to 2025-01-17 |
 | `terrorism-directive` | Directive (EU) 2017/541 of the European Parliament and of the Council of 15 March 2017 on combating terrorism and replacing Council Framework Decision 2002/475/JHA and amending Council Decision 2005/671/JHA | 1 | 2017-04-20 to 2017-04-20 |
+| `victims-rights-directive` | Directive 2012/29/EU of the European Parliament and of the Council of 25 October 2012 establishing minimum standards on the rights, support and protection of victims of crime, and replacing Council Framework Decision 2001/220/JHA | 1 | 2026-07-20 to 2026-07-20 |
+| `reception-conditions-directive` | Directive 2013/33/EU of the European Parliament and of the Council of 26 June 2013 laying down standards for the reception of applicants for international protection (recast) | 1 | 2013-07-19 to 2013-07-19 |
+| `qualification-directive` | Directive 2011/95/EU of the European Parliament and of the Council of 13 December 2011 on standards for the qualification of third-country nationals or stateless persons as beneficiaries of international protection, for a uniform status for refugees or for persons eligible for subsidiary protection, and for the content of the protection granted (recast) | 1 | 2012-01-09 to 2012-01-09 |
+| `return-directive` | Directive 2008/115/EC of the European Parliament and of the Council of 16 December 2008 on common standards and procedures in Member States for returning illegally staying third-country nationals | 1 | 2009-01-13 to 2009-01-13 |
+| `long-term-residents-directive` | Council Directive 2003/109/EC of 25 November 2003 concerning the status of third-country nationals who are long-term residents | 2 | 2011-05-20 to 2026-06-12 |
+| `blue-card-directive` | Directive (EU) 2021/1883 of the European Parliament and of the Council of 20 October 2021 on the conditions of entry and residence of third-country nationals for the purpose of highly qualified employment, and repealing Council Directive 2009/50/EC | 1 | 2021-11-17 to 2021-11-17 |
+| `cmo-regulation` | Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007 | 12 | 2013-12-20 to 2026-08-18 |
+| `organic-production-regulation` | Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 | 1 | 2023-02-21 to 2023-02-21 |
 
-The build made 570 commits:
+The build made 599 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 124 | first version of an act |
-| 303 | one law on its in-force day |
-| 143 | changes no amendment note explains, credited to the publisher |
+| 132 | first version of an act |
+| 316 | one law on its in-force day |
+| 151 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-02.
 - 4 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 583 laws in the record.
-- 817 tags.
+- 623 laws in the record.
+- 853 tags.
 
 ## Dates
 
@@ -163,7 +171,7 @@ When a law gives no date of its own, the default rule applies: Article 297 TFEU:
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `581a822e038532916d5b98ae2c4a6a1455c51bd20443e609f137d5faf8b476c0` (29315883 bytes).
+- Corpus: sha256 `87781ebebf5e1285da1a193a9bbfabeb184f5911248f28778e5c885068eec7ad` (30594871 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -193,6 +201,7 @@ No second build of this corpus has been compared yet.
 - Where the publisher has no text for a consolidated version other than the first, the history of that act starts with the first consolidated version after it, credited to the publisher as the oldest version available.
 - Changes that take effect after the day the data was retrieved (2026-11-02) are left out until that day.
 - An article title is the first line of the article file; the heading line is the article number only.
+- From this part on, an article that changes with no marker new in its consolidated version is credited to the act whose marker newly appears in that article (an amending act that applies in stages).
 - From this part on, an article that changes with no marker new in its consolidated version is credited to the act whose marker newly appears in that article (an amending act that applies in stages).
 - From this part on, an article that changes with no marker new in its consolidated version is credited to the act whose marker newly appears in that article (an amending act that applies in stages).
 - From this part on, an article that changes with no marker new in its consolidated version is credited to the act whose marker newly appears in that article (an amending act that applies in stages).
