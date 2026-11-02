@@ -2972,6 +2972,286 @@
      "sha256": "b5eb0a876af203c58c35867a66943b81f30da988d1e743ff24cc33710a65248e"
     }
    ]
+  },
+  {
+   "slug": "industrial-emissions-directive",
+   "short": "Council 2010/75",
+   "title": "Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (recast) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010L0075",
+   "versions": [
+    {
+     "from": "1001-01-01",
+     "units": 84,
+     "source_url": "http://publications.europa.eu/resource/celex/32010L0075",
+     "sha256": "d656f4289285c81e0ef4299d9af720bf367c13aed121dc1a5f72c70f2fdfea03"
+    },
+    {
+     "from": "2011-01-06",
+     "units": 84,
+     "source_url": "http://publications.europa.eu/resource/celex/02010L0075-20110106",
+     "sha256": "3c93eec3123d5a83cfed14d7e70dd8c8a3efb3d4a64535e9f3759d080bfe27df"
+    },
+    {
+     "from": "2024-08-04",
+     "units": 100,
+     "source_url": "http://publications.europa.eu/resource/celex/02010L0075-20240804",
+     "sha256": "9a1c1fd6b6dbd920d9c381836dd07dfea5629bf406bdcd8c3e71342d4d41ca73"
+    }
+   ]
+  },
+  {
+   "slug": "european-accessibility-act",
+   "short": "Directive 2019/882",
+   "title": "Directive (EU) 2019/882 of the European Parliament and of the Council of 17 April 2019 on the accessibility requirements for products and services (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0882",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 35,
+     "source_url": "http://publications.europa.eu/resource/celex/32019L0882",
+     "sha256": "f1047e0732b744f5e7bd0e01c69d1db54a461de693ab375aa5b39a0c212fa50d"
+    }
+   ]
+  },
+  {
+   "slug": "data-act",
+   "short": "Regulation 2023/2854",
+   "title": "Regulation (EU) 2023/2854 of the European Parliament and of the Council of 13 December 2023 on harmonised rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU) 2020/1828 (Data Act) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2854",
+   "versions": [
+    {
+     "from": "2024-01-11",
+     "units": 50,
+     "source_url": "http://publications.europa.eu/resource/celex/32023R2854",
+     "sha256": "1085b7fa3011970b65b1e4d56205202dceb37f72cd22336aa0c78af35ceaea66"
+    }
+   ]
+  },
+  {
+   "slug": "data-governance-act",
+   "short": "Regulation 2022/868",
+   "title": "Regulation (EU) 2022/868 of the European Parliament and of the Council of 30 May 2022 on European data governance and amending Regulation (EU) 2018/1724 (Data Governance Act) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0868",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 38,
+     "source_url": "http://publications.europa.eu/resource/celex/32022R0868",
+     "sha256": "f67dabbce62b7f1b1dfbc03fb1ea29dad88e2370d47599a3b1802a3cd7f268d8"
+    }
+   ]
+  },
+  {
+   "slug": "cybersecurity-act",
+   "short": "Regulation 2019/881",
+   "title": "Regulation (EU) 2019/881 of the European Parliament and of the Council of 17 April 2019 on ENISA (the European Union Agency for Cybersecurity) and on information and communications technology cybersecurity certification and repealing Regulation (EU) No 526/2013 (Cybersecurity Act) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0881",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 69,
+     "source_url": "http://publications.europa.eu/resource/celex/32019R0881",
+     "sha256": "a5ce4aa2cb592c96e1bf12185606364308bfb499b95c2e8b72c3bd731d2ca9e2"
+    },
+    {
+     "from": "2025-02-04",
+     "units": 71,
+     "source_url": "http://publications.europa.eu/resource/celex/02019R0881-20250204",
+     "sha256": "569d16df17b837bb729c7e16e70e1515ff7e4615316a789ad63ee2e3efcbb341"
+    }
+   ]
+  },
+  {
+   "slug": "medical-devices-regulation",
+   "short": "Regulation 2017/745",
+   "title": "Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (Text with EEA relevance. )",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745",
+   "versions": [
+    {
+     "from": "1001-01-01",
+     "units": 123,
+     "source_url": "http://publications.europa.eu/resource/celex/32017R0745",
+     "sha256": "81790aaa50163ca27e3794c82cfa8cee875cae2dace3ad3ab9e72d9f890e94f5"
+    },
+    {
+     "from": "2020-04-24",
+     "units": 123,
+     "source_url": "http://publications.europa.eu/resource/celex/02017R0745-20200424",
+     "sha256": "28a2f43ec0a9518912a00b8f0e4f5300590f8124dcc21d5023b00e23d1128c35"
+    },
+    {
+     "from": "2023-03-11",
+     "units": 123,
+     "source_url": "http://publications.europa.eu/resource/celex/02017R0745-20230311",
+     "sha256": "9b2a38d811e6f46deebb6619f159cd6544179b451638ca3c9eab0582d01db3ad"
+    },
+    {
+     "from": "2023-03-20",
+     "units": 123,
+     "source_url": "http://publications.europa.eu/resource/celex/02017R0745-20230320",
+     "sha256": "2575b5dfd5a812fa350b16bd59694c32605146902ed5ec0401e3b6ac04a605d9"
+    },
+    {
+     "from": "2024-07-09",
+     "units": 123,
+     "source_url": "http://publications.europa.eu/resource/celex/02017R0745-20240709",
+     "sha256": "cab83524351bf7715d6e80e5fd0be92bfb9f7c830f21851a71898aec371ea888"
+    },
+    {
+     "from": "2025-01-10",
+     "units": 124,
+     "source_url": "http://publications.europa.eu/resource/celex/02017R0745-20250110",
+     "sha256": "731a1faeb053f8078d67ce129c80640a2b7735e09697fd51f7aac8f0bd7a1b4e"
+    },
+    {
+     "from": "2026-07-19",
+     "units": 124,
+     "source_url": "http://publications.europa.eu/resource/celex/02017R0745-20260719",
+     "sha256": "c43b527fb7a9624fe1ca9fef4442f1c4ac93f40f095fc5db5819591cdc549d7c"
+    }
+   ]
+  },
+  {
+   "slug": "general-food-law",
+   "short": "Regulation No 178/2002",
+   "title": "Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002R0178",
+   "versions": [
+    {
+     "from": "2006-04-28",
+     "units": 65,
+     "source_url": "http://publications.europa.eu/resource/celex/02002R0178-20060428",
+     "sha256": "3d7571e63349bd850b0c12e80e9aacb09e1577e6dbadbaa488e7eb77b6f86d51"
+    },
+    {
+     "from": "2008-03-25",
+     "units": 65,
+     "source_url": "http://publications.europa.eu/resource/celex/02002R0178-20080325",
+     "sha256": "3ee28eec12f85e19bc8f526dffbc385e60ab2a80eb0acd5940d9233850acf53d"
+    },
+    {
+     "from": "2009-08-07",
+     "units": 65,
+     "source_url": "http://publications.europa.eu/resource/celex/02002R0178-20090807",
+     "sha256": "b51707550c7f218ce8c5dcb4462545eac366403d0836879fe1e28c19a9293823"
+    },
+    {
+     "from": "2014-06-30",
+     "units": 65,
+     "source_url": "http://publications.europa.eu/resource/celex/02002R0178-20140630",
+     "sha256": "62e46209f37fef8ff582ed966417a46fa2d5987a21c762e857f1f956e1e3a569"
+    },
+    {
+     "from": "2018-07-01",
+     "units": 65,
+     "source_url": "http://publications.europa.eu/resource/celex/02002R0178-20180701",
+     "sha256": "fb5f528f9248490131865941fb26e51a30e1f2fadce1e47c327878ee7345d46f"
+    },
+    {
+     "from": "2019-07-26",
+     "units": 66,
+     "source_url": "http://publications.europa.eu/resource/celex/02002R0178-20190726",
+     "sha256": "505cffac7f06a71ed4b07ddbf0140f4bd050c1d4c5a7a245c64303213c3c4fc4"
+    },
+    {
+     "from": "2021-03-27",
+     "units": 81,
+     "source_url": "http://publications.europa.eu/resource/celex/02002R0178-20210327",
+     "sha256": "ba94e80f2fbae11c390673b4c35fd960382d1e2dbcb71c0dc00b91f8ee40053f"
+    },
+    {
+     "from": "2021-05-26",
+     "units": 81,
+     "source_url": "http://publications.europa.eu/resource/celex/02002R0178-20210526",
+     "sha256": "f3552b8fa7571fd6275ebd3c848f06b72fe12aabef56940984563db54d5402ca"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 81,
+     "source_url": "http://publications.europa.eu/resource/celex/02002R0178-20220701",
+     "sha256": "19ccb09204e9a16e5268ee1115add405f6f08d8b219326c213592629e9f7d02a"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 81,
+     "source_url": "http://publications.europa.eu/resource/celex/02002R0178-20240701",
+     "sha256": "a295efeab7d03aa94af125340c3c29109c5affe7029eeaa94330404117acf184"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 81,
+     "source_url": "http://publications.europa.eu/resource/celex/02002R0178-20260101",
+     "sha256": "dbd39d7cd4669f80ae1b608260486b811f7bf2b2c0e0e925040ac66d100b10c6"
+    }
+   ]
+  },
+  {
+   "slug": "clp-regulation",
+   "short": "Regulation No 1272/2008",
+   "title": "Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R1272",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 66,
+     "source_url": "http://publications.europa.eu/resource/celex/02008R1272-20260501",
+     "sha256": "161d4010352e00b79b6b76ee21f30388bf13e72261e158f88446345105f1aa81"
+    },
+    {
+     "from": "2026-07-01",
+     "units": 69,
+     "source_url": "http://publications.europa.eu/resource/celex/02008R1272-20260701",
+     "sha256": "f839925cf80132822ee56078e02938107fb84c658034b622f43b68100513dcd8"
+    }
+   ]
+  },
+  {
+   "slug": "food-information-regulation",
+   "short": "Regulation No 1169/2011",
+   "title": "Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011R1169",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 55,
+     "source_url": "http://publications.europa.eu/resource/celex/02011R1169-20250401",
+     "sha256": "6667d2257606b2296602ccb5b7b9f2ea624d67372b27158a22a51d2ec85f1538"
+    }
+   ]
+  },
+  {
+   "slug": "consumer-protection-cooperation-regulation",
+   "short": "Regulation 2017/2394",
+   "title": "Regulation (EU) 2017/2394 of the European Parliament and of the Council of 12 December 2017 on cooperation between national authorities responsible for the enforcement of consumer protection laws and repealing Regulation (EC) No 2006/2004 (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2394",
+   "versions": [
+    {
+     "from": "2018-01-16",
+     "units": 42,
+     "source_url": "http://publications.europa.eu/resource/celex/32017R2394",
+     "sha256": "dc3517110bb44d8b67391e553bb08ac472e8b7b47ab426977d9bb884c217f958"
+    }
+   ]
+  },
+  {
+   "slug": "general-product-safety-regulation",
+   "short": "Regulation 2023/988",
+   "title": "Regulation (EU) 2023/988 of the European Parliament and of the Council of 10 May 2023 on general product safety, amending Regulation (EU) No 1025/2012 of the European Parliament and of the Council and Directive (EU) 2020/1828 of the European Parliament and the Council, and repealing Directive 2001/95/EC of the European Parliament and of the Council and Council Directive 87/357/EEC (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R0988",
+   "versions": [
+    {
+     "from": "2023-06-12",
+     "units": 52,
+     "source_url": "http://publications.europa.eu/resource/celex/32023R0988",
+     "sha256": "ed8aebab3c8289c81268a1f21d12fcf38f7487072e908f6b16566fa6cd4f1735"
+    },
+    {
+     "from": "2026-05-29",
+     "units": 55,
+     "source_url": "http://publications.europa.eu/resource/celex/02023R0988-20260529",
+     "sha256": "e780aaafb7e5da0b0d7db3928a949e1e4e6706816d760a2ec952710ec7fe986e"
+    }
+   ]
   }
  ]
 }
