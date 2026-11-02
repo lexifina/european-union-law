@@ -98,320 +98,170 @@
    ]
   },
   {
-   "slug": "credit-rating-agencies-regulation",
-   "short": "Regulation No 1060/2009",
-   "title": "Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance)",
-   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R1060",
+   "slug": "batteries-regulation",
+   "short": "Regulation 2023/1542",
+   "title": "Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1542",
    "versions": [
     {
-     "from": "2009-12-07",
-     "units": 41,
-     "source_url": "http://publications.europa.eu/resource/celex/32009R1060",
-     "sha256": "5b9e855427f2b04707ca1a7e3feaaf831268ca011cbcd96542620048706f7ee8"
-    },
-    {
-     "from": "2011-06-01",
-     "units": 55,
-     "source_url": "http://publications.europa.eu/resource/celex/02009R1060-20110601",
-     "sha256": "957119b28619535d70279a07f444e0d54a791b46425e24a1219379da4e13236d"
-    },
-    {
-     "from": "2011-07-21",
-     "units": 55,
-     "source_url": "http://publications.europa.eu/resource/celex/02009R1060-20110721",
-     "sha256": "69da88b4b4b2e33e2e0983a6e47249ae83658d7065fc9e8357e1263522a714fa"
-    },
-    {
-     "from": "2013-06-20",
-     "units": 66,
-     "source_url": "http://publications.europa.eu/resource/celex/02009R1060-20130620",
-     "sha256": "468aff887d555039c9ac9b204401aa991f52c017908e44e11ac8127bdaff73bc"
-    },
-    {
-     "from": "2014-05-23",
-     "units": 66,
-     "source_url": "http://publications.europa.eu/resource/celex/02009R1060-20140523",
-     "sha256": "d7cbb039b8eb24681e1878e95ba492a772c59ac71ce683ad5c5a2438d9482276"
-    },
-    {
-     "from": "2015-06-21",
-     "units": 67,
-     "source_url": "http://publications.europa.eu/resource/celex/02009R1060-20150621",
-     "sha256": "d7b6efd78101bdf9fc3de445c7ca43342644f0870597c02a34500326fe45170f"
-    },
-    {
-     "from": "2019-01-01",
-     "units": 66,
-     "source_url": "http://publications.europa.eu/resource/celex/02009R1060-20190101",
-     "sha256": "b78ba0b1c20ea38ad6a392af48c057ee1311295b5c38f95473cb173f82653033"
-    },
-    {
-     "from": "2024-01-09",
-     "units": 67,
-     "source_url": "http://publications.europa.eu/resource/celex/02009R1060-20240109",
-     "sha256": "dff2617a44e10fcd7051287235ec94778e3320e8d9d207249e059658be3edb50"
-    },
-    {
-     "from": "2025-01-17",
-     "units": 67,
-     "source_url": "http://publications.europa.eu/resource/celex/02009R1060-20250117",
-     "sha256": "f76c57e42a4a12094750190335dcdfdf3f79e7ab03a94d112633aeed1e5a3bf9"
+     "from": "2026-08-13",
+     "units": 96,
+     "source_url": "http://publications.europa.eu/resource/celex/02023R1542-20260813",
+     "sha256": "1d8737f67f764772a92dc50b59bd99b0251467c24992ce9cc69f77a596e6bc81"
     }
    ]
   },
   {
-   "slug": "deposit-guarantee-schemes-directive",
-   "short": "Council 2014/49",
-   "title": "Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (recast) Text with EEA relevance",
-   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0049",
+   "slug": "ecodesign-regulation",
+   "short": "Regulation 2024/1781",
+   "title": "Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1781",
    "versions": [
     {
-     "from": "2014-07-02",
-     "units": 23,
-     "source_url": "http://publications.europa.eu/resource/celex/32014L0049",
-     "sha256": "c6c0852bc1e8d6fb84f570ecebb289b17bf8a73a40bc13b20d8a439a5bffb987"
+     "from": "2024-07-18",
+     "units": 80,
+     "source_url": "http://publications.europa.eu/resource/celex/32024R1781",
+     "sha256": "6437b8c619c6fb7731f5feb15be11243f2ed6fe69795e5bfe3a7ea94058733bf"
+    },
+    {
+     "from": "2025-04-28",
+     "units": 80,
+     "source_url": "http://publications.europa.eu/resource/celex/02024R1781-20240628",
+     "sha256": "6ee45f7ee9c3274cf84c6e557df7ae9209d04d5727db1a9e4ed7271cb504dbd5"
     }
    ]
   },
   {
-   "slug": "e-money-directive",
-   "short": "Council 2009/110",
-   "title": "Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009 on the taking up, pursuit and prudential supervision of the business of electronic money institutions amending Directives 2005/60/EC and 2006/48/EC and repealing Directive 2000/46/EC (Text with EEA relevance)",
-   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0110",
+   "slug": "single-use-plastics-directive",
+   "short": "Directive 2019/904",
+   "title": "Directive (EU) 2019/904 of the European Parliament and of the Council of 5 June 2019 on the reduction of the impact of certain plastic products on the environment (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0904",
    "versions": [
     {
-     "from": "2009-10-30",
-     "units": 24,
-     "source_url": "http://publications.europa.eu/resource/celex/32009L0110",
-     "sha256": "3d3e20a9d56b600747228538cdfa39d50120219f5a06a961b295b305bc0b8cb2"
+     "from": "2019-07-02",
+     "units": 19,
+     "source_url": "http://publications.europa.eu/resource/celex/32019L0904",
+     "sha256": "58c85bdde5147bc61904c87a243f56c181bf0c0d18975300096bba0f91d7cea3"
     },
     {
-     "from": "2018-01-13",
-     "units": 24,
-     "source_url": "http://publications.europa.eu/resource/celex/02009L0110-20180113",
-     "sha256": "01184dc6854892bf295ed6ed2b0308f6b1d0b4992db47c1493ff3c2eb6a13e0b"
+     "from": "2026-08-12",
+     "units": 19,
+     "source_url": "http://publications.europa.eu/resource/celex/02019L0904-20260812",
+     "sha256": "450ad3f8b6639b902b178f8bdb0928efc8a3f72f7325cc53dc04e536b67f1107"
     }
    ]
   },
   {
-   "slug": "payment-accounts-directive",
-   "short": "Council 2014/92",
-   "title": "Directive 2014/92/EU of the European Parliament and of the Council of 23 July 2014 on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic features Text with EEA relevance",
-   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0092",
+   "slug": "weee-directive",
+   "short": "Council 2012/19",
+   "title": "Directive 2012/19/EU of the European Parliament and of the Council of 4 July 2012 on waste electrical and electronic equipment (WEEE) (recast) Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0019",
    "versions": [
-    {
-     "from": "2014-09-17",
-     "units": 31,
-     "source_url": "http://publications.europa.eu/resource/celex/32014L0092",
-     "sha256": "64e708eb2e5bf1457e654a4cf42578585be0e39b8a4a8ae2b9ba85ca224d7e16"
-    }
-   ]
-  },
-  {
-   "slug": "distance-marketing-financial-services-directive",
-   "short": "Council 2002/65",
-   "title": "Directive 2002/65/EC of the European Parliament and of the Council of 23 September 2002 concerning the distance marketing of consumer financial services and amending Council Directive 90/619/EEC and Directives 97/7/EC and 98/27/EC",
-   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002L0065",
-   "versions": [
-    {
-     "from": "2005-06-12",
-     "units": 23,
-     "source_url": "http://publications.europa.eu/resource/celex/02002L0065-20050612",
-     "sha256": "c8d3e39101260df76755613f025a654c6e368974b1195e0da6a9925e1fc35eba"
-    },
-    {
-     "from": "2007-12-25",
-     "units": 22,
-     "source_url": "http://publications.europa.eu/resource/celex/02002L0065-20071225",
-     "sha256": "083dd5028c71ddc8a2692452d0631292d05492a0288b461eee267cb8ebc1834c"
-    },
-    {
-     "from": "2018-01-13",
-     "units": 22,
-     "source_url": "http://publications.europa.eu/resource/celex/02002L0065-20180113",
-     "sha256": "df7013d48df068c38daa8a428919783be45868383515b2a488314e374423a977"
-    }
-   ]
-  },
-  {
-   "slug": "insurance-distribution-directive",
-   "short": "Directive 2016/97",
-   "title": "Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016 on insurance distribution (recast)Text with EEA relevance",
-   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L0097",
-   "versions": [
-    {
-     "from": "2016-02-22",
-     "units": 46,
-     "source_url": "http://publications.europa.eu/resource/celex/32016L0097",
-     "sha256": "42af858eb44a6a40b0815dea5871aa1426ac9619d153579f01f5410d62b1cb3a"
-    },
-    {
-     "from": "2018-02-23",
-     "units": 46,
-     "source_url": "http://publications.europa.eu/resource/celex/02016L0097-20180223",
-     "sha256": "b0c2caaf0469976aff55f01e29cf686bb0f922d1738fa2c1a889af6dd67cb3b7"
-    },
-    {
-     "from": "2020-06-12",
-     "units": 46,
-     "source_url": "http://publications.europa.eu/resource/celex/02016L0097-20200612",
-     "sha256": "b9b93179125c12720986a16d6098fd363be34716b3ef0c9692e9aa69fbcc1c63"
-    },
-    {
-     "from": "2024-01-09",
-     "units": 47,
-     "source_url": "http://publications.europa.eu/resource/celex/02016L0097-20240109",
-     "sha256": "742efbd23924fcec4b856b35b720712fd7ac352f89224aa876616ac8ec129454"
-    },
-    {
-     "from": "2024-10-09",
-     "units": 47,
-     "source_url": "http://publications.europa.eu/resource/celex/02016L0097-20241009",
-     "sha256": "0ea3d121f451d229609a7f51fdf437ee38aed585fae0c9d3e18ee5907dd16d76"
-    }
-   ]
-  },
-  {
-   "slug": "motor-insurance-directive",
-   "short": "Council 2009/103",
-   "title": "Directive 2009/103/EC of the European Parliament and of the Council of 16 September 2009 relating to insurance against civil liability in respect of the use of motor vehicles, and the enforcement of the obligation to insure against such liability (Codified version) (Text with EEA relevance)",
-   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0103",
-   "versions": [
-    {
-     "from": "2009-10-27",
-     "units": 31,
-     "source_url": "http://publications.europa.eu/resource/celex/32009L0103",
-     "sha256": "24d5992017fcbb64f79ba28750bc980c177e2d9eee357dea427a0541e3647dcc"
-    },
-    {
-     "from": "2023-12-23",
-     "units": 39,
-     "source_url": "http://publications.europa.eu/resource/celex/02009L0103-20231223",
-     "sha256": "189ac70e579595ee8a2da50ca83fa3b9003c179ee4eb72a4089e710df8ee142c"
-    }
-   ]
-  },
-  {
-   "slug": "sepa-regulation",
-   "short": "Regulation No 260/2012",
-   "title": "Regulation (EU) No 260/2012 of the European Parliament and of the Council of 14 March 2012 establishing technical and business requirements for credit transfers and direct debits in euro and amending Regulation (EC) No 924/2009 Text with EEA relevance",
-   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0260",
-   "versions": [
-    {
-     "from": "2012-03-31",
-     "units": 18,
-     "source_url": "http://publications.europa.eu/resource/celex/32012R0260",
-     "sha256": "d644cd35fee0dc8de97f11526f9d2fc820353e3cac3df70240b372817ced38e5"
-    },
-    {
-     "from": "2014-01-31",
-     "units": 18,
-     "source_url": "http://publications.europa.eu/resource/celex/02012R0260-20140131",
-     "sha256": "b878ae53c9d64b2e8b0e4e3a96b00dfbbfe8ab255cb199695049f80e42254bf8"
-    },
     {
      "from": "2024-04-08",
-     "units": 22,
-     "source_url": "http://publications.europa.eu/resource/celex/02012R0260-20240408",
-     "sha256": "1e1e67cf562b324584f3807b16194d9d90f798cfa14de7040db3f26a73f811a5"
+     "units": 29,
+     "source_url": "http://publications.europa.eu/resource/celex/02012L0019-20240408",
+     "sha256": "3592a136ab23ccad39ed43f2e59e778b8476d95f44e32d829e0752348917db07"
     }
    ]
   },
   {
-   "slug": "european-climate-law",
-   "short": "Regulation 2021/1119",
-   "title": "Regulation (EU) 2021/1119 of the European Parliament and of the Council of 30 June 2021 establishing the framework for achieving climate neutrality and amending Regulations (EC) No 401/2009 and (EU) 2018/1999 (‘European Climate Law’)",
-   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1119",
+   "slug": "rohs-directive",
+   "short": "Council 2011/65",
+   "title": "Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (recast) Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0065",
    "versions": [
     {
-     "from": "2021-07-29",
-     "units": 14,
-     "source_url": "http://publications.europa.eu/resource/celex/32021R1119",
-     "sha256": "8bbe15af032af1a3950cf1e42bead62e0c816afbf56dced883ececb604da6075"
+     "from": "2022-07-01",
+     "units": 28,
+     "source_url": "http://publications.europa.eu/resource/celex/02011L0065-20220701",
+     "sha256": "f97df84291dc5cd590a576a7107899bfef50f13f5e48721b416e2e8435f836ca"
     },
     {
-     "from": "2026-04-07",
-     "units": 14,
-     "source_url": "http://publications.europa.eu/resource/celex/02021R1119-20260407",
-     "sha256": "4e4f180db0a7ee3dde9d4575bffdfa8a9db31fa53269bf6c733b16b75611bc6b"
+     "from": "2023-09-01",
+     "units": 28,
+     "source_url": "http://publications.europa.eu/resource/celex/02011L0065-20230901",
+     "sha256": "85326a5588e7383f3a321357723cd44df2abcbfe4d32825f9cb2d0ce339a0677"
+    },
+    {
+     "from": "2024-02-01",
+     "units": 28,
+     "source_url": "http://publications.europa.eu/resource/celex/02011L0065-20240201",
+     "sha256": "091e701d8143e30155a1a5a86860422e261d27b9967517820ed2fc46c5418b24"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 28,
+     "source_url": "http://publications.europa.eu/resource/celex/02011L0065-20240801",
+     "sha256": "9a148e301aaa3b41543e9901bf3834796322e57c44eba43a90366c132f9f1f0a"
     }
    ]
   },
   {
-   "slug": "energy-union-governance-regulation",
-   "short": "Regulation 2018/1999",
-   "title": "Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the Governance of the Energy Union and Climate Action, amending Regulations (EC) No 663/2009 and (EC) No 715/2009 of the European Parliament and of the Council, Directives 94/22/EC, 98/70/EC, 2009/31/EC, 2009/73/EC, 2010/31/EU, 2012/27/EU and 2013/30/EU of the European Parliament and of the Council, Council Directives 2009/119/EC and (EU) 2015/652 and repealing Regulation (EU) No 525/2013 of the European Parliament and of the Council (Text with EEA relevance.)",
-   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1999",
+   "slug": "seveso-iii-directive",
+   "short": "Council 2012/18",
+   "title": "Directive 2012/18/EU of the European Parliament and of the Council of 4 July 2012 on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council Directive 96/82/EC Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012L0018",
    "versions": [
     {
-     "from": "2021-01-01",
-     "units": 59,
-     "source_url": "http://publications.europa.eu/resource/celex/02018R1999-20210101",
-     "sha256": "47857164093d387edf22fd3db775e06e94bffa2d74f183fe1688a7b95aa08c31"
-    },
-    {
-     "from": "2021-07-29",
-     "units": 59,
-     "source_url": "http://publications.europa.eu/resource/celex/02018R1999-20210729",
-     "sha256": "361052d72f101b88249b7590c643bccf4ad48388ad7feeb14b8e999667885203"
-    },
-    {
-     "from": "2023-05-16",
-     "units": 59,
-     "source_url": "http://publications.europa.eu/resource/celex/02018R1999-20230516",
-     "sha256": "79b2885b5e21264edce4213088e301a094afac5da22a16dd3da3363f26cef105"
-    },
-    {
-     "from": "2023-11-20",
-     "units": 59,
-     "source_url": "http://publications.europa.eu/resource/celex/02018R1999-20231120",
-     "sha256": "c9330a008720a223eee215c6199e949b7c9a1938da3e7db904f78e482bfe12bf"
+     "from": "2012-08-13",
+     "units": 34,
+     "source_url": "http://publications.europa.eu/resource/celex/32012L0018",
+     "sha256": "22f5167d1bd5b2727a788b99de383ebab9015dad725df92211a3934072292e08"
     }
    ]
   },
   {
-   "slug": "cbam",
-   "short": "Regulation 2023/956",
-   "title": "Regulation (EU) 2023/956 of the European Parliament and of the Council of 10 May 2023 establishing a carbon border adjustment mechanism (Text with EEA relevance)",
-   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R0956",
+   "slug": "drinking-water-directive",
+   "short": "Directive 2020/2184",
+   "title": "Directive (EU) 2020/2184 of the European Parliament and of the Council of 16 December 2020 on the quality of water intended for human consumption (recast) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020L2184",
    "versions": [
     {
-     "from": "2023-05-17",
-     "units": 36,
-     "source_url": "http://publications.europa.eu/resource/celex/32023R0956",
-     "sha256": "c47e2793e7b92333ce9a891aba18924ff21b15b2745fffda98348b04b15a770e"
-    },
-    {
-     "from": "2025-10-20",
-     "units": 39,
-     "source_url": "http://publications.europa.eu/resource/celex/02023R0956-20251020",
-     "sha256": "9cea7c8c203076922aa4a1b9c3913225eb94f5f36c4315c5c8c1f652c9e6a8c1"
+     "from": "2021-01-12",
+     "units": 28,
+     "source_url": "http://publications.europa.eu/resource/celex/32020L2184",
+     "sha256": "49c37c623efc99e1afbcffa7a5679df200cdec860838768a819bba6be76db345"
     }
    ]
   },
   {
-   "slug": "deforestation-regulation",
-   "short": "Regulation 2023/1115",
-   "title": "Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance)",
-   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1115",
+   "slug": "bathing-water-directive",
+   "short": "Council 2006/7",
+   "title": "Directive 2006/7/EC of the European Parliament and of the Council of 15 February 2006 concerning the management of bathing water quality and repealing Directive 76/160/EEC",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0007",
    "versions": [
     {
-     "from": "2023-06-29",
-     "units": 38,
-     "source_url": "http://publications.europa.eu/resource/celex/32023R1115",
-     "sha256": "fc30a30a1b6701800ad8abeb63e1d606769a4128bc97ddb2e481ee4bf6057259"
+     "from": "2006-03-24",
+     "units": 20,
+     "source_url": "http://publications.europa.eu/resource/celex/32006L0007",
+     "sha256": "a9f697677e98bf5c3c589bc5e14301568acbfe0e34756283ac6ad7498e6e3053"
     },
     {
-     "from": "2024-12-26",
-     "units": 38,
-     "source_url": "http://publications.europa.eu/resource/celex/02023R1115-20241226",
-     "sha256": "23b01b1688fc17f445ddb1bdaef564f1d856e4cb633b917063210435afd0514c"
+     "from": "2009-08-07",
+     "units": 20,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0007-20090807",
+     "sha256": "f9e2e651db70a2776a177c62b6bcda9d1b0e5b8bf6c54aa8e5d05e42e05f0757"
     },
     {
-     "from": "2025-12-26",
-     "units": 39,
-     "source_url": "http://publications.europa.eu/resource/celex/02023R1115-20251226",
-     "sha256": "a00f759dfaf6daeff3b831e14571bd89828360e29cd9c7e6e1b6d3d1af0ddbe6"
+     "from": "2014-01-01",
+     "units": 20,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0007-20140101",
+     "sha256": "f5b6c8c8e3a95b31a53e0b14bcfdc291c72b5abae2acebfed3c52ca68c7c0c95"
+    }
+   ]
+  },
+  {
+   "slug": "marine-strategy-directive",
+   "short": "Council 2008/56",
+   "title": "Directive 2008/56/EC of the European Parliament and of the Council of 17 June 2008 establishing a framework for community action in the field of marine environmental policy (Marine Strategy Framework Directive) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0056",
+   "versions": [
+    {
+     "from": "2008-07-15",
+     "units": 28,
+     "source_url": "http://publications.europa.eu/resource/celex/32008L0056",
+     "sha256": "28fe5c94c5e3f3209e44ac5cd47da5590b9a46a6efc2d52e1d7efb26fa19e7ed"
     }
    ]
   },

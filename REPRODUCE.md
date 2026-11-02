@@ -17,18 +17,15 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `teu` | Treaty on European Union (consolidated version) | 4 | 2009-12-01 to 2016-06-07 |
 | `tfeu` | Treaty on the Functioning of the European Union (consolidated version) | 7 | 2009-12-01 to 2016-06-07 |
 | `charter` | Charter of Fundamental Rights of the European Union | 1 | 2009-12-01 to 2009-12-01 |
-| `credit-rating-agencies-regulation` | Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (Text with EEA relevance) | 9 | 2009-12-07 to 2025-01-17 |
-| `deposit-guarantee-schemes-directive` | Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (recast) Text with EEA relevance | 1 | 2014-07-02 to 2014-07-02 |
-| `e-money-directive` | Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009 on the taking up, pursuit and prudential supervision of the business of electronic money institutions amending Directives 2005/60/EC and 2006/48/EC and repealing Directive 2000/46/EC (Text with EEA relevance) | 2 | 2009-10-30 to 2018-01-13 |
-| `payment-accounts-directive` | Directive 2014/92/EU of the European Parliament and of the Council of 23 July 2014 on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic features Text with EEA relevance | 1 | 2014-09-17 to 2014-09-17 |
-| `distance-marketing-financial-services-directive` | Directive 2002/65/EC of the European Parliament and of the Council of 23 September 2002 concerning the distance marketing of consumer financial services and amending Council Directive 90/619/EEC and Directives 97/7/EC and 98/27/EC | 3 | 2005-06-12 to 2018-01-13 |
-| `insurance-distribution-directive` | Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016 on insurance distribution (recast)Text with EEA relevance | 5 | 2016-02-22 to 2024-10-09 |
-| `motor-insurance-directive` | Directive 2009/103/EC of the European Parliament and of the Council of 16 September 2009 relating to insurance against civil liability in respect of the use of motor vehicles, and the enforcement of the obligation to insure against such liability (Codified version) (Text with EEA relevance) | 2 | 2009-10-27 to 2023-12-23 |
-| `sepa-regulation` | Regulation (EU) No 260/2012 of the European Parliament and of the Council of 14 March 2012 establishing technical and business requirements for credit transfers and direct debits in euro and amending Regulation (EC) No 924/2009 Text with EEA relevance | 3 | 2012-03-31 to 2024-04-08 |
-| `european-climate-law` | Regulation (EU) 2021/1119 of the European Parliament and of the Council of 30 June 2021 establishing the framework for achieving climate neutrality and amending Regulations (EC) No 401/2009 and (EU) 2018/1999 (‘European Climate Law’) | 2 | 2021-07-29 to 2026-04-07 |
-| `energy-union-governance-regulation` | Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the Governance of the Energy Union and Climate Action, amending Regulations (EC) No 663/2009 and (EC) No 715/2009 of the European Parliament and of the Council, Directives 94/22/EC, 98/70/EC, 2009/31/EC, 2009/73/EC, 2010/31/EU, 2012/27/EU and 2013/30/EU of the European Parliament and of the Council, Council Directives 2009/119/EC and (EU) 2015/652 and repealing Regulation (EU) No 525/2013 of the European Parliament and of the Council (Text with EEA relevance.) | 4 | 2021-01-01 to 2023-11-20 |
-| `cbam` | Regulation (EU) 2023/956 of the European Parliament and of the Council of 10 May 2023 establishing a carbon border adjustment mechanism (Text with EEA relevance) | 2 | 2023-05-17 to 2025-10-20 |
-| `deforestation-regulation` | Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010 (Text with EEA relevance) | 3 | 2023-06-29 to 2025-12-26 |
+| `batteries-regulation` | Regulation (EU) 2023/1542 of the European Parliament and of the Council of 12 July 2023 concerning batteries and waste batteries, amending Directive 2008/98/EC and Regulation (EU) 2019/1020 and repealing Directive 2006/66/EC (Text with EEA relevance) | 1 | 2026-08-13 to 2026-08-13 |
+| `ecodesign-regulation` | Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (Text with EEA relevance) | 2 | 2024-07-18 to 2025-04-28 |
+| `single-use-plastics-directive` | Directive (EU) 2019/904 of the European Parliament and of the Council of 5 June 2019 on the reduction of the impact of certain plastic products on the environment (Text with EEA relevance) | 2 | 2019-07-02 to 2026-08-12 |
+| `weee-directive` | Directive 2012/19/EU of the European Parliament and of the Council of 4 July 2012 on waste electrical and electronic equipment (WEEE) (recast) Text with EEA relevance | 1 | 2024-04-08 to 2024-04-08 |
+| `rohs-directive` | Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (recast) Text with EEA relevance | 4 | 2022-07-01 to 2024-08-01 |
+| `seveso-iii-directive` | Directive 2012/18/EU of the European Parliament and of the Council of 4 July 2012 on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council Directive 96/82/EC Text with EEA relevance | 1 | 2012-08-13 to 2012-08-13 |
+| `drinking-water-directive` | Directive (EU) 2020/2184 of the European Parliament and of the Council of 16 December 2020 on the quality of water intended for human consumption (recast) (Text with EEA relevance) | 1 | 2021-01-12 to 2021-01-12 |
+| `bathing-water-directive` | Directive 2006/7/EC of the European Parliament and of the Council of 15 February 2006 concerning the management of bathing water quality and repealing Directive 76/160/EEC | 3 | 2006-03-24 to 2014-01-01 |
+| `marine-strategy-directive` | Directive 2008/56/EC of the European Parliament and of the Council of 17 June 2008 establishing a framework for community action in the field of marine environmental policy (Marine Strategy Framework Directive) (Text with EEA relevance) | 1 | 2008-07-15 to 2008-07-15 |
 | `gdpr` | Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (Text with EEA relevance) | 2 | 2016-05-24 to 2018-05-23 |
 | `digital-services-act` | Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services and amending Directive 2000/31/EC (Digital Services Act) (Text with EEA relevance) | 1 | 2022-02-17 to 2022-02-17 |
 | `digital-markets-act` | Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) (Text with EEA relevance) | 2 | 2022-11-01 to 2025-01-10 |
@@ -170,19 +167,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `eltif-regulation` | Regulation (EU) 2015/760 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds (Text with EEA relevance) | 1 | 2015-06-08 to 2015-06-08 |
 | `euveca-regulation` | Regulation (EU) No 345/2013 of the European Parliament and of the Council of 17 April 2013 on European venture capital funds Text with EEA relevance | 4 | 2013-05-15 to 2024-01-09 |
 
-The build made 698 commits:
+The build made 715 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 155 | first version of an act |
-| 370 | one law on its in-force day |
-| 173 | changes no amendment note explains, credited to the publisher |
+| 164 | first version of an act |
+| 375 | one law on its in-force day |
+| 176 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-02.
 - 4 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 670 laws in the record.
-- 980 tags.
+- 725 laws in the record.
+- 1005 tags.
 
 ## Dates
 
@@ -194,7 +191,7 @@ When a law gives no date of its own, the default rule applies: Article 297 TFEU:
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6dcb40a8d718250234e19e5406b692e426e98a2cfde009b86cb60ab25a8151b3` (34819660 bytes).
+- Corpus: sha256 `e139bb577c975be8b51196c3c8a2e11c5df1ad513f84cf507c7e794046cc0804` (34187358 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
