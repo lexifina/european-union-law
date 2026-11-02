@@ -2740,6 +2740,238 @@
      "sha256": "ecda29f9b44560a365287ec6487d759c6478ab8f88490c619fb411d32cd0ec94"
     }
    ]
+  },
+  {
+   "slug": "consumer-credit-directive",
+   "short": "Directive 2023/2225",
+   "title": "Directive (EU) 2023/2225 of the European Parliament and of the Council of 18 October 2023 on credit agreements for consumers and repealing Directive 2008/48/EC",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023L2225",
+   "versions": [
+    {
+     "from": "2023-11-19",
+     "units": 50,
+     "source_url": "http://publications.europa.eu/resource/celex/32023L2225",
+     "sha256": "8039387c5357ebfc3b5803693ff7b8bbd5ce335267273b6614f76b6155b2423a"
+    },
+    {
+     "from": "2026-09-22",
+     "units": 50,
+     "source_url": "http://publications.europa.eu/resource/celex/02023L2225-20231030",
+     "sha256": "febaa1a5e05a9d40821f000b2756f91ad7434bbefaa997d3b904eec2823e7543"
+    }
+   ]
+  },
+  {
+   "slug": "transparent-working-conditions-directive",
+   "short": "Directive 2019/1152",
+   "title": "Directive (EU) 2019/1152 of the European Parliament and of the Council of 20 June 2019 on transparent and predictable working conditions in the European Union",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1152",
+   "versions": [
+    {
+     "from": "2019-07-31",
+     "units": 26,
+     "source_url": "http://publications.europa.eu/resource/celex/32019L1152",
+     "sha256": "0171763090878960e374c720487c9d38a7480cbc255eeddfdc9e7cf5bb4fb67c"
+    }
+   ]
+  },
+  {
+   "slug": "minimum-wages-directive",
+   "short": "Directive 2022/2041",
+   "title": "Directive (EU) 2022/2041 of the European Parliament and of the Council of 19 October 2022 on adequate minimum wages in the European Union",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2041",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 19,
+     "source_url": "http://publications.europa.eu/resource/celex/32022L2041",
+     "sha256": "98753837a060e4d25f20612d90284d2cfe0ae0ef64ed18f3ef6142042dbe454f"
+    }
+   ]
+  },
+  {
+   "slug": "temporary-agency-work-directive",
+   "short": "Council 2008/104",
+   "title": "Directive 2008/104/EC of the European Parliament and of the Council of 19 November 2008 on temporary agency work",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0104",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 14,
+     "source_url": "http://publications.europa.eu/resource/celex/32008L0104",
+     "sha256": "096feca0c9f0ebc3e18b9382234691bea1619b6a7da1bce0bcc5ad1fcce62425"
+    }
+   ]
+  },
+  {
+   "slug": "posting-of-workers-directive",
+   "short": "Council 96/71",
+   "title": "Directive 96/71/EC of the European Parliament and of the Council of 16 December 1996 concerning the posting of workers in the framework of the provision of services",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31996L0071",
+   "versions": [
+    {
+     "from": "1997-02-10",
+     "units": 9,
+     "source_url": "http://publications.europa.eu/resource/celex/31996L0071",
+     "sha256": "436c6607cd91470799bd02abe5271f990dadc4c26d8936a5f8caf5e5b8f0f746"
+    },
+    {
+     "from": "2020-07-30",
+     "units": 9,
+     "source_url": "http://publications.europa.eu/resource/celex/01996L0071-20200730",
+     "sha256": "322bbb183970e712fe3aa9762291108d347be64438b2a01ded0a724e41e78503"
+    }
+   ]
+  },
+  {
+   "slug": "transfer-of-undertakings-directive",
+   "short": "2001/23/ec 2001/23",
+   "title": "Council Directive 2001/23/EC of 12 March 2001 on the approximation of the laws of the Member States relating to the safeguarding of employees' rights in the event of transfers of undertakings, businesses or parts of undertakings or businesses",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0023",
+   "versions": [
+    {
+     "from": "2001-04-11",
+     "units": 14,
+     "source_url": "http://publications.europa.eu/resource/celex/02001L0023-20010411",
+     "sha256": "da288e173f46749e4bb286b4a74a4fa468f6b501a659603b46f381bbc7c18563"
+    },
+    {
+     "from": "2015-10-09",
+     "units": 14,
+     "source_url": "http://publications.europa.eu/resource/celex/02001L0023-20151009",
+     "sha256": "b4d3b456d54bd17e6fc1c628d8ab51d87b5b87fe2a43d24ae306a29e6a060466"
+    }
+   ]
+  },
+  {
+   "slug": "collective-redundancies-directive",
+   "short": "98/59/ec 98/59",
+   "title": "Council Directive 98/59/EC of 20 July 1998 on the approximation of the laws of the Member States relating to collective redundancies",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31998L0059",
+   "versions": [
+    {
+     "from": "1998-09-01",
+     "units": 10,
+     "source_url": "http://publications.europa.eu/resource/celex/01998L0059-19980901",
+     "sha256": "0c54dad604d9df1905f4307f8e6dd839df1784fb58c2b40bb48755eac811b433"
+    },
+    {
+     "from": "2015-10-09",
+     "units": 10,
+     "source_url": "http://publications.europa.eu/resource/celex/01998L0059-20151009",
+     "sha256": "81c0e6b1d41011ecbd47560002d1fcfb6006f43870fab2c4ab1793935206bfda"
+    }
+   ]
+  },
+  {
+   "slug": "work-life-balance-directive",
+   "short": "Directive 2019/1158",
+   "title": "Directive (EU) 2019/1158 of the European Parliament and of the Council of 20 June 2019 on work-life balance for parents and carers and repealing Council Directive 2010/18/EU",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1158",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 22,
+     "source_url": "http://publications.europa.eu/resource/celex/32019L1158",
+     "sha256": "48c9372083187870bb89e22781bba8527d756de495f5b902a91e9e15b34ff7c6"
+    }
+   ]
+  },
+  {
+   "slug": "accounting-directive",
+   "short": "Council 2013/34",
+   "title": "Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0034",
+   "versions": [
+    {
+     "from": "2013-07-19",
+     "units": 55,
+     "source_url": "http://publications.europa.eu/resource/celex/32013L0034",
+     "sha256": "6352fb8d9b7522d84487763283f9806e2b53969c39dc5695f13f157ab123fe7c"
+    },
+    {
+     "from": "2014-12-05",
+     "units": 57,
+     "source_url": "http://publications.europa.eu/resource/celex/02013L0034-20141205",
+     "sha256": "951e440b13087022c26d6d017385bbc68d9f75d94aebf1e4f6c8578b52332327"
+    },
+    {
+     "from": "2021-12-21",
+     "units": 65,
+     "source_url": "http://publications.europa.eu/resource/celex/02013L0034-20211221",
+     "sha256": "be40b04b4d90c165977cb6c6d94fba78beb28acb36cfd68860650fdd352ec560"
+    },
+    {
+     "from": "2023-01-05",
+     "units": 73,
+     "source_url": "http://publications.europa.eu/resource/celex/02013L0034-20230105",
+     "sha256": "2af0b26d2f8a93f9eb08b4d3b3783e7a5cc89642dfc8b217eec76d6e85d101cf"
+    },
+    {
+     "from": "2024-01-09",
+     "units": 74,
+     "source_url": "http://publications.europa.eu/resource/celex/02013L0034-20240109",
+     "sha256": "c13430df1f63c696c137070fa592c427809b3a06dcd8fce8bbc745faefef5e1e"
+    },
+    {
+     "from": "2024-05-28",
+     "units": 74,
+     "source_url": "http://publications.europa.eu/resource/celex/02013L0034-20240528",
+     "sha256": "67e5bf2f66bed5d63350c75fbba1a028e520306df1114b46b42a97ec766da8a9"
+    },
+    {
+     "from": "2026-03-18",
+     "units": 76,
+     "source_url": "http://publications.europa.eu/resource/celex/02013L0034-20260318",
+     "sha256": "20710edfbe1a975cd3dd9f6751442fa597546b48e6410c604d9c11f3b271b31d"
+    }
+   ]
+  },
+  {
+   "slug": "csddd",
+   "short": "Directive 2024/1760",
+   "title": "Directive (EU) 2024/1760 of the European Parliament and of the Council of 13 June 2024 on corporate sustainability due diligence and amending Directive (EU) 2019/1937 and Regulation (EU) 2023/2859 (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1760",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 38,
+     "source_url": "http://publications.europa.eu/resource/celex/02024L1760-20260318",
+     "sha256": "b0db38bd0e6b913bfe2c19c66ffcff00ad316586adeadf35d60ff1c72947a5c2"
+    }
+   ]
+  },
+  {
+   "slug": "electricity-directive",
+   "short": "Directive 2019/944",
+   "title": "Directive (EU) 2019/944 of the European Parliament and of the Council of 5 June 2019 on common rules for the internal market for electricity and amending Directive 2012/27/EU (recast) (Text with EEA relevance.)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0944",
+   "versions": [
+    {
+     "from": "2019-07-04",
+     "units": 74,
+     "source_url": "http://publications.europa.eu/resource/celex/32019L0944",
+     "sha256": "68355ebfd4f4fe90c9e73bcdd1b44cc2b343d930d790e45f50d1118e54f254de"
+    },
+    {
+     "from": "2022-06-23",
+     "units": 74,
+     "source_url": "http://publications.europa.eu/resource/celex/02019L0944-20220623",
+     "sha256": "9bcd71a79d118a3e8d7325226a1639ea4fc6bfa62d3e2c0bb037a45797d97aa2"
+    },
+    {
+     "from": "2024-07-16",
+     "units": 80,
+     "source_url": "http://publications.europa.eu/resource/celex/02019L0944-20240716",
+     "sha256": "c35d1ff5b3cb6a93876f7652b9e1378a4e62f7a6397b1eb4e010107e781483fc"
+    },
+    {
+     "from": "2025-10-12",
+     "units": 79,
+     "source_url": "http://publications.europa.eu/resource/celex/02019L0944-20251012",
+     "sha256": "b5eb0a876af203c58c35867a66943b81f30da988d1e743ff24cc33710a65248e"
+    }
+   ]
   }
  ]
 }

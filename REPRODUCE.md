@@ -94,20 +94,31 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `sale-of-goods-directive` | Directive (EU) 2019/771 of the European Parliament and of the Council of 20 May 2019 on certain aspects concerning contracts for the sale of goods, amending Regulation (EU) 2017/2394 and Directive 2009/22/EC, and repealing Directive 1999/44/EC (Text with EEA relevance.) | 2 | 2019-06-11 to 2026-07-31 |
 | `mortgage-credit-directive` | Directive 2014/17/EU of the European Parliament and of the Council of 4 February 2014 on credit agreements for consumers relating to residential immovable property and amending Directives 2008/48/EC and 2013/36/EU and Regulation (EU) No 1093/2010 Text with EEA relevance | 1 | 2023-12-30 to 2023-12-30 |
 | `representative-actions-directive` | Directive (EU) 2020/1828 of the European Parliament and of the Council of 25 November 2020 on representative actions for the protection of the collective interests of consumers and repealing Directive 2009/22/EC (Text with EEA relevance) | 1 | 2024-12-13 to 2024-12-13 |
+| `consumer-credit-directive` | Directive (EU) 2023/2225 of the European Parliament and of the Council of 18 October 2023 on credit agreements for consumers and repealing Directive 2008/48/EC | 2 | 2023-11-19 to 2026-09-22 |
+| `transparent-working-conditions-directive` | Directive (EU) 2019/1152 of the European Parliament and of the Council of 20 June 2019 on transparent and predictable working conditions in the European Union | 1 | 2019-07-31 to 2019-07-31 |
+| `minimum-wages-directive` | Directive (EU) 2022/2041 of the European Parliament and of the Council of 19 October 2022 on adequate minimum wages in the European Union | 1 | 2022-11-14 to 2022-11-14 |
+| `temporary-agency-work-directive` | Directive 2008/104/EC of the European Parliament and of the Council of 19 November 2008 on temporary agency work | 1 | 2008-12-05 to 2008-12-05 |
+| `posting-of-workers-directive` | Directive 96/71/EC of the European Parliament and of the Council of 16 December 1996 concerning the posting of workers in the framework of the provision of services | 2 | 1997-02-10 to 2020-07-30 |
+| `transfer-of-undertakings-directive` | Council Directive 2001/23/EC of 12 March 2001 on the approximation of the laws of the Member States relating to the safeguarding of employees' rights in the event of transfers of undertakings, businesses or parts of undertakings or businesses | 2 | 2001-04-11 to 2015-10-09 |
+| `collective-redundancies-directive` | Council Directive 98/59/EC of 20 July 1998 on the approximation of the laws of the Member States relating to collective redundancies | 2 | 1998-09-01 to 2015-10-09 |
+| `work-life-balance-directive` | Directive (EU) 2019/1158 of the European Parliament and of the Council of 20 June 2019 on work-life balance for parents and carers and repealing Council Directive 2010/18/EU | 1 | 2019-08-01 to 2019-08-01 |
+| `accounting-directive` | Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC Text with EEA relevance | 7 | 2013-07-19 to 2026-03-18 |
+| `csddd` | Directive (EU) 2024/1760 of the European Parliament and of the Council of 13 June 2024 on corporate sustainability due diligence and amending Directive (EU) 2019/1937 and Regulation (EU) 2023/2859 (Text with EEA relevance) | 1 | 2026-03-18 to 2026-03-18 |
+| `electricity-directive` | Directive (EU) 2019/944 of the European Parliament and of the Council of 5 June 2019 on common rules for the internal market for electricity and amending Directive 2012/27/EU (recast) (Text with EEA relevance.) | 4 | 2019-07-04 to 2025-10-12 |
 
-The build made 429 commits:
+The build made 458 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 80 | first version of an act |
-| 232 | one law on its in-force day |
-| 117 | changes no amendment note explains, credited to the publisher |
+| 91 | first version of an act |
+| 246 | one law on its in-force day |
+| 121 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 329 laws in the record.
-- 618 tags.
+- 357 laws in the record.
+- 663 tags.
 
 ## Dates
 
@@ -119,7 +130,7 @@ When a law gives no date of its own, the default rule applies: Article 297 TFEU:
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `4a2751a51ae49f4a28ddfd553d32c37f5068c43288cb878b7391e368673cb50e` (23061015 bytes).
+- Corpus: sha256 `d8e0a4e93f1b07c4c5caa3b3c084422522184c50f489b048911f63cd5909163b` (24193655 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -149,6 +160,7 @@ No second build of this corpus has been compared yet.
 - Where the publisher has no text for a consolidated version other than the first, the history of that act starts with the first consolidated version after it, credited to the publisher as the oldest version available.
 - Changes that take effect after the day the data was retrieved (2026-11-02) are left out until that day.
 - An article title is the first line of the article file; the heading line is the article number only.
+- From this part on, an article that changes with no marker new in its consolidated version is credited to the act whose marker newly appears in that article (an amending act that applies in stages).
 - From this part on, an article that changes with no marker new in its consolidated version is credited to the act whose marker newly appears in that article (an amending act that applies in stages).
 
 ## What AI did and did not do
