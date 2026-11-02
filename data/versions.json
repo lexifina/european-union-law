@@ -1,0 +1,101 @@
+{
+ "country": "EU",
+ "acts": [
+  {
+   "slug": "teu",
+   "short": "TEU",
+   "title": "Treaty on European Union (consolidated version)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12016M/TXT",
+   "versions": [
+    {
+     "from": "2009-12-01",
+     "units": 56,
+     "source_url": "http://publications.europa.eu/resource/celex/12008M/TXT",
+     "sha256": "8c82967132c90736651caddac84ed1232fb1459acfb8e476e75ea350242e8c4e"
+    },
+    {
+     "from": "2012-10-26",
+     "units": 56,
+     "source_url": "http://publications.europa.eu/resource/celex/12012M/TXT",
+     "sha256": "293df14c37f9d439f7cb68b92c171d65aec86c8a539b895b952f1bd283cdeb11"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 56,
+     "source_url": "http://publications.europa.eu/resource/celex/12016M/TXT",
+     "sha256": "4122d5168aa78e5e4a3b8cb51888decd999a7c5b02c8ce21354593ab74552c5b"
+    },
+    {
+     "from": "2016-06-07",
+     "units": 56,
+     "source_url": "http://publications.europa.eu/resource/celex/12016M/TXT",
+     "sha256": "4122d5168aa78e5e4a3b8cb51888decd999a7c5b02c8ce21354593ab74552c5b"
+    }
+   ]
+  },
+  {
+   "slug": "tfeu",
+   "short": "TFEU",
+   "title": "Treaty on the Functioning of the European Union (consolidated version)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12016E/TXT",
+   "versions": [
+    {
+     "from": "2009-12-01",
+     "units": 359,
+     "source_url": "http://publications.europa.eu/resource/celex/12008E/TXT",
+     "sha256": "0a0e2dd638c8c109aded6b3d60564ddca8358cfabda718c69bac0f6ebb891f59"
+    },
+    {
+     "from": "2012-01-01",
+     "units": 359,
+     "source_url": "http://publications.europa.eu/resource/celex/12012E/TXT",
+     "sha256": "c73c0c09eb9f0e53cbd14363577dce6fce8fef7bd303e514cda7c57b0b540682"
+    },
+    {
+     "from": "2012-10-26",
+     "units": 359,
+     "source_url": "http://publications.europa.eu/resource/celex/12012E/TXT",
+     "sha256": "c73c0c09eb9f0e53cbd14363577dce6fce8fef7bd303e514cda7c57b0b540682"
+    },
+    {
+     "from": "2013-05-01",
+     "units": 359,
+     "source_url": "http://publications.europa.eu/resource/celex/12016E/TXT",
+     "sha256": "9edd9ff12dfe0824d4648631c48b97d458cf19bab7a4c273e99370a1eec00560"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 359,
+     "source_url": "http://publications.europa.eu/resource/celex/12016E/TXT",
+     "sha256": "9edd9ff12dfe0824d4648631c48b97d458cf19bab7a4c273e99370a1eec00560"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 359,
+     "source_url": "http://publications.europa.eu/resource/celex/12016E/TXT",
+     "sha256": "9edd9ff12dfe0824d4648631c48b97d458cf19bab7a4c273e99370a1eec00560"
+    },
+    {
+     "from": "2016-06-07",
+     "units": 359,
+     "source_url": "http://publications.europa.eu/resource/celex/12016E/TXT",
+     "sha256": "9edd9ff12dfe0824d4648631c48b97d458cf19bab7a4c273e99370a1eec00560"
+    }
+   ]
+  },
+  {
+   "slug": "charter",
+   "short": "CFR",
+   "title": "Charter of Fundamental Rights of the European Union",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12016P/TXT",
+   "versions": [
+    {
+     "from": "2009-12-01",
+     "units": 55,
+     "source_url": "http://publications.europa.eu/resource/celex/12007P/TXT",
+     "sha256": "ab32cc144cde0ab648f0e397bc51c8f426642a78eb56b6d3364b3cc4aaf2a2b5"
+    }
+   ]
+  }
+ ]
+}

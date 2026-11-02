@@ -1,0 +1,8 @@
+{
+  "path": "eu",
+  "code": "EU",
+  "name": "European Union",
+  "level": "supranational",
+  "repo": "https://github.com/lexifina/european-union-law",
+  "build": "built: TEU (2009-2016), TFEU (2009-2016), Charter of Fundamental Rights (2009)"
+}

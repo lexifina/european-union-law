@@ -1,0 +1,34 @@
+The legal texts are acts of the European Union as published by the Publications Office of the European Union in
+EUR-Lex and its Cellar repository:
+
+  © European Union, https://eur-lex.europa.eu, 1998-2026.
+  Source: Publications Office of the European Union, Cellar (http://publications.europa.eu/resource/celex/),
+  retrieved 2 November 2026.
+
+Reuse is authorised under Commission Decision 2011/833/EU of 12 December 2011 on the reuse of Commission documents
+(OJ L 330, 14.12.2011, p. 39), which provides:
+
+  Article 6(1): "Documents shall be made available for reuse without application unless otherwise specified and
+  without restrictions or, where appropriate, an open licence or disclaimer setting out conditions explaining the
+  rights of reusers."
+
+  Article 6(2): "Those conditions, which shall not unnecessarily restrict possibilities for reuse, may include the
+  following: the obligation for the reuser to acknowledge the source of the documents; the non-liability of the
+  Commission for any consequence stemming from the reuse."
+
+  Article 3: "'reuse' means the use of documents by persons or legal entities of documents, for commercial or
+  non-commercial purposes other than the initial purpose for which the documents were produced."
+
+Only the legislation of the European Union published in the paper editions of the Official Journal of the European
+Union (or, since 1 July 2013, its authentic electronic edition) is deemed authentic. Consolidated texts are a
+documentation tool and have no legal effect; the institutions do not assume any liability for their contents.
+
+Changes made by Lexifina: each version was split into one Markdown file per article, one paragraph or point per line;
+spacing, quotation marks and dashes were normalised; editorial references, footnote calls and amendment markers were
+left out of the text; and the versions were arranged as git commits dated by the day each change took effect and
+credited to the act that made it. The wording of the law was not changed. The European Union and the Publications
+Office do not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
