@@ -96,6 +96,2352 @@
      "sha256": "ab32cc144cde0ab648f0e397bc51c8f426642a78eb56b6d3364b3cc4aaf2a2b5"
     }
    ]
+  },
+  {
+   "slug": "gdpr",
+   "short": "Regulation 2016/679",
+   "title": "Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679",
+   "versions": [
+    {
+     "from": "2016-05-24",
+     "units": 99,
+     "source_url": "http://publications.europa.eu/resource/celex/32016R0679",
+     "sha256": "962539af03738bf552319ff4ce42d69e5f95a576307c4dfed7bf87e81b646b9d"
+    },
+    {
+     "from": "2018-05-23",
+     "units": 99,
+     "source_url": "http://publications.europa.eu/resource/celex/02016R0679-20160504",
+     "sha256": "a681ff22f32f125749af6e96947224369efc132edb8a95b12637e357df1056de"
+    }
+   ]
+  },
+  {
+   "slug": "digital-services-act",
+   "short": "Regulation 2022/2065",
+   "title": "Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services and amending Directive 2000/31/EC (Digital Services Act) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2065",
+   "versions": [
+    {
+     "from": "2022-02-17",
+     "units": 93,
+     "source_url": "http://publications.europa.eu/resource/celex/32022R2065",
+     "sha256": "11b119a7d45f3a10cd41714061f9d907839ef5d1634e41774490f00b95856bbf"
+    }
+   ]
+  },
+  {
+   "slug": "digital-markets-act",
+   "short": "Regulation 2022/1925",
+   "title": "Regulation (EU) 2022/1925 of the European Parliament and of the Council of 14 September 2022 on contestable and fair markets in the digital sector and amending Directives (EU) 2019/1937 and (EU) 2020/1828 (Digital Markets Act) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R1925",
+   "versions": [
+    {
+     "from": "2022-11-01",
+     "units": 54,
+     "source_url": "http://publications.europa.eu/resource/celex/32022R1925",
+     "sha256": "d6af21a4f11c2b001b0486391fbd0813deba32305fb0d3865fbceccd45b827eb"
+    },
+    {
+     "from": "2025-01-10",
+     "units": 54,
+     "source_url": "http://publications.europa.eu/resource/celex/02022R1925-20221012",
+     "sha256": "5ba730cbca8f7aee832c341735da12e4574994a17de25bad2df4d3711d5e64f1"
+    }
+   ]
+  },
+  {
+   "slug": "ai-act",
+   "short": "Regulation 2024/1689",
+   "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 113,
+     "source_url": "http://publications.europa.eu/resource/celex/32024R1689",
+     "sha256": "8f0b656302f9864cc87e040c371f209a9d65ae1a6cecc25ca5eb737e872d721a"
+    },
+    {
+     "from": "2026-07-27",
+     "units": 119,
+     "source_url": "http://publications.europa.eu/resource/celex/02024R1689-20260727",
+     "sha256": "5e7719f77e8a606b257dc25958ee3222c4383300a5a34270a5b850a2ce8b8715"
+    }
+   ]
+  },
+  {
+   "slug": "eidas",
+   "short": "Regulation No 910/2014",
+   "title": "Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0910",
+   "versions": [
+    {
+     "from": "2014-09-17",
+     "units": 52,
+     "source_url": "http://publications.europa.eu/resource/celex/32014R0910",
+     "sha256": "b4fa35255bc0ad6b7a8275cfa329a1f17f91830299b8096e6d5e6a3169b27f33"
+    },
+    {
+     "from": "2024-05-20",
+     "units": 83,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0910-20240520",
+     "sha256": "da2df9c7e08d1b3f9f24b903c073574f014ee97f18591b112e03ef7ed90afd23"
+    },
+    {
+     "from": "2024-10-18",
+     "units": 82,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0910-20241018",
+     "sha256": "b4ab7d733d234eef3a505330717d8a8d4d6388f2d9a0a4bfcde2d1b497ba72ce"
+    }
+   ]
+  },
+  {
+   "slug": "brussels-i-bis",
+   "short": "Regulation No 1215/2012",
+   "title": "Regulation (EU) No 1215/2012 of the European Parliament and of the Council of 12 December 2012 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (recast)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1215",
+   "versions": [
+    {
+     "from": "2013-01-09",
+     "units": 81,
+     "source_url": "http://publications.europa.eu/resource/celex/32012R1215",
+     "sha256": "364d7c7d2dce1e7a59c0ab6a6cb7919f2f98751ac1d7496f0a90e7864e3f4ca7"
+    },
+    {
+     "from": "2015-01-10",
+     "units": 85,
+     "source_url": "http://publications.europa.eu/resource/celex/02012R1215-20150110",
+     "sha256": "54471646cd210ab9db27aa937148a7400523523c6c6e95cc0e9049b78d3b82b0"
+    }
+   ]
+  },
+  {
+   "slug": "rome-i",
+   "short": "Regulation No 593/2008",
+   "title": "Regulation (EC) No 593/2008 of the European Parliament and of the Council of 17 June 2008 on the law applicable to contractual obligations (Rome I)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0593",
+   "versions": [
+    {
+     "from": "2008-07-24",
+     "units": 29,
+     "source_url": "http://publications.europa.eu/resource/celex/32008R0593",
+     "sha256": "2f33c017cfb9fac3ae950388e1dd1210ea23474c70f7c6a3e653226af586b941"
+    },
+    {
+     "from": "2009-11-24",
+     "units": 29,
+     "source_url": "http://publications.europa.eu/resource/celex/02008R0593-20080724",
+     "sha256": "2fdf7b5c9b395a358b6cfa7e64ec336a3601d6cf3906ff23bb68e6f0f9784872"
+    }
+   ]
+  },
+  {
+   "slug": "rome-ii",
+   "short": "Regulation No 864/2007",
+   "title": "Regulation (EC) No 864/2007 of the European Parliament and of the Council of 11 July 2007 on the law applicable to non-contractual obligations (Rome II)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007R0864",
+   "versions": [
+    {
+     "from": "2008-07-11",
+     "units": 32,
+     "source_url": "http://publications.europa.eu/resource/celex/32007R0864",
+     "sha256": "488bfcf5bcbcb4e1401205419942109bee4b77d03cd1b5dc2b18399e2ea6dde0"
+    }
+   ]
+  },
+  {
+   "slug": "air-passenger-rights",
+   "short": "Regulation No 261/2004",
+   "title": "Regulation (EC) No 261/2004 of the European Parliament and of the Council of 11 February 2004 establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights, and repealing Regulation (EEC) No 295/91 (Text with EEA relevance) - Commission Statement",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R0261",
+   "versions": [
+    {
+     "from": "2005-02-17",
+     "units": 19,
+     "source_url": "http://publications.europa.eu/resource/celex/32004R0261",
+     "sha256": "eb282e7af0c2a45a2b252a3dd5745ec2c2b7002483384f9cf5ac309754057a41"
+    }
+   ]
+  },
+  {
+   "slug": "antitrust-regulation",
+   "short": "Regulation No 1/2003",
+   "title": "Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003R0001",
+   "versions": [
+    {
+     "from": "2003-01-24",
+     "units": 45,
+     "source_url": "http://publications.europa.eu/resource/celex/32003R0001",
+     "sha256": "0fd17297aa4f86967b92048a8d4dfc64d0c0cb765e76816becafbad59a9c9d7f"
+    },
+    {
+     "from": "2006-10-18",
+     "units": 44,
+     "source_url": "http://publications.europa.eu/resource/celex/02003R0001-20061018",
+     "sha256": "430a89872405f3339c6ae792bccac91731fb3a48a612aec4a375f2a61a64b644"
+    },
+    {
+     "from": "2009-07-01",
+     "units": 41,
+     "source_url": "http://publications.europa.eu/resource/celex/02003R0001-20090701",
+     "sha256": "ce5f4c28124b3fc45f4e0d4342bc9fe631e5795282dcf2549b6ed7f36f6f2eb7"
+    }
+   ]
+  },
+  {
+   "slug": "merger-regulation",
+   "short": "Regulation No 139/2004",
+   "title": "Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between undertakings (the EC Merger Regulation) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R0139",
+   "versions": [
+    {
+     "from": "2004-02-18",
+     "units": 26,
+     "source_url": "http://publications.europa.eu/resource/celex/32004R0139",
+     "sha256": "78ad7f531aafceb0fd72da42183b1779e7e1612cd7ea01e64b1c4d8626738a35"
+    }
+   ]
+  },
+  {
+   "slug": "insolvency-regulation",
+   "short": "Regulation 2015/848",
+   "title": "Regulation (EU) 2015/848 of the European Parliament and of the Council of 20 May 2015 on insolvency proceedings (recast)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R0848",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 92,
+     "source_url": "http://publications.europa.eu/resource/celex/32015R0848",
+     "sha256": "ffa5e31fc884cc8401ad93d0cf65fdd70c41fce1ea3a415e1f0b5a39aa67f774"
+    },
+    {
+     "from": "2016-12-21",
+     "units": 92,
+     "source_url": "http://publications.europa.eu/resource/celex/02015R0848-20150605",
+     "sha256": "4ff8482a53e565450d329c189fa3e0b3d6c610f0f92040fb465a17d367031ce3"
+    },
+    {
+     "from": "2017-06-26",
+     "units": 92,
+     "source_url": "http://publications.europa.eu/resource/celex/02015R0848-20170626",
+     "sha256": "cc245c995241bb98ea9340b92435201dc3ef3df8e8297483ad6c29e46f8328c2"
+    },
+    {
+     "from": "2018-07-26",
+     "units": 92,
+     "source_url": "http://publications.europa.eu/resource/celex/02015R0848-20180726",
+     "sha256": "78a2b314656341407c63f6383884db38efd44311e2e85d4997bdacbf7b3eaac6"
+    },
+    {
+     "from": "2022-01-09",
+     "units": 92,
+     "source_url": "http://publications.europa.eu/resource/celex/02015R0848-20220109",
+     "sha256": "6ac898290cec5e3a2000a3854ff88821789fec3dc2d624f2dfbfe070c40ecca7"
+    },
+    {
+     "from": "2025-05-01",
+     "units": 92,
+     "source_url": "http://publications.europa.eu/resource/celex/02015R0848-20250501",
+     "sha256": "b7fee5f0836cf17ca701fa3a772c8ae6841d0eb9167d907e01f8a0d4fced8051"
+    },
+    {
+     "from": "2025-11-06",
+     "units": 92,
+     "source_url": "http://publications.europa.eu/resource/celex/02015R0848-20251106",
+     "sha256": "eb81859511131241890582e84dd209afcb6c3412ac9159f51ae8405a40754eec"
+    }
+   ]
+  },
+  {
+   "slug": "succession-regulation",
+   "short": "Regulation No 650/2012",
+   "title": "Regulation (EU) No 650/2012 of the European Parliament and of the Council of 4 July 2012 on jurisdiction, applicable law, recognition and enforcement of decisions and acceptance and enforcement of authentic instruments in matters of succession and on the creation of a European Certificate of Succession",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0650",
+   "versions": [
+    {
+     "from": "2012-07-05",
+     "units": 84,
+     "source_url": "http://publications.europa.eu/resource/celex/32012R0650",
+     "sha256": "7520087f516f620072871a8c850621e7b64746ade1200387e97b4fa37d96a3a9"
+    },
+    {
+     "from": "2013-03-02",
+     "units": 84,
+     "source_url": "http://publications.europa.eu/resource/celex/02012R0650-20120705",
+     "sha256": "df9bd0803552be42e8c6c6d2e222c8845e954068be714d1a0e9a384310d307e7"
+    }
+   ]
+  },
+  {
+   "slug": "eu-trade-mark-regulation",
+   "short": "Regulation 2017/1001",
+   "title": "Regulation (EU) 2017/1001 of the European Parliament and of the Council of 14 June 2017 on the European Union trade mark (codification) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R1001",
+   "versions": [
+    {
+     "from": "2017-07-06",
+     "units": 212,
+     "source_url": "http://publications.europa.eu/resource/celex/32017R1001",
+     "sha256": "2df4348db161dd38fb57d827086adaa7df23dc3c02fdc15b5df74f295a8988d4"
+    },
+    {
+     "from": "2025-12-01",
+     "units": 212,
+     "source_url": "http://publications.europa.eu/resource/celex/02017R1001-20251201",
+     "sha256": "4bc331ae6c633154e452869a52fec9f4e8bdda861bba6b13bcef23a01b857cb9"
+    }
+   ]
+  },
+  {
+   "slug": "dublin-iii",
+   "short": "Regulation No 604/2013",
+   "title": "Regulation (EU) No 604/2013 of the European Parliament and of the Council of 26 June 2013 establishing the criteria and mechanisms for determining the Member State responsible for examining an application for international protection lodged in one of the Member States by a third-country national or a stateless person (recast)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0604",
+   "versions": [
+    {
+     "from": "2013-07-19",
+     "units": 49,
+     "source_url": "http://publications.europa.eu/resource/celex/32013R0604",
+     "sha256": "3750e062ea99ac79781fba830e17cecec251667f2ca23006e7c8d739ab3a7de3"
+    },
+    {
+     "from": "2017-02-25",
+     "units": 49,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0604-20130629",
+     "sha256": "2c93a0f482f05d8f65a87665944d6cdf3ed18e6bca172ec0b75e22e3d4091876"
+    }
+   ]
+  },
+  {
+   "slug": "schengen-borders-code",
+   "short": "Regulation 2016/399",
+   "title": "Regulation (EU) 2016/399 of the European Parliament and of the Council of 9 March 2016 on a Union Code on the rules governing the movement of persons across borders (Schengen Borders Code) (codification)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0399",
+   "versions": [
+    {
+     "from": "2016-04-12",
+     "units": 45,
+     "source_url": "http://publications.europa.eu/resource/celex/32016R0399",
+     "sha256": "c7bb21fc3bfa32a7619f0147e0b1db2009874688f1e1dd9930f0a6ef0c55f374"
+    },
+    {
+     "from": "2016-10-06",
+     "units": 45,
+     "source_url": "http://publications.europa.eu/resource/celex/02016R0399-20161006",
+     "sha256": "accec7da062f7c01520e3f1a8a2083406c0c1ad21d2d17e11267ef4c69758c7f"
+    },
+    {
+     "from": "2017-04-07",
+     "units": 45,
+     "source_url": "http://publications.europa.eu/resource/celex/02016R0399-20170407",
+     "sha256": "019fd4c7232b86add8ab9a5695ab8d9a41ef1e7d776fbeec8d9b604f4d8e7587"
+    },
+    {
+     "from": "2024-07-10",
+     "units": 58,
+     "source_url": "http://publications.europa.eu/resource/celex/02016R0399-20240710",
+     "sha256": "ec02f985a5fb3b34441426b835d60584b2e118417ef5f5b544362bff10fc1253"
+    }
+   ]
+  },
+  {
+   "slug": "social-security-coordination",
+   "short": "Regulation No 883/2004",
+   "title": "Regulation (EC) No 883/2004 of the European Parliament and of the Council of 29 April 2004 on the coordination of social security systems (Text with relevance for the EEA and for Switzerland)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R0883",
+   "versions": [
+    {
+     "from": "2004-05-20",
+     "units": 91,
+     "source_url": "http://publications.europa.eu/resource/celex/32004R0883",
+     "sha256": "b115ffe0320586b1d33aad0d8412c953ec95021d5c14a4b3e1ff0c0844fb9f14"
+    },
+    {
+     "from": "2010-05-01",
+     "units": 92,
+     "source_url": "http://publications.europa.eu/resource/celex/02004R0883-20100501",
+     "sha256": "38f78d460e6f63299e6a4139272a3448ec9d857e19a265334c73971994825e35"
+    },
+    {
+     "from": "2011-01-11",
+     "units": 92,
+     "source_url": "http://publications.europa.eu/resource/celex/02004R0883-20110111",
+     "sha256": "5808dc1e026277fe40c1667f2776e44dadb1677e42e5c2f317ec5c904915db48"
+    },
+    {
+     "from": "2012-06-28",
+     "units": 94,
+     "source_url": "http://publications.europa.eu/resource/celex/02004R0883-20120628",
+     "sha256": "a455662f8cfefe03da87c265a9976c0f7472fdd068db6654b5ac009e4fef8f60"
+    },
+    {
+     "from": "2019-07-31",
+     "units": 95,
+     "source_url": "http://publications.europa.eu/resource/celex/02004R0883-20190731",
+     "sha256": "bf384f479049e53e78bae27399c51c088b3d7f187b8be41835dbeff3e65c0766"
+    }
+   ]
+  },
+  {
+   "slug": "union-customs-code",
+   "short": "Regulation No 952/2013",
+   "title": "Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (recast)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0952",
+   "versions": [
+    {
+     "from": "2013-10-30",
+     "units": 288,
+     "source_url": "http://publications.europa.eu/resource/celex/32013R0952",
+     "sha256": "fcc050afde6ec43e3d0b21cc3181eec3ab6b67b3ffcd4f239345dbf6db292421"
+    },
+    {
+     "from": "2016-09-30",
+     "units": 288,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0952-20131030",
+     "sha256": "c36112c41a964b1628c45497645b8e2612d492be54217462c22d348aa10440fe"
+    },
+    {
+     "from": "2016-12-24",
+     "units": 288,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0952-20161224",
+     "sha256": "9c0950aeb692eb47a3693807a2fda206288752fe756f44b0ddf8f068eecb4edd"
+    },
+    {
+     "from": "2019-05-15",
+     "units": 290,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0952-20190515",
+     "sha256": "c242c84515c85116ac8ba1823f8fbec0b0f9b9380808dde308876b5ba0b6f298"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 290,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0952-20200101",
+     "sha256": "a7a5605b856a1346ab13f59e3112071fb2cf737ec3aabd5f86f5e925aa89b6a4"
+    },
+    {
+     "from": "2022-12-12",
+     "units": 290,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0952-20221212",
+     "sha256": "9963c4596d19c9f8f2306ba7e02db475a4da4e3e93b406be2a4e541ca89b237f"
+    }
+   ]
+  },
+  {
+   "slug": "market-abuse-regulation",
+   "short": "Regulation No 596/2014",
+   "title": "Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0596",
+   "versions": [
+    {
+     "from": "2014-07-02",
+     "units": 39,
+     "source_url": "http://publications.europa.eu/resource/celex/32014R0596",
+     "sha256": "c016ec0efc68fb4a5c457c99bd13d466b9381c267b022e514ea482a3bb58da1b"
+    },
+    {
+     "from": "2016-07-03",
+     "units": 39,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0596-20160703",
+     "sha256": "f923c5150486469de96ffcf286ea3d4a1152be2429df3b658aca847bf11348c7"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 39,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0596-20210101",
+     "sha256": "5193de5f4cd8ba721d3a8e7875003031a234b01fa4361f7a5c41be1e42e2b602"
+    },
+    {
+     "from": "2024-01-09",
+     "units": 40,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0596-20240109",
+     "sha256": "37beb3e1ede82c7eb5df4a18f8a1d6ec26db3a03aa65b1c814591c19296b4016"
+    },
+    {
+     "from": "2024-12-04",
+     "units": 41,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0596-20241204",
+     "sha256": "7e92ac9f751ace03de3ce88fdf507f2efb12fc990771d76785bac0ef5cdec899"
+    },
+    {
+     "from": "2026-06-05",
+     "units": 41,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0596-20260605",
+     "sha256": "ec07c421dbd76549ea14f00dcff449b4ea8b9ab1cdd34d0695039838e3ca6a0e"
+    }
+   ]
+  },
+  {
+   "slug": "prospectus-regulation",
+   "short": "Regulation 2017/1129",
+   "title": "Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R1129",
+   "versions": [
+    {
+     "from": "2017-07-20",
+     "units": 49,
+     "source_url": "http://publications.europa.eu/resource/celex/32017R1129",
+     "sha256": "318cb8b82bd1674b788e435eac49f6ca3a4fd70ecb1333ac94c3eccdbbcaa45a"
+    },
+    {
+     "from": "2019-12-31",
+     "units": 49,
+     "source_url": "http://publications.europa.eu/resource/celex/02017R1129-20191231",
+     "sha256": "65662f1d2afb8d1ae097cdb27410a3718ed1850c57279e758db66d485170b613"
+    },
+    {
+     "from": "2021-03-18",
+     "units": 51,
+     "source_url": "http://publications.europa.eu/resource/celex/02017R1129-20210318",
+     "sha256": "0af4430b272c53b02c611abf031b99e37472246e2dcb4b19a0b24a2a38418c2f"
+    },
+    {
+     "from": "2021-11-10",
+     "units": 51,
+     "source_url": "http://publications.europa.eu/resource/celex/02017R1129-20211110",
+     "sha256": "ba3592f864167ccd163004661349c4e8122f3f6e5572b7ea59eb33f804e95652"
+    },
+    {
+     "from": "2024-01-09",
+     "units": 52,
+     "source_url": "http://publications.europa.eu/resource/celex/02017R1129-20240109",
+     "sha256": "f97ed616a3bfcdbb17da0bb21a83121f8b3fba4650ee28c2ef5162c7f8fdb300"
+    },
+    {
+     "from": "2024-12-04",
+     "units": 52,
+     "source_url": "http://publications.europa.eu/resource/celex/02017R1129-20241204",
+     "sha256": "2b199096186def654b6dc914a98d143a7c1bcae48fdb70588d577f5cef17396a"
+    },
+    {
+     "from": "2026-03-05",
+     "units": 51,
+     "source_url": "http://publications.europa.eu/resource/celex/02017R1129-20260305",
+     "sha256": "b29ef2afd3a1f8ef884a9a4c35e741162b2e7d477c9ed6f9514ff5afdc6986ea"
+    },
+    {
+     "from": "2026-06-05",
+     "units": 51,
+     "source_url": "http://publications.europa.eu/resource/celex/02017R1129-20260605",
+     "sha256": "6f42b6a8d5402bbdd3eb8b604b102d3ddf5119885187d4b9d75855fcd52b397e"
+    }
+   ]
+  },
+  {
+   "slug": "emir",
+   "short": "Regulation No 648/2012",
+   "title": "Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0648",
+   "versions": [
+    {
+     "from": "2012-08-16",
+     "units": 91,
+     "source_url": "http://publications.europa.eu/resource/celex/32012R0648",
+     "sha256": "44fd243b92b044f6fa4f3329244f61f6209cc503a87294102bf81ca1e56377d7"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 95,
+     "source_url": "http://publications.europa.eu/resource/celex/02012R0648-20140101",
+     "sha256": "2d3f39866a9fb59b68988a6c2dc10b7571cca4ffb366c11a2402c98503ffa25b"
+    },
+    {
+     "from": "2014-07-02",
+     "units": 95,
+     "source_url": "http://publications.europa.eu/resource/celex/02012R0648-20140702",
+     "sha256": "ed13392d70b21791eab5cb065350046d5aa773fe9ae7a15c413a4a8fbf65e48d"
+    },
+    {
+     "from": "2015-06-25",
+     "units": 95,
+     "source_url": "http://publications.europa.eu/resource/celex/02012R0648-20150625",
+     "sha256": "cd96e7d399d58c90ac5b83d9ac4f28aa75a333c08261c7b317e29f17e3c5ecfc"
+    },
+    {
+     "from": "2015-09-16",
+     "units": 95,
+     "source_url": "http://publications.europa.eu/resource/celex/02012R0648-20150916",
+     "sha256": "8da91feaedafeeed5ef74f439bb2c4659fb8c0bb71744e21b0d7c17a83bfdd75"
+    },
+    {
+     "from": "2016-01-12",
+     "units": 96,
+     "source_url": "http://publications.europa.eu/resource/celex/02012R0648-20160112",
+     "sha256": "731f15960feaa187d90463196b348806069d67c4bab5fbd02f621ab83a9ad1d5"
+    },
+    {
+     "from": "2017-01-03",
+     "units": 96,
+     "source_url": "http://publications.europa.eu/resource/celex/02012R0648-20170103",
+     "sha256": "4c970a40de1fe9cd76dbf829d5cc46a5a5036d076f133486b918a974b5537d81"
+    },
+    {
+     "from": "2017-04-01",
+     "units": 96,
+     "source_url": "http://publications.europa.eu/resource/celex/02012R0648-20170401",
+     "sha256": "c78647650729e4675ab240abd090b7549f83e1156a635755083052c7e7001d1e"
+    },
+    {
+     "from": "2017-06-30",
+     "units": 96,
+     "source_url": "http://publications.europa.eu/resource/celex/02012R0648-20170630",
+     "sha256": "dfa0833a541ffef3208594a0b575926f33312a62e23cd13776a2cd6958bbb975"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 96,
+     "source_url": "http://publications.europa.eu/resource/celex/02012R0648-20190101",
+     "sha256": "4abe1b2776b1789623add8a4ead00b4e00d3f2f9443bca388c6d8efb3ff2e17b"
+    },
+    {
+     "from": "2019-06-17",
+     "units": 99,
+     "source_url": "http://publications.europa.eu/resource/celex/02012R0648-20190617",
+     "sha256": "8b6503f480f4e3c0316500d04263314724420c623667b554db58a779da303329"
+    },
+    {
+     "from": "2019-12-18",
+     "units": 99,
+     "source_url": "http://publications.europa.eu/resource/celex/02012R0648-20191218",
+     "sha256": "902ce1919dcac7970c8243e0641204455b6bec8e918956f526c33373c1ae32c1"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 122,
+     "source_url": "http://publications.europa.eu/resource/celex/02012R0648-20200101",
+     "sha256": "0c487e8df6cf5e23315b95e9f398434d7fb14ff14936ba333241f8ca2a952f23"
+    },
+    {
+     "from": "2020-06-18",
+     "units": 122,
+     "source_url": "http://publications.europa.eu/resource/celex/02012R0648-20200618",
+     "sha256": "44e4c5a9cda7f3ecb9420c687db8c5c2e0f343aafcd47f902b9a3a63ff059702"
+    },
+    {
+     "from": "2021-02-11",
+     "units": 123,
+     "source_url": "http://publications.europa.eu/resource/celex/02012R0648-20210211",
+     "sha256": "066a19cd00dda8290dce40a5f7ebe30ba62a0e776285179bdf53a594e3c99f27"
+    },
+    {
+     "from": "2021-02-13",
+     "units": 123,
+     "source_url": "http://publications.europa.eu/resource/celex/02012R0648-20210213",
+     "sha256": "6300116ffc81998bc4d1466d7a27ac00cc29a0c35a38d8493e35e0ac8530b699"
+    },
+    {
+     "from": "2021-06-28",
+     "units": 123,
+     "source_url": "http://publications.europa.eu/resource/celex/02012R0648-20210628",
+     "sha256": "293ff6cd3851f21fe4f1e9a69b627a7a95fc1ba94546a6db9441a0052edd9403"
+    },
+    {
+     "from": "2022-08-12",
+     "units": 125,
+     "source_url": "http://publications.europa.eu/resource/celex/02012R0648-20220812",
+     "sha256": "3e8354685fb615507ebf084b8acf31e90f89a71cf3b46a2fe942c991e5f41b5d"
+    },
+    {
+     "from": "2024-12-24",
+     "units": 137,
+     "source_url": "http://publications.europa.eu/resource/celex/02012R0648-20241224",
+     "sha256": "1b39217b4ccac853af71d15c68998f1ecb95c03dd7974945292466cbe01f5126"
+    },
+    {
+     "from": "2025-01-17",
+     "units": 137,
+     "source_url": "http://publications.europa.eu/resource/celex/02012R0648-20250117",
+     "sha256": "b10661297265b679cb896f87a0599b5713951313fa0fabccbab57e9d123529e9"
+    }
+   ]
+  },
+  {
+   "slug": "capital-requirements-regulation",
+   "short": "Regulation No 575/2013",
+   "title": "Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0575",
+   "versions": [
+    {
+     "from": "2013-06-28",
+     "units": 525,
+     "source_url": "http://publications.europa.eu/resource/celex/32013R0575",
+     "sha256": "f913a2b78f9359122432a614c831a7e7ee9dcd129dcbf24df2e530b3a199863c"
+    },
+    {
+     "from": "2013-11-30",
+     "units": 525,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20130628",
+     "sha256": "5583ae9b9d3617cbfefd1b094bb19f4d83fd325e020aa59888c86ca983a22e63"
+    },
+    {
+     "from": "2015-01-18",
+     "units": 527,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20150118",
+     "sha256": "72d8223cc0a3744da27eb2f5b70d48a6d0cbcc9ca2db155dbaecc48c5896c06e"
+    },
+    {
+     "from": "2016-07-19",
+     "units": 527,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20160719",
+     "sha256": "9266e95a27f97dabbdafc3e205f2122d2397f5de853978d0eabf83eb1a0178f5"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 528,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20180101",
+     "sha256": "88670553e87b978185cd3ea743b1b45c656eefeb1abd2afd31b664026eaa92aa"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 527,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20190101",
+     "sha256": "1256a71efd547c03dc47c7616949fdfd508c718779109aa774c3f33d2d5e413f"
+    },
+    {
+     "from": "2019-04-26",
+     "units": 531,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20190426",
+     "sha256": "db51c3ef54e0a5f1fdac8b00d2599d9e28b790a80abe53d5d862ef5663d59bab"
+    },
+    {
+     "from": "2019-06-27",
+     "units": 632,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20190627",
+     "sha256": "81a0fc3c778425aa1a8bf3567b894c957e7115e54e5311d7fbb195b069672f84"
+    },
+    {
+     "from": "2019-12-25",
+     "units": 632,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20191225",
+     "sha256": "b8c290a4bdfeceb736629efc4835241d5ea22efda5eeb3deacf8ab292ba6ad24"
+    },
+    {
+     "from": "2020-06-27",
+     "units": 636,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20200627",
+     "sha256": "85f412441eedb3056e2b2e513765ab2b1a7dead451f789b5969265aa0ead5850"
+    },
+    {
+     "from": "2020-12-28",
+     "units": 635,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20201228",
+     "sha256": "b4dfe81648c8bc2efd4ddf578fbe33d115420b2d1e321016c8568955d57aea7c"
+    },
+    {
+     "from": "2021-06-29",
+     "units": 711,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20210629",
+     "sha256": "3926f8529c764c0e44f9b91affe11cc4049d82662ea67a7cfcf1d2121028e748"
+    },
+    {
+     "from": "2021-09-30",
+     "units": 711,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20210930",
+     "sha256": "69a85c481ce9f1d108cf77f7b591350928a94bf87908b30b42101f7513bdeb73"
+    },
+    {
+     "from": "2022-04-10",
+     "units": 711,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20220410",
+     "sha256": "52a16f28d64ea3d8b326c219e7d7013755ab8f88368d320f4c4dd3177621b174"
+    },
+    {
+     "from": "2022-07-08",
+     "units": 710,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20220708",
+     "sha256": "8be9f20bc98eb2a0dfcbb153e036d904ccaee78bf89dbbccf81d8edaf4a87794"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 711,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20230101",
+     "sha256": "182eaeb26adc1e3fd840d9836bdce8fd428efd313ae663b984b362356b4da3c2"
+    },
+    {
+     "from": "2023-06-28",
+     "units": 713,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20230628",
+     "sha256": "c4b08ae46fc0e6d7080fdfbee18f1574ec7b8ef3ed5e9a966d37e06accc5cf17"
+    },
+    {
+     "from": "2024-01-09",
+     "units": 714,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20240109",
+     "sha256": "b91260da083b7aac07a4f3480fb5c96fc8a4c6502a8f3cee880489d255407ffc"
+    },
+    {
+     "from": "2024-07-09",
+     "units": 730,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20240709",
+     "sha256": "be10e4b93325757bfca7900c4c0f6c7aa809199cf21f6229ae3f1cf7c3fd9b29"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 745,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20250101",
+     "sha256": "a97210893c11d21ae31f1035536e3c2c0d9476334b6c908f7a314c134af8320b"
+    },
+    {
+     "from": "2025-06-29",
+     "units": 745,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20250629",
+     "sha256": "d584e210bb6c44ef5cad18b78f21e63122674c34f03ffca48e489dd87ad1ae14"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 745,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20260101",
+     "sha256": "f0215c97ecb46ae753e0dd510ba8b92ed7dea20a4e716ce4f3151561c1a35b3f"
+    },
+    {
+     "from": "2026-06-26",
+     "units": 741,
+     "source_url": "http://publications.europa.eu/resource/celex/02013R0575-20260626",
+     "sha256": "2d041b5b32d4020fa1decb3bb64e835d6fcb747c5274a61f785b195a9dc9e6ad"
+    }
+   ]
+  },
+  {
+   "slug": "mica",
+   "short": "Regulation 2023/1114",
+   "title": "Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets, and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1114",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 149,
+     "source_url": "http://publications.europa.eu/resource/celex/32023R1114",
+     "sha256": "c694819af2efbd715735cacf4bb65eade4685f88b30787197658122ff04c26fb"
+    },
+    {
+     "from": "2024-01-09",
+     "units": 150,
+     "source_url": "http://publications.europa.eu/resource/celex/02023R1114-20240109",
+     "sha256": "078da6ed766fe117be60ff63536f25101ec21f2dec175394eef7bf82c02ffe19"
+    }
+   ]
+  },
+  {
+   "slug": "dora",
+   "short": "Regulation 2022/2554",
+   "title": "Regulation (EU) 2022/2554 of the European Parliament and of the Council of 14 December 2022 on digital operational resilience for the financial sector and amending Regulations (EC) No 1060/2009, (EU) No 648/2012, (EU) No 600/2014, (EU) No 909/2014 and (EU) 2016/1011 (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2554",
+   "versions": [
+    {
+     "from": "2023-01-16",
+     "units": 64,
+     "source_url": "http://publications.europa.eu/resource/celex/32022R2554",
+     "sha256": "cf50d8f023d23b2a56f535aaee0760eba7f1925ef08a9858c5c31d43d414f46b"
+    }
+   ]
+  },
+  {
+   "slug": "eui-data-protection-regulation",
+   "short": "Regulation 2018/1725",
+   "title": "Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (Text with EEA relevance.)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1725",
+   "versions": [
+    {
+     "from": "2018-12-11",
+     "units": 101,
+     "source_url": "http://publications.europa.eu/resource/celex/32018R1725",
+     "sha256": "b5549d255f867febc0eb44419436fe67f140101ad48ca1c143ace15eda6dad83"
+    }
+   ]
+  },
+  {
+   "slug": "sfdr",
+   "short": "Regulation 2019/2088",
+   "title": "Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability‐related disclosures in the financial services sector (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R2088",
+   "versions": [
+    {
+     "from": "2019-12-29",
+     "units": 20,
+     "source_url": "http://publications.europa.eu/resource/celex/32019R2088",
+     "sha256": "2a653e8e13d55b05446306079b8f75c74144f3f49f6819b629fa7c9aad98fe71"
+    },
+    {
+     "from": "2020-07-12",
+     "units": 21,
+     "source_url": "http://publications.europa.eu/resource/celex/02019R2088-20200712",
+     "sha256": "7ecfacfa6f2882a7de43a6eadbc31992100a4a069a2ab02f45d6f12e65c7c9c3"
+    },
+    {
+     "from": "2024-01-09",
+     "units": 22,
+     "source_url": "http://publications.europa.eu/resource/celex/02019R2088-20240109",
+     "sha256": "7886b49617869bb3aac9ad68375ff97ee31dc3b7709b7f07e23994e9521b6732"
+    },
+    {
+     "from": "2026-07-02",
+     "units": 22,
+     "source_url": "http://publications.europa.eu/resource/celex/02019R2088-20260702",
+     "sha256": "5cb7fc10620a38ce3cad0fb96769c794e78f4b4bb8b4ca2d55d3fc9a51ecce20"
+    }
+   ]
+  },
+  {
+   "slug": "taxonomy-regulation",
+   "short": "Regulation 2020/852",
+   "title": "Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to facilitate sustainable investment, and amending Regulation (EU) 2019/2088 (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0852",
+   "versions": [
+    {
+     "from": "2020-07-12",
+     "units": 27,
+     "source_url": "http://publications.europa.eu/resource/celex/32020R0852",
+     "sha256": "9cf32a280dfde87851a89fc1e9c358b9166ca1349fa9ffd578d3ae2638f8e5a6"
+    }
+   ]
+  },
+  {
+   "slug": "reach",
+   "short": "Regulation No 1907/2006",
+   "title": "Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006R1907",
+   "versions": [
+    {
+     "from": "2007-11-23",
+     "units": 141,
+     "source_url": "http://publications.europa.eu/resource/celex/02006R1907-20071123",
+     "sha256": "a7dca1850a2aae281eea7083cc5f51fc75128f344144c46b1b7950083c733a14"
+    },
+    {
+     "from": "2009-01-20",
+     "units": 136,
+     "source_url": "http://publications.europa.eu/resource/celex/02006R1907-20090120",
+     "sha256": "00a42285421a5327ed0c202b2505c794cf4787ae48af9d7daaea649b94c1e826"
+    },
+    {
+     "from": "2009-02-20",
+     "units": 136,
+     "source_url": "http://publications.europa.eu/resource/celex/02006R1907-20090220",
+     "sha256": "4ecb0b14a963e86d02ae6bf69c92aa265eda40c25fe4c4ece1381faba25239ec"
+    },
+    {
+     "from": "2010-04-02",
+     "units": 136,
+     "source_url": "http://publications.europa.eu/resource/celex/02006R1907-20100402",
+     "sha256": "ddde1974a55c55acea204e68b6b0240dcc014e4aae98df0e90eda38bee863ae8"
+    },
+    {
+     "from": "2010-12-01",
+     "units": 136,
+     "source_url": "http://publications.europa.eu/resource/celex/02006R1907-20101201",
+     "sha256": "5d3453e437245199cd6e68a4f2f94bb74794f756ae7ba1b2b2e86b3482b1d947"
+    },
+    {
+     "from": "2011-05-05",
+     "units": 136,
+     "source_url": "http://publications.europa.eu/resource/celex/02006R1907-20110505",
+     "sha256": "918cbd6f4a2f319fc4262dbcc38a085fff93010628cf81581d1f2f4b2e573e8f"
+    },
+    {
+     "from": "2011-12-10",
+     "units": 136,
+     "source_url": "http://publications.europa.eu/resource/celex/02006R1907-20111210",
+     "sha256": "9d942f6ef00d51f582f79834b0ff84efdc5321cdba4444c5512e946a073e0def"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 136,
+     "source_url": "http://publications.europa.eu/resource/celex/02006R1907-20130701",
+     "sha256": "ae9e669f61764b1eae5528b7744f5b310be7e664b6571fbc4d5b489776436f17"
+    },
+    {
+     "from": "2015-06-01",
+     "units": 136,
+     "source_url": "http://publications.europa.eu/resource/celex/02006R1907-20150601",
+     "sha256": "47dd61ab43f416ad6f5ad1c2d4e32dcb868c5ff31fbaa39fad2af0a611de9c41"
+    },
+    {
+     "from": "2016-10-11",
+     "units": 136,
+     "source_url": "http://publications.europa.eu/resource/celex/02006R1907-20161011",
+     "sha256": "8737599b3b7dbf222b6034e9325bcf7b241d2c1bf5f6a9b4a998cb68dad6ceea"
+    },
+    {
+     "from": "2020-04-28",
+     "units": 136,
+     "source_url": "http://publications.europa.eu/resource/celex/02006R1907-20200428",
+     "sha256": "9c18caa367c4e1e4f5823876fdb341d6d7ca79a8464282af872ec8b774440766"
+    },
+    {
+     "from": "2023-08-06",
+     "units": 136,
+     "source_url": "http://publications.europa.eu/resource/celex/02006R1907-20230806",
+     "sha256": "2a2c92395195981418eb345a570a619764b118ce2a91545fbee64ad44d5d4996"
+    },
+    {
+     "from": "2024-06-06",
+     "units": 136,
+     "source_url": "http://publications.europa.eu/resource/celex/02006R1907-20240606",
+     "sha256": "77de31cc1defead53970cd0ca10db6b25699943a1383ecca83c7c08f30598357"
+    }
+   ]
+  },
+  {
+   "slug": "comitology-regulation",
+   "short": "Regulation No 182/2011",
+   "title": "Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011R0182",
+   "versions": [
+    {
+     "from": "2011-03-01",
+     "units": 16,
+     "source_url": "http://publications.europa.eu/resource/celex/32011R0182",
+     "sha256": "94d7df2c50a784cc5dbca998f5a0b483d064f3fb45f2be6eea4c48cbc12a58a8"
+    }
+   ]
+  },
+  {
+   "slug": "access-to-documents-regulation",
+   "short": "Regulation No 1049/2001",
+   "title": "Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R1049",
+   "versions": [
+    {
+     "from": "2001-06-03",
+     "units": 19,
+     "source_url": "http://publications.europa.eu/resource/celex/32001R1049",
+     "sha256": "dfd9388fdab371175e5cbfa1319592bf1281650afee75ccdb1ffaef066d63982"
+    }
+   ]
+  },
+  {
+   "slug": "language-regulation",
+   "short": "EEC Council: Regulation No 1 determining",
+   "title": "EEC Council: Regulation No 1 determining the languages to be used by the European Economic Community",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31958R0001",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 8,
+     "source_url": "http://publications.europa.eu/resource/celex/01958R0001-20070101",
+     "sha256": "6a4aaa5288603f86b3690a4c67cc778e0a668e771ac96e651e0c521c1511688c"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 8,
+     "source_url": "http://publications.europa.eu/resource/celex/01958R0001-20130701",
+     "sha256": "3301d8b236c3d132ec0c49ee8210f46255dde1c68edf584b3cf43f8b98e7fecf"
+    }
+   ]
+  },
+  {
+   "slug": "vat-directive",
+   "short": "2006/112/ec 2006/112",
+   "title": "Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0112",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 414,
+     "source_url": "http://publications.europa.eu/resource/celex/32006L0112",
+     "sha256": "1fcbf873f05d904dad9b0d340823526f3abf395db8a954193d26cf03e0a6ccae"
+    },
+    {
+     "from": "2007-01-01",
+     "units": 414,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20070101",
+     "sha256": "fa05095d62cb105c59351add65dba8281f800102b9d49f8b9af12089107afc74"
+    },
+    {
+     "from": "2007-12-29",
+     "units": 411,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20071229",
+     "sha256": "36c911ed07368e188d1b4b8dd0b8c2f7f69be79c31f039d585a887fd242fad61"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 411,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20090101",
+     "sha256": "c3e91445002c467982671438a8d377cd58471d4a17c2fc753ae24bc6384d0256"
+    },
+    {
+     "from": "2009-01-21",
+     "units": 411,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20090121",
+     "sha256": "7b2c6a46fbca271ea0f9407ea968ff409872226b44b886b7b9e011f63888effb"
+    },
+    {
+     "from": "2009-06-01",
+     "units": 408,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20090601",
+     "sha256": "f7b90d9a92b66926f3a52e6d89e53404309811de5c252ae90819817195e08267"
+    },
+    {
+     "from": "2009-07-24",
+     "units": 408,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20090724",
+     "sha256": "179e29ae12ff5c3e386b075c9dc343f1ac4a7fed97e628e834010ec36be3e4d4"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 412,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20100101",
+     "sha256": "7b42e816b69ed82972cd43c4e3fc007b4b684db778622802412729133b661ffd"
+    },
+    {
+     "from": "2010-01-15",
+     "units": 415,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20100115",
+     "sha256": "87f5ba1aa34e984cbec7d45858cd3585efde7cd30b5e53e061ae4fb4f898e052"
+    },
+    {
+     "from": "2010-04-09",
+     "units": 416,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20100409",
+     "sha256": "2e7165b160adca859eccf69d8a0e70b9ae100440ba071985145275d0d9aeff68"
+    },
+    {
+     "from": "2010-08-11",
+     "units": 418,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20100811",
+     "sha256": "ba3729301c14b625756b84de54b818eb7717a2e540678fcc1b47f733c09fb9c1"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 417,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20110101",
+     "sha256": "48bc01aacbd1b0eb2d564e7cec3b476371e15ba76d80f9248050188ddbb3419e"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 417,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20130101",
+     "sha256": "d77ce8be2d1a5f09ac4a6c33ca94154aca796fd63cd3851dc3534fc3b49454ed"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 418,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20130701",
+     "sha256": "f5c32d15a241c59bd6d86e468bcd5024d1e9d8112ef063d1bd465890808378d1"
+    },
+    {
+     "from": "2013-08-15",
+     "units": 419,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20130815",
+     "sha256": "d25737d6a40f834bedec6f12887d29a3a296990de590a560ec0093c35f00c43c"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 419,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20140101",
+     "sha256": "63b2f3e33f5fe5a2c20888b7e53016abcab14eec1b0fcdd118e583197b68cc5c"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 429,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20150101",
+     "sha256": "8e75f09f62ebf36529003e4b911315def9ec4781cffedba3c3fc8c2753ba0882"
+    },
+    {
+     "from": "2016-06-01",
+     "units": 429,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20160601",
+     "sha256": "7080546d118865a36d60866f260e045bd1cbfc3d90a90756963295ce85125a08"
+    },
+    {
+     "from": "2018-07-17",
+     "units": 429,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20180717",
+     "sha256": "0e3859c72be5285c91ce2a13c1a3cadc5dbd8481b4d360ac829ec467d69f1e0d"
+    },
+    {
+     "from": "2018-12-04",
+     "units": 429,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20181204",
+     "sha256": "66b15021cb19790b26c792a1cc19b7e15c60f7696e043ba1f8a08e77f4f2c249"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 434,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20190101",
+     "sha256": "1460a75493911f3516079c98636e064bafb01cc8e9253d4d5850f4b4540b2254"
+    },
+    {
+     "from": "2019-01-16",
+     "units": 435,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20190116",
+     "sha256": "4e11bb74225660e5a8241bf9037cb3e8c597f88fc532526f17ba24adf6f656ab"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 435,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20200101",
+     "sha256": "e8ace765835b9fcd780fb0264212fbdee885373b23737d5817313e09c750de04"
+    },
+    {
+     "from": "2020-11-26",
+     "units": 435,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20201126",
+     "sha256": "39fcea7c7f5d5d959df762b03040e19a648b83f03a44958d20a990cf00e4f95d"
+    },
+    {
+     "from": "2020-12-12",
+     "units": 436,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20201212",
+     "sha256": "000cdcfaadcb07d49a67514679f7ca26396fee9acf77b9742a9256baeda119e0"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 459,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20210701",
+     "sha256": "2cf53cee1d8df6073346379f7d85b7cad36cf4c8bc01699762a0a1d114c4899c"
+    },
+    {
+     "from": "2022-04-06",
+     "units": 440,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20220406",
+     "sha256": "a2f51b29aed77f1cc335717587a6f067779ec7eeff796b1de7d79082c88d801a"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 439,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20220701",
+     "sha256": "9dbe21ea47477851da0379f21edf1f6977875e8de883e1e68932c0e85f478e41"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 443,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20240101",
+     "sha256": "4700587f3edbe6be5aff783b8bfa4ca36b892f6f1b89be176031718baad4825c"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 447,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20250101",
+     "sha256": "cca68a7d79d580cba4a64acefe8a78bb1df47bfad7805735601f021a2f18f118"
+    },
+    {
+     "from": "2025-03-20",
+     "units": 449,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20250320",
+     "sha256": "4c8bf70e6f80154d5ec0c8726a3ea33f482c3dc2cd74c8055466900244f5ee07"
+    },
+    {
+     "from": "2025-04-14",
+     "units": 449,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0112-20250414",
+     "sha256": "8c6ef16ededd16f2cb7ae09d9a79ceb38e95bb017e1cd1f75c6b57f56f2811b6"
+    }
+   ]
+  },
+  {
+   "slug": "consumer-rights-directive",
+   "short": "Council 2011/83",
+   "title": "Directive 2011/83/EU of the European Parliament and of the Council of 25 October 2011 on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0083",
+   "versions": [
+    {
+     "from": "2011-12-12",
+     "units": 35,
+     "source_url": "http://publications.europa.eu/resource/celex/32011L0083",
+     "sha256": "6e9c0ddd987ff051e2ca291bf04cc7891ec002e04e1e5ea4a00f3ba4845e1b3a"
+    },
+    {
+     "from": "2018-07-01",
+     "units": 35,
+     "source_url": "http://publications.europa.eu/resource/celex/02011L0083-20180701",
+     "sha256": "d7946c3206a7c494abad7355088f45200953d8c0af1d13a2fbc4e5e9465ebcbb"
+    },
+    {
+     "from": "2022-05-28",
+     "units": 36,
+     "source_url": "http://publications.europa.eu/resource/celex/02011L0083-20220528",
+     "sha256": "23b2e4199b115ac65876ec315cdf623abea24db69580f41e32b651e155540cfe"
+    },
+    {
+     "from": "2026-09-27",
+     "units": 44,
+     "source_url": "http://publications.europa.eu/resource/celex/02011L0083-20260927",
+     "sha256": "442fb8e2f0e8e5e1f81e84e25969eff1c49e1613986140064f3b3f7f988d19ab"
+    }
+   ]
+  },
+  {
+   "slug": "e-commerce-directive",
+   "short": "Council 2000/31",
+   "title": "Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market ('Directive on electronic commerce')",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000L0031",
+   "versions": [
+    {
+     "from": "2000-07-17",
+     "units": 24,
+     "source_url": "http://publications.europa.eu/resource/celex/32000L0031",
+     "sha256": "ace6f4c0e50a12845be213ad6094ce38f06a5dd2784fdf07b91b7d2e19f0eaaf"
+    },
+    {
+     "from": "2024-02-17",
+     "units": 20,
+     "source_url": "http://publications.europa.eu/resource/celex/02000L0031-20240217",
+     "sha256": "94357558342aa37e43b53098f7db309fb780955f583ff0f25750b0e44506f070"
+    }
+   ]
+  },
+  {
+   "slug": "free-movement-directive",
+   "short": "Council 2004/38",
+   "title": "Directive 2004/38/EC of the European Parliament and of the Council of 29 April 2004 on the right of citizens of the Union and their family members to move and reside freely within the territory of the Member States amending Regulation (EEC) No 1612/68 and repealing Directives 64/221/EEC, 68/360/EEC, 72/194/EEC, 73/148/EEC, 75/34/EEC, 75/35/EEC, 90/364/EEC, 90/365/EEC and 93/96/EEC (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004L0038",
+   "versions": [
+    {
+     "from": "2004-04-30",
+     "units": 42,
+     "source_url": "http://publications.europa.eu/resource/celex/32004L0038",
+     "sha256": "a178376c7cebc5b311be6e94eef77c1f7ef6809a1860d8d3f3a358c3e72a8f09"
+    },
+    {
+     "from": "2005-07-28",
+     "units": 42,
+     "source_url": "http://publications.europa.eu/resource/celex/02004L0038-20040430",
+     "sha256": "e35d26d007ab43647cc50836a56c60e673c8aeb86a32f97a4d3ee92a252d8b2d"
+    },
+    {
+     "from": "2011-06-16",
+     "units": 42,
+     "source_url": "http://publications.europa.eu/resource/celex/02004L0038-20110616",
+     "sha256": "50d25dcf51573ed75279eb8fc7b27a036759cf7d5873d086dd5ecd110258dbf0"
+    }
+   ]
+  },
+  {
+   "slug": "unfair-terms-directive",
+   "short": "93/13/eec 93/13",
+   "title": "Council Directive 93/13/EEC of 5 April 1993 on unfair terms in consumer contracts",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31993L0013",
+   "versions": [
+    {
+     "from": "1993-04-16",
+     "units": 11,
+     "source_url": "http://publications.europa.eu/resource/celex/31993L0013",
+     "sha256": "f66d765e1e463a7cf534b99d2e3b2854c9fc1f8d55957c9b4a302452723d450b"
+    },
+    {
+     "from": "2011-12-12",
+     "units": 12,
+     "source_url": "http://publications.europa.eu/resource/celex/01993L0013-20111212",
+     "sha256": "d785cc86e959cd539c5d0b5a555c395caf30e69969acc65af058332b0670b356"
+    },
+    {
+     "from": "2022-05-28",
+     "units": 13,
+     "source_url": "http://publications.europa.eu/resource/celex/01993L0013-20220528",
+     "sha256": "83c977be6e9519f56ede6ee2a21d2ad01b30eb067977b139132a84ace4f3fb58"
+    }
+   ]
+  },
+  {
+   "slug": "unfair-commercial-practices-directive",
+   "short": "Council 2005/29",
+   "title": "Directive 2005/29/EC of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/2004 of the European Parliament and of the Council (‘Unfair Commercial Practices Directive’) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32005L0029",
+   "versions": [
+    {
+     "from": "2005-06-12",
+     "units": 21,
+     "source_url": "http://publications.europa.eu/resource/celex/32005L0029",
+     "sha256": "e3bb49ef6c1bc917e05b26032df8d8dd2a37f36fbf1b86bf3f839505419f0c52"
+    },
+    {
+     "from": "2022-05-28",
+     "units": 22,
+     "source_url": "http://publications.europa.eu/resource/celex/02005L0029-20220528",
+     "sha256": "4fdd501a787024632469709772d833a200c2d9de9b9fe1d9973a519f3750c5bf"
+    },
+    {
+     "from": "2026-09-27",
+     "units": 22,
+     "source_url": "http://publications.europa.eu/resource/celex/02005L0029-20260927",
+     "sha256": "1ebbb7b9f2c7c7712b0c3bd19f4319cb5a52ac9514dc008bd34084c550f77138"
+    }
+   ]
+  },
+  {
+   "slug": "psd2",
+   "short": "Directive 2015/2366",
+   "title": "Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2366",
+   "versions": [
+    {
+     "from": "2016-01-12",
+     "units": 117,
+     "source_url": "http://publications.europa.eu/resource/celex/32015L2366",
+     "sha256": "9ca1d7e9a83b9165c453d0731dd9b1405ba3629676b9f60660dbd7c69b37d767"
+    },
+    {
+     "from": "2018-04-23",
+     "units": 117,
+     "source_url": "http://publications.europa.eu/resource/celex/02015L2366-20151223",
+     "sha256": "e9063e8919bf93bd2b92ae0c6f816ad83bcf6ca42a5b97cdc277214e5080e1c3"
+    },
+    {
+     "from": "2024-04-08",
+     "units": 118,
+     "source_url": "http://publications.europa.eu/resource/celex/02015L2366-20240408",
+     "sha256": "7481b2a9ef580f97645408afdb634f67c31ca2d5826a0e85c572b3e7630f9b43"
+    },
+    {
+     "from": "2025-01-17",
+     "units": 118,
+     "source_url": "http://publications.europa.eu/resource/celex/02015L2366-20250117",
+     "sha256": "cd9882351bdedca5267cc18cd2619c1529f8d5cdd6a567438b46675593dc9de6"
+    }
+   ]
+  },
+  {
+   "slug": "dsm-copyright-directive",
+   "short": "Directive 2019/790",
+   "title": "Directive (EU) 2019/790 of the European Parliament and of the Council of 17 April 2019 on copyright and related rights in the Digital Single Market and amending Directives 96/9/EC and 2001/29/EC (Text with EEA relevance.)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0790",
+   "versions": [
+    {
+     "from": "2019-06-06",
+     "units": 32,
+     "source_url": "http://publications.europa.eu/resource/celex/32019L0790",
+     "sha256": "fb2e98e5b0028eda05de854dfc82f4c0eccbad7d02a82f82885091121fedf860"
+    }
+   ]
+  },
+  {
+   "slug": "infosoc-directive",
+   "short": "Council 2001/29",
+   "title": "Directive 2001/29/EC of the European Parliament and of the Council of 22 May 2001 on the harmonisation of certain aspects of copyright and related rights in the information society",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001L0029",
+   "versions": [
+    {
+     "from": "2001-06-22",
+     "units": 15,
+     "source_url": "http://publications.europa.eu/resource/celex/32001L0029",
+     "sha256": "85c55363746983aabd578e5df8e1e7b4f042effa7f67842a344d74b9b88c3383"
+    },
+    {
+     "from": "2001-06-22",
+     "units": 15,
+     "source_url": "http://publications.europa.eu/resource/celex/02001L0029-20010622",
+     "sha256": "0a16d12df3fa4b887d9a6cd4cc7c1c812f95ec16722b6d61b9143f5639d8ca55"
+    },
+    {
+     "from": "2017-10-10",
+     "units": 15,
+     "source_url": "http://publications.europa.eu/resource/celex/02001L0029-20171010",
+     "sha256": "70bfc0d1631d9ff64fb80e1e3ea9a8c9a7765b43b9fc72d862d051c9082e0411"
+    },
+    {
+     "from": "2019-06-06",
+     "units": 15,
+     "source_url": "http://publications.europa.eu/resource/celex/02001L0029-20190606",
+     "sha256": "9ffd1c0af14625d126930e909a83ae2b37be031ec0645bbff711eabe6d735d3d"
+    }
+   ]
+  },
+  {
+   "slug": "eprivacy-directive",
+   "short": "Council 2002/58",
+   "title": "Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002L0058",
+   "versions": [
+    {
+     "from": "2002-07-31",
+     "units": 21,
+     "source_url": "http://publications.europa.eu/resource/celex/32002L0058",
+     "sha256": "1b41bc43b88d8e8c2e9ea759e5ba0bad00cad268a5d6ffd1d4cee6fcc262cba8"
+    },
+    {
+     "from": "2006-05-03",
+     "units": 21,
+     "source_url": "http://publications.europa.eu/resource/celex/02002L0058-20060503",
+     "sha256": "96b0a023161cd037e98279eef1beeb875609abf257b3817653e4ed71eafcb568"
+    },
+    {
+     "from": "2009-12-19",
+     "units": 23,
+     "source_url": "http://publications.europa.eu/resource/celex/02002L0058-20091219",
+     "sha256": "c2924162f0a6faf98ed18dda78655a2b0ce8c4e80403e1b5db08e76f6915f502"
+    }
+   ]
+  },
+  {
+   "slug": "mifid-ii",
+   "short": "Council 2014/65",
+   "title": "Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (recast) Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0065",
+   "versions": [
+    {
+     "from": "2014-07-02",
+     "units": 102,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0065",
+     "sha256": "ae6af58784ff69ac770bf032ef4b9f0e2927ec38a8e7244f315cbd45e69fa286"
+    },
+    {
+     "from": "2014-09-17",
+     "units": 102,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0065-20140917",
+     "sha256": "532382c92c12a44d1d69518711d9b12ee17a49dc63a2880e808cea7af7a719ce"
+    },
+    {
+     "from": "2016-07-01",
+     "units": 103,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0065-20160701",
+     "sha256": "10a35470fa655648cab17eff3df7e436427a60518914068008353c1c04502e20"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 97,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0065-20181001",
+     "sha256": "a4585cb29f6f1738c71bdcd01f900c2faf1daebc11c32cfde7c7780981b9952a"
+    },
+    {
+     "from": "2019-12-31",
+     "units": 97,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0065-20191231",
+     "sha256": "e1f4e9a1821890dca83e9a653aab0fe444c134fd57076df9ce949aeb69817153"
+    },
+    {
+     "from": "2020-03-26",
+     "units": 97,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0065-20200326",
+     "sha256": "71e5c40995783441020aba878e53f6afb66b4727d359a98cbb7064cf0c151444"
+    },
+    {
+     "from": "2021-06-26",
+     "units": 98,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0065-20210626",
+     "sha256": "327792ecf9ef800f3a2655527f5d0844b6520ce7149f60fd0c884de990c6fefc"
+    },
+    {
+     "from": "2021-11-10",
+     "units": 98,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0065-20211110",
+     "sha256": "a0e75018905fb75462054163540f51b90da702a3c92539ac06255bbab0c5917a"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 90,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0065-20220101",
+     "sha256": "3b7911d91c6e836eeda53529863cbdcb0eb3153d16fa209f2d322f64d85cbab0"
+    },
+    {
+     "from": "2022-02-28",
+     "units": 92,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0065-20220228",
+     "sha256": "858826de2aebb01ba3932e69cff3416d4d8ff8120484a5f7445f61d3d3bf987c"
+    },
+    {
+     "from": "2023-03-23",
+     "units": 92,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0065-20230323",
+     "sha256": "8a55578835b266643923b4cda9e1487bf9781f770718b2deec83512d0c2989d8"
+    },
+    {
+     "from": "2024-01-09",
+     "units": 93,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0065-20240109",
+     "sha256": "9ef41666bc4edd060e2e25b3cdcd85f797ee4b493f592e59d1430dd5a82c4643"
+    },
+    {
+     "from": "2024-03-28",
+     "units": 92,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0065-20240328",
+     "sha256": "9f99399f5c95218bc3bc8936cca13791d4bddb54ce6e737111a69ed8dfd02eda"
+    },
+    {
+     "from": "2025-01-17",
+     "units": 92,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0065-20250117",
+     "sha256": "dae62d8dc05c7feff79fa641ae5cad27cfc30d034752255558148977e9d0bbaa"
+    },
+    {
+     "from": "2026-06-06",
+     "units": 93,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0065-20260606",
+     "sha256": "34dcb50027069dd9c63573a240afaf3cb863b79eb137f4cc65553925676bbf6e"
+    }
+   ]
+  },
+  {
+   "slug": "capital-requirements-directive",
+   "short": "Council 2013/36",
+   "title": "Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0036",
+   "versions": [
+    {
+     "from": "2013-07-17",
+     "units": 165,
+     "source_url": "http://publications.europa.eu/resource/celex/32013L0036",
+     "sha256": "4ec6ba16ea77ece33f9af5084e9fd5534810f4ee3355e1b00d65200a4050d6fe"
+    },
+    {
+     "from": "2013-08-02",
+     "units": 165,
+     "source_url": "http://publications.europa.eu/resource/celex/02013L0036-20130717",
+     "sha256": "9b6e9f1b87ec713a208d8d1f69e65ec8dabe25ba447cc0ced94b4f013c899962"
+    },
+    {
+     "from": "2014-03-20",
+     "units": 166,
+     "source_url": "http://publications.europa.eu/resource/celex/02013L0036-20140320",
+     "sha256": "6e72cf53340a7fa0014fd51546b8cee451e4f59c4f4293a72e998dbfd66c137d"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 166,
+     "source_url": "http://publications.europa.eu/resource/celex/02013L0036-20150101",
+     "sha256": "21b5794e8c0e2b2ff72926f44588dc5e51194bdc59c04dab65ed1b2c7cae1615"
+    },
+    {
+     "from": "2018-07-09",
+     "units": 166,
+     "source_url": "http://publications.europa.eu/resource/celex/02013L0036-20180709",
+     "sha256": "069a887b3d7cd9fc5e223230abcd38fbb09b50b2564339e9c959560c793257b4"
+    },
+    {
+     "from": "2020-12-29",
+     "units": 172,
+     "source_url": "http://publications.europa.eu/resource/celex/02013L0036-20201229",
+     "sha256": "747353e44f079e31694ecfe0867e61dbcd6f18ca4c2e5b460b52c2e8a4f993fc"
+    },
+    {
+     "from": "2021-06-28",
+     "units": 168,
+     "source_url": "http://publications.europa.eu/resource/celex/02013L0036-20210628",
+     "sha256": "0370329459ef501f2de1895137bb8107b72301c2c44e36b9325dd39eab274d76"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 170,
+     "source_url": "http://publications.europa.eu/resource/celex/02013L0036-20220101",
+     "sha256": "c0cb518bf5ea11f22b658c1b8c78b6b3613d1ff4bbc417c17eac78968cd1db81"
+    },
+    {
+     "from": "2024-01-09",
+     "units": 171,
+     "source_url": "http://publications.europa.eu/resource/celex/02013L0036-20240109",
+     "sha256": "2668b46385b8d2851baa1160ccc2d3eaa6e6d7cd20dac2612d70ff072febeca9"
+    },
+    {
+     "from": "2024-07-29",
+     "units": 171,
+     "source_url": "http://publications.europa.eu/resource/celex/02013L0036-20240729",
+     "sha256": "abcc149c736c1ffbbffdb0ef493884a103ce56ce18c88ce6cf2b414ddd30a41b"
+    },
+    {
+     "from": "2024-12-30",
+     "units": 171,
+     "source_url": "http://publications.europa.eu/resource/celex/02013L0036-20241230",
+     "sha256": "bb577b79065644f5a1a06efe06fb0938ccf46ac081be111361343b9994aeb646"
+    },
+    {
+     "from": "2025-01-17",
+     "units": 171,
+     "source_url": "http://publications.europa.eu/resource/celex/02013L0036-20250117",
+     "sha256": "3c8924b53604b315e44f36438a096f344cf950aa716329bc54512c2b294c4dae"
+    },
+    {
+     "from": "2026-01-11",
+     "units": 189,
+     "source_url": "http://publications.europa.eu/resource/celex/02013L0036-20260111",
+     "sha256": "dd1ad921056b168c0de188ec73dccb69affbe1137c870e8f0c7431324823b4ca"
+    },
+    {
+     "from": "2026-07-11",
+     "units": 190,
+     "source_url": "http://publications.europa.eu/resource/celex/02013L0036-20260711",
+     "sha256": "e3c2e59ea2b0672f90f9f9110cbb22b3c02f88dc0180b34135f8081d7b873969"
+    }
+   ]
+  },
+  {
+   "slug": "solvency-ii",
+   "short": "Council 2009/138",
+   "title": "Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (recast) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0138",
+   "versions": [
+    {
+     "from": "2010-01-06",
+     "units": 316,
+     "source_url": "http://publications.europa.eu/resource/celex/32009L0138",
+     "sha256": "8b71252cb8de50200e6b2257e753777779c23eb6cdd8c6978563cfd6f182e96e"
+    },
+    {
+     "from": "2011-12-09",
+     "units": 316,
+     "source_url": "http://publications.europa.eu/resource/celex/02009L0138-20111209",
+     "sha256": "b48b6ba10b87e467592774e59cd80d35cfe24df66fc9df37d1fede1fb9fdaf7b"
+    },
+    {
+     "from": "2012-09-15",
+     "units": 316,
+     "source_url": "http://publications.europa.eu/resource/celex/02009L0138-20120915",
+     "sha256": "035e1158b2c635299956764b9e283020b6b2f446e8db608efe96c9864da84c2f"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 316,
+     "source_url": "http://publications.europa.eu/resource/celex/02009L0138-20130701",
+     "sha256": "d8858c4e6df9c332994013181a6594e9a1468e07e929b01b8287b84259a67dd6"
+    },
+    {
+     "from": "2013-12-19",
+     "units": 316,
+     "source_url": "http://publications.europa.eu/resource/celex/02009L0138-20131219",
+     "sha256": "dd6487c2b33db2497dd9d140a40793fe00fa591056bd5f44f389b417d3e9d279"
+    },
+    {
+     "from": "2014-05-23",
+     "units": 334,
+     "source_url": "http://publications.europa.eu/resource/celex/02009L0138-20140523",
+     "sha256": "922b37af2fa138d7fa9917afa1f0cc6accccae66eafb9a55f0a3e35e096fc929"
+    },
+    {
+     "from": "2015-03-31",
+     "units": 335,
+     "source_url": "http://publications.europa.eu/resource/celex/02009L0138-20150331",
+     "sha256": "d5af4fb3c0ff3445e01956aec4e4208a3b61e89ae8d1bd434ecd75ae6f0f4598"
+    },
+    {
+     "from": "2017-01-12",
+     "units": 335,
+     "source_url": "http://publications.europa.eu/resource/celex/02009L0138-20170112",
+     "sha256": "dbe05f197c85be6d3043176161acf96b7b849802bcf15c68ec06939b4aa74d63"
+    },
+    {
+     "from": "2018-07-09",
+     "units": 335,
+     "source_url": "http://publications.europa.eu/resource/celex/02009L0138-20180709",
+     "sha256": "6000e657cb3a19fe3d0cdc739ec84007d1d1f9c7d1e0fd2b8e36aa5411e16559"
+    },
+    {
+     "from": "2019-01-13",
+     "units": 330,
+     "source_url": "http://publications.europa.eu/resource/celex/02009L0138-20190113",
+     "sha256": "3e079f46418ffe72316aabf07efc2dd0fcd4df56c85a4902f20f88558e95c74c"
+    },
+    {
+     "from": "2021-06-30",
+     "units": 332,
+     "source_url": "http://publications.europa.eu/resource/celex/02009L0138-20210630",
+     "sha256": "0b606bdbeeff21c346c5b1b9a63dd2d21623ec784daa8bb754a8691313e59fac"
+    },
+    {
+     "from": "2021-10-19",
+     "units": 332,
+     "source_url": "http://publications.europa.eu/resource/celex/02009L0138-20211019",
+     "sha256": "d13e4afde2435656b907f917e4a6525be0c742ccaa9d0db3d408ab5ec7766923"
+    },
+    {
+     "from": "2024-01-09",
+     "units": 333,
+     "source_url": "http://publications.europa.eu/resource/celex/02009L0138-20240109",
+     "sha256": "f227e91cb8cc6caf485362a6c21c6039847d4e3f46ceb5f2b2ca106df8fb3b35"
+    },
+    {
+     "from": "2025-01-17",
+     "units": 333,
+     "source_url": "http://publications.europa.eu/resource/celex/02009L0138-20250117",
+     "sha256": "b4b875d2f17aa5c8744c8606bdcbda5780b683247c73e8abf3780b3681e660ec"
+    }
+   ]
+  },
+  {
+   "slug": "working-time-directive",
+   "short": "Council 2003/88",
+   "title": "Directive 2003/88/EC of the European Parliament and of the Council of 4 November 2003 concerning certain aspects of the organisation of working time",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003L0088",
+   "versions": [
+    {
+     "from": "2004-08-02",
+     "units": 29,
+     "source_url": "http://publications.europa.eu/resource/celex/32003L0088",
+     "sha256": "0d23ad4953be900de8a614fea4022aa46086e0bdc2fdfd6d0fde0cd84429e4b6"
+    }
+   ]
+  },
+  {
+   "slug": "employment-equality-directive",
+   "short": "2000/78/ec 2000/78",
+   "title": "Council Directive 2000/78/EC of 27 November 2000 establishing a general framework for equal treatment in employment and occupation",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000L0078",
+   "versions": [
+    {
+     "from": "2000-12-02",
+     "units": 21,
+     "source_url": "http://publications.europa.eu/resource/celex/32000L0078",
+     "sha256": "da9be09e516c85e14a0373ae60a8e9d697beac18e42a16a6f36d3f454d5000b9"
+    }
+   ]
+  },
+  {
+   "slug": "racial-equality-directive",
+   "short": "2000/43/ec 2000/43",
+   "title": "Council Directive 2000/43/EC of 29 June 2000 implementing the principle of equal treatment between persons irrespective of racial or ethnic origin",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000L0043",
+   "versions": [
+    {
+     "from": "2000-07-19",
+     "units": 19,
+     "source_url": "http://publications.europa.eu/resource/celex/32000L0043",
+     "sha256": "9ecc6e4b28b842385c467fec0882a62919a0af37e8b459453a974881078c67f8"
+    },
+    {
+     "from": "2026-06-19",
+     "units": 18,
+     "source_url": "http://publications.europa.eu/resource/celex/02000L0043-20260619",
+     "sha256": "b4266a1c2310447b15fb996318a75947c720bf6c33ec6df7badcc4ba8534956a"
+    }
+   ]
+  },
+  {
+   "slug": "gender-equality-directive",
+   "short": "Council 2006/54",
+   "title": "Directive 2006/54/EC of the European Parliament and of the Council of 5 July 2006 on the implementation of the principle of equal opportunities and equal treatment of men and women in matters of employment and occupation (recast)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0054",
+   "versions": [
+    {
+     "from": "2006-08-15",
+     "units": 36,
+     "source_url": "http://publications.europa.eu/resource/celex/32006L0054",
+     "sha256": "88fb161fff44624e0fd287dd2a13ebde47a87bfe2ac5cba1b9acba007bc352fe"
+    },
+    {
+     "from": "2026-06-19",
+     "units": 35,
+     "source_url": "http://publications.europa.eu/resource/celex/02006L0054-20260619",
+     "sha256": "ad5898110833a4e3edb464b57bcb5e98d73d0cd06522ea51d5383c48e2ae43da"
+    }
+   ]
+  },
+  {
+   "slug": "services-directive",
+   "short": "Council 2006/123",
+   "title": "Directive 2006/123/EC of the European Parliament and of the Council of 12 December 2006 on services in the internal market",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0123",
+   "versions": [
+    {
+     "from": "2006-12-28",
+     "units": 46,
+     "source_url": "http://publications.europa.eu/resource/celex/32006L0123",
+     "sha256": "3aa061dc722ee317d95ceafab6d7efe66a4ae525b39092789d106c92e9306c92"
+    }
+   ]
+  },
+  {
+   "slug": "public-procurement-directive",
+   "short": "Council 2014/24",
+   "title": "Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0024",
+   "versions": [
+    {
+     "from": "2014-04-17",
+     "units": 94,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0024",
+     "sha256": "f1bda778025246058f05af4bf2c4b29da2d45569a46ea516c501f01c7ad121d1"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 94,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0024-20160101",
+     "sha256": "656bea67e77e51c992726259906a759b5ff908888e1a3f2049f4da599ea97c77"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 94,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0024-20180101",
+     "sha256": "9287c8e2be81a607ebe78cd801659493a9d68102f69bd915897de3e2e07dc056"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 94,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0024-20200101",
+     "sha256": "73d6f2947e4841a1e7ab869f0505ae5db5ddf022c2b3ee1b9fb818465d5668c2"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 94,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0024-20220101",
+     "sha256": "851d4e28208dcb82aec0d3e517aca9b7ff5f5eb176f46f4f76b4f1400ea94f03"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 94,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0024-20240101",
+     "sha256": "7d752a72ed8c0f37524afcac477672d02008ef0b7db508906671e47e48f94079"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 94,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0024-20260101",
+     "sha256": "75d8508ac7e55eae741ba6b501aa68ea59e21db639da57790449c952f2cb25c4"
+    }
+   ]
+  },
+  {
+   "slug": "whistleblower-directive",
+   "short": "Directive 2019/1937",
+   "title": "Directive (EU) 2019/1937 of the European Parliament and of the Council of 23 October 2019 on the protection of persons who report breaches of Union law",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1937",
+   "versions": [
+    {
+     "from": "2019-12-16",
+     "units": 29,
+     "source_url": "http://publications.europa.eu/resource/celex/32019L1937",
+     "sha256": "b20533b5d612f67bcadce9c9aa79769dbee0037e42f9adef4b07ebefd8dbf7e7"
+    }
+   ]
+  },
+  {
+   "slug": "nis2",
+   "short": "Directive 2022/2555",
+   "title": "Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2555",
+   "versions": [
+    {
+     "from": "2023-01-16",
+     "units": 46,
+     "source_url": "http://publications.europa.eu/resource/celex/32022L2555",
+     "sha256": "6ee66d5c419d9a056fb98d94083cacf9b818803bd6b416435718e0d4919cb589"
+    },
+    {
+     "from": "2023-01-16",
+     "units": 46,
+     "source_url": "http://publications.europa.eu/resource/celex/02022L2555-20221227",
+     "sha256": "f37e2670c72b82f28f910e9d395bbac71d1f9d14ddbcfd7d2fbe503527a9beb4"
+    }
+   ]
+  },
+  {
+   "slug": "company-law-directive",
+   "short": "Directive 2017/1132",
+   "title": "Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 relating to certain aspects of company law (codification) (Text with EEA relevance. )",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017L1132",
+   "versions": [
+    {
+     "from": "2017-07-20",
+     "units": 168,
+     "source_url": "http://publications.europa.eu/resource/celex/32017L1132",
+     "sha256": "7939024daea2176dbf3c91f4d3f8fd0cf45032e1a9fc1aa9cc23af3a0f6ba527"
+    },
+    {
+     "from": "2019-07-31",
+     "units": 183,
+     "source_url": "http://publications.europa.eu/resource/celex/02017L1132-20190731",
+     "sha256": "200db5dd3c6e62ca07acd9c2cfab5eb7365f0b810bcd21725f22428f16f0897e"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 229,
+     "source_url": "http://publications.europa.eu/resource/celex/02017L1132-20200101",
+     "sha256": "54aca832cc40bace832e89b192bf076ef66136825f5b71cab7ca452ff939fb08"
+    },
+    {
+     "from": "2022-08-12",
+     "units": 229,
+     "source_url": "http://publications.europa.eu/resource/celex/02017L1132-20220812",
+     "sha256": "d01e5391d8d484aa3f95f69327a7e07ffbd4c7c10c102d4cbd18d5191c58ace6"
+    }
+   ]
+  },
+  {
+   "slug": "anti-money-laundering-directive",
+   "short": "Directive 2015/849",
+   "title": "Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L0849",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 69,
+     "source_url": "http://publications.europa.eu/resource/celex/32015L0849",
+     "sha256": "a6b0efbca3c2dfc46f37158c3cb7e9382a81639ce7444107ec992b0168668ab5"
+    },
+    {
+     "from": "2018-07-09",
+     "units": 78,
+     "source_url": "http://publications.europa.eu/resource/celex/02015L0849-20180709",
+     "sha256": "df8a1abb11fac9641bd41d9aa6f552c2964677cfd6c216ad5ba9858e85a56764"
+    },
+    {
+     "from": "2021-06-30",
+     "units": 78,
+     "source_url": "http://publications.europa.eu/resource/celex/02015L0849-20210630",
+     "sha256": "3b87869fe92b3360fc9df256e957b0e20de99b07e685e1d10aa59604df99b5fd"
+    },
+    {
+     "from": "2024-07-09",
+     "units": 78,
+     "source_url": "http://publications.europa.eu/resource/celex/02015L0849-20240709",
+     "sha256": "f028a0e8023d81d711b16f406623ec854c3ecdd0f52d3020a9a7f26eafcf12c9"
+    },
+    {
+     "from": "2024-12-30",
+     "units": 81,
+     "source_url": "http://publications.europa.eu/resource/celex/02015L0849-20241230",
+     "sha256": "98ebb4570e800a5e2fd2deb4b38d320505a573eb7b3a4cc43d608e9150da0a45"
+    }
+   ]
+  },
+  {
+   "slug": "trade-secrets-directive",
+   "short": "Directive 2016/943",
+   "title": "Directive (EU) 2016/943 of the European Parliament and of the Council of 8 June 2016 on the protection of undisclosed know-how and business information (trade secrets) against their unlawful acquisition, use and disclosure (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L0943",
+   "versions": [
+    {
+     "from": "2016-07-05",
+     "units": 21,
+     "source_url": "http://publications.europa.eu/resource/celex/32016L0943",
+     "sha256": "e8d5bd2a36367147684a61dea52ccf27f2a9e87dcd7eea670bbe1ef301fc4f17"
+    }
+   ]
+  },
+  {
+   "slug": "ip-enforcement-directive",
+   "short": "of 2004/48",
+   "title": "Directive 2004/48/EC of the European Parliament and of the Council of of 29 April 2004 on the enforcement of intellectual property rights (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004L0048",
+   "versions": [
+    {
+     "from": "2004-05-20",
+     "units": 22,
+     "source_url": "http://publications.europa.eu/resource/celex/32004L0048",
+     "sha256": "b7e7ff74a20e1451f4dd93bd6b6871e3d1f7ee5d63e7e36f4a5ef38a3a32ae10"
+    },
+    {
+     "from": "2004-06-02",
+     "units": 22,
+     "source_url": "http://publications.europa.eu/resource/celex/02004L0048-20040430",
+     "sha256": "76d0384ab6d6543e9fe9b02727474f192105805cad358175a7dd52683bfcf568"
+    }
+   ]
+  },
+  {
+   "slug": "osh-framework-directive",
+   "short": "89/391/eec 89/391",
+   "title": "Council Directive 89/391/EEC of 12 June 1989 on the introduction of measures to encourage improvements in the safety and health of workers at work",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31989L0391",
+   "versions": [
+    {
+     "from": "2007-06-28",
+     "units": 20,
+     "source_url": "http://publications.europa.eu/resource/celex/01989L0391-20070628",
+     "sha256": "ecaee5e7e630f3a90c905b848141ba1b0d500364576799ed82183bbae16e74ec"
+    },
+    {
+     "from": "2008-12-11",
+     "units": 20,
+     "source_url": "http://publications.europa.eu/resource/celex/01989L0391-20081211",
+     "sha256": "30ecd90ca41e7ee94fba07c6f33be5967054c5ea1dd5f751d849a0752ee9156d"
+    }
+   ]
+  },
+  {
+   "slug": "electronic-communications-code",
+   "short": "Directive 2018/1972",
+   "title": "Directive (EU) 2018/1972 of the European Parliament and of the Council of 11 December 2018 establishing the European Electronic Communications Code (Recast) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L1972",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 127,
+     "source_url": "http://publications.europa.eu/resource/celex/32018L1972",
+     "sha256": "87e2dae5b83700e6f40ff105b8ee5d5395cc778ad92d4a046a44cbde3d011eb3"
+    },
+    {
+     "from": "2019-12-27",
+     "units": 127,
+     "source_url": "http://publications.europa.eu/resource/celex/02018L1972-20181217",
+     "sha256": "bd34d23046d69677983544749efe929357f18f421956a59ac73e6ed0e5c93858"
+    },
+    {
+     "from": "2024-10-18",
+     "units": 125,
+     "source_url": "http://publications.europa.eu/resource/celex/02018L1972-20241018",
+     "sha256": "0dfb1a810d477f541055c866aaf4f38c88c61b4cb26fbcf1d5ed8fbc061f96bc"
+    }
+   ]
+  },
+  {
+   "slug": "audiovisual-media-services-directive",
+   "short": "Council 2010/13",
+   "title": "Directive 2010/13/EU of the European Parliament and of the Council of 10 March 2010 on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the provision of audiovisual media services (Audiovisual Media Services Directive) (Codified version) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32010L0013",
+   "versions": [
+    {
+     "from": "2010-05-05",
+     "units": 36,
+     "source_url": "http://publications.europa.eu/resource/celex/32010L0013",
+     "sha256": "8bd1b89db58ba50f5f3d80887ab32728b69f644943985a5f1edcc0100d158562"
+    },
+    {
+     "from": "2010-10-06",
+     "units": 36,
+     "source_url": "http://publications.europa.eu/resource/celex/02010L0013-20100505",
+     "sha256": "9a47482dbcc562ff3fbb68efccbbcd4bd607d24055d5fb525cc76d61a8c2e7e8"
+    },
+    {
+     "from": "2018-12-18",
+     "units": 43,
+     "source_url": "http://publications.europa.eu/resource/celex/02010L0013-20181218",
+     "sha256": "8bfafe55953c300d4077a898ce15aba32f4abcab4a1798902b9ee52b01593100"
+    },
+    {
+     "from": "2025-02-08",
+     "units": 42,
+     "source_url": "http://publications.europa.eu/resource/celex/02010L0013-20250208",
+     "sha256": "bd7aed878bba3287a22c2d3c8d521ebce80858a0ab703c9edacc83c26234641e"
+    }
+   ]
+  },
+  {
+   "slug": "law-enforcement-directive",
+   "short": "Directive 2016/680",
+   "title": "Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L0680",
+   "versions": [
+    {
+     "from": "2016-05-05",
+     "units": 65,
+     "source_url": "http://publications.europa.eu/resource/celex/32016L0680",
+     "sha256": "d2b1de458484bd1538e10d68b456384c0ff524732d3f61a984f89f65d05e5a6c"
+    },
+    {
+     "from": "2018-05-23",
+     "units": 65,
+     "source_url": "http://publications.europa.eu/resource/celex/02016L0680-20160504",
+     "sha256": "a1128afb79347ba9036a4605b37c61de1977ac5976fd2e3b5c60ac2393aed79f"
+    }
+   ]
+  },
+  {
+   "slug": "waste-framework-directive",
+   "short": "Council 2008/98",
+   "title": "Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0098",
+   "versions": [
+    {
+     "from": "2008-12-12",
+     "units": 43,
+     "source_url": "http://publications.europa.eu/resource/celex/32008L0098",
+     "sha256": "dce17b63f4809462b84826c4b077472f8d260d3f53c556329013c6b71a9a7e49"
+    },
+    {
+     "from": "2018-07-05",
+     "units": 47,
+     "source_url": "http://publications.europa.eu/resource/celex/02008L0098-20180705",
+     "sha256": "cb06874098b1f551e0e4fd877e5b5cf59c2988e7e79d2a811f1e4458b0f1dddc"
+    },
+    {
+     "from": "2024-02-18",
+     "units": 47,
+     "source_url": "http://publications.europa.eu/resource/celex/02008L0098-20240218",
+     "sha256": "602c63618968999cf09f0fb21b85d4c1026ff38521913ec1b468d091eb59c077"
+    },
+    {
+     "from": "2025-10-16",
+     "units": 54,
+     "source_url": "http://publications.europa.eu/resource/celex/02008L0098-20251016",
+     "sha256": "99399acdfc744a50fc3b9d30784971ca0d007a33c58dc69f8dc7bed21f2f3e51"
+    }
+   ]
+  },
+  {
+   "slug": "emissions-trading-directive",
+   "short": "Council 2003/87",
+   "title": "Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003L0087",
+   "versions": [
+    {
+     "from": "2003-10-25",
+     "units": 33,
+     "source_url": "http://publications.europa.eu/resource/celex/32003L0087",
+     "sha256": "fee8c8a75bef337be67ec97ae9d337eb05ce6834c0650dbbf9439c2e2ec7fe5b"
+    },
+    {
+     "from": "2004-11-13",
+     "units": 36,
+     "source_url": "http://publications.europa.eu/resource/celex/02003L0087-20041113",
+     "sha256": "128a33b48e88da081ed09aff79f1d7776f4398a041d21a96b6093f4d51310223"
+    },
+    {
+     "from": "2009-02-02",
+     "units": 47,
+     "source_url": "http://publications.europa.eu/resource/celex/02003L0087-20090202",
+     "sha256": "d3a9888c564418585d3e13361ebc7d17c0a7606c1c42aa12566b33a2964f907b"
+    },
+    {
+     "from": "2009-04-20",
+     "units": 47,
+     "source_url": "http://publications.europa.eu/resource/celex/02003L0087-20090420",
+     "sha256": "926686db02e63f836117f171c6ce063a67ef8daad8b63949117161266d99d9b2"
+    },
+    {
+     "from": "2009-06-25",
+     "units": 54,
+     "source_url": "http://publications.europa.eu/resource/celex/02003L0087-20090625",
+     "sha256": "2387aeadb017599dfa997690a45e2a65a18079ad37aa0e9542ee038fa5f60584"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 54,
+     "source_url": "http://publications.europa.eu/resource/celex/02003L0087-20130701",
+     "sha256": "81fa059d7fded1f4ef1cc3cc59612f9284a5c3e3c3083a4366d4b2f162c67a4a"
+    },
+    {
+     "from": "2013-12-19",
+     "units": 54,
+     "source_url": "http://publications.europa.eu/resource/celex/02003L0087-20131219",
+     "sha256": "a9873c48fd3be2ae6572bd48ad7235d8f098a347a0bafd21fafdc45bf4b639b1"
+    },
+    {
+     "from": "2014-04-30",
+     "units": 55,
+     "source_url": "http://publications.europa.eu/resource/celex/02003L0087-20140430",
+     "sha256": "3d5e33fc13aaf53c951e184d91210d730726eca4734281c9bd2976aec45ab768"
+    },
+    {
+     "from": "2015-10-29",
+     "units": 55,
+     "source_url": "http://publications.europa.eu/resource/celex/02003L0087-20151029",
+     "sha256": "576d80bbaead7d05d491f4a6f020aeffea322ffa40d7b4bab90c626b49f8cea5"
+    },
+    {
+     "from": "2017-12-29",
+     "units": 57,
+     "source_url": "http://publications.europa.eu/resource/celex/02003L0087-20171229",
+     "sha256": "c0fb4b9262fee2e9285437c24bd54b5dc684d0a9490b533af5794db7863014f9"
+    },
+    {
+     "from": "2018-04-08",
+     "units": 60,
+     "source_url": "http://publications.europa.eu/resource/celex/02003L0087-20180408",
+     "sha256": "7748bc8c0290bec140a847224dc2280d45d116fb65d8a3c16caafc673b76cf6b"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 60,
+     "source_url": "http://publications.europa.eu/resource/celex/02003L0087-20200101",
+     "sha256": "d1bd17dfbe3222d5ab81222160377feabc72c0bd4fb312667d387e92422d69cc"
+    },
+    {
+     "from": "2023-01-21",
+     "units": 60,
+     "source_url": "http://publications.europa.eu/resource/celex/02003L0087-20230121",
+     "sha256": "a81cb8bd8a2b1cf0b050a04f9a6e5d494f9cf269a76d2607273e7cd52c1f2c82"
+    },
+    {
+     "from": "2023-03-01",
+     "units": 61,
+     "source_url": "http://publications.europa.eu/resource/celex/02003L0087-20230301",
+     "sha256": "ac49717f9fa0f3d56daa791f7aa5bbd1590a2dd0b3008ed3700a009899324188"
+    },
+    {
+     "from": "2023-06-05",
+     "units": 81,
+     "source_url": "http://publications.europa.eu/resource/celex/02003L0087-20230605",
+     "sha256": "be325386c1d9afe45e71d62711b2dab36de761813ea4cd8ca33e01dcc895746b"
+    },
+    {
+     "from": "2024-03-01",
+     "units": 81,
+     "source_url": "http://publications.europa.eu/resource/celex/02003L0087-20240301",
+     "sha256": "f7817f8cb7e6d402f989e00b506271777b87df4f1caffcda46b54b5c9c11b15b"
+    }
+   ]
+  },
+  {
+   "slug": "eia-directive",
+   "short": "Council 2011/92",
+   "title": "Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment (codification) Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0092",
+   "versions": [
+    {
+     "from": "2012-02-17",
+     "units": 16,
+     "source_url": "http://publications.europa.eu/resource/celex/32011L0092",
+     "sha256": "86e4774ff3afde9956d259ea93af0e20cb93ff173bcc3fc18cbc4d1524c47d17"
+    },
+    {
+     "from": "2014-05-15",
+     "units": 19,
+     "source_url": "http://publications.europa.eu/resource/celex/02011L0092-20140515",
+     "sha256": "af4fdfc97cc618858cfbfa06d7220db9a7b12ca0a4b1aa35fe85ed694e6a07f1"
+    }
+   ]
+  },
+  {
+   "slug": "habitats-directive",
+   "short": "92/43/eec 92/43",
+   "title": "Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31992L0043",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 24,
+     "source_url": "http://publications.europa.eu/resource/celex/01992L0043-20070101",
+     "sha256": "18fceac5c4038cdaa71b87cabffd607db8dde9457e74ee69c57ed11b22a84caa"
+    }
+   ]
+  },
+  {
+   "slug": "birds-directive",
+   "short": "Council 2009/147",
+   "title": "Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009 on the conservation of wild birds (Codified version)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0147",
+   "versions": [
+    {
+     "from": "2010-02-15",
+     "units": 20,
+     "source_url": "http://publications.europa.eu/resource/celex/32009L0147",
+     "sha256": "6463fda947f8432fe51a086b698d8c4a671a1f9513066d6437e7218783569a5c"
+    },
+    {
+     "from": "2019-06-26",
+     "units": 21,
+     "source_url": "http://publications.europa.eu/resource/celex/02009L0147-20190626",
+     "sha256": "f599b3e995a77fe3cfc5ab75889119277417ce0559aeac1c0172fbdb5ac7ef8c"
+    }
+   ]
+  },
+  {
+   "slug": "water-framework-directive",
+   "short": "Council 2000/60",
+   "title": "Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000L0060",
+   "versions": [
+    {
+     "from": "2008-03-21",
+     "units": 26,
+     "source_url": "http://publications.europa.eu/resource/celex/02000L0060-20080321",
+     "sha256": "f701ddea4dc20259bcdcd33660e93be7c89b5eeee8deb71cdf37f74b5375e1b7"
+    },
+    {
+     "from": "2009-06-25",
+     "units": 26,
+     "source_url": "http://publications.europa.eu/resource/celex/02000L0060-20090625",
+     "sha256": "33d7b2a1eb8580a18a2ebd5dda07a3d63141cf32d1d6d1836bfa39306d5377ac"
+    },
+    {
+     "from": "2013-09-13",
+     "units": 26,
+     "source_url": "http://publications.europa.eu/resource/celex/02000L0060-20130913",
+     "sha256": "3ba2bebe3c47a97f1d62911ccc165de29d24488f419d151b8a4aafa56adc73c9"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 26,
+     "source_url": "http://publications.europa.eu/resource/celex/02000L0060-20140101",
+     "sha256": "929d3b71bd109cf456919c7bcb5271df672e6e1b138fed4b46c347dbdba147e3"
+    },
+    {
+     "from": "2026-05-10",
+     "units": 29,
+     "source_url": "http://publications.europa.eu/resource/celex/02000L0060-20260510",
+     "sha256": "93d6a5df1f495701ef6a2ebc834babd88cbfb42588240dabf2ed1cd287f8cb2f"
+    }
+   ]
   }
  ]
 }
