@@ -116,20 +116,31 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `food-information-regulation` | Regulation (EU) No 1169/2011 of the European Parliament and of the Council of 25 October 2011 on the provision of food information to consumers, amending Regulations (EC) No 1924/2006 and (EC) No 1925/2006 of the European Parliament and of the Council, and repealing Commission Directive 87/250/EEC, Council Directive 90/496/EEC, Commission Directive 1999/10/EC, Directive 2000/13/EC of the European Parliament and of the Council, Commission Directives 2002/67/EC and 2008/5/EC and Commission Regulation (EC) No 608/2004 Text with EEA relevance | 1 | 2025-04-01 to 2025-04-01 |
 | `consumer-protection-cooperation-regulation` | Regulation (EU) 2017/2394 of the European Parliament and of the Council of 12 December 2017 on cooperation between national authorities responsible for the enforcement of consumer protection laws and repealing Regulation (EC) No 2006/2004 (Text with EEA relevance) | 1 | 2018-01-16 to 2018-01-16 |
 | `general-product-safety-regulation` | Regulation (EU) 2023/988 of the European Parliament and of the Council of 10 May 2023 on general product safety, amending Regulation (EU) No 1025/2012 of the European Parliament and of the Council and Directive (EU) 2020/1828 of the European Parliament and the Council, and repealing Directive 2001/95/EC of the European Parliament and of the Council and Council Directive 87/357/EEC (Text with EEA relevance) | 2 | 2023-06-12 to 2026-05-29 |
+| `market-surveillance-regulation` | Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (Text with EEA relevance.) | 1 | 2026-08-12 to 2026-08-12 |
+| `platform-to-business-regulation` | Regulation (EU) 2019/1150 of the European Parliament and of the Council of 20 June 2019 on promoting fairness and transparency for business users of online intermediation services (Text with EEA relevance) | 1 | 2019-07-31 to 2019-07-31 |
+| `open-internet-regulation` | Regulation (EU) 2015/2120 of the European Parliament and of the Council of 25 November 2015 laying down measures concerning open internet access and amending Directive 2002/22/EC on universal service and users’ rights relating to electronic communications networks and services and Regulation (EU) No 531/2012 on roaming on public mobile communications networks within the Union (Text with EEA relevance) | 4 | 2015-11-29 to 2024-05-15 |
+| `roaming-regulation` | Regulation (EU) 2022/612 of the European Parliament and of the Council of 6 April 2022 on roaming on public mobile communications networks within the Union (recast) (Text with EEA relevance) | 1 | 2022-07-01 to 2022-07-01 |
+| `workers-free-movement-regulation` | Regulation (EU) No 492/2011 of the European Parliament and of the Council of 5 April 2011 on freedom of movement for workers within the Union Text with EEA relevance | 5 | 2011-06-16 to 2021-08-01 |
+| `brussels-iib` | Council Regulation (EU) 2019/1111 of 25 June 2019 on jurisdiction, the recognition and enforcement of decisions in matrimonial matters and the matters of parental responsibility, and on international child abduction (recast) | 1 | 2019-07-22 to 2019-07-22 |
+| `european-order-for-payment` | Regulation (EC) No 1896/2006 of the European Parliament and of the Council of 12 December 2006 creating a European order for payment procedure | 1 | 2025-05-01 to 2025-05-01 |
+| `european-small-claims` | Regulation (EC) No 861/2007 of the European Parliament and of the Council of 11 July 2007 establishing a European Small Claims Procedure | 1 | 2025-05-01 to 2025-05-01 |
+| `maintenance-regulation` | Council Regulation (EC) No 4/2009 of 18 December 2008 on jurisdiction, applicable law, recognition and enforcement of decisions and cooperation in matters relating to maintenance obligations | 1 | 2018-12-31 to 2018-12-31 |
+| `eppo-regulation` | Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’) | 1 | 1001-01-01 to 1001-01-01 |
+| `rail-passenger-rights` | Regulation (EU) 2021/782 of the European Parliament and of the Council of 29 April 2021 on rail passengers’ rights and obligations (recast) (Text with EEA relevance) | 1 | 2021-06-06 to 2021-06-06 |
 
-The build made 499 commits:
+The build made 521 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 102 | first version of an act |
-| 271 | one law on its in-force day |
-| 126 | changes no amendment note explains, credited to the publisher |
+| 113 | first version of an act |
+| 276 | one law on its in-force day |
+| 132 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-02.
-- 2 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 440 laws in the record.
-- 725 tags.
+- 3 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 470 laws in the record.
+- 752 tags.
 
 ## Dates
 
@@ -141,7 +152,7 @@ When a law gives no date of its own, the default rule applies: Article 297 TFEU:
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8395d3d54896bab47a16b4c24e17b05887a050e3257337c756bd0e823106af6a` (26119308 bytes).
+- Corpus: sha256 `14d2b23a67d256824a349441653d0f8ec8be0c69db18279ad094adb0c6604607` (26990495 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -171,6 +182,7 @@ No second build of this corpus has been compared yet.
 - Where the publisher has no text for a consolidated version other than the first, the history of that act starts with the first consolidated version after it, credited to the publisher as the oldest version available.
 - Changes that take effect after the day the data was retrieved (2026-11-02) are left out until that day.
 - An article title is the first line of the article file; the heading line is the article number only.
+- From this part on, an article that changes with no marker new in its consolidated version is credited to the act whose marker newly appears in that article (an amending act that applies in stages).
 - From this part on, an article that changes with no marker new in its consolidated version is credited to the act whose marker newly appears in that article (an amending act that applies in stages).
 - From this part on, an article that changes with no marker new in its consolidated version is credited to the act whose marker newly appears in that article (an amending act that applies in stages).
 - From this part on, an article that changes with no marker new in its consolidated version is credited to the act whose marker newly appears in that article (an amending act that applies in stages).

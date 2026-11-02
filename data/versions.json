@@ -3252,6 +3252,202 @@
      "sha256": "e780aaafb7e5da0b0d7db3928a949e1e4e6706816d760a2ec952710ec7fe986e"
     }
    ]
+  },
+  {
+   "slug": "market-surveillance-regulation",
+   "short": "Regulation 2019/1020",
+   "title": "Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (Text with EEA relevance.)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1020",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 44,
+     "source_url": "http://publications.europa.eu/resource/celex/02019R1020-20260812",
+     "sha256": "519d1fa00238de1f5841be29ac0eff18542b916d0653d7b79b98f885d22eb215"
+    }
+   ]
+  },
+  {
+   "slug": "platform-to-business-regulation",
+   "short": "Regulation 2019/1150",
+   "title": "Regulation (EU) 2019/1150 of the European Parliament and of the Council of 20 June 2019 on promoting fairness and transparency for business users of online intermediation services (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1150",
+   "versions": [
+    {
+     "from": "2019-07-31",
+     "units": 19,
+     "source_url": "http://publications.europa.eu/resource/celex/32019R1150",
+     "sha256": "412b3d1ae6070fe3ad574c8895400bd2723608dd55789739dcbd2ab77430cfbe"
+    }
+   ]
+  },
+  {
+   "slug": "open-internet-regulation",
+   "short": "Regulation 2015/2120",
+   "title": "Regulation (EU) 2015/2120 of the European Parliament and of the Council of 25 November 2015 laying down measures concerning open internet access and amending Directive 2002/22/EC on universal service and users’ rights relating to electronic communications networks and services and Regulation (EU) No 531/2012 on roaming on public mobile communications networks within the Union (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2120",
+   "versions": [
+    {
+     "from": "2015-11-29",
+     "units": 15,
+     "source_url": "http://publications.europa.eu/resource/celex/32015R2120",
+     "sha256": "6be7c7dee2051a82790baab17498a450bf43b032bcd48206bb5731a8923bc3e2"
+    },
+    {
+     "from": "2018-12-20",
+     "units": 16,
+     "source_url": "http://publications.europa.eu/resource/celex/02015R2120-20181220",
+     "sha256": "bdbe5623a6f475329059bf0d384d33512ea62e42b4cc8a49a33b519a44cb9a66"
+    },
+    {
+     "from": "2020-12-21",
+     "units": 15,
+     "source_url": "http://publications.europa.eu/resource/celex/02015R2120-20201221",
+     "sha256": "cc0e8bf3fc5b1e979ea853cf2ad7a83a571766320d55ae8021736355a99f995b"
+    },
+    {
+     "from": "2024-05-15",
+     "units": 16,
+     "source_url": "http://publications.europa.eu/resource/celex/02015R2120-20240515",
+     "sha256": "6ce8dd6386943e976d23330584c347009225f35333a7c89003eab7006656e0f2"
+    }
+   ]
+  },
+  {
+   "slug": "roaming-regulation",
+   "short": "Regulation 2022/612",
+   "title": "Regulation (EU) 2022/612 of the European Parliament and of the Council of 6 April 2022 on roaming on public mobile communications networks within the Union (recast) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0612",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 24,
+     "source_url": "http://publications.europa.eu/resource/celex/32022R0612",
+     "sha256": "9248139a2c45f4eda5e5caa6454ca04002e9be2241e6edad195118627154d8ef"
+    }
+   ]
+  },
+  {
+   "slug": "workers-free-movement-regulation",
+   "short": "Regulation No 492/2011",
+   "title": "Regulation (EU) No 492/2011 of the European Parliament and of the Council of 5 April 2011 on freedom of movement for workers within the Union Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011R0492",
+   "versions": [
+    {
+     "from": "2011-06-16",
+     "units": 42,
+     "source_url": "http://publications.europa.eu/resource/celex/32011R0492",
+     "sha256": "f45efed8615e7b227146ce03ac5a6f2d957294e294ea34ecf9538d3c92c62c47"
+    },
+    {
+     "from": "2016-05-12",
+     "units": 32,
+     "source_url": "http://publications.europa.eu/resource/celex/02011R0492-20160512",
+     "sha256": "d6c80f2cf726b97304ab2e748d64727e5ce3d1add77966b608009d3266f346f0"
+    },
+    {
+     "from": "2018-05-13",
+     "units": 31,
+     "source_url": "http://publications.europa.eu/resource/celex/02011R0492-20180513",
+     "sha256": "45fcc929ad6f5a4e4795c40b8fdf6b34833c287c023ab9a4aa3d91b9d2427790"
+    },
+    {
+     "from": "2019-07-31",
+     "units": 31,
+     "source_url": "http://publications.europa.eu/resource/celex/02011R0492-20190731",
+     "sha256": "a42aad2acdd1781b8b159a3752d21e4814090ce70b616a5bbdd125d76328ac23"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 25,
+     "source_url": "http://publications.europa.eu/resource/celex/02011R0492-20210801",
+     "sha256": "59f56189620c60c00f65c1919036ebc84f08f7f5e8d7257470e20d8846addb70"
+    }
+   ]
+  },
+  {
+   "slug": "brussels-iib",
+   "short": "Regulation 2019/1111",
+   "title": "Council Regulation (EU) 2019/1111 of 25 June 2019 on jurisdiction, the recognition and enforcement of decisions in matrimonial matters and the matters of parental responsibility, and on international child abduction (recast)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1111",
+   "versions": [
+    {
+     "from": "2019-07-22",
+     "units": 105,
+     "source_url": "http://publications.europa.eu/resource/celex/32019R1111",
+     "sha256": "5a8611b630c8cdf30a0a08f9746de3324760eee172fba9102edbbb8b17055412"
+    }
+   ]
+  },
+  {
+   "slug": "european-order-for-payment",
+   "short": "Regulation No 1896/2006",
+   "title": "Regulation (EC) No 1896/2006 of the European Parliament and of the Council of 12 December 2006 creating a European order for payment procedure",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006R1896",
+   "versions": [
+    {
+     "from": "2025-05-01",
+     "units": 33,
+     "source_url": "http://publications.europa.eu/resource/celex/02006R1896-20250501",
+     "sha256": "0d8508de3db6c83edd701a376838b53d662b203b87eb65d8c81556b1a40db2bf"
+    }
+   ]
+  },
+  {
+   "slug": "european-small-claims",
+   "short": "Regulation No 861/2007",
+   "title": "Regulation (EC) No 861/2007 of the European Parliament and of the Council of 11 July 2007 establishing a European Small Claims Procedure",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007R0861",
+   "versions": [
+    {
+     "from": "2025-05-01",
+     "units": 32,
+     "source_url": "http://publications.europa.eu/resource/celex/02007R0861-20250501",
+     "sha256": "4c6c1c4dcabb8f607a8e302e516b7c4f683601d4a3cd87c8c224a728895bb9c6"
+    }
+   ]
+  },
+  {
+   "slug": "maintenance-regulation",
+   "short": "Regulation No 4/2009",
+   "title": "Council Regulation (EC) No 4/2009 of 18 December 2008 on jurisdiction, applicable law, recognition and enforcement of decisions and cooperation in matters relating to maintenance obligations",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R0004",
+   "versions": [
+    {
+     "from": "2018-12-31",
+     "units": 76,
+     "source_url": "http://publications.europa.eu/resource/celex/02009R0004-20181231",
+     "sha256": "fe9bc35c13d7defe53641f6a5efb52c1ca8703a9b331a7ea59a8220da92af01b"
+    }
+   ]
+  },
+  {
+   "slug": "eppo-regulation",
+   "short": "Regulation 2017/1939",
+   "title": "Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R1939",
+   "versions": [
+    {
+     "from": "1001-01-01",
+     "units": 120,
+     "source_url": "http://publications.europa.eu/resource/celex/32017R1939",
+     "sha256": "0da9f34d4feaed365512c386f193324337fbbcf9847a8645f6c1a8e3ad95ff0c"
+    }
+   ]
+  },
+  {
+   "slug": "rail-passenger-rights",
+   "short": "Regulation 2021/782",
+   "title": "Regulation (EU) 2021/782 of the European Parliament and of the Council of 29 April 2021 on rail passengers’ rights and obligations (recast) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R0782",
+   "versions": [
+    {
+     "from": "2021-06-06",
+     "units": 41,
+     "source_url": "http://publications.europa.eu/resource/celex/32021R0782",
+     "sha256": "c96e2d1d0be6850e638c20b7be002fefa10661a55257a3f9228e9ce3e76e22e2"
+    }
+   ]
   }
  ]
 }
