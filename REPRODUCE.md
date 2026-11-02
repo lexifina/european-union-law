@@ -6,7 +6,7 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
-| Publications Office of the European Union: Cellar (EUR-Lex documents) | <https://op.europa.eu/en/web/cellar> | 2026-11-02 | Commission Decision 2011/833/EU on the reuse of Commission documents; © European Union, 1998-2026 |
+| Publications Office of the European Union: Cellar (EUR-Lex documents) | <https://op.europa.eu/en/web/cellar> | 2026-11-03 | Commission Decision 2011/833/EU on the reuse of Commission documents; © European Union, 1998-2026 |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -127,20 +127,31 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `maintenance-regulation` | Council Regulation (EC) No 4/2009 of 18 December 2008 on jurisdiction, applicable law, recognition and enforcement of decisions and cooperation in matters relating to maintenance obligations | 1 | 2018-12-31 to 2018-12-31 |
 | `eppo-regulation` | Council Regulation (EU) 2017/1939 of 12 October 2017 implementing enhanced cooperation on the establishment of the European Public Prosecutor’s Office (‘the EPPO’) | 1 | 1001-01-01 to 1001-01-01 |
 | `rail-passenger-rights` | Regulation (EU) 2021/782 of the European Parliament and of the Council of 29 April 2021 on rail passengers’ rights and obligations (recast) (Text with EEA relevance) | 1 | 2021-06-06 to 2021-06-06 |
+| `air-services-regulation` | Regulation (EC) No 1008/2008 of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the Community (Recast) (Text with EEA relevance) | 5 | 2008-11-01 to 2020-12-18 |
+| `fdi-screening-regulation` | Regulation (EU) 2019/452 of the European Parliament and of the Council of 19 March 2019 establishing a framework for the screening of foreign direct investments into the Union | 1 | 2019-04-10 to 2019-04-10 |
+| `foreign-subsidies-regulation` | Regulation (EU) 2022/2560 of the European Parliament and of the Council of 14 December 2022 on foreign subsidies distorting the internal market | 2 | 2023-01-12 to 2024-09-17 |
+| `dual-use-regulation` | Regulation (EU) 2021/821 of the European Parliament and of the Council of 20 May 2021 setting up a Union regime for the control of exports, brokering, technical assistance, transit and transfer of dual-use items (recast) | 1 | 2026-09-21 to 2026-09-21 |
+| `general-block-exemption-regulation` | Commission Regulation (EU) No 651/2014 of 17 June 2014 declaring certain categories of aid compatible with the internal market in application of Articles 107 and 108 of the Treaty Text with EEA relevance | 5 | 2014-07-01 to 2023-07-01 |
+| `vertical-block-exemption-regulation` | Commission Regulation (EU) 2022/720 of 10 May 2022 on the application of Article 101(3) of the Treaty on the Functioning of the European Union to categories of vertical agreements and concerted practices (Text with EEA relevance) | 1 | 2022-06-01 to 2022-06-01 |
+| `medicinal-products-directive` | Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use | 12 | 2007-01-26 to 2025-01-01 |
+| `clinical-trials-regulation` | Regulation (EU) No 536/2014 of the European Parliament and of the Council of 16 April 2014 on clinical trials on medicinal products for human use, and repealing Directive 2001/20/EC Text with EEA relevance | 3 | 1001-01-01 to 2022-01-31 |
+| `cosmetics-regulation` | Regulation (EC) No 1223/2009 of the European Parliament and of the Council of 30 November 2009 on cosmetic products (recast) (Text with EEA relevance) | 1 | 2026-05-01 to 2026-05-01 |
+| `iorp-ii` | Directive (EU) 2016/2341 of the European Parliament and of the Council of 14 December 2016 on the activities and supervision of institutions for occupational retirement provision (IORPs) (recast) (Text with EEA relevance) | 3 | 2017-01-12 to 2025-01-17 |
+| `terrorism-directive` | Directive (EU) 2017/541 of the European Parliament and of the Council of 15 March 2017 on combating terrorism and replacing Council Framework Decision 2002/475/JHA and amending Council Decision 2005/671/JHA | 1 | 2017-04-20 to 2017-04-20 |
 
-The build made 521 commits:
+The build made 570 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 113 | first version of an act |
-| 276 | one law on its in-force day |
-| 132 | changes no amendment note explains, credited to the publisher |
+| 124 | first version of an act |
+| 303 | one law on its in-force day |
+| 143 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-02.
-- 3 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 470 laws in the record.
-- 752 tags.
+- 4 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 583 laws in the record.
+- 817 tags.
 
 ## Dates
 
@@ -152,7 +163,7 @@ When a law gives no date of its own, the default rule applies: Article 297 TFEU:
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `14d2b23a67d256824a349441653d0f8ec8be0c69db18279ad094adb0c6604607` (26990495 bytes).
+- Corpus: sha256 `581a822e038532916d5b98ae2c4a6a1455c51bd20443e609f137d5faf8b476c0` (29315883 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -182,6 +193,7 @@ No second build of this corpus has been compared yet.
 - Where the publisher has no text for a consolidated version other than the first, the history of that act starts with the first consolidated version after it, credited to the publisher as the oldest version available.
 - Changes that take effect after the day the data was retrieved (2026-11-02) are left out until that day.
 - An article title is the first line of the article file; the heading line is the article number only.
+- From this part on, an article that changes with no marker new in its consolidated version is credited to the act whose marker newly appears in that article (an amending act that applies in stages).
 - From this part on, an article that changes with no marker new in its consolidated version is credited to the act whose marker newly appears in that article (an amending act that applies in stages).
 - From this part on, an article that changes with no marker new in its consolidated version is credited to the act whose marker newly appears in that article (an amending act that applies in stages).
 - From this part on, an article that changes with no marker new in its consolidated version is credited to the act whose marker newly appears in that article (an amending act that applies in stages).
