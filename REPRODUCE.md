@@ -83,20 +83,31 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `habitats-directive` | Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora | 1 | 2007-01-01 to 2007-01-01 |
 | `birds-directive` | Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009 on the conservation of wild birds (Codified version) | 2 | 2010-02-15 to 2019-06-26 |
 | `water-framework-directive` | Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy | 5 | 2008-03-21 to 2026-05-10 |
+| `mifir` | Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 Text with EEA relevance | 4 | 2024-01-09 to 2025-01-17 |
+| `securitisation-regulation` | Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation, and amending Directives 2009/65/EC, 2009/138/EC and 2011/61/EU and Regulations (EC) No 1060/2009 and (EU) No 648/2012 | 2 | 2018-01-17 to 2021-04-09 |
+| `single-resolution-mechanism-regulation` | Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010 | 8 | 2014-08-19 to 2026-06-11 |
+| `bank-recovery-and-resolution-directive` | Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council Text with EEA relevance | 4 | 2024-01-09 to 2026-05-11 |
+| `ucits-directive` | Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (recast) (Text with EEA relevance) | 2 | 2025-01-17 to 2026-04-16 |
+| `aifmd` | Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 Text with EEA relevance | 9 | 2011-07-21 to 2026-04-16 |
+| `package-travel-directive` | Directive (EU) 2015/2302 of the European Parliament and of the Council of 25 November 2015 on package travel and linked travel arrangements, amending Regulation (EC) No 2006/2004 and Directive 2011/83/EU of the European Parliament and of the Council and repealing Council Directive 90/314/EEC | 1 | 2015-12-31 to 2015-12-31 |
+| `digital-content-directive` | Directive (EU) 2019/770 of the European Parliament and of the Council of 20 May 2019 on certain aspects concerning contracts for the supply of digital content and digital services (Text with EEA relevance.) | 1 | 2019-06-11 to 2019-06-11 |
+| `sale-of-goods-directive` | Directive (EU) 2019/771 of the European Parliament and of the Council of 20 May 2019 on certain aspects concerning contracts for the sale of goods, amending Regulation (EU) 2017/2394 and Directive 2009/22/EC, and repealing Directive 1999/44/EC (Text with EEA relevance.) | 2 | 2019-06-11 to 2026-07-31 |
+| `mortgage-credit-directive` | Directive 2014/17/EU of the European Parliament and of the Council of 4 February 2014 on credit agreements for consumers relating to residential immovable property and amending Directives 2008/48/EC and 2013/36/EU and Regulation (EU) No 1093/2010 Text with EEA relevance | 1 | 2023-12-30 to 2023-12-30 |
+| `representative-actions-directive` | Directive (EU) 2020/1828 of the European Parliament and of the Council of 25 November 2020 on representative actions for the protection of the collective interests of consumers and repealing Directive 2009/22/EC (Text with EEA relevance) | 1 | 2024-12-13 to 2024-12-13 |
 
-The build made 386 commits:
+The build made 429 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 69 | first version of an act |
-| 210 | one law on its in-force day |
-| 107 | changes no amendment note explains, credited to the publisher |
+| 80 | first version of an act |
+| 232 | one law on its in-force day |
+| 117 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 287 laws in the record.
-- 566 tags.
+- 329 laws in the record.
+- 618 tags.
 
 ## Dates
 
@@ -108,7 +119,7 @@ When a law gives no date of its own, the default rule applies: Article 297 TFEU:
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `61478e6689d89baaeee7562429c8397fbca0cf16ec42ab439cd6223338bba100` (19896515 bytes).
+- Corpus: sha256 `4a2751a51ae49f4a28ddfd553d32c37f5068c43288cb878b7391e368673cb50e` (23061015 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -138,6 +149,7 @@ No second build of this corpus has been compared yet.
 - Where the publisher has no text for a consolidated version other than the first, the history of that act starts with the first consolidated version after it, credited to the publisher as the oldest version available.
 - Changes that take effect after the day the data was retrieved (2026-11-02) are left out until that day.
 - An article title is the first line of the article file; the heading line is the article number only.
+- From this part on, an article that changes with no marker new in its consolidated version is credited to the act whose marker newly appears in that article (an amending act that applies in stages).
 
 ## What AI did and did not do
 

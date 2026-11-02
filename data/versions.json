@@ -2442,6 +2442,304 @@
      "sha256": "93d6a5df1f495701ef6a2ebc834babd88cbfb42588240dabf2ed1cd287f8cb2f"
     }
    ]
+  },
+  {
+   "slug": "mifir",
+   "short": "Regulation No 600/2014",
+   "title": "Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0600",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 83,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0600-20240109",
+     "sha256": "9cfa0ea0d08b9b1976248d4c357654375055cf2def41b6d7b57c1501ef1bee23"
+    },
+    {
+     "from": "2024-03-28",
+     "units": 93,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0600-20240328",
+     "sha256": "ecb971ed1befe48404f5b1caf6710fa882d7cb47e88a95a20547d2ae5c181e2b"
+    },
+    {
+     "from": "2024-12-04",
+     "units": 93,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0600-20241204",
+     "sha256": "88e8d67430110b8d71824e61efe2b0efef0c4d939c7c829b8ef3b8049102248c"
+    },
+    {
+     "from": "2025-01-17",
+     "units": 93,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0600-20250117",
+     "sha256": "00533666b985af134869ea5f982182aee303ecf62dfd52748edd0a0769ebf5df"
+    }
+   ]
+  },
+  {
+   "slug": "securitisation-regulation",
+   "short": "Regulation 2017/2402",
+   "title": "Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation, and amending Directives 2009/65/EC, 2009/138/EC and 2011/61/EU and Regulations (EC) No 1060/2009 and (EU) No 648/2012",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2402",
+   "versions": [
+    {
+     "from": "2018-01-17",
+     "units": 48,
+     "source_url": "http://publications.europa.eu/resource/celex/32017R2402",
+     "sha256": "1cd5aee0c4703f53989adeb1820d4235b74ba78532edaea39d21df8124de919d"
+    },
+    {
+     "from": "2021-04-09",
+     "units": 54,
+     "source_url": "http://publications.europa.eu/resource/celex/02017R2402-20210409",
+     "sha256": "c148c0d82edc78c591c0bb77d466c1ecce9d8a713d7d17808a4577f26cdb83bd"
+    }
+   ]
+  },
+  {
+   "slug": "single-resolution-mechanism-regulation",
+   "short": "Regulation No 806/2014",
+   "title": "Regulation (EU) No 806/2014 of the European Parliament and of the Council of 15 July 2014 establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0806",
+   "versions": [
+    {
+     "from": "2014-08-19",
+     "units": 99,
+     "source_url": "http://publications.europa.eu/resource/celex/32014R0806",
+     "sha256": "55ff986f90f2e0f0651a667b87b0eb7029ed23cc8a382be337883c1641ea6c85"
+    },
+    {
+     "from": "2020-12-28",
+     "units": 111,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0806-20201228",
+     "sha256": "d3c0765f350dfce7308694feadeef09a9c2c9a726e306b8a55498f406c4a3271"
+    },
+    {
+     "from": "2021-06-26",
+     "units": 111,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0806-20210626",
+     "sha256": "68b9aa983600161a50ee8b40861dc3ef7b4e25330074f25f49c268e9dc0b3b0e"
+    },
+    {
+     "from": "2022-08-12",
+     "units": 111,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0806-20220812",
+     "sha256": "cab2cb02de31bd398bd79f33dd0e744e6a3dfe06515a61d03bc1601c755182d9"
+    },
+    {
+     "from": "2024-05-13",
+     "units": 111,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0806-20240513",
+     "sha256": "258d8e4ab04ee24bde3b05fd0f2f1c308d2c5e968fd2ca06d65d83d0a5cc8eef"
+    },
+    {
+     "from": "2024-11-14",
+     "units": 111,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0806-20241114",
+     "sha256": "e0c4bdfee4ec2d8dd661b6e2038f872b9e542d7dfa44a7204a77a33368de563f"
+    },
+    {
+     "from": "2025-11-10",
+     "units": 112,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0806-20251110",
+     "sha256": "bc6a30c06306cdf1d95c86e762c727976e37a5a24eda1af6c2976c8c0c370903"
+    },
+    {
+     "from": "2026-06-11",
+     "units": 114,
+     "source_url": "http://publications.europa.eu/resource/celex/02014R0806-20260611",
+     "sha256": "03d2151df120b1b21789dbc1e200c52cd5755c1a3778a0ac756fdb7ec27645bf"
+    }
+   ]
+  },
+  {
+   "slug": "bank-recovery-and-resolution-directive",
+   "short": "Council 2014/59",
+   "title": "Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0059",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 148,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0059-20240109",
+     "sha256": "77b55a7b22cda8c2ff8cc3844051f3de18d260b3c06ef4752c126315d57b107b"
+    },
+    {
+     "from": "2024-11-14",
+     "units": 148,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0059-20241114",
+     "sha256": "281cc80e0f910a61c7881e72a25762d2450dc481c2958bb2551f85bb7098788b"
+    },
+    {
+     "from": "2025-01-17",
+     "units": 148,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0059-20250117",
+     "sha256": "002c8a3e64f45474d3bc710defe609c5159773aabaf6e8cbab688c2c70a09699"
+    },
+    {
+     "from": "2026-05-11",
+     "units": 148,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0059-20260511",
+     "sha256": "65c7b7880880e30a21bc103f2a9176074d0b175bf81fbb2b1f870906a72fe49c"
+    }
+   ]
+  },
+  {
+   "slug": "ucits-directive",
+   "short": "Council 2009/65",
+   "title": "Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (recast) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0065",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 128,
+     "source_url": "http://publications.europa.eu/resource/celex/02009L0065-20250117",
+     "sha256": "64e33da013de7b6c00bd16042a1c0512621da569f7047304b81869d0f062da0f"
+    },
+    {
+     "from": "2026-04-16",
+     "units": 131,
+     "source_url": "http://publications.europa.eu/resource/celex/02009L0065-20260416",
+     "sha256": "f4310d7b4428d2d0398b6cac6a8443a36731d3e09548ee3d3b6e5bd15fb4ca7c"
+    }
+   ]
+  },
+  {
+   "slug": "aifmd",
+   "short": "Council 2011/61",
+   "title": "Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0061",
+   "versions": [
+    {
+     "from": "2011-07-21",
+     "units": 71,
+     "source_url": "http://publications.europa.eu/resource/celex/32011L0061",
+     "sha256": "10b2ac0f7f0fd1ece24a11afbaebea2389b173aea34eb0272de16e2ba9075ba0"
+    },
+    {
+     "from": "2013-06-20",
+     "units": 71,
+     "source_url": "http://publications.europa.eu/resource/celex/02011L0061-20130620",
+     "sha256": "595b854b6f840fbc9ecd7288c5e00b308618c79e6dcbdddf09a7212b823cc5f2"
+    },
+    {
+     "from": "2014-07-02",
+     "units": 71,
+     "source_url": "http://publications.europa.eu/resource/celex/02011L0061-20140702",
+     "sha256": "dd86c0740fa57e59743c8991f08dedc3f77a3762367b36c91eefa7771fa0eb40"
+    },
+    {
+     "from": "2019-01-13",
+     "units": 70,
+     "source_url": "http://publications.europa.eu/resource/celex/02011L0061-20190113",
+     "sha256": "df4188f3f5d35d60085bede61e276128724e43ec8ec52cd9d84b798b6017f920"
+    },
+    {
+     "from": "2021-06-26",
+     "units": 70,
+     "source_url": "http://publications.europa.eu/resource/celex/02011L0061-20210626",
+     "sha256": "b60e998cc26c0cc53ed2e50e59e284000d486462ffa7f4f99d53433ad7695938"
+    },
+    {
+     "from": "2021-08-02",
+     "units": 74,
+     "source_url": "http://publications.europa.eu/resource/celex/02011L0061-20210802",
+     "sha256": "0b28b22e9be7d8cb336ee4ea643fd6f9b494cef1adbecda4b6bad195307062e0"
+    },
+    {
+     "from": "2024-01-09",
+     "units": 75,
+     "source_url": "http://publications.europa.eu/resource/celex/02011L0061-20240109",
+     "sha256": "c81e306db193a2acbe2d0e35208bde59f94f93cb2746082853712bb4c5607be9"
+    },
+    {
+     "from": "2025-01-17",
+     "units": 75,
+     "source_url": "http://publications.europa.eu/resource/celex/02011L0061-20250117",
+     "sha256": "30c7bcd04708bf9b7b1f5056293dec44216af6da352706bd852e7a4a24091c59"
+    },
+    {
+     "from": "2026-04-16",
+     "units": 75,
+     "source_url": "http://publications.europa.eu/resource/celex/02011L0061-20260416",
+     "sha256": "ff2c1f12e37440237b1b86f1997c04319d8bce5de4467c29b3c59b46b4ee7950"
+    }
+   ]
+  },
+  {
+   "slug": "package-travel-directive",
+   "short": "Directive 2015/2302",
+   "title": "Directive (EU) 2015/2302 of the European Parliament and of the Council of 25 November 2015 on package travel and linked travel arrangements, amending Regulation (EC) No 2006/2004 and Directive 2011/83/EU of the European Parliament and of the Council and repealing Council Directive 90/314/EEC",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2302",
+   "versions": [
+    {
+     "from": "2015-12-31",
+     "units": 31,
+     "source_url": "http://publications.europa.eu/resource/celex/32015L2302",
+     "sha256": "4f48c3fb2bacb1f2d5b513bbca92dc0f2662e2e997ea5248e7990deef09b8049"
+    }
+   ]
+  },
+  {
+   "slug": "digital-content-directive",
+   "short": "Directive 2019/770",
+   "title": "Directive (EU) 2019/770 of the European Parliament and of the Council of 20 May 2019 on certain aspects concerning contracts for the supply of digital content and digital services (Text with EEA relevance.)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0770",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 27,
+     "source_url": "http://publications.europa.eu/resource/celex/32019L0770",
+     "sha256": "f7f39a97410dcb4183ffdb9abac316cd1dfbcc2805a614f0aa6adc112c0fcfcc"
+    }
+   ]
+  },
+  {
+   "slug": "sale-of-goods-directive",
+   "short": "Directive 2019/771",
+   "title": "Directive (EU) 2019/771 of the European Parliament and of the Council of 20 May 2019 on certain aspects concerning contracts for the sale of goods, amending Regulation (EU) 2017/2394 and Directive 2009/22/EC, and repealing Directive 1999/44/EC (Text with EEA relevance.)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0771",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 27,
+     "source_url": "http://publications.europa.eu/resource/celex/32019L0771",
+     "sha256": "b40ba573f6a1800cf766c0a89fd894e99c45a2ff7e1418ff76a77a1b3e9632d6"
+    },
+    {
+     "from": "2026-07-31",
+     "units": 27,
+     "source_url": "http://publications.europa.eu/resource/celex/02019L0771-20260731",
+     "sha256": "342729740cf4da6f1fafd191d341b0083ecd9de6457ffa7d67bc895df1cda96e"
+    }
+   ]
+  },
+  {
+   "slug": "mortgage-credit-directive",
+   "short": "Council 2014/17",
+   "title": "Directive 2014/17/EU of the European Parliament and of the Council of 4 February 2014 on credit agreements for consumers relating to residential immovable property and amending Directives 2008/48/EC and 2013/36/EU and Regulation (EU) No 1093/2010 Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0017",
+   "versions": [
+    {
+     "from": "2023-12-30",
+     "units": 52,
+     "source_url": "http://publications.europa.eu/resource/celex/02014L0017-20231230",
+     "sha256": "6366e0623dc4c134ff9bfd354b6517de399ffd736d118f249a482a0325f3f346"
+    }
+   ]
+  },
+  {
+   "slug": "representative-actions-directive",
+   "short": "Directive 2020/1828",
+   "title": "Directive (EU) 2020/1828 of the European Parliament and of the Council of 25 November 2020 on representative actions for the protection of the collective interests of consumers and repealing Directive 2009/22/EC (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020L1828",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 26,
+     "source_url": "http://publications.europa.eu/resource/celex/02020L1828-20241213",
+     "sha256": "ecda29f9b44560a365287ec6487d759c6478ab8f88490c619fb411d32cd0ec94"
+    }
+   ]
   }
  ]
 }
