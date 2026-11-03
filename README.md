@@ -176,7 +176,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `eltif-regulation/` | Regulation (EU) 2015/760 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds (Text with EEA relevance) | 1 | as enacted, in force 2015-06-08 |
 | `euveca-regulation/` | Regulation (EU) No 345/2013 of the European Parliament and of the Council of 17 April 2013 on European venture capital funds Text with EEA relevance | 4 | as enacted, in force 2013-05-15; latest consolidated version 2024-01-09 |
 
-Also in this record: the current text of 3345 more regulations and directives in force (1178 directives, 2167 regulations), each in its latest consolidated version or, if never amended, as published in the Official Journal, filed as `regulation-<year>-<number>/` and `directive-<year>-<number>/`.
+Also in this record: the current text of 3901 more regulations and directives in force (1178 directives, 2723 regulations), each in its latest consolidated version or, if never amended, as published in the Official Journal, filed as `regulation-<year>-<number>/` and `directive-<year>-<number>/`.
 
 Every text comes from the Publications Office of the European Union (EUR-Lex and its Cellar repository). The Treaties are the consolidated versions published in the Official Journal C series (2008, 2012 and 2016). Each regulation and directive starts with the act as published in the Official Journal and continues through every consolidated version EUR-Lex has made of it. The per-act `README.md` in each folder lists every article, how often it changed and when.
 
