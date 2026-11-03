@@ -7,9 +7,10 @@ HERE = Path(__file__).resolve().parent
 
 
 def main():
-    acts = []
+    acts, current = [], []
     for p in sorted((HERE / 'corpus.d').glob('*.json')):
-        acts += json.loads(p.read_text(encoding='utf-8'))['acts']
+        # breadth parts (95-*-current.json): current text of every act in force, counted, not tabled
+        (current if p.name.startswith('95-') else acts).extend(json.loads(p.read_text(encoding='utf-8'))['acts'])
     rows = []
     for a in acts:
         vs = a['versions']
@@ -22,12 +23,22 @@ def main():
     end = s.index('\n', start)
     nxt = s.index('\n\n', end)
     s = s[:end + 1] + '\n'.join(rows) + s[nxt:]
+    s = re.sub(r'\n\nAlso in this record: the current text of [^\n]*', '', s)
+    if current:
+        n_l = sum(1 for a in current if a['url'][-5] == 'L')
+        line = (f'Also in this record: the current text of {len(current)} more regulations and directives in force '
+                f'({n_l} directives, {len(current) - n_l} regulations), each in its latest consolidated version or, if '
+                'never amended, as published in the Official Journal, filed as `regulation-<year>-<number>/` and '
+                '`directive-<year>-<number>/`.')
+        at = s.index('\n\n', s.index('| `charter/` |'))
+        s = s[:at] + '\n\n' + line + s[at:]
     p.write_text(s, encoding='utf-8', newline='\n')
     j = HERE / 'repo' / 'jurisdiction.json'
     d = json.loads(j.read_text(encoding='utf-8'))
     d['build'] = (f'built: TEU (2009-2016), TFEU (2009-2016), Charter of Fundamental Rights (2009), and {len(acts)} '
                   'regulations and directives with every EUR-Lex consolidated version (GDPR, DSA, DMA, AI Act, eIDAS, '
-                  'Brussels I bis, Rome I and II, MiFID II, CRR, CRD, EMIR, VAT Directive, REACH and others)')
+                  'Brussels I bis, Rome I and II, MiFID II, CRR, CRD, EMIR, VAT Directive, REACH and others)'
+                  + (f'; and the current text of {len(current)} more regulations and directives in force' if current else ''))
     j.write_text(json.dumps(d, indent=2, ensure_ascii=False) + '\n', encoding='utf-8', newline='\n')
     print(len(rows), 'acts in README')
 
