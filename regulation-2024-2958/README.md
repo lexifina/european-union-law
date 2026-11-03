@@ -1,0 +1,9 @@
+# Commission Implementing Regulation (EU) 2024/2958 of 29 November 2024 determining the output indicators relevant for Regulation (EU) 2023/988 of the European Parliament and of the Council on general product safety
+
+Regulation 2024/2958 · 1 versions, from 2024-12-22 (latest in force: 2024-12-22) · <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2958>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Article 1 | [art-001.md](art-001.md) | 0 |  |
+| Article 2 | [art-002.md](art-002.md) | 0 |  |
+| Article 3 | [art-003.md](art-003.md) | 0 |  |

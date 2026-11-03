@@ -1,0 +1,8 @@
+# Commission Implementing Regulation (EU) 2024/2714 of 24 October 2024 making imports of epoxy resins originating in the People’s Republic of China, the Republic of Korea, Taiwan and Thailand subject to registration
+
+Regulation 2024/2714 · 1 versions, from 2024-10-26 (latest in force: 2024-10-26) · <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2714>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Article 1 | [art-001.md](art-001.md) | 0 |  |
+| Article 2 | [art-002.md](art-002.md) | 0 |  |
