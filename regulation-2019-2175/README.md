@@ -1,0 +1,61 @@
+# Regulation (EU) 2019/2175 of the European Parliament and of the Council of 18 December 2019 amending Regulation (EU) No 1093/2010 establishing a European Supervisory Authority (European Banking Authority), Regulation (EU) No 1094/2010 establishing a European Supervisory Authority (European Insurance and Occupational Pensions Authority), Regulation (EU) No 1095/2010 establishing a European Supervisory Authority (European Securities and Markets Authority), Regulation (EU) No 600/2014 on markets in financial instruments, Regulation (EU) 2016/1011 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds, and Regulation (EU) 2015/847 on information accompanying transfers of funds (Text with EEA relevance) (Text with EEA relevance)
+
+Regulation 2019/2175 · 1 versions, from 2019-12-30 (latest in force: 2019-12-30) · <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R2175>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Article 1 | [art-001.md](art-001.md) | 0 |  |
+| Article 2 | [art-002.md](art-002.md) | 0 |  |
+| Article 3 | [art-003.md](art-003.md) | 0 |  |
+| Article 4 | [art-004.md](art-004.md) | 0 |  |
+| Article 5 | [art-005.md](art-005.md) | 0 |  |
+| Article 6 | [art-006.md](art-006.md) | 0 |  |
+| Article 7 | [art-007.md](art-007.md) | 0 |  |
+| Article 9b | [art-009-b.md](art-009-b.md) | 0 |  |
+| Article 9c | [art-009-c.md](art-009-c.md) | 0 |  |
+| Article 16b | [art-016-b.md](art-016-b.md) | 0 |  |
+| Article 27a | [art-027-a.md](art-027-a.md) | 0 |  |
+| Article 27b | [art-027-b.md](art-027-b.md) | 0 |  |
+| Article 27c | [art-027-c.md](art-027-c.md) | 0 |  |
+| Article 27d | [art-027-d.md](art-027-d.md) | 0 |  |
+| Article 27e | [art-027-e.md](art-027-e.md) | 0 |  |
+| Article 27f | [art-027-f.md](art-027-f.md) | 0 |  |
+| Article 27g | [art-027-g.md](art-027-g.md) | 0 |  |
+| Article 27h | [art-027-h.md](art-027-h.md) | 0 |  |
+| Article 27i | [art-027-i.md](art-027-i.md) | 0 |  |
+| Article 31b | [art-031-b.md](art-031-b.md) | 0 |  |
+| Article 38a | [art-038-a.md](art-038-a.md) | 0 |  |
+| Article 38b | [art-038-b.md](art-038-b.md) | 0 |  |
+| Article 38c | [art-038-c.md](art-038-c.md) | 0 |  |
+| Article 38d | [art-038-d.md](art-038-d.md) | 0 |  |
+| Article 38e | [art-038-e.md](art-038-e.md) | 0 |  |
+| Article 38f | [art-038-f.md](art-038-f.md) | 0 |  |
+| Article 38g | [art-038-g.md](art-038-g.md) | 0 |  |
+| Article 38h | [art-038-h.md](art-038-h.md) | 0 |  |
+| Article 38i | [art-038-i.md](art-038-i.md) | 0 |  |
+| Article 38j | [art-038-j.md](art-038-j.md) | 0 |  |
+| Article 38k | [art-038-k.md](art-038-k.md) | 0 |  |
+| Article 38l | [art-038-l.md](art-038-l.md) | 0 |  |
+| Article 38m | [art-038-m.md](art-038-m.md) | 0 |  |
+| Article 38n | [art-038-n.md](art-038-n.md) | 0 |  |
+| Article 38o | [art-038-o.md](art-038-o.md) | 0 |  |
+| Article 42 | [art-042.md](art-042.md) | 0 |  |
+| Article 45b | [art-045-b.md](art-045-b.md) | 0 |  |
+| Article 48a | [art-048-a.md](art-048-a.md) | 0 |  |
+| Article 48b | [art-048-b.md](art-048-b.md) | 0 |  |
+| Article 48c | [art-048-c.md](art-048-c.md) | 0 |  |
+| Article 48d | [art-048-d.md](art-048-d.md) | 0 |  |
+| Article 48e | [art-048-e.md](art-048-e.md) | 0 |  |
+| Article 48f | [art-048-f.md](art-048-f.md) | 0 |  |
+| Article 48g | [art-048-g.md](art-048-g.md) | 0 |  |
+| Article 48h | [art-048-h.md](art-048-h.md) | 0 |  |
+| Article 48i | [art-048-i.md](art-048-i.md) | 0 |  |
+| Article 48j | [art-048-j.md](art-048-j.md) | 0 |  |
+| Article 48k | [art-048-k.md](art-048-k.md) | 0 |  |
+| Article 48l | [art-048-l.md](art-048-l.md) | 0 |  |
+| Article 48m | [art-048-m.md](art-048-m.md) | 0 |  |
+| Article 48n | [art-048-n.md](art-048-n.md) | 0 |  |
+| Article 54b | [art-054-b.md](art-054-b.md) | 0 |  |
+| Article 57 | [art-057.md](art-057.md) | 0 |  |
+| Article 64 | [art-064.md](art-064.md) | 0 |  |
+| Article 65 | [art-065.md](art-065.md) | 0 |  |
