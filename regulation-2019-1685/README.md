@@ -1,0 +1,8 @@
+# Commission Implementing Regulation (EU) 2019/1685 of 4 October 2019 designating a European Union Reference Centre for Animal Welfare for poultry and other small farmed animals (Text with EEA relevance)
+
+Regulation 2019/1685 · 1 versions, from 2019-10-29 (latest in force: 2019-10-29) · <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1685>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Article 1 | [art-001.md](art-001.md) | 0 |  |
+| Article 2 | [art-002.md](art-002.md) | 0 |  |
