@@ -12054,6 +12054,1126 @@
      "sha256": "f0878d35dee1150e42a9db8dbc09fcf6fc3f986df4432d298affdc2c39a95701"
     }
    ]
+  },
+  {
+   "slug": "directive-2025-50",
+   "short": "Directive 2025/50",
+   "title": "Council Directive (EU) 2025/50 of 10 December 2024 on faster and safer relief of excess withholding taxes",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025L0050",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 27,
+     "source_url": "http://publications.europa.eu/resource/celex/32025L0050",
+     "sha256": "865a14778f2b6e110ee483e234dd16b633db0a5c0573da3063050d6f93853275"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2025-516",
+   "short": "Directive 2025/516",
+   "title": "Council Directive (EU) 2025/516 of 11 March 2025 amending Directive 2006/112/EC as regards VAT rules for the digital age",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025L0516",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 22,
+     "source_url": "http://publications.europa.eu/resource/celex/32025L0516",
+     "sha256": "aaf936a693f4d992685b774bc58449e7802a0d6f6df0553948e4c52aa8d1ef04"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2025-2205",
+   "short": "Directive 2025/2205",
+   "title": "Directive (EU) 2025/2205 of the European Parliament and of the Council of 22 October 2025 on driving licences, amending Regulation (EU) 2018/1724 of the European Parliament and of the Council and Directive (EU) 2022/2561 of the European Parliament and of the Council, and repealing Directive 2006/126/EC of the European Parliament and of the Council and Commission Regulation (EU) No 383/2012 (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025L2205",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 32,
+     "source_url": "http://publications.europa.eu/resource/celex/32025L2205",
+     "sha256": "93af01d2371346da334ac7734d6d753727dab731b78442c42221b9d3865af02a"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2024-1069",
+   "short": "Directive 2024/1069",
+   "title": "Directive (EU) 2024/1069 of the European Parliament and of the Council of 11 April 2024 on protecting persons who engage in public participation from manifestly unfounded claims or abusive court proceedings (‘Strategic lawsuits against public participation’)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1069",
+   "versions": [
+    {
+     "from": "2024-05-06",
+     "units": 24,
+     "source_url": "http://publications.europa.eu/resource/celex/32024L1069",
+     "sha256": "a5dae8f380e19484d8be7e75fc1c246a51e0b2fac4e76bef92e470ec0e69bd92"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2024-1174",
+   "short": "Directive 2024/1174",
+   "title": "Directive (EU) 2024/1174 of the European Parliament and of the Council of 11 April 2024 amending Directive 2014/59/EU and Regulation (EU) No 806/2014 as regards certain aspects of the minimum requirement for own funds and eligible liabilities (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1174",
+   "versions": [
+    {
+     "from": "2024-05-12",
+     "units": 5,
+     "source_url": "http://publications.europa.eu/resource/celex/32024L1174",
+     "sha256": "8c179b1f8a847e7d9ff9b26df493d232074392575246b5867a0a1545c42eb054"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2024-1226",
+   "short": "Directive 2024/1226",
+   "title": "Directive (EU) 2024/1226 of the European Parliament and of the Council of 24 April 2024 on the definition of criminal offences and penalties for the violation of Union restrictive measures and amending Directive (EU) 2018/1673",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1226",
+   "versions": [
+    {
+     "from": "2024-05-19",
+     "units": 22,
+     "source_url": "http://publications.europa.eu/resource/celex/32024L1226",
+     "sha256": "0341da41190174f46ecef65131a0720be84280c07a97a08f0b181fd6ea5b7d55"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2024-1233",
+   "short": "Directive 2024/1233",
+   "title": "Directive (EU) 2024/1233 of the European Parliament and of the Council of 24 April 2024 on a single application procedure for a single permit for third-country nationals to reside and work in the territory of a Member State and on a common set of rights for third-country workers legally residing in a Member State (recast)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1233",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 21,
+     "source_url": "http://publications.europa.eu/resource/celex/32024L1233",
+     "sha256": "c01d3ae65fe3232ffff6fcd7e2736838d7ae5ea2c7a41c8340e30efd41b810cd"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2024-1260",
+   "short": "Directive 2024/1260",
+   "title": "Directive (EU) 2024/1260 of the European Parliament and of the Council of 24 April 2024 on asset recovery and confiscation",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1260",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 38,
+     "source_url": "http://publications.europa.eu/resource/celex/32024L1260",
+     "sha256": "be47c2aa009e1b890fb215bb0f3efacd1e8575baf965ba61cd020edd7f834fbf"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2024-1265",
+   "short": "Directive 2024/1265",
+   "title": "Council Directive (EU) 2024/1265 of 29 April 2024 amending Directive 2011/85/EU on requirements for budgetary frameworks of the Member States",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1265",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 5,
+     "source_url": "http://publications.europa.eu/resource/celex/32024L1265",
+     "sha256": "53a5adda6944b2dd7947a4ef66ae800d68d0f97677cfd569143e65809951d28c"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2024-1405",
+   "short": "Directive 2024/1405",
+   "title": "Commission Delegated Directive (EU) 2024/1405 of 14 March 2024 amending Annex IX to Directive (EU) 2018/2001 of the European Parliament and of the Council as regards adding feedstock for the production of biofuels and biogas",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1405",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32024L1405",
+     "sha256": "61324346f0522e96ad01430a329af6e4ec5cfc8ae27108c20147217a70354e4a"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2024-1416",
+   "short": "Directive 2024/1416",
+   "title": "Commission Delegated Directive (EU) 2024/1416 of 13 March 2024 amending Directive 2011/65/EU of the European Parliament and of the Council as regards an exemption for cadmium in downshifting quantum dots directly deposited on LED semiconductor chips",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1416",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32024L1416",
+     "sha256": "ba0ab34fd8baebd4249e49e2a9de751cf65e7ee6c14f2714bcf6edd41614b885"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2024-1499",
+   "short": "Directive 2024/1499",
+   "title": "Council Directive (EU) 2024/1499 of 7 May 2024 on standards for equality bodies in the field of equal treatment between persons irrespective of their racial or ethnic origin, equal treatment in matters of employment and occupation between persons irrespective of their religion or belief, disability, age or sexual orientation, equal treatment between women and men in matters of social security and in the access to and supply of goods and services, and amending Directives 2000/43/EC and 2004/113/EC",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1499",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 26,
+     "source_url": "http://publications.europa.eu/resource/celex/32024L1499",
+     "sha256": "7cb323e861b3325d53011dda14e0a265c08dcbbd2522f5e91df62f09e2dad75c"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2024-1500",
+   "short": "Directive 2024/1500",
+   "title": "Directive (EU) 2024/1500 of the European Parliament and of the Council of 14 May 2024 on standards for equality bodies in the field of equal treatment and equal opportunities between women and men in matters of employment and occupation, and amending Directives 2006/54/EC and 2010/41/EU",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1500",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 26,
+     "source_url": "http://publications.europa.eu/resource/celex/32024L1500",
+     "sha256": "4330ffb518ffb5f664265f8da46545c85003c1f716d57cc1996d535038c224f3"
+    }
+   ]
+  },
+  {
+   "slug": "anti-money-laundering-directive-6",
+   "short": "Directive 2024/1640",
+   "title": "Directive (EU) 2024/1640 of the European Parliament and of the Council of 31 May 2024 on the mechanisms to be put in place by Member States for the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Directive(EU) 2019/1937, and amending and repealing Directive (EU) 2015/849 (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L1640",
+   "versions": [
+    {
+     "from": "2024-07-09",
+     "units": 80,
+     "source_url": "http://publications.europa.eu/resource/celex/32024L1640",
+     "sha256": "184b35caab8c30f7cb9449d12756aeaaf6c5c7c03784da09df6d7fcb688000dd"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2024-2823",
+   "short": "Directive 2024/2823",
+   "title": "Directive (EU) 2024/2823 of the European Parliament and of the Council of 23 October 2024 on the legal protection of designs (recast) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2823",
+   "versions": [
+    {
+     "from": "2024-12-08",
+     "units": 39,
+     "source_url": "http://publications.europa.eu/resource/celex/32024L2823",
+     "sha256": "e1627687aa0703d43fa870176065adf1ad148bfe6d681e34923b4e01d905b6b2"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2024-2839",
+   "short": "Directive 2024/2839",
+   "title": "Directive (EU) 2024/2839 of the European Parliament and of the Council of 23 October 2024 amending Directives 1999/2/EC, 2000/14/EC, 2011/24/EU and 2014/53/EU as regards certain reporting requirements in the fields of food and food ingredients, outdoor noise, patients’ rights, and radio equipment (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2839",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 7,
+     "source_url": "http://publications.europa.eu/resource/celex/32024L2839",
+     "sha256": "a729eac0187afa8c44f4877dab416868d7178cff21a6fe3f02fa842cea6a2e11"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2024-2881",
+   "short": "Directive 2024/2881",
+   "title": "Directive (EU) 2024/2881 of the European Parliament and of the Council of 23 October 2024 on ambient air quality and cleaner air for Europe (recast)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2881",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 33,
+     "source_url": "http://publications.europa.eu/resource/celex/32024L2881",
+     "sha256": "847ab7a040ab1a0f37fa57fe6fc849338cb940c7fb57c155460dcaf20be2e617"
+    }
+   ]
+  },
+  {
+   "slug": "pay-transparency-directive",
+   "short": "Directive 2023/970",
+   "title": "Directive (EU) 2023/970 of the European Parliament and of the Council of 10 May 2023 to strengthen the application of the principle of equal pay for equal work or work of equal value between men and women through pay transparency and enforcement mechanisms (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023L0970",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 37,
+     "source_url": "http://publications.europa.eu/resource/celex/32023L0970",
+     "sha256": "2039ed09dc2e30ecb990d1514c928e64ec7beb2a8c15283a8bee176422d5756f"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2023-977",
+   "short": "Directive 2023/977",
+   "title": "Directive (EU) 2023/977 of the European Parliament and of the Council of 10 May 2023 on the exchange of information between the law enforcement authorities of Member States and repealing Council Framework Decision 2006/960/JHA",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023L0977",
+   "versions": [
+    {
+     "from": "2023-06-11",
+     "units": 24,
+     "source_url": "http://publications.europa.eu/resource/celex/32023L0977",
+     "sha256": "b48c275720c0930c4574d3f32550053a909282b0ae9e1cb3037d067210137bcb"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2022-278",
+   "short": "Directive 2022/278",
+   "title": "Commission Delegated Directive (EU) 2022/278 of 13 December 2021 amending, for the purposes of adapting to scientific and technical progress, Annex III to Directive 2011/65/EU of the European Parliament and of the Council as regards an exemption for the use of mercury in metal halide lamps (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L0278",
+   "versions": [
+    {
+     "from": "2022-03-16",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32022L0278",
+     "sha256": "219be54cfb6911a528ada2e0ca1509ee180e06172df125edca214e5c38f554e2"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2022-993",
+   "short": "Directive 2022/993",
+   "title": "Directive (EU) 2022/993 of the European Parliament and of the Council of 8 June 2022 on the minimum level of training of seafarers (codification) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L0993",
+   "versions": [
+    {
+     "from": "2022-07-17",
+     "units": 36,
+     "source_url": "http://publications.europa.eu/resource/celex/32022L0993",
+     "sha256": "8fbcbf23353e60d7a9398739a8a2c2d7fe5b8fb067c3ce4e867a8b52739bfcb2"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2022-2557",
+   "short": "Directive 2022/2557",
+   "title": "Directive (EU) 2022/2557 of the European Parliament and of the Council of 14 December 2022 on the resilience of critical entities and repealing Council Directive 2008/114/EC (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2557",
+   "versions": [
+    {
+     "from": "2023-01-16",
+     "units": 29,
+     "source_url": "http://publications.europa.eu/resource/celex/32022L2557",
+     "sha256": "fd1e80bbc7ee68a0b35fd51f4a2b618298258a58c6e7b8e0b971fb5cebb279d0"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2022-2561",
+   "short": "Directive 2022/2561",
+   "title": "Directive (EU) 2022/2561 of the European Parliament and of the Council of 14 December 2022 on the initial qualification and periodic training of drivers of certain road vehicles for the carriage of goods or passengers (codification) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022L2561",
+   "versions": [
+    {
+     "from": "2023-01-12",
+     "units": 16,
+     "source_url": "http://publications.europa.eu/resource/celex/32022L2561",
+     "sha256": "e64e7a0759f1869040726d107b3668ae5f100acb8f5f87179be7ab973170930b"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2021-555",
+   "short": "Directive 2021/555",
+   "title": "Directive (EU) 2021/555 of the European Parliament and of the Council of 24 March 2021 on control of the acquisition and possession of weapons (codification)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021L0555",
+   "versions": [
+    {
+     "from": "2021-04-26",
+     "units": 28,
+     "source_url": "http://publications.europa.eu/resource/celex/32021L0555",
+     "sha256": "33631e18d0139f38a7ca5b35580bf49e236dd54c4f095c9cd2092af47de1e20d"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2021-647",
+   "short": "Directive 2021/647",
+   "title": "Commission Delegated Directive (EU) 2021/647 of 15 January 2021 amending, for the purposes of adapting to scientific and technical progress, Annex III to Directive 2011/65/EU of the European Parliament and of the Council as regards an exemption for the use of certain lead and hexavalent chromium compounds in electric and electronic initiators of explosives for civil (professional) use (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021L0647",
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32021L0647",
+     "sha256": "50d01b2f5eda617224252032a616f17d515f78a622f6483a30c466421ec0d68e"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2021-1717",
+   "short": "Directive 2021/1717",
+   "title": "Commission Delegated Directive (EU) 2021/1717 of 9 July 2021 amending Directive 2014/45/EU of the European Parliament and of the Council as regards the updating of certain vehicle category designations and the addition of eCall to the list of test items, methods, reasons for failure and assessment of deficiencies in Annex I and Annex III to that Directive (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021L1717",
+   "versions": [
+    {
+     "from": "2021-10-17",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32021L1717",
+     "sha256": "8acd90cc215a3735dba09fab40c44d890b631d052919e35d4b61df04ca384391"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2021-2167",
+   "short": "Directive 2021/2167",
+   "title": "Directive (EU) 2021/2167 of the European Parliament and of the Council of 24 November 2021 on credit servicers and credit purchasers and amending Directives 2008/48/EC and 2014/17/EU (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021L2167",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 34,
+     "source_url": "http://publications.europa.eu/resource/celex/32021L2167",
+     "sha256": "2db7cb7491ed4d7d85c6a4b9e1f2e4b8143880dcc7b46fc43c181bd99d2725de"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2020-367",
+   "short": "Directive 2020/367",
+   "title": "Commission Directive (EU) 2020/367 of 4 March 2020 amending Annex III to Directive 2002/49/EC of the European Parliament and of the Council as regards the establishment of assessment methods for harmful effects of environmental noise (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020L0367",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32020L0367",
+     "sha256": "90a5a6c219513a72d5dabcb7dce5c37c965e4b1a6ba98ce8f3cedf541159c535"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2019-1",
+   "short": "Directive 2019/1",
+   "title": "Directive (EU) 2019/1 of the European Parliament and of the Council of 11 December 2018 to empower the competition authorities of the Member States to be more effective enforcers and to ensure the proper functioning of the internal market (Text with EEA relevance.)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0001",
+   "versions": [
+    {
+     "from": "2019-02-03",
+     "units": 37,
+     "source_url": "http://publications.europa.eu/resource/celex/32019L0001",
+     "sha256": "922346617b76dc09f75de93f3d255c1564bc5b05483bc83deb90e9d56f09a071"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2019-69",
+   "short": "Directive 2019/69",
+   "title": "Commission Implementing Directive (EU) 2019/69 of 16 January 2019 laying down technical specifications for alarm and signal weapons under Council Directive 91/477/EEC on control of the acquisition and possession of weapons (Text with EEA relevance.)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0069",
+   "versions": [
+    {
+     "from": "2019-02-06",
+     "units": 6,
+     "source_url": "http://publications.europa.eu/resource/celex/32019L0069",
+     "sha256": "8a3b2e9f2180e83505d6f4530979c53adeedbcbdff7101686cfac66ef91205d3"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2019-633",
+   "short": "Directive 2019/633",
+   "title": "Directive (EU) 2019/633 of the European Parliament and of the Council of 17 April 2019 on unfair trading practices in business-to-business relationships in the agricultural and food supply chain",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0633",
+   "versions": [
+    {
+     "from": "2019-04-30",
+     "units": 15,
+     "source_url": "http://publications.europa.eu/resource/celex/32019L0633",
+     "sha256": "0435df767ebe67bfeec2791b650904f1795e56f232139eba12d457fe7197adca"
+    }
+   ]
+  },
+  {
+   "slug": "online-broadcasting-directive",
+   "short": "Directive 2019/789",
+   "title": "Directive (EU) 2019/789 of the European Parliament and of the Council of 17 April 2019 laying down rules on the exercise of copyright and related rights applicable to certain online transmissions of broadcasting organisations and retransmissions of television and radio programmes, and amending Council Directive 93/83/EEC (Text with EEA relevance.)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L0789",
+   "versions": [
+    {
+     "from": "2019-06-06",
+     "units": 14,
+     "source_url": "http://publications.europa.eu/resource/celex/32019L0789",
+     "sha256": "a2872145e34a034791a2feb10ec48b0d38a8f692afcd236f89f59291b03dfc2f"
+    }
+   ]
+  },
+  {
+   "slug": "restructuring-directive",
+   "short": "Directive 2019/1023",
+   "title": "Directive (EU) 2019/1023 of the European Parliament and of the Council of 20 June 2019 on preventive restructuring frameworks, on discharge of debt and disqualifications, and on measures to increase the efficiency of procedures concerning restructuring, insolvency and discharge of debt, and amending Directive (EU) 2017/1132 (Directive on restructuring and insolvency) (Text with EEA relevance.)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1023",
+   "versions": [
+    {
+     "from": "2019-07-16",
+     "units": 36,
+     "source_url": "http://publications.europa.eu/resource/celex/32019L1023",
+     "sha256": "65a0cecc734262183bc7055c932a7e741523cd18752bd13ea4f7173824e331b1"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2019-1834",
+   "short": "Directive 2019/1834",
+   "title": "Commission Directive (EU) 2019/1834 of 24 October 2019 amending Annexes II and IV to Council Directive 92/29/EEC as regards purely technical adaptations",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1834",
+   "versions": [
+    {
+     "from": "2019-11-20",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32019L1834",
+     "sha256": "7587a8f3062ee78a34bd5724dbf7f35016aea0f86c38d38f05039ff08fc6e1e2"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2019-1846",
+   "short": "Directive 2019/1846",
+   "title": "Commission Delegated Directive (EU) 2019/1846 of 8 August 2019 amending, for the purposes of adapting to scientific and technical progress, Annex III to Directive 2011/65/EU of the European Parliament and of the Council as regards an exemption for lead in solders used in certain combustion engines (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1846",
+   "versions": [
+    {
+     "from": "2019-11-25",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32019L1846",
+     "sha256": "68320a4b323cda5b9cec264316084fccb812947f7321a37134d6c8ce4eb525ae"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2019-1922",
+   "short": "Directive 2019/1922",
+   "title": "Commission Directive (EU) 2019/1922 of 18 November 2019 amending, for the purposes of adaptation to technical and scientific developments, point 13 of part III of Annex II to Directive 2009/48/EC of the European Parliament and of the Council on the safety of toys, as regards aluminium (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1922",
+   "versions": [
+    {
+     "from": "2019-12-09",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32019L1922",
+     "sha256": "206b3d59ee80704505f965f4627ce4e637406daf7df3891aee119e45d6723673"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2019-2177",
+   "short": "Directive 2019/2177",
+   "title": "Directive (EU) 2019/2177 of the European Parliament and of the Council of 18 December 2019 amending Directive 2009/138/EC on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II), Directive 2014/65/EU on markets in financial instruments and Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money-laundering or terrorist financing (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L2177",
+   "versions": [
+    {
+     "from": "2019-12-30",
+     "units": 8,
+     "source_url": "http://publications.europa.eu/resource/celex/32019L2177",
+     "sha256": "7ca0d3fcee2615b60fcccec49a3056d879e2ddb58460b8a5eaa9170a6848bd96"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2018-350",
+   "short": "Directive 2018/350",
+   "title": "Commission Directive (EU) 2018/350 of 8 March 2018 amending Directive 2001/18/EC of the European Parliament and of the Council as regards the environmental risk assessment of genetically modified organisms",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L0350",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32018L0350",
+     "sha256": "55eb47372032954431087a2a8565b8f5f13e8d6beaf72b5e985bb540a8468b54"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2018-410",
+   "short": "Directive 2018/410",
+   "title": "Directive (EU) 2018/410 of the European Parliament and of the Council of 14 March 2018 amending Directive 2003/87/EC to enhance cost-effective emission reductions and low-carbon investments, and Decision (EU) 2015/1814 (Text with EEA relevance. )",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L0410",
+   "versions": [
+    {
+     "from": "2018-04-08",
+     "units": 7,
+     "source_url": "http://publications.europa.eu/resource/celex/32018L0410",
+     "sha256": "f414b4c651bf1f67a020e868057a4f9d365a905ccd5451a8d838fe8611a8dd16"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2018-822",
+   "short": "Directive 2018/822",
+   "title": "Council Directive (EU) 2018/822 of 25 May 2018 amending Directive 2011/16/EU as regards mandatory automatic exchange of information in the field of taxation in relation to reportable cross-border arrangements",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018L0822",
+   "versions": [
+    {
+     "from": "2018-06-25",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32018L0822",
+     "sha256": "6a51196fc8f3eba267e39d89056ba11b6aca5b9529403865fb9fad099c76b5bb"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2017-828",
+   "short": "Directive 2017/828",
+   "title": "Directive (EU) 2017/828 of the European Parliament and of the Council of 17 May 2017 amending Directive 2007/36/EC as regards the encouragement of long-term shareholder engagement (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017L0828",
+   "versions": [
+    {
+     "from": "2017-06-09",
+     "units": 19,
+     "source_url": "http://publications.europa.eu/resource/celex/32017L0828",
+     "sha256": "54141eb721291e0f78aabc11a5b208b0f404a2adfafa26b546577169f6c7eb07"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2017-1564",
+   "short": "Directive 2017/1564",
+   "title": "Directive (EU) 2017/1564 of the European Parliament and of the Council of 13 September 2017 on certain permitted uses of certain works and other subject matter protected by copyright and related rights for the benefit of persons who are blind, visually impaired or otherwise print-disabled and amending Directive 2001/29/EC on the harmonisation of certain aspects of copyright and related rights in the information society",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017L1564",
+   "versions": [
+    {
+     "from": "2017-10-10",
+     "units": 13,
+     "source_url": "http://publications.europa.eu/resource/celex/32017L1564",
+     "sha256": "abb561aaa2fd45d416d95ff6053e72090be08f92ad00575d18a88647b00dd36a"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2017-1572",
+   "short": "Directive 2017/1572",
+   "title": "Commission Directive (EU) 2017/1572 of 15 September 2017 supplementing Directive 2001/83/EC of the European Parliament and of the Council as regards the principles and guidelines of good manufacturing practice for medicinal products for human use (Text with EEA relevance. )",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017L1572",
+   "versions": [
+    {
+     "from": "2017-10-06",
+     "units": 18,
+     "source_url": "http://publications.europa.eu/resource/celex/32017L1572",
+     "sha256": "5c24c407aa3514ac0a0693c225e3171f31549f0eaed9eb389378a62abc76c0f7"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2017-1852",
+   "short": "Directive 2017/1852",
+   "title": "Council Directive (EU) 2017/1852 of 10 October 2017 on tax dispute resolution mechanisms in the European Union",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017L1852",
+   "versions": [
+    {
+     "from": "2017-11-03",
+     "units": 24,
+     "source_url": "http://publications.europa.eu/resource/celex/32017L1852",
+     "sha256": "f21d70981e8ff51d1432f307568e0052ce83c999758c10a02bdbcee16c168d64"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2017-2103",
+   "short": "Directive 2017/2103",
+   "title": "Directive (EU) 2017/2103 of the European Parliament and of the Council of 15 November 2017 amending Council Framework Decision 2004/757/JHA in order to include new psychoactive substances in the definition of ‘drug’ and repealing Council Decision 2005/387/JHA",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017L2103",
+   "versions": [
+    {
+     "from": "2017-11-22",
+     "units": 6,
+     "source_url": "http://publications.europa.eu/resource/celex/32017L2103",
+     "sha256": "fd5154ef9e248e9009e8911a5740505a332935ccaa2ee7546ca25e621e09e43c"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2017-2110",
+   "short": "Directive 2017/2110",
+   "title": "Directive (EU) 2017/2110 of the European Parliament and of the Council of 15 November 2017 on a system of inspections for the safe operation of ro-ro passenger ships and high-speed passenger craft in regular service and amending Directive 2009/16/EC and repealing Council Directive 1999/35/EC (Text with EEA relevance. )",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017L2110",
+   "versions": [
+    {
+     "from": "2017-12-20",
+     "units": 19,
+     "source_url": "http://publications.europa.eu/resource/celex/32017L2110",
+     "sha256": "fb7ed24169a10b7d8392cd88fee4c59cd37185c554ee19e7bdfdcb6d1536ed2a"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2017-2398",
+   "short": "Directive 2017/2398",
+   "title": "Directive (EU) 2017/2398 of the European Parliament and of the Council of 12 December 2017 amending Directive 2004/37/EC on the protection of workers from the risks related to exposure to carcinogens or mutagens at work (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017L2398",
+   "versions": [
+    {
+     "from": "2018-01-16",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32017L2398",
+     "sha256": "5090f19efb314ea83ab17a06882272bc6d0d2e689dc3d306f77ea74233dc20ec"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2017-2399",
+   "short": "Directive 2017/2399",
+   "title": "Directive (EU) 2017/2399 of the European Parliament and of the Council of 12 December 2017 amending Directive 2014/59/EU as regards the ranking of unsecured debt instruments in insolvency hierarchy",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017L2399",
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "units": 5,
+     "source_url": "http://publications.europa.eu/resource/celex/32017L2399",
+     "sha256": "2fdeb3d371f15d4601a64e99a0d25900caa505b850582e0bcc8a28e8d5732251"
+    }
+   ]
+  },
+  {
+   "slug": "pnr-directive",
+   "short": "Directive 2016/681",
+   "title": "Directive (EU) 2016/681 of the European Parliament and of the Council of 27 April 2016 on the use of passenger name record (PNR) data for the prevention, detection, investigation and prosecution of terrorist offences and serious crime",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L0681",
+   "versions": [
+    {
+     "from": "2016-05-24",
+     "units": 22,
+     "source_url": "http://publications.europa.eu/resource/celex/32016L0681",
+     "sha256": "7180664d202f8df60c1ba917840ec6aca132d81edab25a51976887a432b5f8ec"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2016-802",
+   "short": "Directive 2016/802",
+   "title": "Directive (EU) 2016/802 of the European Parliament and of the Council of 11 May 2016 relating to a reduction in the sulphur content of certain liquid fuels (codification)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L0802",
+   "versions": [
+    {
+     "from": "2016-06-10",
+     "units": 21,
+     "source_url": "http://publications.europa.eu/resource/celex/32016L0802",
+     "sha256": "a082624ca0f505999b1fa8062a92ca682c1d23792241d37e6d22dd8d95e52703"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2016-1106",
+   "short": "Directive 2016/1106",
+   "title": "Commission Directive (EU) 2016/1106 of 7 July 2016 amending Directive 2006/126/EC of the European Parliament and of the Council on driving licences (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L1106",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32016L1106",
+     "sha256": "aed789947397dba5571b5f62eabcff39fa54976b67053f1c4a4778b6936a3a31"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2016-2102",
+   "short": "Directive 2016/2102",
+   "title": "Directive (EU) 2016/2102 of the European Parliament and of the Council of 26 October 2016 on the accessibility of the websites and mobile applications of public sector bodies (Text with EEA relevance )",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016L2102",
+   "versions": [
+    {
+     "from": "2016-12-22",
+     "units": 15,
+     "source_url": "http://publications.europa.eu/resource/celex/32016L2102",
+     "sha256": "4a84d4bd7482be1ba7eb437bf903c166056494ee0abfcc8d886086e9eda1003f"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2015-412",
+   "short": "Directive 2015/412",
+   "title": "Directive (EU) 2015/412 of the European Parliament and of the Council of 11 March 2015 amending Directive 2001/18/EC as regards the possibility for the Member States to restrict or prohibit the cultivation of genetically modified organisms (GMOs) in their territory Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L0412",
+   "versions": [
+    {
+     "from": "2015-04-02",
+     "units": 5,
+     "source_url": "http://publications.europa.eu/resource/celex/32015L0412",
+     "sha256": "b2281a8fcdb973392fad4b8484aef95810f02c75a769047a97f56b9c3dc3097e"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2015-637",
+   "short": "Directive 2015/637",
+   "title": "Council Directive (EU) 2015/637 of 20 April 2015 on the coordination and cooperation measures to facilitate consular protection for unrepresented citizens of the Union in third countries and repealing Decision 95/553/EC",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L0637",
+   "versions": [
+    {
+     "from": "2015-05-14",
+     "units": 21,
+     "source_url": "http://publications.europa.eu/resource/celex/32015L0637",
+     "sha256": "4dc9b71444ff14087c5e01ac28feeb8fb1c6c89d511d202655d02638418c5ead"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2015-1535",
+   "short": "Directive 2015/1535",
+   "title": "Directive (EU) 2015/1535 of the European Parliament and of the Council of 9 September 2015 laying down a procedure for the provision of information in the field of technical regulations and of rules on Information Society services (codification) (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L1535",
+   "versions": [
+    {
+     "from": "2015-10-07",
+     "units": 12,
+     "source_url": "http://publications.europa.eu/resource/celex/32015L1535",
+     "sha256": "f54873f8a587d1d855ca4684b58db6a282a601e18f352df49c5ae6fea22d33b5"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2015-1955",
+   "short": "Directive 2015/1955",
+   "title": "Commission Implementing Directive (EU) 2015/1955 of 29 October 2015 amending Annexes I and II to Council Directive 66/402/EEC on the marketing of cereal seed (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L1955",
+   "versions": [
+    {
+     "from": "2015-11-19",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32015L1955",
+     "sha256": "b39cc07902835e96c2b22850bfb53d729fa2c972f671da6c2ce38dcff7a1b9cf"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2015-2193",
+   "short": "Directive 2015/2193",
+   "title": "Directive (EU) 2015/2193 of the European Parliament and of the Council of 25 November 2015 on the limitation of emissions of certain pollutants into the air from medium combustion plants (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2193",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 19,
+     "source_url": "http://publications.europa.eu/resource/celex/32015L2193",
+     "sha256": "1fa25d3f7b065930826049fb0b309cd571ed7ddc10f6c59a209c31e4cd507a75"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2015-2203",
+   "short": "Directive 2015/2203",
+   "title": "Directive (EU) 2015/2203 of the European Parliament and of the Council of 25 November 2015 on the approximation of the laws of the Member States relating to caseins and caseinates intended for human consumption and repealing Council Directive 83/417/EEC",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2203",
+   "versions": [
+    {
+     "from": "2015-12-21",
+     "units": 10,
+     "source_url": "http://publications.europa.eu/resource/celex/32015L2203",
+     "sha256": "8ebde06967c9c8d3d2a820b109218206e24c0b94eeeb8abbbe0aeab1ca3c8a05"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2015-2376",
+   "short": "Directive 2015/2376",
+   "title": "Council Directive (EU) 2015/2376 of 8 December 2015 amending Directive 2011/16/EU as regards mandatory automatic exchange of information in the field of taxation",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2376",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 5,
+     "source_url": "http://publications.europa.eu/resource/celex/32015L2376",
+     "sha256": "60b1d34b7e044a1854880cca0cc4ca04cade2e0954b5bfecc393f36bff4843fc"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2014-5",
+   "short": "Directive 2014/5",
+   "title": "Commission Delegated Directive 2014/5/EU of 18 October 2013 amending, for the purposes of adapting to technical progress, Annex IV to Directive 2011/65/EU of the European Parliament and of the Council as regards an exemption for lead in solders on printed circuit boards, termination coatings of electrical and electronic components and coatings of printed circuit boards, solders for connecting wires and cables, solders connecting transducers and sensors that are used durably at a temperature below – 20 °C under normal operating and storage conditions Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0005",
+   "versions": [
+    {
+     "from": "2014-01-29",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0005",
+     "sha256": "23b657b576074a718c7fda2c28703f483414e7234ee205496fcd48c907c78b82"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2014-9",
+   "short": "Directive 2014/9",
+   "title": "Commission Delegated Directive 2014/9/EU of 18 October 2013 amending, for the purposes of adapting to technical progress, the Annex IV to Directive 2011/65/EU of the European Parliament and of the Council as regards an exemption for lead and cadmium in metallic bonds creating superconducting magnetic circuits in MRI, SQUID, NMR (Nuclear Magnetic Resonance) or FTMS (Fourier Transform Mass Spectrometer) detectors Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0009",
+   "versions": [
+    {
+     "from": "2014-01-29",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0009",
+     "sha256": "f644c77aa23a8b7e490cc28e080962c43c5ed77bb81057bc9ad6db5513ac6302"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2014-15",
+   "short": "Directive 2014/15",
+   "title": "Commission Delegated Directive 2014/15/EU of 18 October 2013 amending, for the purposes of adapting to technical progress, the Annex IV to Directive 2011/65/EU of the European Parliament and of the Council as regards an exemption for lead, cadmium and hexavalent chromium in reused spare parts, recovered from medical devices placed on the market before 22 July 2014 and used in category 8 equipment placed on the market before 22 July 2021 , provided that reuse takes place in auditable closed-loop business-to-business return systems, and that the reuse of parts is notified to the consumer Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0015",
+   "versions": [
+    {
+     "from": "2014-01-29",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0015",
+     "sha256": "875408b3edfaa216343002afa42524fcf0351bda07c7e573b1bb8d57296c4251"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2014-26",
+   "short": "Directive 2014/26",
+   "title": "Directive 2014/26/EU of the European Parliament and of the Council of 26 February 2014 on collective management of copyright and related rights and multi-territorial licensing of rights in musical works for online use in the internal market Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0026",
+   "versions": [
+    {
+     "from": "2014-04-09",
+     "units": 45,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0026",
+     "sha256": "ab3f4b222c71b240855b72b2b5055257460442b26ad474a61136b0a14fe42d9c"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2014-28",
+   "short": "Directive 2014/28",
+   "title": "Directive 2014/28/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market and supervision of explosives for civil uses (recast) Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0028",
+   "versions": [
+    {
+     "from": "2014-04-18",
+     "units": 55,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0028",
+     "sha256": "8e216e78d46b6850bed12da7cf732fbc4feef8935810fd1cde481ac6425d73db"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2014-31",
+   "short": "Directive 2014/31",
+   "title": "Directive 2014/31/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of non-automatic weighing instruments (recast) Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0031",
+   "versions": [
+    {
+     "from": "2014-04-18",
+     "units": 47,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0031",
+     "sha256": "c9e94af5ec1182eece268a39a01a9885c5a079f9965bea627762b59b39b07fd5"
+    }
+   ]
+  },
+  {
+   "slug": "seasonal-workers-directive",
+   "short": "Directive 2014/36",
+   "title": "Directive 2014/36/EU of the European Parliament and of the Council of 26 February 2014 on the conditions of entry and stay of third-country nationals for the purpose of employment as seasonal workers",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0036",
+   "versions": [
+    {
+     "from": "2014-03-29",
+     "units": 30,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0036",
+     "sha256": "2c19842c814c05a1b6195ec54f41e7776928a000cab17e4485b271ffbd94b182"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2014-51",
+   "short": "Directive 2014/51",
+   "title": "Directive 2014/51/EU of the European Parliament and of the Council of 16 April 2014 amending Directives 2003/71/EC and 2009/138/EC and Regulations (EC) No 1060/2009, (EU) No 1094/2010 and (EU) No 1095/2010 in respect of the powers of the European Supervisory Authority (European Insurance and Occupational Pensions Authority) and the European Supervisory Authority (European Securities and Markets Authority)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0051",
+   "versions": [
+    {
+     "from": "2014-05-23",
+     "units": 21,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0051",
+     "sha256": "afc019a2ea27362fed8ddabbd81063e74badd2a570ba343e8f32b5a5e1860d97"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2014-52",
+   "short": "Directive 2014/52",
+   "title": "Directive 2014/52/EU of the European Parliament and of the Council of 16 April 2014 amending Directive 2011/92/EU on the assessment of the effects of certain public and private projects on the environment Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0052",
+   "versions": [
+    {
+     "from": "2014-05-15",
+     "units": 5,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0052",
+     "sha256": "7ec703167ea199c278c7e92f58fda253ba0f8b90b3d9f19800146a00fb8d0654"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2014-55",
+   "short": "Directive 2014/55",
+   "title": "Directive 2014/55/EU of the European Parliament and of the Council of 16 April 2014 on electronic invoicing in public procurement Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0055",
+   "versions": [
+    {
+     "from": "2014-05-26",
+     "units": 14,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0055",
+     "sha256": "bc43453c645a8094479aac31635f66d1ea27b1dbc8c878ea4563cbd079f3bbc7"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2014-58",
+   "short": "Directive 2014/58",
+   "title": "Commission Implementing Directive 2014/58/EU of 16 April 2014 setting up, pursuant to Directive 2007/23/EC of the European Parliament and of the Council, a system for the traceability of pyrotechnic articles (Text with EEA relevance)",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0058",
+   "versions": [
+    {
+     "from": "2014-05-07",
+     "units": 6,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0058",
+     "sha256": "35de97cc0c78b5212fe011eb09d6ddfebbf8ddc1e49babeaf7652e79f2246a5b"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2014-66",
+   "short": "Directive 2014/66",
+   "title": "Directive 2014/66/EU of the European Parliament and of the Council of 15 May 2014 on the conditions of entry and residence of third-country nationals in the framework of an intra-corporate transfer",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0066",
+   "versions": [
+    {
+     "from": "2014-05-28",
+     "units": 29,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0066",
+     "sha256": "fba44fdbd992098b9a661f05a07ed20fd1a86a9ae6319a4b62f73535ce3aedee"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2014-70",
+   "short": "Directive 2014/70",
+   "title": "Commission Delegated Directive 2014/70/EU of 13 March 2014 amending, for the purposes of adapting to technical progress, Annex IV to Directive 2011/65/EU of the European Parliament and of the Council as regards an exemption for lead in micro-channel plates (MCPs) Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0070",
+   "versions": [
+    {
+     "from": "2014-06-09",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0070",
+     "sha256": "b9f5fc5dce58ccd0a9a4b64569570975592ef59e9f77f9e8402d78711306a0e8"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2014-71",
+   "short": "Directive 2014/71",
+   "title": "Commission Delegated Directive 2014/71/EU of 13 March 2014 amending, for the purposes of adapting to technical progress, Annex IV to Directive 2011/65/EU of the European Parliament and of the Council as regards an exemption for lead in solder in one interface of large area stacked die elements Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0071",
+   "versions": [
+    {
+     "from": "2014-06-09",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0071",
+     "sha256": "b70e88afe466d12899bf6c3433fafc8a1ea822229dbf1dbe6a43c4e7d587af27"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2014-72",
+   "short": "Directive 2014/72",
+   "title": "Commission Delegated Directive 2014/72/EU of 13 March 2014 amending, for the purposes of adapting to technical progress, Annex III to Directive 2011/65/EU of the European Parliament and of the Council as regards an exemption for lead in solders and termination finishes of electrical and electronic components and finishes of printed circuit boards used in ignition modules and other electrical and electronic engine control systems Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0072",
+   "versions": [
+    {
+     "from": "2014-06-09",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0072",
+     "sha256": "d67d3c50970736b59868a87e1f5c7f1d0555e6b39b7a703b083b392f16c07ef0"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2014-73",
+   "short": "Directive 2014/73",
+   "title": "Commission Delegated Directive 2014/73/EU of 13 March 2014 amending, for the purposes of adapting to technical progress, Annex IV to Directive 2011/65/EU of the European Parliament and of the Council as regards an exemption for lead in platinized platinum electrodes used for conductivity measurements Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0073",
+   "versions": [
+    {
+     "from": "2014-06-09",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0073",
+     "sha256": "4075f49538d9746e669ecce3cd97bfc318c1d6226c9be70229aa82fda267bb43"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2014-74",
+   "short": "Directive 2014/74",
+   "title": "Commission Delegated Directive 2014/74/EU of 13 March 2014 amending, for the purposes of adapting to technical progress, Annex IV to Directive 2011/65/EU of the European Parliament and of the Council as regards an exemption for lead used in other than C-press compliant pin connector systems for industrial monitoring and control instruments Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0074",
+   "versions": [
+    {
+     "from": "2014-06-09",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0074",
+     "sha256": "ce94163d90a3747053db1e9defce16337c596a32cce99bb082176d9760be0c15"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2014-76",
+   "short": "Directive 2014/76",
+   "title": "Commission Delegated Directive 2014/76/EU of 13 March 2014 amending, for the purposes of adapting to technical progress, Annex III to Directive 2011/65/EU of the European Parliament and of the Council as regards an exemption for Mercury in hand crafted luminous discharge tubes (HLDTs) used for signs, decorative or architectural and specialist lighting and light-artwork Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0076",
+   "versions": [
+    {
+     "from": "2014-06-09",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0076",
+     "sha256": "3a2c946f60cf8de9b59d13b29acde6b8667fab76d7e59241251e0801401019a4"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2014-82",
+   "short": "Directive 2014/82",
+   "title": "Commission Directive 2014/82/EU of 24 June 2014 amending Directive 2007/59/EC of the European Parliament and of the Council as regards general professional knowledge and medical and licence requirements Text with EEA relevance",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0082",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 5,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0082",
+     "sha256": "468898adcf6b4a82d42cf839d63ae6aa80a5d16b2cb75aa4b272aec1f75b4502"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2014-86",
+   "short": "Directive 2014/86",
+   "title": "Council Directive 2014/86/EU of 8 July 2014 amending Directive 2011/96/EU on the common system of taxation applicable in the case of parent companies and subsidiaries of different Member States",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0086",
+   "versions": [
+    {
+     "from": "2014-08-14",
+     "units": 4,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0086",
+     "sha256": "d543d043e84d0916b602d414afcd8fb24c30c54fe7b13828e52270b8ba5a5eb6"
+    }
+   ]
+  },
+  {
+   "slug": "directive-2014-89",
+   "short": "Directive 2014/89",
+   "title": "Directive 2014/89/EU of the European Parliament and of the Council of 23 July 2014 establishing a framework for maritime spatial planning",
+   "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0089",
+   "versions": [
+    {
+     "from": "2014-09-17",
+     "units": 17,
+     "source_url": "http://publications.europa.eu/resource/celex/32014L0089",
+     "sha256": "15c0d452a5348e5947ced18df59d15ec595182dd7890a55fa86bf78f5b8a1048"
+    }
+   ]
   }
  ]
 }
