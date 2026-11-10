@@ -1,0 +1,8 @@
+# Article 70h
+Access to justice
+1. Member States shall ensure that, in accordance with the relevant national legal system, members of the public concerned have access to a review procedure before a court of law or another independent and impartial body established by law to challenge the substantive or procedural legality of decisions, acts or omissions subject to this Chapter when one of the following conditions is met:
+(a) they have a sufficient interest;
+(b) they maintain the impairment of a right, where administrative procedural law of a Member State requires that as a precondition.
+Standing in the review procedure shall not be conditional on the role that the member of the public concerned played during a participatory phase of the decision-making procedures under this Directive.
+The review procedure shall be fair, equitable, timely and not prohibitively expensive, and shall provide for adequate and effective remedies, including injunctive relief as appropriate.
+2. Member States shall determine at what stage the decisions, acts or omissions may be challenged.

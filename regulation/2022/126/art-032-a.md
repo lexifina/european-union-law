@@ -1,0 +1,4 @@
+# Article 32a
+Rules applying to types of interventions implemented by transnational producer organisation and transnational associations of producer organisations
+Types of interventions under operational programmes implemented by transnational producer organisation and transnational associations of producer organisations shall comply with the national strategic plan and the national rules of the Member State, where the head office of the transnational producer organisation or the transnational association of producer organisation is located in accordance with Article 14 or 21 of Commission Delegated Regulation (EU) 2017/891.
+The Member State in which the head office of the transnational producer organisation or the transnational association of producer organisations is located shall be responsible for the approval of the operational programmes implemented by the transnational producer organisation or the transnational association of producer organisations.

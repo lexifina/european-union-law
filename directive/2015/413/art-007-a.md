@@ -1,0 +1,3 @@
+# Article 7a
+Financial support for cross-border cooperation
+The Commission shall provide financial support to initiatives that contribute to cross-border cooperation in the enforcement of road-safety-related traffic rules in the Union, in particular the exchange of best practices, the application of smart enforcement methodologies and techniques in the Member States, increasing the capacity building of enforcement authorities. Financial support may also be provided for awareness raising campaigns regarding cross-border enforcement of road-safety-related traffic rules and information campaigns throughout the Union on differences in national legislation.

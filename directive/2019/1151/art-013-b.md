@@ -1,0 +1,8 @@
+# Article 13b
+Recognition of identification means for the purposes of online procedures
+1. Member States shall ensure that the following electronic identification means can be used by applicants who are Union citizens in the online procedures referred to in this Chapter:
+(a) an electronic identification means issued under an electronic identification scheme approved by their own Member State;
+(b) an electronic identification means issued in another Member State and recognised for the purpose of cross-border authentication in accordance with Article 6 of Regulation (EU) No 910/2014.
+2. Member States may refuse to recognise electronic identification means where the assurance levels of those electronic identification means do not comply with the conditions set out in Article 6(1) of Regulation (EU) No 910/2014.
+3. All identification means recognised by Member States shall be made publicly available.
+4. Where justified by reason of the public interest in preventing identity misuse or alteration, Member States may, for the purposes of verifying an applicant's identity, take measures which could require the physical presence of that applicant before any authority or person or body mandated under national law to deal with any aspect of the online procedures referred to in this Chapter, including the drawing up of the instrument of constitution of a company. Member States shall ensure that the physical presence of an applicant may only be required on a case-by-case basis where there are reasons to suspect identity falsification, and that any other steps of the procedure can be completed online.

@@ -1,4 +1,0 @@
-# Article 60a
-The Member State of identification shall remind, by electronic means, taxable persons or intermediaries acting on their behalf who have failed to submit a VAT return under Articles 364, 369f or 369s of Directive 2006/112/EC of their obligation to submit such a return. The Member State of identification shall issue the reminder on the tenth day following that on which the return should have been submitted, and shall inform the other Member States by electronic means that a reminder has been issued.
-Any subsequent reminders and steps taken to assess and collect the VAT shall be the responsibility of the Member State of consumption concerned.
-Notwithstanding any reminders issued and any steps taken by a Member State of consumption, the taxable person or the intermediary acting on his behalf shall submit the VAT return to the Member State of identification.

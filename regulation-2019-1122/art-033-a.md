@@ -1,5 +1,0 @@
-# Article 33a
-Calculation of compliance status figures for regulated entities
-1. From 2028, the central administrator shall ensure that on 1 June of each year, the Union Registry indicates the compliance status figure for the preceding year for every regulated entity with a regulated entity holding account that is not in a closed status. This shall be done by calculating the sum of all allowances surrendered for the current period less the sum of all verified emissions corresponding to their fuel released for consumption in the current period and including the preceding year. The compliance status figure shall not be calculated for accounts that had their previous compliance status figure zero or positive and the year of last emissions was set to a year before the preceding year.
-2. The central administrator shall ensure that the Union Registry calculates the compliance status figure before the closure of the account pursuant to Article 26b.
-3. The central administrator shall ensure that the Union Registry records the compliance status figure for every regulated entity for each year.

@@ -1,0 +1,4 @@
+# Article 48b
+Protection of sharks in the NPFC Convention area
+1. Union fishing vessels fishing in the NPFC Convention area shall not fish for, retain on board, tranship or land sharks in the NPFC Convention area.
+2. When accidentally caught, specimens of the species referred to in paragraph 1 shall not be harmed and shall be promptly released.

@@ -1,0 +1,2 @@
+# Article 369xd
+A taxable person making use of this special scheme shall, for the taxable transactions carried out under this special scheme, be identified for VAT purposes in the Member State of identification only. For that purpose, the Member State of identification shall use the individual VAT identification number already allocated to the taxable person in respect of that taxable person's obligations under the internal system.

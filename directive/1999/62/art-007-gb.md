@@ -1,0 +1,14 @@
+# Article 7gb
+1. Member States may differentiate tolls and user charges for light-duty vehicles according to the environmental performance of the vehicle determined by the specific CO2 emissions combined, or weighted combined, recorded in entry 49 of the certificate of conformity of the vehicle, and by the Euro emission performance.
+Without prejudice to paragraph 2 of this Article, lower rates of tolls and user charges shall apply for passenger cars, minibuses and light commercial vehicles that meet both of the following conditions:
+(a) their specific CO2 emissions, determined in accordance with Commission Regulation (EU) 2017/1151, shall be zero or shall be below the following levels:
+(i) for the period 2021 to 2024, the EU fleet-wide targets2021 determined in accordance with Part A, point 6, and Part B, point 6, of Annex I to Regulation (EU) 2019/631 of the European Parliament and of the Council;
+(ii) for the period 2025 to 2029, the EU fleet-wide targets determined in accordance with Part A, point 6.1.1, and Part B, point 6.1.1, of Annex I to Regulation (EU) 2019/631;
+(iii) for the period 2030 onwards, the EU fleet-wide targets determined in accordance with Part A, point 6.1.2, and Part B, point 6.1.2, of Annex I to Regulation (EU) 2019/631;
+(b) their pollutant emissions, determined in accordance with Regulation (EU) 2017/1151, shall be as specified in the Table of Annex VII to this Directive. Member States may apply the reduction for zero-emission vehicles referred to in Annex VII to this Directive without applying reductions for the other emissions performance categories referred to in that Annex.
+2. From 1 January 2026, where technically practicable, Member States shall vary the tolls and the annual rate of the user charges for vans and minibuses according to the environmental performance of the vehicle, in accordance with the rules set out in Annex VII. For that purpose, the provisions of the second subparagraph of paragraph 1 shall be indicative.
+Where Member States choose to apply different emission performance criteria or levels of reduction to those set out in paragraph 1, or choose to include different or additional criteria, they shall notify the Commission of their choices and justify them, at least six months before the introduction of any variation.
+However, Member States may choose to apply reductions to zero-emission vehicles only, without applying any variation to other vehicles and without notifying the Commission.
+3. Subject to the conditions set out in paragraphs 1 and 2, Member States may take into account an improvement in the environmental performance of the vehicle which is linked to that vehicle's conversion to alternative fuels.
+4. Member States may adopt exceptional measures for the purpose of charging vehicles of historical interest.
+5. The variations referred to in this Article shall not be designed to generate additional revenues.

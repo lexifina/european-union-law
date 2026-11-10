@@ -1,6 +1,0 @@
-# Article 1e
-1. It shall be prohibited to sell, supply, transfer or export, directly or indirectly, dual-use goods and technology, whether or not originating in the Union, to any natural or legal person, entity or body in Belarus or for use in Belarus, if those items are or may be intended, in their entirety or in part, for military use or for a military end-user.
-Where the end-user is the Belarusian military, any dual-use goods and technology procured by it shall be deemed to be for military use.
-2. When deciding on requests for authorisations in accordance with Regulation (EC) No 428/2009, the competent authorities shall not grant an authorisation for exports to any natural or legal person, entity or body in Belarus or for use in Belarus, if they have reasonable grounds to believe that the end-user might be a military end-user or that the items might have a military end-use.
-The competent authorities may, however, grant an authorisation where the export concerns the execution of an obligation arising from a contract concluded before 25 June 2021, or ancillary contracts necessary for the execution of such a contract.
-Exporters shall supply the competent authorities with all relevant information required for their application for an export authorisation.

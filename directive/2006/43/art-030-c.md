@@ -1,0 +1,10 @@
+# Article 30c
+Publication of sanctions and measures
+1. Competent authorities shall publish on their official website at least any administrative sanction imposed for breach of the provisions of this Directive or of Regulation (EU) No 537/2014 in respect of which all rights of appeal have been exhausted or have expired, as soon as reasonably practicable immediately after the person sanctioned has been informed of that decision, including information concerning the type and nature of the breach and the identity of the natural or legal person on whom the sanction has been imposed.
+Where Member States permit publication of sanctions which are subject to appeal, competent authorities shall, as soon as reasonably practicable, also publish on their official website information concerning the status and outcome of any appeal.
+2. Competent authorities shall publish the sanctions imposed on an anonymous basis, and in a manner which is in conformity with national law, in any of the following circumstances:
+(a) where, in the event that the sanction is imposed on a natural person, publication of personal data is shown to be disproportionate by an obligatory prior assessment of the proportionality of such publication;
+(b) where publication would jeopardise the stability of financial markets or an ongoing criminal investigation;
+(c) where publication would cause disproportionate damage to the institutions or individuals involved.
+3. Competent authorities shall ensure that any publication in accordance with paragraph 1 is of proportionate duration and that it remains on their official website for a minimum period of five years after all rights of appeal have been exhausted or have expired.
+The publication of sanctions and measures and of any public statement shall respect fundamental rights as laid down in the Charter of Fundamental Rights of the European Union, in particular the right to respect for private and family life and the right to the protection of personal data. Member States may decide that such publication or any public statement is not to contain personal data within the meaning of point (a) of Article 2 of Directive 95/46/EC.

@@ -1,0 +1,2 @@
+# Article 63b
+Where no VAT return has been submitted, or where the VAT return has been submitted late or is incomplete or incorrect, or where the payment of VAT is late, any interest, penalties or any other charges shall be calculated and assessed by the Member State of consumption. The taxable person or the intermediary acting on his behalf shall pay such interests, penalties or any other charges directly to the Member State of consumption.

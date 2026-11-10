@@ -1,9 +1,0 @@
-# Article 7b
-Use of ECRIS-TCN for ETIAS verifications
-1. For the purpose of performing the tasks pursuant to Regulation (EU) 2018/1240, the ETIAS Central Unit shall have the right to access and search ECRIS-TCN data. However, the ETIAS Central Unit shall have the right to access, in accordance with Article 11(8) of that Regulation, only those data records to which a flag has been added pursuant to point (c) of Article 5(1) of this Regulation.
-The data referred to in the first subparagraph shall be used only for the purpose of verification by:
-(a) the ETIAS Central Unit pursuant to Article 22 of Regulation (EU) 2018/1240; or
-(b) the ETIAS National Units pursuant to Article 25a(2) of Regulation (EU) 2018/1240 for the purpose of consulting national criminal records; national criminal records shall be consulted prior to the assessments and decisions referred to in Article 26 of that Regulation and, where applicable, prior to the assessments and opinions pursuant to in Article 28 of that Regulation.
-2. The CIR shall be connected to the ESP to enable the automated verifications pursuant to Article 20, point (c)(ii) of Article 24(6) and point (b) of Article 54(1) of Regulation (EU) 2018/1240.
-3. Without prejudice to Article 24 of Regulation (EU) 2018/1240, the automated verifications pursuant to Article 20, point (c)(ii) of Article 24(6) and point (b) of Article 54(1) of that Regulation shall enable the subsequent verifications provided for in Articles 22 and 26 of that Regulation.
-For the purpose of proceeding with the verifications referred to in point (n) of Article 20(2) of Regulation (EU) 2018/1240, the ETIAS Central System shall use the ESP to compare the data in ETIAS with the ECRIS-TCN data to which a flag has been added pursuant to point (c) of Article 5(1) of this Regulation and Article 11(8) of Regulation (EU) 2018/1240, using the data listed in the correspondence table set out in Annex II to this Regulation.

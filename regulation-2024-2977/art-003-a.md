@@ -1,5 +1,0 @@
-# Article 3a
-Protection of the portrait
-1. In addition to information requirements pursuant to Regulation (EU) 2016/679, wallet providers shall ensure that the wallet solutions they provide issue warnings to wallet users where wallet-relying parties request the disclosure of the portrait, indicating that the request involves the sharing of biometric data and requires confirmation for the selective disclosure of the portrait.
-2. For the implementation of selectively disclosing the portrait to a wallet-relying party, the wallet providers shall ensure the wallet solutions require the wallet user to explicitly and specifically confirm the presentation of the portrait.
-3. The portrait shall not be retained by wallet-relying parties unless its processing is necessary for the purposes of identification and authentication in compliance with Union data protection law or where this is provided for by Union or national law, in compliance with Union data protection law. The portrait shall not be transferred to third countries or international organisations unless permitted by Union data protection law.

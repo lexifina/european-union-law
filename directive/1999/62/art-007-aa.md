@@ -1,0 +1,5 @@
+# Article 7aa
+1. Member States that applied tolls on their core trans-European transport network or on part of it, before 24 March 2022, may establish a combined charging system for all heavy-duty vehicles or for some types of heavy-duty vehicles.
+2. In that combined charging system, Member States may, notwithstanding Article 7(10), apply user charges for all heavy-duty vehicles or for some types of heavy-duty vehicles including for some weight categories of heavy-duty vehicles on the core trans-European transport network or parts of it, in accordance with Article 7(4).
+3. The user charges referred to in paragraph 2 of this Article shall be varied in accordance with Article7ga and according to the Euro emission class. In addition, Member States shall set user charges, including administrative costs, for the heavy-duty vehicles concerned, at a level that does not exceed the maximum rates laid down in Annex II.
+4. Member States establishing the combined charging scheme shall carry out an impact assessment or analysis explaining and justifying its introduction which shall be notified to the Commission at least six months before its introduction.

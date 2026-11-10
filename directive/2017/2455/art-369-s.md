@@ -1,0 +1,3 @@
+# Article 369s
+The taxable person making use of this special scheme or his intermediary shall submit by electronic means to the Member State of identification a VAT return for each month, whether or not distance sales of goods imported from third territories or third countries have been carried out. The VAT return shall be submitted by the end of the month following the end of the tax period covered by the return.
+Where a VAT return is to be submitted in accordance with the first paragraph, Member States shall not impose, for VAT purposes, any additional obligation or other formality upon importation.

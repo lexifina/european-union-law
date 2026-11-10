@@ -1,0 +1,10 @@
+# Article 30b
+1. Each transfer of a single-purpose voucher made by a taxable person acting in his own name shall be regarded as a supply of the goods or services to which the voucher relates. The actual handing over of the goods or the actual provision of the services in return for a single-purpose voucher accepted as consideration or part consideration by the supplier shall not be regarded as an independent transaction.
+Where a transfer of a single-purpose voucher is made by a taxable person acting in the name of another taxable person, that transfer shall be regarded as a supply of the goods or services to which the voucher relates made by the other taxable person in whose name the taxable person is acting.
+Where the supplier of goods or services is not the taxable person who, acting in his own name, issued the single-purpose voucher, that supplier shall however be deemed to have made the supply of the goods or services related to that voucher to that taxable person.
+2. The actual handing over of the goods or the actual provision of the services in return for a multi-purpose voucher accepted as consideration or part consideration by the supplier shall be subject to VAT pursuant to Article 2, whereas each preceding transfer of that multi-purpose voucher shall not be subject to VAT.
+Where a transfer of a multi-purpose voucher is made by a taxable person other than the taxable person carrying out the transaction subject to VAT pursuant to the first subparagraph, any supply of services that can be identified, such as distribution or promotion services, shall be subject to VAT.';
+(2) the following Article is inserted:
+'Article 73a
+Without prejudice to Article 73, the taxable amount of the supply of goods or services provided in respect of a multi-purpose voucher shall be equal to the consideration paid for the voucher or, in the absence of information on that consideration, the monetary value indicated on the multi-purpose voucher itself or in the related documentation, less the amount of VAT relating to the goods or services supplied.';
+(3) in Title XV, the following Chapter is inserted:

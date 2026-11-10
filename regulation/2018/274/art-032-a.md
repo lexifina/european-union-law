@@ -1,0 +1,4 @@
+# Article 32a
+Controls on unpackaged wine products
+In the case of imports of unpackaged wine products not covered by a computerised system or information system referred to in Article 14(1) of Delegated Regulation (EU) 2018/273, to enable checks, the competent authority of the Member State in which the place of unloading is situated may request consignees of consignments of unpackaged wine products to keep those consignments at the place of unloading on their premises for a maximum period of 10 working days. The consignees shall not dispatch, transfer or manipulate a consignment that was sampled by the competent authority during that period until they are informed of the result of the checks.
+Upon request from the consignees, the competent authority shall, in cases where it decides not to carry out checks on the consignment in question, allow the consignment to be dispatched before the end of the period referred to in the first subparagraph.

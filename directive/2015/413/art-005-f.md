@@ -1,0 +1,24 @@
+# Article 5f
+Mutual assistance in enforcement activities
+1. Member States shall provide enforcement assistance to each other in the case of non-payment of a road traffic fine imposed for the commission of a road-safety-related traffic offence listed in Article 2(1).
+2. After the service of the traffic offence notice to the person concerned and in the case of non-payment of a road traffic fine imposed by the competent authority of the Member State of the offence, that competent authority may request the competent authority of the Member State of registration or Member State of residence to assist in the enforcement of administrative decisions on road traffic fines related to road-safety-related traffic offences listed in Article 2(1).
+3. The request referred to in paragraph 2 shall be made only if all of the following conditions are met:
+(a) the decision on a road traffic fine is of an administrative nature, final and enforceable according to the applicable laws and regulations of the Member State of the offence;
+(b) the Member State of the offence is in possession of a proof of service to the person concerned of the request for the payment of the road traffic fine;
+(c) the person concerned was informed of and had an opportunity to exercise the legal remedies against the administrative decision imposing a road traffic fine according to the applicable laws and regulations of the Member State of the offence;
+(d) the road traffic fine is higher than EUR 70.
+4. The competent authority of the Member State of the offence shall, via its national contact point, send the request referred to in paragraph 2 to the Member State of registration or Member State of residence in an electronically structured form.
+5. If the person concerned can demonstrate that the payment of the road traffic fine has been made, the competent authority of the Member State of registration or Member State of residence shall promptly notify the competent authority of the Member State of the offence about this.
+6. The competent authorities of the Member State of registration or Member State of residence shall recognise the administrative decision on a road traffic fine which has been sent pursuant to this Article without any further formality being required and shall forthwith take all the necessary measures for its enforcement unless that competent authority decides to invoke one of the grounds for non-recognition or non-enforcement provided for in paragraph 8.
+7. The enforcement of the decision on a road traffic fine shall be governed by the laws and regulations applicable in the Member State of registration or Member State of residence.
+8. The competent authority of the Member State of registration or Member State of residence may refuse to recognise and enforce the administrative decision on a road traffic fine. It shall do so only if it has established any of the following:
+(a) the enforcement of the decision on a road traffic fine would be contrary to the principle ne bis in idem;
+(b) there is immunity under the law of the Member State of registration or Member State of residence, which makes it impossible to enforce the administrative decision on a road traffic fine;
+(c) the decision on a road traffic fine is no longer enforceable under the law of the Member State of registration or Member State of residence due to lapse of time;
+(d) the decision on a road traffic fine is not final;
+(e) the decision on a road traffic fine or at least its essential content is not translated as provided for in Article 5b;
+(f) the request is incomplete and cannot be completed by the competent authorities of the Member State of the offence;
+(g) the infringement of fundamental rights or fundamental legal principles as enshrined in the Charter of Fundamental Rights of the European Union.
+If a request is rejected, the competent authority of the Member State of the registration or the Member State of the residence shall notify the competent authority of the Member State of the offence, stating the reasons for the rejection.
+9. The sum of money obtained from the enforcement of the decision on a road traffic fine shall accrue to the Member State of registration or Member State of residence unless otherwise agreed between the Member State of the offence and the Member State of registration or Member State of residence. The money shall be accrued in the currency of the Member State of registration or Member State of residence, whichever of those Member States has received the request.
+10. Paragraphs 1 to 9 of this Article shall not preclude the application of Framework Decision 2005/214/JHA, bilateral or multilateral agreements or arrangements between Member States in so far as such agreements or arrangements help to simplify or facilitate further the procedures for the enforcement of financial penalties falling under the scope of this Directive.

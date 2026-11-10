@@ -1,0 +1,7 @@
+# Article 18a
+1. Member States may apply reduced rates of duty, which may be differentiated in accordance with the annual production of the producers concerned, to intermediate products made by independent small producers within the following limits:
+- the reduced rates shall not be applied to undertakings producing more than a total of 250 hl of such beverages per year,
+- the reduced rates, which may fall below the minimum rate, shall not be set more than 50 % below the standard national rate of intermediate products.
+2. Member States may limit the application of this Article to certain types of intermediate products.
+3. For the purposes of this Article, the term 'independent small producer' shall mean a producer of intermediate products which is legally and economically independent of any other producer of intermediate products, which uses premises situated physically apart from those of any other producers and which does not operate under licence. However, where two or more small producers cooperate, and their combined annual production does not exceed 250 hl, those producers may be treated as a single independent small producer.
+4. Member States shall ensure that any reduced rates they introduce apply equally to other intermediate products delivered into their territory from independent small producers situated in other Member States. In particular they shall ensure that no individual delivery from another Member State ever bears more duty than its exact national equivalent.

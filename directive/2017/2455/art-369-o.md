@@ -1,0 +1,2 @@
+# Article 369o
+The taxable person making use of this special scheme or an intermediary acting on his behalf, shall state to the Member State of identification when he commences or ceases his activity under this special scheme, or changes that activity in such a way that he no longer meets the conditions necessary for use of this special scheme. That information shall be communicated electronically.

@@ -1,0 +1,8 @@
+# Article 5a
+Capacity limitation for tropical tuna
+1. By 31 January of each year, Member States shall establish annual fishing and capacity management plans for tropical tuna.
+2. The Member States shall ensure that their overall longline and purse seine fleet capacity is managed in accordance with the annual fishing and capacity management plans referred to in paragraph 1, in particular to limit catches of tropical tuna, consistent with the catch limits established under Union law.
+3. Member States shall not increase their number of support vessels from the numbers recorded in June 2023.
+4. Member States shall report to the Commission the dates on which their entire catch limit of tropical tuna species has been utilised. The Commission shall promptly send that information to the ICCAT Secretariat.
+5. For Union purse seiners and large longline vessels (20 metres in length overall or greater), Member States shall report tropical tuna catches on a monthly basis to the Commission, increasing to weekly when 80 % of their catch limits have been caught.
+6. Every 3 months, Member States shall report to the Commission information on the quantity of tropical tunas by species caught by the vessels flying their flag within 15 calendar days of the end of the period during which the catches were made, namely by 15 April, 15 July and 15 October of each year and by 15 January of the following year, unless such information is sent on a monthly basis to the Commission. That information, whether sent every 3 months or on a monthly basis, shall be sent using the aggregated catch data report format. The Commission shall send that information to the ICCAT Secretariat by 30 April, 30 July and 30 October of each year and by 30 January of the following year.

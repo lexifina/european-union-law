@@ -1,4 +1,0 @@
-# Article 44a
-Vessel monitoring system
-Where fishing vessels have installed tracking devices in accordance with Article 9 of Council Regulation (EC) No 1224/2009, Member States shall ensure that the tracking devices of fishing vessels flying their flag are permanently and continuously operational and that the information is collected and transmitted to the competent authorities of the Member State at least once every hour for purse seiners and at least once every 2 hours for all other vessels targeting ICCAT species.
-In the event of technical failure or non-operation of the tracking device fitted on board a Union fishing vessel, the device shall be repaired or replaced as soon as possible and in any case within 1 month of the event, unless the vessel is no longer operating in the ICCAT Convention area. Union fishing vessels shall not start a fishing trip without the tracking device having been repaired or replaced.

@@ -1,0 +1,3 @@
+# Article 22a
+1. By 31 December 2028, the Commission shall assess the feasibility of a further lowering of the limit values on the basis of the Member States' reports submitted pursuant to Article 22, the availability of scientific evidence, technical developments and the relationship between new analytical methods and the numerical limit value.
+2. The Commission shall provide appropriate technical support to employers fulfilling the requirements of this Directive, and information about relevant Union funds, with a view to assisting Member States in making the best use of, and facilitating access to, those funds, in particular for small and medium-sized enterprises, including microenterprises.

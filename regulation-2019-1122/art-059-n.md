@@ -1,3 +1,0 @@
-# Article 59n
-Safety Reserve
-Upon introduction of the relevant greenhouse gas emissions data pursuant to Article 59d of this Regulation for the year 2030, the central administrator shall create in the EU ESR Safety Reserve Account a quantity of additional AEAs equal to the difference between 60 % of the sum of reviewed emissions for the year 2005 of all Member States as determined following the methodology in the Decision adopted pursuant to Article 4(3) of Regulation (EU) 2018/842 and the sum of the relevant reviewed greenhouse gas emissions data for all Member States for the year 2030. Such amount shall be between 0 and 105 million AEAs.

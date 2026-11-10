@@ -1,0 +1,4 @@
+# Article 1z
+Without prejudice to the applicable rules concerning reporting, confidentiality and professional secrecy, credit institutions shall:
+(a) supply to the national competent authority of the Member State where they are located or to the Commission by no later than 27 May 2022, a list of deposits exceeding EUR 100 000 held by Belarusian nationals or natural persons residing in Belarus, or by legal persons, entities or bodies established in Belarus. They shall provide updates regarding the amounts of such deposits every 12 months.
+(b) supply to the national competent authority of the Member State where they are located information on deposits exceeding EUR 100 000 held by Belarusian nationals or natural persons residing in Belarus who have acquired the citizenship of a Member State or residence rights in a Member State through an investor citizenship scheme or an investor residence scheme.

@@ -1,7 +1,0 @@
-# Article 3a
-By way of derogation from Article 3, competent authorities may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, after having determined that the funds or economic resources concerned are:
-(a) necessary to satisfy the basic needs of the natural persons listed in Annex III and dependent family members of such natural persons, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;
-(b) intended exclusively for the payment of reasonable professional fees and the reimbursement of incurred expenses associated with the provision of legal services;
-(c) intended exclusively for the payment of fees or service charges for the routine holding or maintenance of frozen funds or economic resources;
-(d) necessary for extraordinary expenses, provided that the competent authority has notified the competent authorities of the other Member States and the Commission of the grounds on which it considers that a specific authorisation should be granted, at least two weeks prior to the authorisation; or
-(e) to be paid into or from an account belonging to a diplomatic mission, or consular post or an international organisation enjoying immunities in accordance with international law, insofar as such payments are intended to be used for official purposes of the diplomatic mission, or consular post or international organisation.

@@ -1,5 +1,0 @@
-# Article 92b
-Obligation to notify a definitive ruling
-1. The competent authorities of the Member State having jurisdiction in respect of an infringement shall, without delay and in compliance with the applicable procedures under national law, notify the flag State, the State of which the natural person having committed the infringement is a national or where the legal person held liable for the infringement is established, and, where appropriate, the coastal State, port State or the State in which the processing takes place, of any definitive ruling related to such infringement.
-In the event of serious infringements detected in Union waters or in Union ports in relation to fishing vessels flying the flag of third countries, the competent authorities of the Member State concerned shall also, without delay, notify the Commission of any definitive ruling related to such infringements.
-2. In the event of a notification by the Member State referred to in paragraph 1, the flag Member State shall assign the appropriate number of points to the holder of the fishing licence and to the master of the fishing vessel concerned.

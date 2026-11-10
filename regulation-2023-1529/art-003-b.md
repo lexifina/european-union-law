@@ -1,6 +1,0 @@
-# Article 3b
-By way of derogation from Article 3, competent authorities may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, provided that the following conditions are met:
-(a) the funds or economic resources are the subject of an arbitral decision rendered prior to the date on which the natural or legal person, entity or body referred to in Article 3(1) was listed in Annex III, or of a judicial or administrative decision rendered in the Union, or a judicial decision enforceable in the Member State concerned, prior to or after that date;
-(b) the funds or economic resources will be used exclusively to satisfy claims secured by such a decision or recognised as valid in such a decision, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
-(c) the decision is not for the benefit of a natural or legal person, entity or body listed in Annex III; and
-(d) recognition of the decision is not contrary to public policy in the Member State concerned.

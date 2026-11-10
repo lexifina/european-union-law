@@ -1,0 +1,7 @@
+# Article 22a
+Employment by audited entities of former statutory auditors or of employees of statutory auditors or audit firms
+1. Member States shall ensure that a statutory auditor or a key audit partner who carries out a statutory audit on behalf of an audit firm does not, before a period of at least one year, or in the case of statutory audit of public-interest entities a period of at least two years, has elapsed since he or she ceased to act as a statutory auditor or key audit partner in connection with the audit engagement:
+(a) take up a key management position in the audited entity;
+(b) where applicable, become a member of the audit committee of the audited entity or, where such committee does not exist, of the body performing equivalent functions to an audit committee;
+(c) become a non-executive member of the administrative body or a member of the supervisory body of the audited entity.
+2. Member States shall ensure that employees and partners other than key audit partners of a statutory auditor or of an audit firm carrying out a statutory audit, as well as any other natural person whose services are placed at the disposal or under the control of such statutory auditor or audit firm, do not, when such employees, partners or other natural persons are personally approved as statutory auditors, take up any of the duties referred to in points (a), (b) and (c) of paragraph 1 before a period of at least one year has elapsed since he or she was directly involved in the statutory audit engagement.

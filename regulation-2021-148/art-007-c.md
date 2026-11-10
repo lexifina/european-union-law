@@ -1,5 +1,0 @@
-# Article 7c
-Notification of studies
-Interested business operators and other interested parties shall, without delay, notify EFSA of the title and the scope of any study commissioned or carried out by them to support the re-evaluation of an approved food additive in accordance with Articles 4 to 7a of this Regulation, as well as the laboratory or testing facility carrying out that study, and its starting and planned completion dates.
-Laboratories and other testing facilities located in the Union shall also, without delay, notify the Authority of the title and the scope of any study commissioned by business operators and other interested parties, carried out by such laboratories or other testing facilities to support the re-evaluation of an approved food additive in accordance with Articles 4 to 7a of this Regulation, its starting and planned completion dates, as well as the name of the business operators or interested parties who commissioned such a study.
-Studies notified in accordance with this article shall be included by EFSA in the database referred to in Article 32b(1) of Regulation (EC) No 178/2002.

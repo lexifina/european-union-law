@@ -1,0 +1,21 @@
+# Article 3b
+Criteria for applying and determining the level of financial corrections
+1. The Commission shall apply financial corrections where it identifies one or more individual or systemic irregularities or one or more deficiencies in the effective functioning of the management and control system ('system deficiencies').
+For the purpose of this Regulation, an irregularity means any infringement of Union or national law or any infringement of national rules resulting from an act or omission by a beneficiary or beneficiaries which has, or would have, the effect of prejudicing the general budget of the European Union by charging to it an unjustified item of expenditure.
+The amount of the financial correction shall be determined on a case-by-case basis wherever possible and shall be equal to the exact amount of expenditure wrongly charged to the general budget of the Union.
+Where the Commission identifies irregularities in a representative sample of expenditure in all or part of a national programme, but it is not cost-effective to verify the regularity of the other expenditure, the correction may be determined by extrapolating the results of the examination of the sample to the rest of the population from which it was drawn.
+Where the Commission identifies systemic irregularities or system deficiencies but where it is not possible, even by extrapolation, to quantify the correction precisely, a flat-rate financial correction shall be applied to the expenditure declared for the part of the system affected in accordance with the indicative criteria and scales set out in paragraphs 2 and 3.
+Flat-rate corrections may also be applied in respect of individual irregularities.
+2. The level of flat-rate correction shall be determined taking into account the following factors:
+(a) the degree of seriousness of the irregularity or of the system deficiency in relation to the overall system or part of it, or to the types of expenditure declared;
+(b) the degree of risk of loss to which the Union budget was exposed as a result of the irregularity or system deficiency;
+(c) the vulnerability of the expenditure to fraud due to the irregularity or system deficiency;
+(d) any mitigating or aggravating factors.
+3. The level of correction shall be determined as follows:
+(a) where the irregularity or irregularities or the system deficiency or deficiencies is/are so fundamental, frequent or widespread that it/they represent(s) a complete failure of the system that puts at risk the legality and regularity of all the expenditure concerned, a flat rate of 100 % shall be applied;
+(b) where the irregularity or irregularities or the system deficiency or deficiencies is/are so frequent and widespread that it/they represent(s) an extremely serious failure of the system that puts at risk the legality and regularity of a very high proportion of the expenditure concerned, a flat rate of 25 % shall be applied;
+(c) where the irregularity or irregularities or the system deficiency or deficiencies is/are due to the system functioning partially, poorly or infrequently so as to put at risk the legality and regularity of a high proportion of the expenditure concerned, a flat rate of 10 % shall be applied;
+(d) where the irregularity or irregularities or the system deficiency or deficiencies is/are due to the system functioning inconsistently so as to put at risk the legality and regularity of a significant proportion of the expenditure concerned, a flat rate of 5 % shall be applied.
+In accordance with the principle of proportionality, the rate may be reduced to 2 % where the nature and gravity of the irregularity or system deficiency are not considered to justify a 5 % correction rate.
+4. Where, due to a competent authority's failure to take adequate corrective measures following the application of a financial correction in a financial year, the same irregularity or irregularities or deficiency or deficiencies is/are identified in a subsequent financial year, the rate of flat rate correction may, due to the persistence of the irregularity or irregularities or deficiency or deficiencies, be raised to a level not exceeding the next level in the scale set out in paragraph 3.
+(3) a new annex is added as set out in the Annex to this Regulation.

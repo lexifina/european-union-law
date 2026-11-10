@@ -1,0 +1,8 @@
+# Article 12b
+General functionalities of CATCH
+1. CATCH shall:
+(a) allow for the computerised submission, handling, storage, management and exchange of information, data and documents necessary for the performance of checks, risk management, verifications, control, quantity management and decisions as provided for under this Chapter and in the related delegated and implementing acts referred to in this Chapter and in Article 54a, between the competent authorities of Member States, between competent authorities of Member States and the Commission and, where appropriate, between competent authorities of Member States and competent authorities of flag States, countries of processing and other third countries concerned, and importers and exporters;
+(b) provide for a quantity management mechanism which ensures that the weight of the raw material for one or more importations under one single catch certificate is not higher than the weight validated in such certificate;
+(c) by 10 January 2028 provide for the possibility of exchanging information, data and documents relevant for importation, re-exportation and, where relevant, exportation of fishery products in accordance with the provisions of this Chapter and the delegated and implementing acts adopted pursuant to this Chapter, with other authorities of the Member States and with the customs authorities of Member States through the EU Single Window;
+(d) provide for the possibility of electronic risk management and analysis.
+2. CATCH may interoperate with other systems relevant for the fight against IUU fishing, including through an interface with existing and functioning national IT systems.

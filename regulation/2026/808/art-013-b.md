@@ -1,0 +1,23 @@
+# Article 13b
+Temporary administrator
+1. For the purposes of Article 13(2), point (f), the ECB may, on the basis of what is proportionate in the circumstances, appoint one or more temporary administrators to either:
+(a) temporarily replace the management body of the entity; or
+(b) work temporarily with the management body of the entity.
+At the time of appointment of the temporary administrator, the ECB shall specify whether that appointment is for the purposes of the first subparagraph, point (a) or (b).
+For the purposes of the first subparagraph, point (b), the ECB shall further specify at the time of appointment the role, duties and powers of the temporary administrator and any requirements for the management body of the entity to consult or to obtain the consent of the temporary administrator prior to taking specific decisions or actions.
+The ECB shall make public the appointment of any temporary administrator, except where the temporary administrator does not have the power to represent the entity.
+Any temporary administrator shall possess sufficient knowledge, skills and experience to perform his or her duties and shall fulfil the requirements set out in Article 91(2) and (2a) of Directive 2013/36/EU. The assessment by the ECB of whether the temporary administrator possesses such knowledge, skills and experience and complies with those requirements shall be an integral part of the decision to appoint that temporary administrator.
+2. The ECB shall specify the powers of the temporary administrator at the time of his or her appointment, on the basis of what is proportionate in the circumstances. Such powers may include some or all of the powers of the management body of the entity, under the statutes of the entity and under national law, including the power to exercise some or all of the administrative functions of the management body of the entity. The powers of the temporary administrator in relation to the entity shall comply with the applicable company law. The ECB may adjust those powers in the event of a change in circumstances.
+3. The ECB shall specify the role and functions of the temporary administrator at the time of his or her appointment. Such role and functions may include:
+(a) ascertaining the financial position of the entity;
+(b) managing the business or part of the business of the entity to preserve or restore its financial position;
+(c) taking measures to restore the sound and prudent management of the business of the entity;
+(d) ensuring compliance by the entity with any requirements pursuant to Article 13c(3), second subparagraph, (4), first subparagraph, or (5).
+The ECB shall specify any limits on the role and functions of the temporary administrator at the time of his or her appointment.
+4. The ECB shall have the exclusive power to appoint and remove any temporary administrator. The ECB may remove a temporary administrator at any time and for any reason. The ECB may vary the terms of appointment of a temporary administrator at any time subject to this Article.
+5. The ECB may require that certain acts of a temporary administrator be subject to the prior consent of the ECB. The ECB shall specify any such requirements at the time of appointment of the temporary administrator or at the time of any variation of the terms of appointment of the temporary administrator.
+In any case, the temporary administrator may exercise the power to convene a general meeting of the shareholders of the entity and to set the agenda of such a meeting only with the prior consent of the ECB.
+6. At the request of the ECB, the temporary administrator shall draw up reports on the financial position of the entity and on the acts performed during his or her mandate, at intervals set by the ECB. The temporary administrator shall, in any case, draw up such a report at the end of his or her mandate.
+7. The temporary administrator shall be appointed for a maximum of one year. The ECB may exceptionally extend that period once for a duration proportionate to the circumstances if the conditions for appointing the temporary administrator continue to be met. The ECB shall be responsible for determining whether those conditions are met and for justifying any extension of the mandate of the temporary administrator to the shareholders.
+8. Subject to this Article, the appointment of a temporary administrator shall not prejudice the rights of the shareholders laid down in Union or national company law.
+9. A temporary administrator appointed in accordance with paragraphs 1 to 8 shall not be deemed to be a shadow director or a de facto director of the entity concerned under national law.

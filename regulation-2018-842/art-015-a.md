@@ -1,3 +1,0 @@
-# Article 15a
-Scientific advice
-The European Scientific Advisory Board on Climate Change, established under Article 10a of Regulation (EC) No 401/2009 of the European Parliament and of the Council, (the 'Advisory Board') may, on its own initiative, provide scientific advice or issue reports on Union measures, climate targets, annual emission levels and flexibilities under this Regulation. The Commission shall consider the relevant advice and reports of the Advisory Board, in particular as regards future measures aiming at further greenhouse gas emission reductions in the sectors covered by this Regulation.

@@ -1,5 +1,0 @@
-# Article 5b
-Notification of studies
-1. Food business operators and other interested parties shall notify to the Authority, without delay, the title, the scope, and the starting and planned completion dates of any study commissioned or carried out by them to demonstrate the safety of a substance listed in Part C of Annex III to Regulation (EC) No 1925/2006, as well as the laboratory or testing facility located in the Union carrying out that study.
-2. Laboratories and other testing facilities located in the Union shall also, without delay, notify the Authority of the title and the scope of any study commissioned by food business operators and other interested parties, carried out by such laboratories or other testing facilities to demonstrate the safety of a substance listed in Part C of Annex III to Regulation (EC) No 1925/2006, its starting and planned completion dates, as well as the name of the food business operator or interested party who has commissioned that study.
-3. Studies notified in accordance with this article shall be included by the Authority in the database referred to in Article 32b(1) of Regulation (EC) No 178/2002.

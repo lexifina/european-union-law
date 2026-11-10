@@ -1,0 +1,4 @@
+# Article 15b
+Document issued by Mercosur States
+This article applies to TRQs with order numbers 09.4910, 09.4920, 09.4925, 09.4930, 09.4935, 09.4940, 09.4945, 09.4950, 09.4955, 09.4960, 09.4965, 09.4970 and 09.4975 opened in accordance with the Interim Agreement on Trade between the European Union, and the Common market of the South, the Argentine Republic, the Federal Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay. These products shall be accompanied by an official document issued by the Mercosur States, the model of which is laid down in the Notice of the European Commission [2026/874].
+This document may be issued electronically in accordance with the ELAN1L-TCDOC data model. In this case, during the transitional period Articles 72a to 72d would apply.

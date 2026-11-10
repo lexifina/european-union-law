@@ -1,0 +1,3 @@
+# Article 27e
+Information obligations and penalties
+Where the proposed acquirer fails to notify the proposed acquisition in advance in accordance with Article 27a(1) or has acquired a material holding as referred to in that Article despite the opposition by the competent authority, Member States shall require the competent authority to take appropriate measures. Where a material holding is acquired despite opposition by the competent authority, Member States shall, without prejudice to potential penalties, provide either for exercise of the corresponding voting rights to be suspended or for votes cast to be declared null and void.

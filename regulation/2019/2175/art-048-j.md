@@ -1,0 +1,5 @@
+# Article 48j
+Hearing of the persons subject to investigations
+1. Before taking any decision pursuant to Articles 48f, 48g and 48e, ESMA shall give the persons subject to the proceedings the opportunity to be heard on its findings. ESMA shall base its decisions only on findings on which the persons subject to the proceedings have had an opportunity to comment.
+The first subparagraph shall not apply if urgent action pursuant to Article 48e is needed in order to prevent significant and imminent damage to the financial system. In such a case ESMA may adopt an interim decision and shall give the persons concerned the opportunity to be heard as soon as possible after taking its decision.
+2. The rights of the defence of the persons subject to the proceedings shall be fully respected in the investigations. They shall be entitled to have access to ESMA's file, subject to the legitimate interest of other persons in the protection of their business secrets. The right of access to the file shall not extend to confidential information or ESMA's internal preparatory documents.

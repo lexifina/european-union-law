@@ -1,0 +1,5 @@
+# Article 4a
+Assistance to supervision by Member States
+1. For the purpose of the review of the recognition of third countries in accordance with Article 3, the Commission, when requesting the assistance of Member States, shall be assisted by two Member States to act as co-rapporteurs for the examination of the annual report and any other information received, and for the evaluation of the operational performance of the third countries.
+2. For the purpose of the review of the recognition of control authorities and control bodies in accordance with Article 2, the Commission, when requesting the assistance of Member States, shall be assisted by two Member States to act as co-rapporteurs for the examination of the annual report and any other information received, and for the evaluation of the operational performance of the control authorities and control bodies.
+3. The Commission may divide the requests for assistance in accordance with paragraphs 1 and 2 between the Member States proportionally with the number of votes of each Member State in the Committee on organic production.

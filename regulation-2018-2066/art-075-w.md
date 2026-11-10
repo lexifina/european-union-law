@@ -1,4 +1,0 @@
-# Article 75w
-Prevention of fraud and obligation to cooperate
-1. In order to ensure the accurate monitoring and reporting of emissions covered by Chapter IVa of Directive 2003/87/EC, Member States shall establish measures against fraud and determine the penalties to be imposed in the event of fraud which are commensurate with their purpose and which have an adequate deterrent effect.
-2. In addition to obligations established pursuant to Article 10, the competent authorities designated pursuant to Article 18 of Directive 2003/87/EC, shall cooperate and exchange information with competent authorities charged with supervision pursuant to national legislation transposing Directives 2003/96/EC and (EU) 2020/262, where relevant, for the purposes of this Regulation, including to detect infringements and impose penalties referred to in paragraph 1 or other corrective measures in accordance with Article 16 of Directive 2003/87/EC.

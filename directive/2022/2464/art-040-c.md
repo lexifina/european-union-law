@@ -1,0 +1,4 @@
+# Article 40c
+Responsibility for drawing up, publishing and making accessible sustainability reports concerning third-country undertakings
+Member States shall provide that the branches of third-country undertakings are responsible for ensuring, to the best of their knowledge and ability, that their sustainability report is drawn up in accordance with Article 40a, and that that report is published and made accessible in accordance with Article 40d.
+Member States shall provide that the members of the administrative, management and supervisory bodies of the subsidiary undertakings referred to in Article 40a have collective responsibility for ensuring, to the best of their knowledge and ability, that their sustainability report is drawn up in accordance with Article 40a, and that that report is published and made accessible in accordance with Article 40d.

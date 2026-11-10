@@ -1,0 +1,10 @@
+# Article 24h
+1. Member States shall ensure that the information available in the central VIES is kept up to date, complete and accurate.
+The Commission shall by means of an implementing act establish the criteria to determine which changes are not pertinent, essential or useful enough to be transmitted to the central VIES. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 58(2).
+2. Member States shall adopt the measures necessary to ensure that, in their assessment, the data provided by taxable persons and non-taxable legal persons for their identification for VAT purposes in accordance with Article 214 of Directive 2006/112/EC are complete and accurate before such data are transmitted to the central VIES.
+Member States shall implement procedures for checking the data referred to in the first subparagraph as determined by the results of their risk assessment. The checks shall be carried out, in principle, prior to identification for VAT purposes or, where only preliminary checks are conducted before such identification, no later than 6 months after such identification.
+3. Member States shall inform the Commission and other Member States of the measures implemented at national level to ensure the quality and reliability of the information pursuant to paragraph 2.
+4. Member States shall automatically transmit the information referred to in Article 24g(2) to the central VIES without delay.
+The Commission shall define in an implementing act the details on the acceptable technical delays. That implementing act shall be adopted in accordance with the examination procedure referred to in Article 58(2).
+5. By way of derogation from paragraph 4 of this Article, Member States shall automatically transmit the information referred to in Article 24g(2), point (a), to the central VIES no later than one day after the collection of the information submitted by the taxable person to the competent authorities.
+6. The information referred to in Article 24g(2) shall be available in the central VIES for 10 years from the end of the year in which the information was transmitted to it.

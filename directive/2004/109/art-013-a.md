@@ -1,0 +1,5 @@
+# Article 13a
+Aggregation
+1. The notification requirements laid down in Articles 9, 10 and 13 shall also apply to a natural person or a legal entity when the number of voting rights held directly or indirectly by such person or entity under Articles 9 and 10 aggregated with the number of voting rights relating to financial instruments held directly or indirectly under Article 13 reaches, exceeds or falls below the thresholds set out in Article 9(1).
+The notification required under the first subparagraph of this paragraph shall include a breakdown of the number of voting rights attached to shares held in accordance with Articles 9 and 10 and voting rights relating to financial instruments within the meaning of Article 13.
+2. Voting rights relating to financial instruments that have already been notified in accordance with Article 13 shall be notified again when the natural person or the legal entity has acquired the underlying shares and such acquisition results in the total number of voting rights attached to shares issued by the same issuer reaching or exceeding the thresholds laid down by Article 9(1).

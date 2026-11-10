@@ -1,0 +1,4 @@
+# Article 12b
+Common guidelines
+1. The ESA shall, through the Joint Committee, develop common guidelines on how risk-based assessments of financial conglomerates are to be conducted by the competent authority. Those guidelines shall, in particular, ensure that risk- based assessments include appropriate tools in order to assess group risks posed to the financial conglomerates.
+2. The ESA shall, through the Joint Committee, issue common guidelines aimed at developing supervisory practices allowing for supplementary supervision of mixed financial holding companies to appropriately complement the group supervision under Directives 98/78/EC and 2009/138/EC or, as appropriate, consolidated supervision under Directive 2006/48/EC. Those guidelines shall allow all relevant risks to be incorporated in the supervision, while eliminating potential supervisory and prudential overlaps.

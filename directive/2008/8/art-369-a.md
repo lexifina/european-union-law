@@ -1,0 +1,5 @@
+# Article 369a
+For the purposes of this Section, and without prejudice to other Community provisions, the following definitions shall apply:
+1. 'taxable person not established in the Member State of consumption' means a taxable person who has established his business in the territory of the Community or has a fixed establishment there but has not established his business and has no fixed establishment within the territory of the Member State of consumption;
+2. 'Member State of identification' means the Member State in the territory of which the taxable person has established his business or, if he has not established his business in the Community, where he has a fixed establishment.
+Where a taxable person has not established his business in the Community, but has more than one fixed establishment therein, the Member State of identification shall be the Member State with a fixed establishment where that taxable person indicates that he will make use of this special scheme. The taxable person shall be bound by this decision for the calendar year concerned and the two calendar years following.

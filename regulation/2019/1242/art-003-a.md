@@ -1,0 +1,12 @@
+# Article 3a
+CO2 emissions reduction targets
+1. The average CO2 emissions of the Union fleet of new heavy-duty motor vehicles, other than special purpose vehicles, off-road vehicles and off-road special purpose vehicles shall be reduced by the following percentages compared to the average CO2 emissions of the reporting period of the year 2019:
+(a) 15 % for vehicle sub-groups 4-UD, 4-RD, 4-LH, 5-RD, 5-LH, 9-RD, 9-LH, 10-RD and 10-LH for the reporting periods of the years 2025 to 2029;
+(b) 45 % for all vehicle sub-groups other than vocational vehicles for the reporting periods of the years 2030 to 2034;
+(c) 65 % for all vehicle sub-groups for the reporting periods of the years 2035 to 2039;
+(d) 90 % for all vehicle sub-groups for the reporting periods of the year 2040 onwards.
+2. The vehicle sub-groups shall contribute to the CO2 emissions reduction targets referred to in paragraph 1, in accordance with point 4.3 of Annex I.
+3. The CO2 emissions related to the Union fleet of new trailers shall be reduced in accordance with point 4.3 of Annex I.
+4. Notwithstanding Article 2(3) of Regulation (EU) 2017/2400, approved heavy-duty vehicles falling under Article 2(3), first subparagraph, point (b), of Regulation (EU) 2018/858 shall not be subject to the CO2 emissions reduction targets set out in paragraphs 1 to 3 of this Article, unless the manufacturer chooses to include those heavy-duty vehicles in the calculation of its specific CO2 emissions and targets when reporting those heavy-duty vehicles in accordance with Part B of Annex IV to this Regulation.
+5. Heavy-duty vehicles other than those referred to in paragraph 4 that are registered for use by civil protection services, fire services, forces responsible for maintaining the public order or urgent medical care services shall not be subject to the CO2 emissions reduction targets set out in paragraphs 1 to 3, provided that a Member State so indicates in the registration and reporting process, thereby confirming in the data reported in accordance with Part A of Annex IV that the purpose of the heavy-duty vehicle cannot be equally served by a zero-emission heavy-duty vehicle and it is therefore in the public interest to register a heavy-duty vehicle with a combustion engine to fulfil that purpose.
+Heavy-duty vehicles registered for use by armed services shall not be subject to the requirements of this Regulation if a Member State decides not to report them in accordance with Part A of Annex IV.

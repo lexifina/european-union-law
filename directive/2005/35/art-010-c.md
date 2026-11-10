@@ -1,0 +1,4 @@
+# Article 10c
+Publication of information
+1. Based on information reported by Member States in accordance with Article 10a, the Commission shall make publicly available a regularly updated Union-wide overview on the implementation and enforcement of this Directive, upon the conclusion of the administrative and legal proceedings, when applicable. To the extent that information relating to penalties includes personal data or commercially sensitive information, such information shall be anonymised. That overview shall include the information listed in Annex II to this Directive.
+2. Without prejudice to Directive 2003/4/EC of the European Parliament and of the Council, the Commission shall take appropriate measures to protect the confidentiality of information obtained in the implementation of this Directive.

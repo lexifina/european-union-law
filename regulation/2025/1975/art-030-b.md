@@ -1,0 +1,15 @@
+# Article 30b
+1. Where an authorisation has been granted in accordance with Articles 24, 25, 26, 27, 28 or 28a, Articles 30 and 30a shall not apply.
+The requirement for prior authorisation of transfers of funds as provided for in Articles 30(3), points (b) and (c), shall be without prejudice to the execution of transfers of funds notified to or authorised by the competent authority in advance before 30 September 2025. Such transfers of funds shall be executed before 1 January 2026.
+Articles 30 and 30a shall not apply with regard to transfers of funds provided for in Article 29.
+2. Articles 30(3) and 30a(1) shall apply regardless of whether the transfer of funds is executed in a single operation or in several operations which appear to be linked.
+For the purposes of this Regulation, 'operations which appear to be linked' includes:
+(a) a series of consecutive transfers from or to the same financial or credit institutions within the scope of Article 30(1), points (a) to (d), or from or to the same Iranian person, entity or body which are made in connection with a single obligation to a transfer of funds, where each individual transfer falls below the relevant threshold set out in Articles 30 and 30a but which, in the aggregate, meet the criteria for notification or authorisation; or
+(b) a chain of transfers involving different payment service providers or natural or legal persons which effects a single obligation to make a transfer of funds.
+3. For the purposes of Article 30(3), points (b) and (c), and Article 30a(1), point (c), the competent authorities shall grant the authorisation, under such terms and conditions as they deem appropriate, unless they have reasonable grounds to determine that the transfer of funds for which the authorisation is requested could be in breach of any of the prohibitions or obligations in this Regulation.
+A competent authority may charge a fee for the assessment of requests for authorisation.
+4. For the purposes of Article 30a(1), point (c), an authorisation shall be deemed granted if a competent authority has received a request in writing for authorisation and, within four weeks, the competent authority has not objected in writing to the transfer of funds. If the objection is raised because an investigation is pending, the competent authority shall state this and communicate its decision without delay. The competent authorities shall have access, directly or indirectly, on a timely basis to the financial, administrative and law enforcement related information necessary for carrying out the investigation.
+5. The following persons, entities or bodies do not fall within the scope of Articles 30 and 30a:
+(a) persons, entities or bodies who merely convert paper documents into electronic data and are acting under a contract with a credit institution or a financial institution;
+(b) persons, entities or bodies who provide credit or financial institutions solely with a message or other support system for transmitting funds; or
+(c) persons, entities or bodies who provide credit or financial institutions solely with clearing and settlement systems.

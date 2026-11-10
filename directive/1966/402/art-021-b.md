@@ -1,0 +1,2 @@
+# Article 21b
+Amendments to be made to the content of the Annexes in order to establish the conditions to be satisfied by the crop and the seed of hybrids of oats, barley, rice, wheat, durum wheat, spelt wheat and other species for which hybrids are included in the scope of this Directive pursuant to Article 2 (1b) and the conditions to be satisfied by the crop and the seed of cross-pollinating varieties of triticale shall be adopted according to the procedure laid down in Article 21.

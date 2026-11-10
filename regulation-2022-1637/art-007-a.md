@@ -1,3 +1,0 @@
-# Article 7a
-Use of fallback documents
-Where a consignor or a certified consignor has informed the competent authorities of the Member State of dispatch of the start of a movement of excise goods pursuant to Article 26(1), point (b), or Article 38(1), point (b), respectively, of Directive (EU) 2020/262, and the unavailability of the computerised system in the Member State of dispatch is expected to persist at the moment the goods arrive at the place of delivery, the competent authorities of the Member State of dispatch shall forward that information without delay to the competent authorities of the Member State of destination.

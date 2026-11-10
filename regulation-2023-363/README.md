@@ -1,9 +1,0 @@
-# Commission Delegated Regulation (EU) 2023/363 of 31 October 2022 amending and correcting the regulatory technical standards laid down in Delegated Regulation (EU) 2022/1288 as regards the content and presentation of information in relation to disclosures in pre-contractual documents and periodic reports for financial products investing in environmentally sustainable economic activities (Text with EEA relevance)
-
-Regulation 2023/363 · 1 versions, from 2023-02-20 (latest in force: 2023-02-20) · <https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R0363>
-
-| Provision | File | Changes | Last changed |
-| --- | --- | ---: | --- |
-| Article 1 | [art-001.md](art-001.md) | 0 |  |
-| Article 2 | [art-002.md](art-002.md) | 0 |  |
-| Article 3 | [art-003.md](art-003.md) | 0 |  |

@@ -1,0 +1,12 @@
+# Article 7h
+1. At least six months before the implementation of a new or substantially amended infrastructure charge tolling arrangement, Member States shall send to the Commission:
+(a) for tolling arrangements other than those involving concession tolls:
+- the unit values and other parameters used in calculating the various infrastructure cost elements, and
+- clear information on the vehicles covered by the tolling arrangements, the geographic extent of the network, or part of the network, used for each cost calculation, and the percentage of costs that are intended to be recovered, and
+- where applicable, clear information on the main characteristics of the electronic road toll system, including on interoperability;
+(b) for tolling arrangements involving concession tolls:
+- the concession contracts or significant changes to such contracts,
+- the base case on which the grantor has founded the notice of concession, as referred to in Annex VII B to Directive 2004/18/EC of the European Parliament and of the Council of 31 March 2004 on the coordination of procedures for the award of public works contracts, public supply contracts and public service contracts; this base case shall include the estimated costs as defined in Article 7b(1) envisaged under the concession, the forecast traffic, broken down by type of vehicle, the levels of toll envisaged and the geographic extent of the network covered by the concession contract.
+1a. When sending information to the Commission in accordance with paragraph 1, a Member State may include information on more than one amendment to an infrastructure charge tolling arrangement. Where the Commission has already been informed of an amendment, the Member State shall be deemed to have already fulfilled the information requirements of paragraph 1 and that amendment may be implemented without informing the Commission further.
+2. Within six months of receiving all the necessary information in accordance with paragraph 1, the Commission shall give an opinion as to whether the obligations of Article 7e are complied with. The opinions of the Commission shall be made available to the Committee referred to in Article 9c.
+3. Before the implementation of a new or substantially amended external-cost charge or congestion charge tolling arrangement, Member States shall inform the Commission about the network concerned, the rates per vehicle category and emission class that are envisaged and, where applicable, shall notify the Commission in accordance with Annex IIIa, point 2, or Annex V, point 2.

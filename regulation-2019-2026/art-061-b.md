@@ -1,2 +1,0 @@
-# Article 61b
-For the application of Article 369n of Directive 2006/112/EC, the time when the payment has been accepted means the time when the payment confirmation, the payment authorisation message or a commitment for payment from the customer has been received by or on behalf of the taxable person making use of the import scheme, regardless of when the actual payment of money is made, whichever is the earliest.

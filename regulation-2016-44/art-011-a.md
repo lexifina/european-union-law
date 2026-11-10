@@ -1,7 +1,0 @@
-# Article 11a
-1. After notification by the Member State concerned to the Sanctions Committee and provided that the Sanctions Committee has approved the use of frozen cash reserves as referred to in, and in accordance with, paragraph 14 of UNSCR 2769 (2025), which includes consultation with the Government of Libya, and paragraph 14 of UNSCR 2819 (2026), the competent authorities of that Member State shall authorise the use of frozen cash reserves belonging to the entity listed under entry number 1 in Annex VI, exclusively for investment in:
-(a) low-risk time deposits with an appropriate financial institution selected by the entity listed under entry number 1 in Annex VI and located in the Member State in which the funds are frozen, in the case of frozen cash reserves referred to in 'recommendation 7.1' referred to in UNSCR 2769 (2025); or
-(b) fixed income instruments, in the case of frozen cash reserves referred to in 'recommendation 7.2' referred to in UNSCR 2769 (2025);
-in accordance with the approval of the Sanctions Committee.
-2. The low-risk time deposits referred to in point (a) of paragraph 1 and the interests accrued thereon shall remain frozen. The fixed income instruments referred to in point (b) of paragraph 1 and the income accrued thereon shall remain frozen. Each reinvestment shall be subject to the procedure referred to in paragraph 1.
-3. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1, within two weeks of the authorisation.

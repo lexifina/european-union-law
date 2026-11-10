@@ -1,0 +1,7 @@
+# Article 81a
+Withdrawals and amendments
+1. The applicant party shall inform the requested party immediately of any subsequent amendment to its request for recovery or of the withdrawal of its request, indicating the reasons for such an amendment or withdrawal.
+2. If the amendment to the request is based on a decision of the appropriate authority referred to in Article 81(1), the applicant party shall communicate to the requested party the decision, together with a revised uniform instrument permitting enforcement in the Member State of the requested party. The requested party shall proceed with further recovery measures on the basis of the revised instrument.
+Recovery or precautionary measures that were already taken on the basis of the original uniform instrument permitting enforcement in the Member State of the requested party may be continued on the basis of the revised instrument, unless an amendment to the request is due to the invalidity of the initial instrument permitting enforcement in the Member State of the applicant party or of the original uniform instrument permitting enforcement in the Member State of the requested party.
+Articles 79 and 81 shall apply in relation to the revised instrument.
+3. If the request is amended for a reason other than one referred to in paragraph 2 and such an amendment includes a reduction in the amount of the claim, the requested party shall continue any recovery or precautionary measures already undertaken, which shall be limited to the amount of the claim still outstanding.

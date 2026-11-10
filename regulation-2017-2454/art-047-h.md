@@ -1,2 +1,0 @@
-# Article 47h
-Member States shall, upon importation of goods on which VAT is to be declared under the special scheme provided for in Section 4 of Chapter 6 of Title XII of Directive 2006/112/EC, carry out an electronic verification of the validity of the individual VAT identification number allocated by way of Article 369q of that Directive and communicated at the latest upon lodging of the import declaration.

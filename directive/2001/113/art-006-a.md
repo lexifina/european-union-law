@@ -1,0 +1,2 @@
+# Article 6a
+No later than 14 June 2027, the Commission shall present a report to the European Parliament and to the Council providing an assessment of the feasibility of the different possibilities for labelling indicating the country or countries of origin where the fruit or fruits used to manufacture fruit jams, jellies, citrus marmalades and sweetened chestnut purée have been harvested. That report shall be accompanied, where appropriate, by a legislative proposal.

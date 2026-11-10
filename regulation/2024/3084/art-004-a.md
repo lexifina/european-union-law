@@ -1,0 +1,9 @@
+# Article 4a
+Submission, update and withdrawal of Simplified Declarations
+1. The Information System user shall submit the Simplified Declaration in the Information System except where information is made available in accordance with paragraph 2.
+2. Where all information listed in Annex III to Regulation (EU) 2023/1115 is available in a system or database that exists under Union or Member State law, the Information System shall enable Member States to make that information and, where relevant, any updates thereto, available in the Information System per micro or small primary operator as referred to in Article 4a(4) of Regulation (EU) 2023/1115. The Information System shall assign a declaration identifier for the information made available per individual micro or small primary operator. The declaration identifier shall be communicated by the Member State concerned to the respective micro or small primary operator and used by that micro or small primary operator for the purposes of Regulation (EU) 2023/1115 and this Regulation.
+3. An update to the Simplified Declaration shall be submitted to and made available in the Information System in accordance with paragraphs 1 and 2. The declaration identifier associated to the Simplified Declaration shall be maintained in case of an update.
+4. The Information System shall keep record of the Simplified Declarations and any updates thereto.
+5. An update to the Simplified Declaration shall trigger a new risk profiling of the entire updated Simplified Declaration in accordance with Article 6.
+6. The Information System shall enable Information System users to withdraw Simplified Declarations.
+7. Simplified Declarations shall not be withdrawn after the Simplified Declaration was used as a reference by the same Information System user in accordance with Article 8a.

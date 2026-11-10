@@ -1,0 +1,2 @@
+# Article 369xf
+The taxable person making use of this special scheme shall submit by electronic means to the Member State of identification a VAT return for each month, regardless of whether the transfers of goods covered by this special scheme have been carried out. The VAT return shall be submitted by the end of the month following the end of the tax period covered by the VAT return.

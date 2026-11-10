@@ -1,4 +1,0 @@
-# Article 7a
-Use of ECRIS-TCN for VIS verifications
-1. From the date of the start of operations of VIS pursuant to Article 11 of Regulation (EU) 2021/1134 of the European Parliament and of the Council ECRIS-TCN shall be connected to the ESP to enable the automated processing pursuant to Articles 9a and 22b of Regulation (EC) No 767/2008 to query ECRIS-TCN and compare the relevant data in the VIS with the relevant ECRIS-TCN data in the CIR flagged pursuant to point (c) of Article 5(1) of this Regulation.
-2. For the purpose of performing the tasks pursuant to Regulation (EC) No 767/2008, the VIS designated authorities as referred to in Article 9d and Article 22b(13) of that Regulation shall have the right to access only those ECRIS-TCN data in the CIR to which a flag has been added pursuant to point (c) of Article 5(1) of this Regulation.

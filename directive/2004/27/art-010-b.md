@@ -1,0 +1,2 @@
+# Article 10b
+In the case of medicinal products containing active substances used in the composition of authorised medicinal products but not hitherto used in combination for therapeutic purposes, the results of new pre-clinical tests or new clinical trials relating to that combination shall be provided in accordance with Article 8(3)(i), but it shall not be necessary to provide scientific references relating to each individual active substance.

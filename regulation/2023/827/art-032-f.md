@@ -1,0 +1,4 @@
+# Article 32f
+Information to be submitted with an application for a renewal of a general prior permission for actions listed in Article 77(2) of Regulation (EU) No 575/2013
+1. Before the expiry of the general prior permission granted pursuant to Article 78a(1), second subparagraph, of Regulation (EU) No 575/2013, an institution may submit an application for its renewal for a period of up to one additional year each time, provided that the institution does not request an increase in the predetermined amount set when the original general prior permission was granted and does not change the rationale referred to in Article 32d(1), point (a), when the original general prior permission was requested.
+2. When applying for the renewal of a general prior permission referred to in paragraph 1, the institution shall be exempted from the obligation to provide the information referred to in Article 32d(1), points (a), (b), (c), (e), (f) and (h).

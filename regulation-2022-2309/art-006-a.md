@@ -1,3 +1,0 @@
-# Article 6a
-1. Without prejudice to Article 5, by way of derogation from Article 3(1) and (2), and with regard to a natural or legal person, entity or body listed in Annex Ia, the competent authorities may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, after having determined that the provision of such funds or economic resources is necessary for the timely delivery of humanitarian assistance or to support other activities that support basic human needs.
-2. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1 within 2 weeks of the authorisation.

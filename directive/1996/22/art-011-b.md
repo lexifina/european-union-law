@@ -1,0 +1,2 @@
+# Article 11b
+The Commission, in collaboration with the Member States, shall set up an information and awareness campaign on the complete ban on the use of oestradiol 17β in food-producing animals, aimed at farmers and veterinary organisations in the EU as well as the relevant organisations outside the EU which are directly or indirectly involved in the export to the EU of food of animal origin falling within the scope of this Directive.

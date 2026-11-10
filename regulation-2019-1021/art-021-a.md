@@ -1,4 +1,0 @@
-# Article 21a
-Transitional provision
-1. A value of 10 μg/kg shall apply to fly ashes from biomass units for heat and power production containing or contaminated by polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyl (dl-PCBs) as listed in Annex IV until 30 December 2023. The value of 5 μg/kg provided for in Annex IV shall apply to fly ashes from biomass units for heat and power production from 31 December 2023.
-2. A value of 15 μg/kg shall continue to apply for ashes and soot from private households containing or contaminated by polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) as listed in Annex IV until 31 December 2024. For ashes and soot from private households containing or contaminated by polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyls (dl-PCBs), the value of 5 μg/kg provided for in Annex IV shall apply from 1 January 2025.

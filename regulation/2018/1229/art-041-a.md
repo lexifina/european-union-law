@@ -1,0 +1,6 @@
+# Article 41a
+Transitional provisions
+Until 2 November 2025, a central counterparty in a Member State that provides clearing services for shares shall ensure that procedures are in place that comply with all of the following requirements:
+(a) where a natural or legal person who sells shares is not able to deliver the shares for settlement within four business days after the day on which settlement is due, procedures are automatically triggered for the buy-in of the shares to ensure delivery for settlement;
+(b) where the buy-in of the shares for delivery is not possible, an amount is paid to the buyer based on the value of the shares to be delivered at the delivery date plus an amount for losses incurred by the buyer as a result of the settlement failure;
+(c) the natural or legal person who fails to settle, reimburses all amounts paid pursuant to points (a) and (b).

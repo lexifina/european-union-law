@@ -1,0 +1,3 @@
+# Article 45a
+1. Unless otherwise provided for in this Regulation, and by way of derogation from the prohibitions arising from UNSCR 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) or 2397 (2017), the competent authorities of Member States may authorise any activities, on a case-by-case basis, which are necessary for the functioning of diplomatic missions or consular posts in the DPRK pursuant to the 1961 and 1963 Vienna Conventions, or of international organisations enjoying immunities in accordance with international law in the DPRK.
+2. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1.

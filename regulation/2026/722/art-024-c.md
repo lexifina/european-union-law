@@ -1,0 +1,4 @@
+# Article 24c
+Publication via the EBA single access point for institutions' disclosures
+1. Following the submission of the required information by institutions other than small and non-complex institutions, the EBA shall publish on its website the files received in the EBA single access point for institutions' disclosures without undue delay. In exceptional circumstances of delays due to major technical issues, the EBA shall publish the information as soon as the technical issues are solved with an explanation for such delayed publication.
+2. The EBA's single access point for institutions' disclosures shall send an automatic electronic notification to institutions other than small and non-complex informing those institutions that the information is public, after their information has been published on the EBA's website.'

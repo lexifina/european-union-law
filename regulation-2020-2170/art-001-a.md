@@ -1,2 +1,0 @@
-# Article 1a
-The Commission is empowered to adopt delegated acts, in accordance with Article 1b, amending this Regulation in order to add to the list set out in the Annex certain categories of goods originating in the United Kingdom that fall within the scope of Regulation (EU) 2026/1384 and that are brought into Northern Ireland by direct transport from other parts of the United Kingdom provided that the United Kingdom has demonstrated to the satisfaction of the Union a need for those goods to be released for free circulation in Northern Ireland.

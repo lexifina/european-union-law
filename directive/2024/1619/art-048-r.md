@@ -1,0 +1,39 @@
+# Article 48r
+Cooperation with supervisory authorities of third countries regarding supervision on a consolidated basis
+1. The Union may conclude agreements with one or more third countries regarding the means of exercising supervision on a consolidated basis over the following:
+(a) institutions the parent undertakings of which have their head offices in a third country;
+(b) institutions situated in third countries the parent undertakings of which, whether institutions, financial holding companies or mixed financial holding companies, have their head offices in the Union.
+2. The agreements referred to in paragraph 1 shall, in particular, seek to ensure that:
+(a) the competent authorities of Member States are able to obtain the information necessary for the supervision, on the basis of their consolidated financial situations, of institutions, financial holding companies and mixed financial holding companies situated in the Union which have as subsidiaries institutions or financial institutions situated in a third country, or holding participation therein;
+(b) the supervisory authorities of third countries are able to obtain the information necessary for the supervision of parent undertakings the head offices of which are situated within their territories and which have as subsidiaries institutions or financial institutions situated in one or more Member States or holding participation therein; and
+(c) EBA is able to obtain from the competent authorities of the Member States the information received from national authorities of third countries in accordance with Article 35 of Regulation (EU) No 1093/2010.
+3. Without prejudice to Article 218 TFEU, the Commission shall, with the assistance of the European Banking Committee, examine the outcome of the negotiations referred to in paragraph 1 of this Article and the resulting situation.
+4. EBA shall assist the Commission for the purposes of this Article in accordance with Article 33 of Regulation (EU) No 1093/2010.
+(14) in Article 53(1), the second subparagraph is replaced by the following:
+'Confidential information which such persons, auditors or experts receive in the course of their duties may be disclosed only in summary or aggregate form, such that individual credit institutions cannot be identified, without prejudice to cases covered by criminal or tax law.'
+;
+(15) in Article 56, the following paragraph is added:
+'Article 53(1) and Article 54 shall not preclude the exchange of information between competent authorities and tax authorities in the same Member State, in accordance with national law. Where the information originates in another Member State, it shall only be exchanged as referred to in the first sentence of this paragraph with the express agreement of the competent authorities which have disclosed it.'
+;
+(16) Articles 65 and 66 are replaced by the following:
+'Article 65
+Administrative penalties, periodic penalty payments and other administrative measures
+1. Without prejudice to the supervisory powers of competent authorities referred to in Article 64 of this Directive and the right of Member States to provide for and impose criminal penalties, Member States shall lay down rules on administrative penalties, periodic penalty payments and other administrative measures in respect of breaches of national provisions transposing this Directive, of Regulation (EU) No 575/2013 and of decisions taken by a competent authority on the basis of those provisions or that Regulation, and shall take all measures necessary to ensure that they are implemented. The administrative penalties, periodic penalty payments and other administrative measures shall be effective, proportionate and dissuasive.
+2. Member States shall ensure that where the obligations referred to in paragraph 1 of this Article apply to institutions, financial holding companies and mixed financial holding companies, competent authorities may, in the event of a breach of national provisions transposing this Directive, of Regulation (EU) No 575/2013 or of decisions taken by a competent authority on the basis of those provisions or that Regulation, apply administrative penalties, periodic penalty payments and other administrative measures to members of the management body, senior management, key function holders, other members of staff whose professional activities have a material impact on the institution's risk profile as referred to in Article 92(3) of this Directive and to other natural persons, provided they are responsible for the breach under national law.
+3. The application of periodic penalty payments shall not prevent competent authorities from imposing administrative penalties or other administrative measures for the same breach.
+4. Competent authorities shall have all the information gathering and investigatory powers necessary for the exercise of their functions. Those powers shall include:
+(a) the power to require the following natural or legal persons to provide all the information that is necessary in order for competent authorities to carry out their tasks, including the information required to be provided at recurring intervals and in specified formats for supervisory and related statistical purposes:
+(i) institutions established in the Member State concerned;
+(ii) financial holding companies established in the Member State concerned;
+(iii) mixed financial holding companies established in the Member State concerned;
+(iv) mixed-activity holding companies established in the Member State concerned;
+(v) persons belonging to the entities referred to in points (i) to (iv);
+(vi) third parties to whom the entities referred to in points (i) to (iv) of this point have outsourced functions or activities, including ICT third-party service providers referred to in Chapter V of Regulation (EU) 2022/2554 of the European Parliament and of the Council;
+(b) the power to conduct all necessary investigations of any person referred to in points (a)(i) to (vi) established or located in the Member State concerned where necessary to carry out the tasks of the competent authorities, including the power to:
+(i) require the submission of documents;
+(ii) examine the books and records of the persons referred to in points (a)(i) to (vi) and take copies or extracts from such books and records;
+(iii) obtain written or oral explanations from any person referred to in points (a)(i) to (vi) or their representatives or staff;
+(iv) interview any other person who consents to be interviewed for the purpose of collecting information relating to the subject matter of an investigation; and
+(v) conduct, subject to other conditions set out in Union law, all necessary inspections at the business premises of the legal persons referred to in points (a)(i) to (vi) and any other undertaking included in consolidated supervision where a competent authority is the consolidating supervisor, subject to the prior notification of the competent authorities concerned; if an inspection requires authorisation by a judicial authority under national law, such authorisation shall be applied for.
+5. By way of derogation from paragraph 1, where the legal system of a Member State does not provide for administrative penalties, this Article may be applied in such a manner that the penalty is initiated by the competent authority and imposed by a judicial authority, while ensuring that those legal remedies are effective and have an equivalent effect to the administrative penalties imposed by competent authorities. In any event, the penalties imposed shall be effective, proportionate and dissuasive.
+The Member States referred to in the first subparagraph shall communicate to the Commission the measures of national law which they adopt pursuant to this paragraph by 10 January 2026 and, without delay, any subsequent amendments thereto.

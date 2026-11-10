@@ -1,0 +1,2 @@
+# Article 9e
+For the purpose of determining the place of supply of a facilitation service as referred to in Article 46a of Directive 2006/112/EC, the taxable person shall regard the person to whom that service was supplied as a non-taxable person where that person to whom that service was supplied does not provide a VAT identification number, unless that taxable person has information to the contrary.

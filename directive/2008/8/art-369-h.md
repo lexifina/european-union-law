@@ -1,0 +1,4 @@
+# Article 369h
+1. The VAT return shall be made out in euro.
+Member States which have not adopted the euro may require the VAT return to be made out in their national currency. If the supplies have been made in other currencies, the taxable person not established in the Member State of consumption shall, for the purposes of completing the VAT return, use the exchange rate applying on the last date of the tax period.
+2. The conversion shall be made by applying the exchange rates published by the European Central Bank for that day, or, if there is no publication on that day, on the next day of publication.

@@ -1,0 +1,2 @@
+# Article 43b
+Acquired rights in midwifery shall not apply to the following qualifications which were obtained in Croatia before 1 July 2013: viša medicinska sestra ginekološko-opstetričkog smjera (High Gynaecology-Obstetrical Nurse), medicinska sestra ginekološko-opstetričkog smjera (Gynaecology-Obstetrical Nurse), viša medicinska sestra primaljskog smjera (High Nurse with Midwifery Degree), medicinska sestra primaljskog smjera (Nurse with Midwifery Degree), ginekološko-opstetrička primalja (Gynaecology-Obstetrical Midwife) and primalja (Midwife).

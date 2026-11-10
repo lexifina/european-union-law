@@ -1,6 +1,0 @@
-# Article 15d
-Opening tax derogation deletion accounts in the Union Registry
-1. Where a Member State notifies the Commission of the application of the exemption in accordance with Article 30e(3) of Directive 2003/87/EC and the Commission does not raise an objection to the application of that derogation, the Member State concerned shall, by an official letter, request the central administrator to open a tax derogation deletion account in the Union Registry.
-2. The Member State concerned shall have no more than one tax derogation deletion account.
-3. Only regulated entity allowances may be transferred to the tax derogation deletion account. Regulated entity allowances held in the tax derogation deletion account shall be deleted by the end of the year after the reference year in accordance with Article 30e(3), point (g), of Directive 2003/87/EC.
-4. The tax derogation deletion account shall be used only to fulfil the requirements set out in Article 30e(3), point (g), of Directive 2003/87/EC and the amount of allowances sent to that account in any given year shall not be higher than the difference between the amount of allowances that remains to be auctioned in the reference year following application of Article 30e(3), point (f), of that Directive and the amount of allowances to be cancelled under Article 30e(3), point (g), of Directive 2003/87/EC.

@@ -1,0 +1,6 @@
+# Article 56f
+Inter-farm transfers
+1. The transfer of live bluefin tuna individuals between two different farms shall not take place without the prior written authorisation from the competent authorities of the farm Member States concerned.
+2. The transfer from the donor farm cage to the transport cage shall comply with the requirements set out in Section 6 including a video record to confirm the number of bluefin tuna individuals transferred, the completion of an ITD and the verification of the operation by an ICCAT regional observer.
+3. Notwithstanding paragraph 2, in cases where an entire farm cage is to be moved to the farm of destination, it shall not be necessary to video record the operation and the cage shall be transported sealed to the farm of destination.
+4. The caging of the bluefin tuna at the farm of destination shall be subject to the requirements for caging operations set out in Articles 46a and 49 and Article 51(1), (2) and (7), including a video recording to confirm the number and weight of the bluefin tuna individuals caged and the verification of the operation by an ICCAT regional observer. The determination of the weight for bluefin tuna individuals being caged from another farm shall not apply until the SCRS has developed an algorithm to convert length into weight for fattened or farmed fish or both.

@@ -1,0 +1,10 @@
+# Article 1rb
+1. It shall be prohibited to purchase, import, or transfer, directly or indirectly, gold, as listed in Annex XXI if it originates in Belarus and has been exported from Belarus into the Union or to any third country after 1 July 2024.
+2. It shall be prohibited to purchase, import, or transfer, directly or indirectly the products listed in Annex XXI when processed in a third country incorporating the products prohibited in paragraph 1.
+3. It shall be prohibited to purchase, import, or transfer, directly or indirectly, gold, as listed in Annex XXII, if it originates in Belarus and it has been exported from Belarus into the Union after 1 July 2024.
+4. It shall be prohibited to:
+(a) provide technical assistance, brokering services or other services related to the goods referred to in paragraphs 1, 2 and 3 and to the provision, manufacture, maintenance and use of those goods, directly or indirectly in relation to the prohibitions in those paragraphs; or
+(b) provide financing or financial assistance related to the goods referred to in paragraphs 1, 2 and 3 for any purchase, import or transfer of those goods, or for the provision of related technical assistance, brokering services or other services, directly or indirectly in relation to the prohibitions in those paragraphs.
+5. The prohibitions in paragraphs 1, 2 and 3 shall not apply to gold which is necessary for the official purposes of diplomatic missions, consular posts or international organisations in Belarus enjoying immunities in accordance with international law.
+6. The prohibition in paragraph 3 shall not apply to goods as listed in Annex XXII for the personal use of natural persons travelling to the Union or members of their immediate families travelling with them, owned by those individuals and not intended for sale.
+7. By way of derogation from paragraphs 1, 2 and 3, the competent authorities may authorise the transfer or import of cultural goods which are on loan in the context of formal cultural cooperation with Belarus.

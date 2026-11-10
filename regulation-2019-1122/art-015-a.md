@@ -1,6 +1,0 @@
-# Article 15a
-Opening maritime operator holding accounts in the Union Registry
-1. Within 40 working days of the publication of the list referred to in Article 3gf(2), point (a), of Directive 2003/87/EC, or, for shipping companies not included in that list, within 65 working days of the first voyage falling within the scope of Article 3ga of that Directive, the shipping company shall provide the relevant national administrator with the information set out in Annex VIIa to this Regulation and shall request the national administrator to open a maritime operator holding account in the Union Registry.
-2. Each shipping company shall have no more than one maritime operator holding account.
-3. Within 20 working days of the receipt of a complete set of information in accordance with paragraph 1 of this Article and Article 21, the national administrator shall open a maritime operator holding account for each shipping company in the Union Registry or inform the prospective account holder of the refusal to open the account, pursuant to Article 19.
-By way of derogation from the first subparagraph, for the requests referred to in paragraph 1 of this Article and submitted in 2024, the deadline for the national administrator to open a maritime operator holding account shall be 40 working days from the receipt of a complete set of information.

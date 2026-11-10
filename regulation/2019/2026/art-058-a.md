@@ -1,0 +1,2 @@
+# Article 58a
+A taxable person using a special scheme who has, for a period of two years, made no supplies of goods or services covered by that scheme in any Member State of consumption shall be assumed to have ceased his taxable activities within the meaning of point (b) of Article 363, point (b) of Article 369e, point (b) of Article 369r(1) or point (b) of Article 369r(3) of Directive 2006/112/EC respectively. This cessation shall not preclude him from using a special scheme if he recommences his activities covered by any scheme.

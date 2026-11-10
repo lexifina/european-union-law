@@ -1,2 +1,0 @@
-# Article 14a
-Any information provided to or received in accordance with this Regulation shall be used only for the purposes for which it was provided or received.

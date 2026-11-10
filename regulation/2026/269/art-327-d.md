@@ -1,0 +1,17 @@
+# Article 327d
+Reduction of the frequency of the review of written policies
+1. The supervisory authority shall approve the use of the proportionality measure provided for in Article 41(3), second subparagraph of Directive 2009/138/EC by an insurance and reinsurance undertaking that is not classified as small and non-complex undertaking, where all of the following conditions are met:
+(a) the supervisory authority concludes, on the basis of the supervisory review process, that the undertaking:
+(i) is able to withstand any current or future risks;
+(ii) does not require a more frequent supervisory assessment than the one requested by the insurance or reinsurance undertaking;
+(iii) is not subject to on-going supervisory measures to remedy material non-compliance with Directive 2009/138/EC;
+(b) the supervisory authority concludes that the undertaking does not have a complex business model, taking into account its business strategy, its business plan, the complexity of the insurance products offered and its investment portfolio;
+(c) the undertaking meets all of the following conditions, subject to paragraphs 2, 3 and 4:
+(i) the technical provisions from life activities, gross of the amounts recoverable from reinsurance contracts and special purpose vehicles, as referred to in Article 76 of Directive 2009/138/EC, are not higher than EUR 12 000 000 000;
+(ii) the annual gross written premium income from non-life activities is not higher than EUR 2 000 000 000;
+(iii) the undertaking does not represent more than 5 % of the life market or non-life market of the home Member State of the undertaking, where the life market share is based on gross technical provisions and the non-life market share is based on gross written premiums;
+(d) the supervisory authority has not identified unresolved material concerns arising from the system of governance of the undertaking.
+The supervisory authority shall withdraw the approval granted to an insurance or reinsurance undertaking that is not classified as small and non-complex undertaking to use the proportionality measure provided for in Article 41(3) of Directive 2009/138/EC, where any of the conditions set out in the first subparagraph are no longer fulfilled.
+2. Paragraph 1, first subparagraph, point (c)(i), shall only apply to life undertakings and to undertakings pursuing both life and non-life activities whose technical provisions related to the life activities represent 20 % or more of the total technical provisions gross of the amounts recoverable from reinsurance contracts and special purpose vehicles, as referred to in Article 76 of Directive 2009/138/EC.
+3. Paragraph 1, first subparagraph, point (c)(ii), shall only apply to non-life undertakings and to undertakings pursuing both life and non-life activities whose annual gross written premium income related to the non-life activities represent 40 % or more of its total annual gross written premium income.
+4. Notwithstanding paragraph 1, first subparagraph, supervisory authorities may still approve the use of the proportionality measure provided for in Article 41(3), second subparagraph of Directive 2009/138/EC to an insurance and reinsurance undertaking which does not meet the condition set out in paragraph 1, first subparagraph, point (c), of this Article, where they conclude, on the basis of the elements of the supervisory review process that are relevant for this proportionality measure, that the risk profile of the undertaking is sufficiently low.

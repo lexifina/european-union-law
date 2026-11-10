@@ -1,0 +1,3 @@
+# Article 495l
+Transitional provisions on own funds requirements under the internal default risk model
+By way of derogation from Article 325bp(5), point (a), and until 31 December 2029, institutions shall apply a multiplier equal to 0 to the probability of default estimates used for the calculation of the own funds requirements for default risk under the internal default risk model laid down in Part Three, Title IV, Chapter 1b, Section 3 for all issuers or obligors the exposures to which would attract a 0 % risk weight in the calculation of own funds requirements for default risk under the alternative standardised approach.

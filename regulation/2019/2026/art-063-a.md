@@ -1,0 +1,5 @@
+# Article 63a
+Where a taxable person or the intermediary acting on his behalf has submitted a VAT return under Articles 364, 369f or 369s of Directive 2006/112/EC, but no payment has been made or the payment is less than that resulting from the return, the Member State of identification shall, by electronic means on the tenth day following the latest day on which the payment should have been made in accordance with Articles 367, 369i or 369v of Directive 2006/112/EC, remind the taxable person or the intermediary acting on his behalf of any VAT payment outstanding.
+The Member State of identification shall by electronic means inform the Member States of consumption that the reminder has been sent.
+Any subsequent reminders and steps taken to collect the VAT shall be the responsibility of the Member State of consumption concerned. When such subsequent reminders have been issued by a Member State of consumption, the corresponding VAT shall be paid to that Member State.
+The Member State of consumption shall, by electronic means, inform the Member State of identification that a reminder has been issued.

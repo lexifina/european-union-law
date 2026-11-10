@@ -1,0 +1,3 @@
+# Article 19c
+Measures at Union level to contribute to the achievement of the additional share of energy from renewable sources
+The Commission shall assess whether measures at Union level can contribute to the achievement of the Member States collective endeavour of an additional 2,5 % share of energy from renewable sources in the Union's gross final consumption of energy in 2030 pursuant to Directive (EU) 2018/2001, complementing national measures. The Commission shall analyse the possibility to use the Union renewable energy financing mechanism established pursuant to Article 33 of Regulation (EU) 2018/1999 to organise Union-level renewable energy auctions in line with the relevant regulatory framework.

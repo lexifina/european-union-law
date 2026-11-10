@@ -1,8 +1,0 @@
-# Article 45b
-Notifications
-1. Member States shall notify the Commission of the authority which is to be considered as controller as referred to in Article 29(4).
-2. Member States shall notify the Commission and eu-LISA of the competent authorities referred to in Article 6(3) which have access to the VIS to enter, amend, erase or consult data in the VIS and of the VIS designated authority as referred to in Article 9d(1) and Article 22b(14).
-Three months after the date of the start of operations of the VIS pursuant to Article 11 of Regulation (EU) 2021/1134 of the European Parliament and of the Council eu-LISA shall publish a consolidated list of the authorities notified pursuant to the first subparagraph of this paragraph in the Official Journal of the European Union.
-Member States shall notify the Commission and eu-LISA of any changes to the authorities notified without delay. In the event of such changes, eu-LISA shall publish once a year an updated consolidated list in the Official Journal of the European Union. eu-LISA shall maintain a continuously updated public website containing that information.
-3. Member States shall notify the Commission and eu-LISA of their designated authorities and of their central access points as referred to in Article 22l and shall notify any changes in that regard without delay.
-4. The Commission shall publish the information referred to in paragraphs 1 and 3 in the Official Journal of the European Union. In the event of changes to the information, the Commission shall publish once a year an updated consolidated version of it. The Commission shall maintain a continuously updated public website containing that information.

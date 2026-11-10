@@ -1,0 +1,9 @@
+# Article 6b
+Opinion of the Agency's Committees
+1. Within 12 months of the date of publication referred to in Article 6a(6), the Committee for Risk Assessment shall adopt an opinion as to whether the restriction is appropriate in reducing the detrimental effects and exposure referred to in Article 6(1). That opinion shall take account of the restriction dossier prepared by the Agency, at the request of the Commission, or by the Member State, and the comments of interested parties submitted pursuant to Article 6a(6), point (a).
+2. Within 15 months of the date of publication referred to in Article 6a(6), the Committee for Socioeconomic Analysis shall adopt an opinion on the proposed restrictions, based on its consideration of the relevant parts of the dossier and the of socioeconomic impact of the proposed restrictions, taking account of any existing analysis or information submitted pursuant to Article 6a(6), point (b).
+Prior to adopting its opinion, the Committee for Socioeconomic Analysis shall prepare a draft of that opinion and shall submit it to the Agency.
+3. The Agency shall publish the draft opinion of the Committee for Socioeconomic Analysis on its website without delay and invite interested parties to provide their comments on the draft opinion no later than 60 days from its publication.
+4. The Committee for Socioeconomic Analysis shall adopt its opinion without delay, taking into account the comments of interested parties submitted in accordance with Article 6a(6), point (a), and paragraph 3 of this Article.
+5. Where the opinion of the Committee for Risk Assessment diverges significantly from the restrictions proposed, the Agency shall postpone the deadline for the opinion of the Committee for Socioeconomic Analysis by a maximum of 90 days.
+6. For the purpose of adopting opinions pursuant to this Article, Article 87 of Regulation (EC) No 1907/2006 shall apply mutatis mutandis.

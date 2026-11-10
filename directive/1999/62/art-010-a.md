@@ -1,0 +1,4 @@
+# Article 10a
+1. The amounts in euros laid down in Annex II and the amounts in cents laid down in the Tables of Annexes IIIb and IIIc shall be adapted every two years in order to take account of changes in the EU-wide Harmonised Index of Consumer Prices (HICP) excluding energy and unprocessed food, as published by the Commission (Eurostat). The first adaptation shall take place by 31 March 2025.
+The amounts shall be updated automatically, by adapting the base amount in euros or cents by the percentage change in that index. The resulting amounts shall be rounded up to the nearest euro with regard to Annex II, rounded up to the nearest tenth of a cent with regard to Annexes IIIb and IIIc.
+2. The Commission shall publish in the Official Journal of the European Union the adapted amounts referred to in paragraph 1 by 31 March 2025. Those adapted amounts shall enter into force on the first day of the month following publication.

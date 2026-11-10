@@ -1,0 +1,4 @@
+# Article 21b
+Resources from shared management programmes to support the REPowerEU objectives
+1. Within the resources allocated to them, Member States may request under the Common Provisions Regulation for 2021-2027 support for the objectives set out in Article 21c(3) of this Regulation from programmes supported by the European Regional Development Fund, the European Social Fund Plus and the Cohesion Fund, subject to the conditions set out in Article 26a of the Common Provisions Regulation for 2021-2027 and the Fund-specific Regulations. Such support shall be implemented in accordance with the Common Provisions Regulation for 2021-2027 and the Fund-specific Regulations.
+2. Resources may be transferred under Article 4a of Regulation (EU) 2021/1755 of the European Parliament and of the Council to support measures referred to in Article 21c of this Regulation.

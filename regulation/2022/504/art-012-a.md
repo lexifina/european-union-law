@@ -1,0 +1,3 @@
+# Article 12a
+Article 428p(10) of Regulation (EU) No 575/2013: Required stable funding factors for off-balance-sheet exposures
+Unless the ECB determines different required stable funding factors, for the off-balance-sheet exposures in the scope of Article 428p(10) of Regulation (EU) No 575/2013 institutions shall apply to off-balance-sheet exposures not referred to in Chapter 4 of Title IV of Part Six of Regulation (EU) No 575/2013 required stable funding factors that correspond to the outflow rates that they apply to related products and services in the context of Article 23 of Delegated Regulation (EU) 2015/61 in the liquidity coverage requirement.

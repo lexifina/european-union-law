@@ -1,5 +1,0 @@
-# Article 8a
-Measures on cybersecurity
-1. When establishing the preventive action plans and the emergency plans, the Member States shall consider the appropriate measures related to cybersecurity.
-2. The Commission is empowered to adopt delegated acts in accordance with Article 19 to supplement this Regulation by establishing gas sector-specific rules for the cybersecurity aspects of cross-border gas flows, including rules on common minimum requirements, planning, monitoring, reporting and crisis management.
-3. For the purpose of drafting the delegated acts referred to in paragraph 2 of this Article, the Commission shall work closely with the Agency, the European Union Agency for Cybersecurity (ENISA), ENTSOG and a limited number of main stakeholders concerned, as well as entities with existing competences in cybersecurity, within their own mandate, such as Security Operation Centres (SOCs) relevant for regulated entities, and computer security incident response teams (CSIRTs), as referred to in Article 10 of Directive (EU) 2022/2555 of the European Parliament and of the Council.

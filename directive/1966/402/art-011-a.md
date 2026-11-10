@@ -1,0 +1,2 @@
+# Article 11a
+In the case of seed of a variety which has been genetically modified, any label or document, official or otherwise, which is affixed to or accompanies the seed lot, under the provisions of this Directive, shall clearly indicate that the variety has been genetically modified.

@@ -1,0 +1,7 @@
+# Article 17f
+Non-confidential data sharing in the ESS and between the ESS and the ESCB
+1. Non-confidential data shall be shared, if necessary and if available in an aggregated form, upon request between NSIs, at their own initiative or on behalf of any other national authority, and between NSIs and the Commission (Eurostat) exclusively for statistical purposes and for improving the quality of European statistics.
+2. The sharing of non-confidential data, including data made available by private data holders, shall take place between the ESS and a member of the ESCB upon request, if necessary and if available in an aggregated form, in areas of shared responsibility or common interest and where the data are used exclusively for statistical purposes and for improving the quality of European statistics developed and produced by that member of the ESCB.
+3. The Commission (Eurostat) shall set up a secure infrastructure to facilitate data sharing under this Article, and the NSIs, and when relevant the other national authorities, or members of the ESCB, may use that secure data sharing infrastructure on a voluntary basis.
+4. The Commission shall, by means of implementing acts, set out the technical aspects of data sharing between the statistical authorities referred to in this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 27(2).
+(5) the following chapter is inserted:

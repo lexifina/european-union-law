@@ -1,0 +1,4 @@
+# Article 20a
+Access to the common identity repository for the identification or verification of identity in accordance with Regulation (EU) 2024/1356
+1. Queries of the CIR shall be carried out by the screening authorities, as defined in Article 2, point (10), of Regulation (EU) 2024/1356 of the European Parliament and of the Council, solely for the purpose of identifying or verifying the identity of a person in accordance with Article 14 of that Regulation, provided that the process was initiated in the presence of that person.
+2. Where the query indicates that data on that person are stored in the CIR, the screening authorities, as defined in Article 2, point (10), of Regulation (EU) 2024/1356, shall have access to consult the data referred to in Article 18(1) of this Regulation as well as the data referred to in Article 18(1) of Regulation (EU) 2019/817 of the European Parliament and the Council.

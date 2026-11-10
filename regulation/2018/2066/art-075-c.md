@@ -1,0 +1,4 @@
+# Article 75c
+Technical feasibility
+Where a regulated entity claims that applying a specific monitoring methodology is technically not feasible, the competent authority shall assess the technical feasibility taking the regulated entity's justification into account. That justification shall be based on the regulated entity having technical resources capable of meeting the needs of a proposed system or requirement that can be implemented in the required time for the purposes of this Regulation. Those technical resources shall include the availability of the requisite techniques and technology.
+For the monitoring and reporting of historical emissions for the year 2024 in accordance with Article 30f(4) of Directive 2003/87/EC, Member States may exempt regulated entities from justifying that a specific monitoring methodology is not technically feasible.

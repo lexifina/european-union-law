@@ -1,7 +1,0 @@
-# Article 27b
-Closure of LULUCF Accounts
-1. The central administrator shall close a Member State LULUCF Compliance Account not earlier than one month after the determination of the compliance status figure for that account pursuant to Article 59ad, and after giving prior notice to the account holder.
-2. For the first LULUCF compliance period, the central administrator shall ensure that the Union Registry carries out a transfer of all remaining LRUs from the Member State LULUCF compliance accounts, which are positive at closure, to the EU LULUCF Compliance Account.
-3. For the first LULUCF compliance period, the central administrator shall ensure that the Union Registry carries out a transfer of all remaining AFAFs from the Central Additional Compensation Account for Finland to the EU LULUCF Deletion Account.
-4. In the EU LULUCF Compliance Account for the first LULUCF compliance period, the central administrator shall ensure that the Union Registry calculates up to 30 %, but no more than 20 million tonnes carbon dioxide equivalent, of unused LRUs to remain in the EU LULUCF Compliance Account and transfers any excess LRUs to the EU LULUCF Deletion Account.
-5. For the second LULUCF compliance period, the central administrator shall ensure that the Union Registry carries out a transfer of all remaining LRUs from the Member State LULUCF Compliance Accounts which are positive at closure, all remaining LUFAs from the EU LUFA Central Account, and all remaining MFLFAs from the EU MFLFA Central Account, to the EU LULUCF Deletion Account.

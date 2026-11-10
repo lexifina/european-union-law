@@ -1,0 +1,4 @@
+# Article 6a
+Transaction records
+1. Member States shall ensure that financial institutions and credit institutions, including crypto-asset service providers, comply with the technical specifications established in accordance with paragraph 2 when replying, in accordance with national law, to requests for transaction records issued by competent authorities as part of a criminal investigation, including the identification, tracing and freezing of assets related to such investigation.
+2. The Commission is empowered to adopt, by means of implementing acts, technical specifications in order to establish the electronic structured format and technical means to be used for providing transaction records. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 22(3). When adopting such implementing acts, the Commission shall consider developments in relevant financial services messaging standards.

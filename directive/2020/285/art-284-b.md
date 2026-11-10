@@ -1,0 +1,6 @@
+# Article 284b
+1. A taxable person availing itself of the exemption provided for in Article 284(1) in a Member State in which that person is not established in accordance with the procedure under Article 284(3) and (4) shall report for each calendar quarter to the Member State of establishment the following information, including the individual identification number referred to in point (b) of Article 284(3):
+(a) the total value of supplies carried out during the calendar quarter in the Member State of establishment or '0' if no supplies have been made;
+(b) the total value of supplies carried out during the calendar quarter in each of the Member States other than the Member State of establishment or '0' if no supplies have been made.
+2. The taxable person shall communicate the information set out in paragraph 1 within one month from the end of the calendar quarter.
+3. When the Union annual turnover threshold referred to in point (a) of Article 284(2) is exceeded, the taxable person shall inform the Member State of establishment within 15 working days. At the same time, the taxable person shall be required to report the value of the supplies referred to in paragraph 1 that have been made from the beginning of the current calendar quarter up until the date the Union annual turnover threshold was exceeded.

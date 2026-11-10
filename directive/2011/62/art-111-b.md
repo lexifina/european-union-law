@@ -1,0 +1,28 @@
+# Article 111b
+1. At the request of a third country, the Commission shall assess whether that country's regulatory framework applicable to active substances exported to the Union and the respective control and enforcement activities ensure a level of protection of public health equivalent to that of the Union. If the assessment confirms such equivalence, the Commission shall adopt a decision to include the third country in a list. The assessment shall take the form of a review of relevant documentation and, unless arrangements as referred to in Article 51(2) of this Directive are in place that cover this area of activity, that assessment shall include an on-site review of the third country's regulatory system and, if necessary, an observed inspection of one or more of the third country's manufacturing sites for active substances. In the assessment particular account shall be taken of:
+(a) the country's rules for good manufacturing practice;
+(b) the regularity of inspections to verify compliance with good manufacturing practice;
+(c) the effectiveness of enforcement of good manufacturing practice;
+(d) the regularity and rapidity of information provided by the third country relating to non-compliant producers of active substances.
+2. The Commission shall adopt the necessary implementing acts to apply the requirements set out in points (a) to (d) of paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the procedure referred to in Article 121(2).
+3. The Commission shall verify regularly whether the conditions laid down in paragraph 1 are fulfilled. The first verification shall take place no later than 3 years after the country has been included in the list referred to in paragraph 1.
+4. The Commission shall perform the assessment and verification referred to in paragraphs 1 and 3 in cooperation with the Agency and the competent authorities of the Member States.';
+(23) in Article 116, the following paragraph is added:
+'The second paragraph of this Article also applies in cases where the manufacture of the medicinal product is not carried out in compliance with the particulars provided pursuant to point (d) of Article 8(3), or where controls are not carried out in compliance with the control methods described pursuant to point (h) of Article 8(3).';
+(24) the following Article is inserted:
+'Article 117a
+1. Member States shall have a system in place which aims at preventing medicinal products that are suspected to present a danger to health from reaching the patient.
+2. The system referred to in paragraph 1 shall cover the receipt and handling of notifications of suspected falsified medicinal products as well as of suspected quality defects of medicinal products. The system shall also cover recalls of medicinal products by marketing authorisation holders or withdrawals of medicinal products from the market ordered by national competent authorities from all relevant actors in the supply chain both during and outside normal working hours. The system shall also make it possible to recall, where necessary with the assistance of health professionals, medicinal products from patients who received such products.
+3. If the medicinal product in question is suspected of presenting a serious risk to public health, the competent authority of the Member State in which that product was first identified shall, without any delay, transmit a rapid alert notification to all Member States and all actors in the supply chain in that Member State. In the event of such medicinal products being deemed to have reached patients, urgent public announcements shall be issued within 24 hours in order to recall those medicinal products from the patients. Those announcements shall contain sufficient information on the suspected quality defect or falsification and the risks involved.
+4. Member States shall by 22 July 2013 notify the Commission of the details of their respective national systems referred to in this Article.';
+(25) the following Articles are inserted:
+'Article 118a
+1. The Member States shall lay down the rules on penalties applicable to infringements of the national provisions adopted pursuant to this Directive and shall take all necessary measures to ensure that those penalties are implemented. The penalties must be effective, proportionate and dissuasive.
+Those penalties shall not be inferior to those applicable to infringements of national law of similar nature and importance.
+2. The rules referred to in paragraph 1 shall address, inter alia, the following:
+(a) the manufacturing, distribution, brokering, import and export of falsified medicinal products, as well as the sale of falsified medicinal products at a distance to the public by means of information society services;
+(b) non-compliance with the provisions laid down in this Directive on manufacturing, distribution, import and export of active substances;
+(c) non-compliance with the provisions laid down in this Directive on the use of excipients.
+Where relevant, the penalties shall take into account the risk to public health presented by the falsification of medicinal products.
+3. The Member States shall notify the national provisions adopted pursuant to this Article to the Commission by 2 January 2013 and shall notify any subsequent amendment of those provisions without delay.
+By 2 January 2018, the Commission shall submit a report to the European Parliament and to the Council giving an overview of the transposition measures of Member States as regards this Article, together with an evaluation of the effectiveness of those measures.
