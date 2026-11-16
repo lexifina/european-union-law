@@ -213,6 +213,7 @@ After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch kee
 - Where an amendment is applied to an earlier consolidation by hand (Saint-Barthélemy and Mayotte in Articles 349 and 355 TFEU), the result must equal the wording of the later consolidation, or the build stops.
 - Health checks: no merge commits on `main`, commit dates never go backwards, nothing dated in the future, and every commit's trailers parse with `git interpret-trailers --parse`.
 - The repository is rebuilt from the same data a second time and must give identical hashes.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What "author" means
 
@@ -249,3 +250,7 @@ The source is the Publications Office's Cellar repository: its SPARQL service li
 The texts are © European Union, https://eur-lex.europa.eu, 1998-2026, reused under Commission Decision 2011/833/EU on the reuse of Commission documents. Only the Official Journal of the European Union is authentic; consolidated texts are a documentation tool with no legal effect. The arrangement, tables, commit messages and tools are by Lexifina, under the terms in `LICENSE`.
 
 This repository is not legal advice and not an official publication.
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
